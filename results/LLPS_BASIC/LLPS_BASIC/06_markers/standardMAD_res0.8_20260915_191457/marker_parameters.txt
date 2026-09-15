@@ -1,0 +1,15 @@
+assay	RNA
+slot	data
+identity	RNA_snn_res.0.8
+only.pos	TRUE
+min.pct	0.1
+logfc.threshold	0.25
+test.use	wilcox
+return.thresh	0.01
+presto_version	1.1.0
+logFC_column	avg_log2FC
+clusters	48
+all_marker_rows	136433
+top50_rows	2400
+JoinLayers_applied	FALSE
+input	/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/02_harmony_clustered_res0.8_standardMAD_20260915_092711.qs2

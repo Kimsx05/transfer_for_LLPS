@@ -1,0 +1,10 @@
+status	ABORTED_AFTER_1_OF_59
+requested_stop_time	2026-09-14 19:52:47 +0800
+stop_method	Ctrl-C sent only to known pipeline execution session 29231
+requested_assumption	1 of 59 completed
+observed_completed_at_stop	6 of 59
+observed_interrupted_sample	7 of 59 (incomplete; no result TSV)
+completed_files_preserved	TRUE
+reuse_in_new_formal_run	FALSE
+deletion_performed	FALSE
+notes	The requested status label is preserved verbatim. Actual filesystem evidence showed six completed sample TSV files by the time the stop signal was delivered. All aborted-run files remain audit-only and must not be reused.

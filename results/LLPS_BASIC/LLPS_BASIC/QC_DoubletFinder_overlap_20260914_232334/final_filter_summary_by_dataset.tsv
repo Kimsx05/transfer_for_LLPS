@@ -1,0 +1,6 @@
+level	group	original_cells	QC_only_fail_cells	Doublet_only_cells	QC_Doublet_overlap_cells	all_QC_fail_cells	all_Doublets	final_retained_cells	final_retention_percentage
+dataset	CNP0000460	94588	889	5562	72	961	5634	88065	93.1037763775532
+dataset	GSE135337	40815	636	1582	22	658	1604	38575	94.5118216342031
+dataset	GSE222315	84483	7225	4092	353	7578	4445	72813	86.1865700791875
+dataset	HRA003620	95275	6406	4390	645	7051	5035	83834	87.9916032537392
+dataset	InhouseData	95305	873	5381	15	888	5396	89036	93.4221709249252

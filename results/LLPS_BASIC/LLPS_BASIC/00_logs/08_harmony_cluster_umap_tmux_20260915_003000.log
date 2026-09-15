@@ -1,0 +1,6 @@
+2026-09-15 08:08:03 START checkpoint=/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/01e_preprocessed_PCA30_standardMAD_20260915_001747.qs2
+[?25h[?25h[?25h[?25hError in check_legacy_args(...) : 
+  Argument assay.use is unhandled. Please refer to the documentation for the valid harmony options!
+Calls: <Anonymous> ... RunHarmony -> RunHarmony.default -> check_legacy_args
+Execution halted
+[?25h

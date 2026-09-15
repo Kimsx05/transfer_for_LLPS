@@ -1,0 +1,33 @@
+2026-09-14 22:59:22 +0800	START strategy=validate_54_then_run_missing
+Loading required package: SeuratObject
+Loading required package: sp
+
+Attaching package: ‘SeuratObject’
+
+The following objects are masked from ‘package:base’:
+
+    intersect, t
+
+[?25h[?25h[?25h[?25h[?25h[?25h2026-09-14 22:59:31 +0800	SAMPLE_START 1 of 59 CNP0000460_P01N
+2026-09-14 22:59:42 +0800	JOINLAYERS CNP0000460_P01N applied= TRUE step=DoubletFinder_sample_preparation
+[1] "Creating artificial doublets for pN = 5%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+^CCalculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+
+Execution halted
+[?25h

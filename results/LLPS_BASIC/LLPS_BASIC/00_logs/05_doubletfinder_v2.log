@@ -1,0 +1,2 @@
+2026-09-14 15:46:04 +0800	START reason=correct_sweep_stats_variable 
+2026-09-14 17:57:22 +0800	END QC_cells= 359350 singlets= 339926 doublets= 19424 checkpoint= /home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/01c_doubletfinder_singlets_20260914_175719.qs2 elapsed_seconds= 7878.692 

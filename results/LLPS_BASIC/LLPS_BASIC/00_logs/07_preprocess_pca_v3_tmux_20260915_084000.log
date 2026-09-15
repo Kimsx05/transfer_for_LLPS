@@ -1,0 +1,63 @@
+2026-09-15 00:10:09 START cells checkpoint=/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/01d_final_QC_DF_singlets_20260914_232441.qs2
+Loading required package: SeuratObject
+Loading required package: sp
+
+Attaching package: ‘SeuratObject’
+
+The following objects are masked from ‘package:base’:
+
+    intersect, t
+
+[?25h[?25h[?25h[?25h[?25h[?25h[?25hNormalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[?25hFinding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[?25h[?25hCentering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[?25hPC_ 1 
+Positive:  COL6A2, DCN, C1R, COL6A1, NNMT, COL1A2, MGP, CCDC80, LUM, SOD3 
+	   COL6A3, AEBP1, SERPINF1, COL14A1, FSTL1, SERPING1, FBN1, C1S, MFAP4, MMP2 
+	   ABI3BP, COL3A1, EFEMP1, SFRP2, PCOLCE, PLAC9, GSN, FGF7, COL1A1, SPARC 
+Negative:  CD74, FXYD3, PSCA, KRT17, HLA-DRB1, S100A2, AQP3, HLA-DPA1, CD24, DHRS2 
+	   PPARG, IGKC, SNCG, HLA-DPB1, S100A9, HLA-DRA, S100A14, CCL4, GZMB, KRT13 
+	   LY6D, CSTA, AREG, HLA-DQB1, IFNG, LINC02694, ST6GAL1, GDF15, GPR183, HLA-DQA1 
+PC_ 2 
+Positive:  VIM, TYROBP, HLA-DPB1, FCER1G, AIF1, HLA-DPA1, HLA-DRB1, LYZ, HLA-DRA, BCL2A1 
+	   CD14, CD74, CYBB, PLEK, HLA-DQB1, HLA-DQA1, MS4A6A, GPR183, C5AR1, FCGR2A 
+	   ITGAX, CD86, CD83, DOCK4, IFI30, MS4A7, SLC11A1, MNDA, SLC8A1, SERPINA1 
+Negative:  ADIRF, KRT17, FXYD3, KRT18, SNCG, PSCA, S100A2, DHRS2, GDF15, KRT13 
+	   CSTB, AQP3, CD24, PPARG, MDK, ATP5E, CRABP2, TCEB2, S100A16, LINC00511 
+	   ATP5L, ATP5G2, SHFM1, NGFRAP1, C14orf2, GNB2L1, ATP5J2, USMG5, ATP5J, ATP5I 
+PC_ 3 
+Positive:  TMEFF2, CNTNAP2, AC092691.1, KCNJ3, FOLH1, ANKRD30B, CPNE4, PRKD1, MIR99AHG, TTC6 
+	   SLC38A11, ACPP, TENM2, NAALADL2, NAALADL2-AS2, LSAMP, AC008415.1, AC013287.1, FGF12, IL1RAPL1 
+	   AP001636.3, PCDH11X, SLC4A4, AL121790.1, AC109466.1, NTM, ZNF385B, FAM135B, XACT, DLGAP2 
+Negative:  ATP5E, TCEB2, ATP5L, GNB2L1, ATP5G2, C14orf2, SHFM1, ATP5J2, ATP5J, ATP5I 
+	   NGFRAP1, USMG5, ATP5G3, GPX1, ATPIF1, ATP5D, C11orf31, MINOS1, SEPW1, MYEOV2 
+	   ALDOA, HN1, WBP5, ATP5B, TCEB1, LINC01420, FAM213A, C20orf24, MMP24-AS1, STRA13 
+PC_ 4 
+Positive:  EREG, SEMA3C, KYNU, CXCL8, PPARG, FHIP1A, PLXDC2, LINC00511, PTGS2, LYZ 
+	   IL1B, FMNL2, AIF1, C5AR1, FCER1G, NHSL1, MIR31HG, IL1RN, TYROBP, CXCL2 
+	   DMXL2, ALDH1A2, MITA1, EPB41L3, IER3, ITGB8, CD14, TLR2, ENSG00000286533, VCAN 
+Negative:  MCAM, COL4A1, ESAM, COL4A2, IFITM1, PTP4A3, COL18A1, RGS5, ALDOA, ATP5E 
+	   SPARC, ATP5G2, BGN, IGFBP7, GJA4, TCEB2, ATP5L, SHFM1, GNB2L1, ATP5J2 
+	   PPP1R14A, MYL9, C14orf2, ATP5I, ATP5G3, LOXL2, ATP5J, TGFB1I1, USMG5, FRZB 
+PC_ 5 
+Positive:  ATP5E, ATP5L, TCEB2, GNB2L1, ATP5G2, C14orf2, SHFM1, ATP5I, ATP5J2, ATP5J 
+	   USMG5, NGFRAP1, ATP5G3, ATPIF1, ATP5D, MINOS1, C11orf31, MIR99AHG, SEPW1, H2AFJ 
+	   MYEOV2, ATP5B, TMEFF2, HN1, WBP5, TCEB1, AC092691.1, LINC01420, KCNJ3, CNTNAP2 
+Negative:  ESAM, COL4A1, MCAM, COL4A2, PLVAP, VWF, ADGRL4, LAMA4, ANGPT2, CLEC14A 
+	   DIPK2B, CDH5, GNG11, EGFL7, CAV1, COL18A1, RAMP2, CYYR1, ECSCR, KDR 
+	   EMCN, HSPG2, UACA, PODXL, LOXL2, PTP4A3, RAMP3, AQP1, SPARC, CALCRL 
+[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h2026-09-15 00:18:18 END checkpoint=/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/01e_preprocessed_PCA30_standardMAD_20260915_001747.qs2 elapsed_seconds=488.259
+[?25h[?25h

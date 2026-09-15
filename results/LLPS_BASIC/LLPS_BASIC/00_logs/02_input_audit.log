@@ -1,0 +1,12 @@
+2026-09-14 15:13:39 +0800	START n_files= 5 
+2026-09-14 15:13:39 +0800	READ_START /home/jinshengxi/LLPS/1.1 单细胞数据/HRA003620_scRNA.qs 
+2026-09-14 15:13:49 +0800	READ_END /home/jinshengxi/LLPS/1.1 单细胞数据/HRA003620_scRNA.qs objects= 1 
+2026-09-14 15:13:49 +0800	READ_START /home/jinshengxi/LLPS/1.1 单细胞数据/GSE135337_scRNA_original.rdata 
+2026-09-14 15:13:54 +0800	READ_END /home/jinshengxi/LLPS/1.1 单细胞数据/GSE135337_scRNA_original.rdata objects= 1 
+2026-09-14 15:13:54 +0800	READ_START /home/jinshengxi/LLPS/1.1 单细胞数据/GSE222315_scRNA_original.rdata 
+2026-09-14 15:13:59 +0800	READ_END /home/jinshengxi/LLPS/1.1 单细胞数据/GSE222315_scRNA_original.rdata objects= 1 
+2026-09-14 15:13:59 +0800	READ_START /home/jinshengxi/LLPS/1.1 单细胞数据/CNP0000460_scRNA_original.rdata 
+2026-09-14 15:14:09 +0800	READ_END /home/jinshengxi/LLPS/1.1 单细胞数据/CNP0000460_scRNA_original.rdata objects= 1 
+2026-09-14 15:14:09 +0800	READ_START /home/jinshengxi/LLPS/1.1 单细胞数据/InhouseData_scRNA_original.rdata 
+2026-09-14 15:14:21 +0800	READ_END /home/jinshengxi/LLPS/1.1 单细胞数据/InhouseData_scRNA_original.rdata objects= 1 
+2026-09-14 15:14:21 +0800	END seurat_objects= 5 total_cells= 410466 elapsed_seconds= 41.689 

@@ -1,0 +1,6 @@
+dataset	n_features	old_feature_metadata_rows	old_feature_metadata_columns	repair_applied	repair_action
+HRA003620	53279	53279	86	FALSE	None
+GSE135337	21854	21854	50	FALSE	None
+GSE222315	30971	30972	80	TRUE	Reset malformed, recomputable RNA feature metadata in memory; counts/features unchanged
+CNP0000460	50990	51258	98	TRUE	Reset malformed, recomputable RNA feature metadata in memory; counts/features unchanged
+InhouseData	31250	31250	80	FALSE	None

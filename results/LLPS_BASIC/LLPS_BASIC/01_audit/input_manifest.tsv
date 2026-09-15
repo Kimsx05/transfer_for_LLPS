@@ -1,0 +1,6 @@
+file_path	file_name	file_type	dataset_name	object_name	n_cells	n_features
+/home/jinshengxi/LLPS/1.1 单细胞数据/HRA003620_scRNA.qs	HRA003620_scRNA.qs	qs	HRA003620	qs_object	95275	53279
+/home/jinshengxi/LLPS/1.1 单细胞数据/GSE135337_scRNA_original.rdata	GSE135337_scRNA_original.rdata	rdata	GSE135337	GSE135337_scRNA_original	40815	21854
+/home/jinshengxi/LLPS/1.1 单细胞数据/GSE222315_scRNA_original.rdata	GSE222315_scRNA_original.rdata	rdata	GSE222315	GSE222315_scRNA_original	84483	30971
+/home/jinshengxi/LLPS/1.1 单细胞数据/CNP0000460_scRNA_original.rdata	CNP0000460_scRNA_original.rdata	rdata	CNP0000460	CNP0000460_scRNA_original	94588	50990
+/home/jinshengxi/LLPS/1.1 单细胞数据/InhouseData_scRNA_original.rdata	InhouseData_scRNA_original.rdata	rdata	InhouseData	InhouseData_scRNA_original	95305	31250

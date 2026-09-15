@@ -1,0 +1,7 @@
+input	/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/02_harmony_clustered_res0.8_standardMAD_20260915_092711.qs2
+requested_backend	SCP::CellDimPlot
+fallback_backend	ggplot2 from Seurat UMAP embeddings
+theme	blank white
+reason	SCP 0.5.6 incompatible with installed ggplot2: numeric shape 19 translation error and missing internal gg_par
+failed_SCP_outputs_preserved	TRUE
+elapsed_seconds	60.722

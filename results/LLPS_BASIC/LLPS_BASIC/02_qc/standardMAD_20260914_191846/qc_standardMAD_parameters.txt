@@ -1,0 +1,7 @@
+Rule D formal QC
+MAD constant = 1.4826
+nCount/nFeature = lower 3 MAD, upper 5 MAD
+MT = upper 3 standard MAD capped at 25%
+InhouseData mt_qc_available = FALSE; fail_mt = FALSE
+HB >5%
+QC_pass 393330

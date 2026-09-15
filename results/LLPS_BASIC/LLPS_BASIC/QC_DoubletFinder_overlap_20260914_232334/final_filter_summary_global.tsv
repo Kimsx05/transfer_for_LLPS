@@ -1,0 +1,2 @@
+level	group	original_cells	QC_only_fail_cells	Doublet_only_cells	QC_Doublet_overlap_cells	all_QC_fail_cells	all_Doublets	final_retained_cells	final_retention_percentage
+global	all	410466	16029	21007	1107	17136	22114	372323	90.7073911115659

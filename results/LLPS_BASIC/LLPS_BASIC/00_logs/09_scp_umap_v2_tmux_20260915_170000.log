@@ -1,0 +1,9 @@
+[?25h[?25h[?25h[?25h[?25h
+[?25h[?25h[?25hError in gg_par(col = alpha(data$colour %||% "black", data$alpha), fill = fill_alpha(data$fill %||%  : 
+  could not find function "gg_par"
+Calls: <Anonymous> ... FUN -> <Anonymous> -> draw_key -> pointsGrob -> grob
+In addition: Warning message:
+No shared levels found between `names(values)` of the manual scale and the
+data's fill values. 
+Execution halted
+[?25h

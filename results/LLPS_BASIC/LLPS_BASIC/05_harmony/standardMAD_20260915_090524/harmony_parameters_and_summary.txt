@@ -1,0 +1,7 @@
+input	/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/01e_preprocessed_PCA30_standardMAD_20260915_001747.qs2
+Harmony_group	orig.ident
+dims	1:30
+resolution	0.8
+clusters	48
+cells	372323
+checkpoint	/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/02_harmony_clustered_res0.8_standardMAD_20260915_092711.qs2

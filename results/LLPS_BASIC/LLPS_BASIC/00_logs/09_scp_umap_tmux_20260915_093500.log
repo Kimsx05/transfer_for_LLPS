@@ -1,0 +1,35 @@
+[?25h[?25h[?25h[?25h[?25h
+[?25hError in `translate_shape_string()`:
+! Shape aesthetic contains invalid values: 19.
+Backtrace:
+     ▆
+  1. └─ggplot2::ggsave(...)
+  2.   ├─grid::grid.draw(plot)
+  3.   └─ggplot2:::grid.draw.ggplot(plot)
+  4.     ├─base::print(x)
+  5.     └─ggplot2:::print.ggplot(x)
+  6.       ├─ggplot2::ggplot_gtable(data)
+  7.       └─ggplot2:::ggplot_gtable.ggplot_built(data)
+  8.         └─plot$guides$assemble(theme)
+  9.           └─ggplot2 (local) assemble(..., self = self)
+ 10.             └─self$draw(theme, default_position, theme$legend.direction)
+ 11.               └─ggplot2 (local) draw(..., self = self)
+ 12.                 └─guides[[i]]$draw(...)
+ 13.                   └─ggplot2 (local) draw(..., self = self)
+ 14.                     └─self$build_decor(params$decor, grobs, elems, params)
+ 15.                       └─ggplot2 (local) build_decor(...)
+ 16.                         ├─base::unlist(lapply(seq_len(params$n_breaks), draw), FALSE)
+ 17.                         └─base::lapply(seq_len(params$n_breaks), draw)
+ 18.                           └─ggplot2 (local) FUN(X[[i]], ...)
+ 19.                             └─base::lapply(...)
+ 20.                               └─ggplot2 (local) FUN(X[[i]], ...)
+ 21.                                 └─g$draw_key(data, g$params, key_size)
+ 22.                                   └─ggplot2 (local) draw_key(...)
+ 23.                                     └─ggplot2::translate_shape_string(data$shape %||% 19)
+ 24.                                       └─cli::cli_abort("Shape aesthetic contains invalid value{?s}: {.val {bad_string}}.")
+ 25.                                         └─rlang::abort(...)
+Warning message:
+No shared levels found between `names(values)` of the manual scale and the
+data's fill values. 
+Execution halted
+[?25h

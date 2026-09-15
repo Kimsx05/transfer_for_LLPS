@@ -1,0 +1,3 @@
+Error in sys.frame(1) : not that many frames on the stack
+Calls: source ... dirname -> normalizePath -> path.expand -> sys.frame
+Execution halted

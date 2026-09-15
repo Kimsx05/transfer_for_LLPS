@@ -1,0 +1,1897 @@
+2026-09-14 23:00:46 +0800	START strategy=validate_54_then_run_missing
+Loading required package: SeuratObject
+Loading required package: sp
+
+Attaching package: ‘SeuratObject’
+
+The following objects are masked from ‘package:base’:
+
+    intersect, t
+
+[?25h[?25h[?25h[?25h[?25h[?25h2026-09-14 23:00:55 +0800	VALIDATED_EXISTING 1 of 59 CNP0000460_P01N
+2026-09-14 23:00:55 +0800	VALIDATED_EXISTING 2 of 59 CNP0000460_P01T
+2026-09-14 23:00:55 +0800	VALIDATED_EXISTING 3 of 59 CNP0000460_P02N
+2026-09-14 23:00:55 +0800	VALIDATED_EXISTING 4 of 59 CNP0000460_P02T
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 5 of 59 CNP0000460_P03N
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 6 of 59 CNP0000460_P03T
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 7 of 59 CNP0000460_P04T
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 8 of 59 CNP0000460_P05N
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 9 of 59 CNP0000460_P05T
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 10 of 59 CNP0000460_P06T
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 11 of 59 CNP0000460_P07N
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 12 of 59 CNP0000460_P07T
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 13 of 59 GSE222315_p1_BCa
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 14 of 59 GSE222315_p2_BCa
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 15 of 59 GSE222315_p2_NAT
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 16 of 59 GSE222315_p3_BCa
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 17 of 59 GSE222315_p4_BCa
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 18 of 59 GSE222315_p4_NAT
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 19 of 59 GSE222315_p5_BCa
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 20 of 59 GSE222315_p5_NAT
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 21 of 59 GSE222315_p6_BCa
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 22 of 59 GSE222315_p7_BCa
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 23 of 59 GSE222315_p8_BCa
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 24 of 59 GSE222315_p9_BCa
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 25 of 59 GSM4006644_BC1
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 26 of 59 GSM4006645_BC2
+2026-09-14 23:00:56 +0800	VALIDATED_EXISTING 27 of 59 GSM4006646_BC3
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 28 of 59 GSM4006647_BC4
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 29 of 59 GSM4006648_BC5
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 30 of 59 GSM4751267_BC6
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 31 of 59 GSM4751268_BC7
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 32 of 59 GSM5329919_BCN
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 33 of 59 HRA003620_BC-01
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 34 of 59 HRA003620_BC-04
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 35 of 59 HRA003620_BC-05
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 36 of 59 HRA003620_BC-11
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 37 of 59 HRA003620_BC-24
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 38 of 59 HRA003620_BC-27
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 39 of 59 HRA003620_BC-30
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 40 of 59 HRA003620_NC-01
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 41 of 59 HRA003620_NC-04
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 42 of 59 HRA003620_NC-05
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 43 of 59 HRA003620_NC-11
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 44 of 59 HRA003620_NC-24
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 45 of 59 HRA003620_NC-27
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 46 of 59 HRA003620_NC-30
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 47 of 59 T4091568
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 48 of 59 T4295396
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 49 of 59 T4380845
+2026-09-14 23:00:57 +0800	VALIDATED_EXISTING 50 of 59 T4398343
+2026-09-14 23:00:58 +0800	VALIDATED_EXISTING 51 of 59 T4450398
+2026-09-14 23:00:58 +0800	VALIDATED_EXISTING 52 of 59 T4463209a
+2026-09-14 23:00:58 +0800	VALIDATED_EXISTING 53 of 59 T4463209b
+2026-09-14 23:00:58 +0800	VALIDATED_EXISTING 54 of 59 T4465219
+2026-09-14 23:00:58 +0800	SAMPLE_START 55 of 59 T4465935
+2026-09-14 23:01:07 +0800	JOINLAYERS T4465935 applied= TRUE step=DoubletFinder_sample_preparation
+[1] "Creating artificial doublets for pN = 5%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 10%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 15%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 20%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 25%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 30%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+NULL
+[1] "Creating 1647 artificial doublets..."
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Computing pANN..."
+[1] "Classifying doublets.."
+2026-09-14 23:02:36 +0800	SAMPLE_END 55 of 59 T4465935 doublets= 179 singlets= 4761 elapsed_seconds= 98.437
+2026-09-14 23:02:36 +0800	SAMPLE_START 56 of 59 T4466585
+2026-09-14 23:02:44 +0800	JOINLAYERS T4466585 applied= TRUE step=DoubletFinder_sample_preparation
+[1] "Creating artificial doublets for pN = 5%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 10%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 15%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 20%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 25%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 30%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+NULL
+[1] "Creating 1258 artificial doublets..."
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Computing pANN..."
+[1] "Classifying doublets.."
+2026-09-14 23:03:35 +0800	SAMPLE_END 56 of 59 T4466585 doublets= 105 singlets= 3669 elapsed_seconds= 58.467
+2026-09-14 23:03:35 +0800	SAMPLE_START 57 of 59 T4469479
+2026-09-14 23:03:42 +0800	JOINLAYERS T4469479 applied= TRUE step=DoubletFinder_sample_preparation
+[1] "Creating artificial doublets for pN = 5%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 10%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 15%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 20%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 25%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 30%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+NULL
+[1] "Creating 1749 artificial doublets..."
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Computing pANN..."
+[1] "Classifying doublets.."
+2026-09-14 23:05:02 +0800	SAMPLE_END 57 of 59 T4469479 doublets= 191 singlets= 5055 elapsed_seconds= 87.591
+2026-09-14 23:05:02 +0800	SAMPLE_START 58 of 59 T4471438
+2026-09-14 23:05:10 +0800	JOINLAYERS T4471438 applied= TRUE step=DoubletFinder_sample_preparation
+[1] "Creating artificial doublets for pN = 5%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.001..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 10%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.001..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 15%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.001..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 20%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.001..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 25%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.001..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 30%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.001..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+NULL
+[1] "Creating 3277 artificial doublets..."
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Computing pANN..."
+[1] "Classifying doublets.."
+2026-09-14 23:08:43 +0800	SAMPLE_END 58 of 59 T4471438 doublets= 695 singlets= 9135 elapsed_seconds= 221.281
+2026-09-14 23:08:43 +0800	SAMPLE_START 59 of 59 T8009218
+2026-09-14 23:08:51 +0800	JOINLAYERS T8009218 applied= TRUE step=DoubletFinder_sample_preparation
+[1] "Creating artificial doublets for pN = 5%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 10%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 15%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 20%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 25%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+[1] "Creating artificial doublets for pN = 30%"
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Defining neighborhoods..."
+[1] "Computing pANN across all pK..."
+[1] "pK = 0.005..."
+[1] "pK = 0.01..."
+[1] "pK = 0.02..."
+[1] "pK = 0.03..."
+[1] "pK = 0.04..."
+[1] "pK = 0.05..."
+[1] "pK = 0.06..."
+[1] "pK = 0.07..."
+[1] "pK = 0.08..."
+[1] "pK = 0.09..."
+[1] "pK = 0.1..."
+[1] "pK = 0.11..."
+[1] "pK = 0.12..."
+[1] "pK = 0.13..."
+[1] "pK = 0.14..."
+[1] "pK = 0.15..."
+[1] "pK = 0.16..."
+[1] "pK = 0.17..."
+[1] "pK = 0.18..."
+[1] "pK = 0.19..."
+[1] "pK = 0.2..."
+[1] "pK = 0.21..."
+[1] "pK = 0.22..."
+[1] "pK = 0.23..."
+[1] "pK = 0.24..."
+[1] "pK = 0.25..."
+[1] "pK = 0.26..."
+[1] "pK = 0.27..."
+[1] "pK = 0.28..."
+[1] "pK = 0.29..."
+[1] "pK = 0.3..."
+NULL
+[1] "Creating 1621 artificial doublets..."
+[1] "Creating Seurat object..."
+[1] "Normalizing Seurat object..."
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Finding variable genes..."
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[1] "Scaling data..."
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+[1] "Running PCA..."
+[1] "Calculating PC distance matrix..."
+[1] "Computing pANN..."
+[1] "Classifying doublets.."
+2026-09-14 23:10:15 +0800	SAMPLE_END 59 of 59 T8009218 doublets= 172 singlets= 4692 elapsed_seconds= 91.457
+[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h2026-09-14 23:10:20 +0800	END all_cells= 410466 singlets= 388352 doublets= 22114 checkpoint= /home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/01c_DoubletFinder_allCellCalled_20260914_231016.qs2 elapsed_seconds= 574.258
+[?25h[?25h

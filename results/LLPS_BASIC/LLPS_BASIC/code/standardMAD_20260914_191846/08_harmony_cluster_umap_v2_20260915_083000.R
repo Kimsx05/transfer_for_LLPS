@@ -1,0 +1,33 @@
+source("/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/code/standardMAD_20260914_191846/00_config.R")
+start_time <- Sys.time(); stamp <- format(start_time, "%Y%m%d_%H%M%S")
+input_path <- "/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017/checkpoints/01e_preprocessed_PCA30_standardMAD_20260915_001747.qs2"
+out_dir <- file.path(paths$harmony, paste0("standardMAD_", stamp))
+if (file.exists(out_dir) || dir.exists(out_dir)) stop("Refusing existing output directory: ", out_dir)
+dir.create(out_dir, recursive=FALSE, showWarnings=FALSE)
+message(format(Sys.time()), " START checkpoint=", input_path)
+obj <- qs2::qs_read(input_path, nthreads=config$max_threads)
+if (ncol(obj) != 372323L) stop("Unexpected PCA object cell count: ", ncol(obj))
+if (!"pca" %in% names(obj@reductions) || ncol(Seurat::Embeddings(obj,"pca")) < 30L) stop("PCA 1:30 unavailable")
+set.seed(config$seed)
+obj <- harmony::RunHarmony(object=obj, group.by.vars="orig.ident", reduction.use="pca", dims.use=1:30,
+                           reduction.save="harmony", project.dim=TRUE, verbose=TRUE)
+if (!"harmony" %in% names(obj@reductions) || ncol(Seurat::Embeddings(obj,"harmony")) < 30L) stop("Harmony 1:30 unavailable")
+set.seed(config$seed)
+obj <- Seurat::FindNeighbors(obj, reduction="harmony", dims=1:30, k.param=20, compute.SNN=TRUE,
+                             prune.SNN=1/15, nn.method="annoy", annoy.metric="euclidean", n.trees=50, verbose=TRUE)
+obj <- Seurat::FindClusters(obj, resolution=0.8, algorithm=1, random.seed=config$seed, verbose=TRUE)
+set.seed(config$seed)
+obj <- Seurat::RunUMAP(obj, reduction="harmony", dims=1:30, seed.use=config$seed,
+                       umap.method="uwot", metric="cosine", n.neighbors=30L, min.dist=0.3, verbose=TRUE)
+if (!"umap" %in% names(obj@reductions)) stop("UMAP unavailable")
+cluster_col <- grep("RNA_snn_res\\.0\\.8$", colnames(obj[[]]), value=TRUE)
+if (length(cluster_col) != 1L) stop("Could not identify unique resolution 0.8 cluster column")
+Seurat::Idents(obj) <- obj[[cluster_col, drop=TRUE]]
+checkpoint <- timestamped_path(paths$checkpoints, "02_harmony_clustered_res0.8_standardMAD", "qs2")
+save_qs2_new(obj, checkpoint)
+counts <- as.data.frame(table(cluster=as.character(Seurat::Idents(obj))), stringsAsFactors=FALSE)
+write_tsv_new(counts, file.path(out_dir,"cluster_cell_counts.tsv"))
+write_tsv_new(as.data.frame.matrix(table(cluster=as.character(Seurat::Idents(obj)), dataset=obj$dataset)), file.path(out_dir,"cluster_by_dataset.tsv"))
+write_tsv_new(as.data.frame.matrix(table(cluster=as.character(Seurat::Idents(obj)), orig.ident=obj$orig.ident)), file.path(out_dir,"cluster_by_orig_ident.tsv"))
+write_lines_new(c(paste("input",input_path,sep="\t"),"Harmony_group\torig.ident","dims\t1:30","resolution\t0.8",paste("clusters",nrow(counts),sep="\t"),paste("cells",ncol(obj),sep="\t"),paste("checkpoint",checkpoint,sep="\t")), file.path(out_dir,"harmony_parameters_and_summary.txt"))
+message(format(Sys.time()), " END clusters=", nrow(counts), " checkpoint=", checkpoint, " elapsed_seconds=", round(as.numeric(difftime(Sys.time(),start_time,units="secs")),3))

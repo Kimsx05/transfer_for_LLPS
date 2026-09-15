@@ -1,0 +1,6 @@
+check	count	blocking
+NA_or_Inf_numeric_thresholds	0	FALSE
+zero_standard_MAD	0	FALSE
+dataset_retention_ge_99.5pct	0	FALSE
+orig_ident_retention_ge_99.5pct	23	FALSE
+Inhouse_MT_unavailable	13	FALSE

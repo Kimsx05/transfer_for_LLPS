@@ -1,0 +1,20 @@
+start_time	2026-09-14 15:13:29 +0800
+hostname	Xulab
+user	jinshengxi
+working_directory	/home/jinshengxi/LLPS/1.2 基本处理/scRNA_standard_pipeline_v1_20260914_151017
+R_version	R version 4.4.3 (2025-02-28)
+libPaths	/home/jinshengxi/Rlibrary/LLPS_pipeline_v1_20260914_150459 | /home/jinshengxi/Rlibrary/packages | /usr/local/lib/R/site-library | /usr/lib/R/site-library | /usr/lib/R/library
+max_threads	8
+disk_space
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd1        17T   11T  4.7T  71% /home
+api_checks
+DoubletFinder::paramSweep	TRUE
+DoubletFinder::summarizeSweep	TRUE
+DoubletFinder::find.pK	TRUE
+DoubletFinder::doubletFinder	TRUE
+DoubletFinder::modelHomotypic	TRUE
+qs2::qs_save	TRUE
+qs2::qs_read	TRUE
+SCP::CellDimPlot	TRUE
+harmony::RunHarmony	TRUE

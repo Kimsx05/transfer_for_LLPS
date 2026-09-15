@@ -1,0 +1,8 @@
+Rule D QC flags only; no filtering
+all cell-called cells retained = 410466
+MAD constant = 1.4826
+nCount/nFeature = lower 3 MAD, upper 5 MAD
+MT = upper 3 standard MAD capped at 25%
+InhouseData mt_qc_available = FALSE; fail_mt = FALSE
+HB >5%
+eventual_QC_pass 393330

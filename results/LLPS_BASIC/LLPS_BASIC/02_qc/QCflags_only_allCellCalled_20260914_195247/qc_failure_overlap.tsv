@@ -1,0 +1,14 @@
+failure_combination	n_cells	percentage
+fail_hb	188	0.0458016011070344
+fail_mt	14123	3.44072347039706
+fail_mt+fail_hb	1	0.000243625537803375
+fail_nCount_high	555	0.135212173480873
+fail_nCount_high+fail_nFeature_high	26	0.00633426398288774
+fail_nCount_low	132	0.0321585709900455
+fail_nCount_low+fail_mt	26	0.00633426398288774
+fail_nCount_low+fail_nFeature_low	569	0.13862293101012
+fail_nCount_low+fail_nFeature_low+fail_mt	132	0.0321585709900455
+fail_nFeature_high	7	0.00170537876462362
+fail_nFeature_low	1292	0.31476419484196
+fail_nFeature_low+fail_mt	85	0.0207081707132869
+PASS	393330	95.8252327842014

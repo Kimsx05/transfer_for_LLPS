@@ -1,0 +1,27 @@
+dataset	InhouseData
+n_features_in_inhouse_layers	31250
+genes_matching_^MT-	0
+genes_matching_^mt-	0
+genes_matching_^Mt-	0
+ensembl_gene_id_count	0
+ensembl_gene_id_percent	0
+largely_ensembl_ids	FALSE
+common_mt_gene	MT-ND1	FALSE
+common_mt_gene	MT-ND2	FALSE
+common_mt_gene	MT-CO1	FALSE
+common_mt_gene	MT-CO2	FALSE
+common_mt_gene	MT-CO3	FALSE
+common_mt_gene	MT-ATP6	FALSE
+common_mt_gene	MT-ATP8	FALSE
+common_mt_gene	MT-CYB	FALSE
+percent.mt	min	0
+percent.mt	median	0
+percent.mt	mean	0
+percent.mt	p90	0
+percent.mt	p95	0
+percent.mt	p99	0
+percent.mt	max	0
+percent.mt	unique_values	1
+percent.mt	all_zero	1
+first_50_suspected_mitochondrial_genes
+NONE
