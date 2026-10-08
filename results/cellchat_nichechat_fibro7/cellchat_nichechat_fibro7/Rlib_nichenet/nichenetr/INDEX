@@ -1,0 +1,458 @@
+add_hyperparameters_parameter_settings
+                        Add hyperparameters to existing parameter
+                        settings
+add_ligand_popularity_measures_to_perfs
+                        Merge target gene prediction performances with
+                        popularity measures of ligands
+add_new_datasource      Add a new data source to the model
+alias_to_symbol_seurat
+                        Convert aliases to official gene symbols in a
+                        Seurat Object
+annotation_data_sources
+                        Annotation table of all data sources used in
+                        the NicheNet model
+apply_hub_corrections   Apply hub corrections to the weighted
+                        integrated ligand-signaling and gene regulatory
+                        network
+assess_influence_source
+                        Assess the influence of an individual data
+                        source on ligand-target probability scores
+assess_rf_class_probabilities
+                        Assess probability that a target gene belongs
+                        to the geneset based on a multi-ligand random
+                        forest model
+assign_ligands_to_celltype
+                        Assign ligands to cell types
+bootstrap_ligand_activity_analysis
+                        Run ligand activity analysis with bootstrap
+calculate_de            Calculate differential expression of one cell
+                        type versus all other cell types
+calculate_fraction_top_predicted
+                        Determine the fraction of genes belonging to
+                        the geneset or background and to the
+                        top-predicted genes.
+calculate_fraction_top_predicted_fisher
+                        Perform a Fisher's exact test to determine
+                        whether genes belonging to the gene set of
+                        interest are more likely to be part of the
+                        top-predicted targets.
+calculate_niche_de      Calculate differential expression of cell types
+                        in one niche versus all other niches of
+                        interest.
+calculate_niche_de_targets
+                        Calculate differential expression of receiver
+                        cell type in one niche versus all other niches
+                        of interest: focus on finding DE genes
+calculate_p_value_bootstrap
+                        Calculate ligand p-values from the bootstrapped
+                        ligand activity analysis
+calculate_spatial_DE    Calculate differential expression between
+                        spatially different subpopulations of the same
+                        cell type
+classification_evaluation_continuous_pred_wrapper
+                        Assess how well classification predictions
+                        accord to the expected response
+combine_sender_receiver_de
+                        Combine the differential expression information
+                        of ligands in the sender celltypes with the
+                        differential expression information of their
+                        cognate receptors in the receiver cell types
+construct_ligand_target_matrix
+                        Construct a ligand-target probability matrix
+                        for ligands of interest.
+construct_ligand_tf_matrix
+                        Construct a ligand-tf signaling probability
+                        matrix for ligands of interest.
+construct_model         Construct a ligand-target model given input
+                        parameters.
+construct_random_model
+                        Construct a randomised ligand-target model
+                        given input parameters.
+construct_tf_target_matrix
+                        Construct a tf-target matrix.
+construct_weighted_networks
+                        Construct weighted layer-specific networks
+convert_alias_to_symbols
+                        Convert aliases to official gene symbols
+convert_cluster_to_settings
+                        Convert cluster assignment to settings format
+                        suitable for target gene prediction.
+convert_expression_settings_evaluation
+                        Convert expression settings to correct settings
+                        format for evaluation of target gene
+                        prediction.
+convert_expression_settings_evaluation_regression
+                        Convert expression settings to correct settings
+                        format for evaluation of target gene log fold
+                        change prediction (regression).
+convert_gene_list_settings_evaluation
+                        Convert gene list to correct settings format
+                        for evaluation of target gene prediction.
+convert_human_to_mouse_symbols
+                        Convert human gene symbols to their mouse
+                        one-to-one orthologs.
+convert_mouse_to_human_symbols
+                        Convert mouse gene symbols to their human
+                        one-to-one orthologs.
+convert_settings_ligand_prediction
+                        Convert settings to correct settings format for
+                        ligand prediction.
+convert_settings_tf_prediction
+                        Convert settings to correct settings format for
+                        TF prediction.
+convert_settings_topn_ligand_prediction
+                        Converts expression settings to format in which
+                        the total number of potential ligands is
+                        reduced up to n top-predicted active ligands.
+convert_single_cell_expression_to_settings
+                        Prepare single-cell expression data to perform
+                        ligand activity analysis
+correct_topology_ppr    Adapt a ligand-target probability matrix
+                        construced via PPR by correcting for network
+                        topolgoy.
+diagrammer_format_signaling_graph
+                        Prepare extracted ligand-target signaling
+                        network for visualization with DiagrammeR.
+estimate_source_weights_characterization
+                        Estimate data source weights of data sources of
+                        interest based on leave-one-in and
+                        leave-one-out characterization performances.
+evaluate_importances_ligand_prediction
+                        Evaluation of ligand activity prediction based
+                        on ligand importance scores.
+evaluate_ligand_prediction_per_bin
+                        Evaluate ligand activity predictions for
+                        different bins/groups of targets genes
+evaluate_model          Construct and evaluate a ligand-target model
+                        given input parameters.
+evaluate_model_application
+                        Construct and evaluate a ligand-target model
+                        given input parameters (for application
+                        purposes).
+evaluate_model_application_multi_ligand
+                        Construct and evaluate a ligand-target model
+                        given input parameters (for application
+                        purposes + multi-ligand predictive model).
+evaluate_model_cv       Construct and evaluate a ligand-target model
+                        given input parameters with the purpose of
+                        evaluating cross-validation models.
+evaluate_multi_ligand_target_prediction
+                        Evaluation of target gene prediction for
+                        multiple ligands.
+evaluate_multi_ligand_target_prediction_regression
+                        Evaluation of target gene value prediction for
+                        multiple ligands (regression).
+evaluate_random_model   Construct and evaluate a randomised
+                        ligand-target model given input parameters.
+evaluate_single_importances_ligand_prediction
+                        Evaluation of ligand activity prediction
+                        performance of single ligand importance scores:
+                        aggregate all datasets.
+evaluate_target_prediction
+                        Evaluation of target gene prediction.
+evaluate_target_prediction_interprete
+                        Evaluation of target gene prediction.
+evaluate_target_prediction_per_bin
+                        Evaluate target gene predictions for different
+                        bins/groups of targets genes
+evaluate_target_prediction_regression
+                        Evaluation of target gene value prediction
+                        (regression).
+expression_settings_validation
+                        Expression datasets for validation
+extract_ligands_from_settings
+                        Extract ligands of interest from settings
+extract_top_fraction_ligands
+                        Get the predicted top n percentage ligands of a
+                        target of interest
+extract_top_fraction_targets
+                        Get the predicted top n percentage target genes
+                        of a ligand of interest
+extract_top_n_ligands   Get the predicted top n ligands of a target
+                        gene of interest
+extract_top_n_targets   Get the predicted top n target genes of a
+                        ligand of interest
+geneinfo_2022           Gene annotation information: version 2 -
+                        january 2022
+geneinfo_alias_human    Gene annotation information: version 2 -
+                        january 2022 - suited for alias conversion
+geneinfo_alias_mouse    Gene annotation information: version 2 -
+                        january 2022 - suited for alias conversion
+geneinfo_human          Gene annotation information
+generate_info_tables    Generate tables used for
+                        'generate_prioritization_tables'
+generate_prioritization_tables
+                        Perform a prioritization of cell-cell
+                        interactions (similar to MultiNicheNet).
+get_active_ligand_receptor_network
+                        Get active ligand-receptor network for cellular
+                        interaction between a sender and receiver cell.
+get_active_ligand_target_df
+                        Get active ligand-target network in data frame
+                        format.
+get_active_ligand_target_matrix
+                        Get active ligand-target matrix.
+get_active_regulatory_network
+                        Get active gene regulatory network in a
+                        receiver cell.
+get_active_signaling_network
+                        Get active signaling network in a receiver
+                        cell.
+get_expressed_genes     Determine expressed genes of a cell type from
+                        an input object
+get_exprs_avg           Calculate average of gene expression per cell
+                        type.
+get_lfc_celltype        Get log fold change values of genes in cell
+                        type of interest
+get_ligand_activities_targets
+                        Calculate the ligand activities and infer
+                        ligand-target links based on a list of
+                        niche-specific genes per receiver cell type
+get_ligand_signaling_path
+                        Get ligand-target signaling paths between
+                        ligand(s) and target gene(s) of interest
+get_ligand_signaling_path_with_receptor
+                        Get ligand-target signaling paths between
+                        ligand(s), receptors, and target gene(s) of
+                        interest
+get_ligand_slope_ligand_prediction_popularity
+                        Regression analysis between popularity of
+                        left-out ligands for ligand activity prediction
+                        performance
+get_ligand_target_links_oi
+                        Get ligand-target links of interest
+get_multi_ligand_importances
+                        Get ligand importances from a multi-ligand
+                        classfication model.
+get_multi_ligand_importances_regression
+                        Get ligand importances from a multi-ligand
+                        regression model.
+get_multi_ligand_rf_importances
+                        Get ligand importances from a multi-ligand
+                        trained random forest model.
+get_multi_ligand_rf_importances_regression
+                        Get ligand importances from a multi-ligand
+                        trained random forest regression model.
+get_ncitations_genes    Get the number of times of gene is mentioned in
+                        the pubmed literature
+get_non_spatial_de      Makes a table similar to the output of
+                        'calculate_spatial_DE' and
+                        'process_spatial_de', but now in case you don't
+                        have spatial information for the sender and/or
+                        receiver celltype. This is needed for
+                        comparability reasons.
+get_optimized_parameters_nsga2r
+                        Get optimized parameters from the output of
+                        'run_nsga2R_cluster'.
+get_prioritization_tables
+                        Use the information from the niche- and spatial
+                        differential expression analysis of
+                        ligand-senders and receptor-receivers pairs, in
+                        addition to the ligand activity prediction and
+                        ligand-target inferernce, in order to make a
+                        final ligand-receptor and ligand-target
+                        prioritization table.
+get_single_ligand_importances
+                        Get ligand importances based on target gene
+                        prediction performance of single ligands.
+get_single_ligand_importances_regression
+                        Get ligand importances based on target gene
+                        value prediction performance of single ligands
+                        (regression).
+get_slope_ligand_popularity
+                        Regression analysis between ligand popularity
+                        and target gene predictive performance
+get_slope_target_gene_popularity
+                        Regression analysis between target gene
+                        popularity and target gene predictive
+                        performance
+get_slope_target_gene_popularity_ligand_prediction
+                        Regression analysis between target gene
+                        popularity and ligand activity predictive
+                        performance
+get_target_genes_ligand_oi
+                        Get a set of predicted target genes of a ligand
+                        of interest
+get_top_predicted_genes
+                        Find which genes were among the top-predicted
+                        targets genes in a specific cross-validation
+                        round and see whether these genes belong to the
+                        gene set of interest as well.
+get_weighted_ligand_receptor_links
+                        Get the weighted ligand-receptor links between
+                        a possible ligand and its receptors
+get_weighted_ligand_target_links
+                        Infer weighted active ligand-target links
+                        between a possible ligand and target genes of
+                        interest
+hyperparameter_list     Optimized hyperparameter values
+infer_supporting_datasources
+                        Get the data sources that support the specific
+                        interactions in the extracted ligand-target
+                        signaling subnetwork
+ligand_activity_performance_top_i_removed
+                        Calculate ligand activity performance without
+                        considering evaluation datasets belonging to
+                        the top i most frequently cited ligands
+make_circos_lr          make_circos_lr
+make_circos_plot        Draw a circos plot
+make_discrete_ligand_target_matrix
+                        Convert probabilistic ligand-target matrix to a
+                        discrete one.
+make_heatmap_bidir_lt_ggplot
+                        Make a ggplot heatmap object from an input
+                        ligand-target matrix.
+make_heatmap_ggplot     Make a ggplot heatmap object from an input
+                        matrix (2-color).
+make_ligand_activity_target_exprs_plot
+                        make_ligand_activity_target_exprs_plot
+make_ligand_receptor_lfc_plot
+                        make_ligand_receptor_lfc_plot
+make_ligand_receptor_lfc_spatial_plot
+                        make_ligand_receptor_lfc_spatial_plot
+make_line_plot          Make a line plot
+make_mushroom_plot      Make a "mushroom plot" of ligand-receptor
+                        interactions
+make_threecolor_heatmap_ggplot
+                        Make a ggplot heatmap object from an input
+                        matrix (3-color).
+mlrmbo_optimization     Optimization of objective functions via
+                        model-based optimization (mlrMBO).
+model_based_ligand_activity_prediction
+                        Prediction of ligand activity prediction by a
+                        model trained on ligand importance scores.
+model_evaluation_hyperparameter_optimization_mlrmbo
+                        Construct and evaluate a ligand-target model
+                        given input parameters with the purpose of
+                        hyperparameter optimization using mlrMBO.
+model_evaluation_optimization_application
+                        Construct and evaluate a ligand-target model
+                        given input parameters with the purpose of
+                        parameter optimization for multi-ligand
+                        application.
+model_evaluation_optimization_mlrmbo
+                        Construct and evaluate a ligand-target model
+                        given input parameters with the purpose of
+                        parameter optimization with mlrMBO.
+model_evaluation_optimization_nsga2r
+                        Construct and evaluate a ligand-target model
+                        with the purpose of parameter optimization with
+                        NSGA-II.
+mutate_cond             Change values in a tibble if some condition is
+                        fulfilled.
+ncitations              Number of citations for genes
+nichenet_seuratobj_aggregate
+                        Perform NicheNet analysis on Seurat object:
+                        explain DE between conditions
+nichenet_seuratobj_aggregate_cluster_de
+                        Perform NicheNet analysis on Seurat object:
+                        explain DE between two cell clusters from
+                        separate conditions
+nichenet_seuratobj_cluster_de
+                        Perform NicheNet analysis on Seurat object:
+                        explain DE between two cell clusters
+normalize_single_cell_ligand_activities
+                        Normalize single-cell ligand activities
+optimized_source_weights_df
+                        Optimized data source weights
+predict_ligand_activities
+                        Predict activities of ligands in regulating
+                        expression of a gene set of interest
+predict_single_cell_ligand_activities
+                        Single-cell ligand activity prediction
+prepare_circos_visualization
+                        Prepare circos visualization
+prepare_ligand_receptor_visualization
+                        Prepare ligand-receptor visualization
+prepare_ligand_target_visualization
+                        Prepare heatmap visualization of the
+                        ligand-target links starting from a
+                        ligand-target tibble.
+prepare_settings_leave_one_in_characterization
+                        Prepare settings for leave-one-in
+                        characterization
+prepare_settings_leave_one_out_characterization
+                        Prepare settings for leave-one-out
+                        characterization
+prepare_settings_one_vs_one_characterization
+                        Prepare settings for one-vs-one
+                        characterization
+process_characterization_ligand_prediction
+                        Process the output of model evaluation for data
+                        source characterization purposes on the ligand
+                        prediction performance
+process_characterization_ligand_prediction_single_measures
+                        Process the output of model evaluation for data
+                        source characterization purposes on the ligand
+                        prediction performance (for every importance
+                        score individually)
+process_characterization_popularity_slopes_ligand_prediction
+                        Process the output of model evaluation for data
+                        source characterization purposes on the
+                        popularity bias assessment of ligand activity
+                        performance
+process_characterization_popularity_slopes_target_prediction
+                        Process the output of model evaluation for data
+                        source characterization purposes on the
+                        popularity bias assessment of target prediction
+                        performance
+process_characterization_target_prediction
+                        Process the output of model evaluation for data
+                        source characterization purposes on the target
+                        prediction performance
+process_characterization_target_prediction_average
+                        Process the output of model evaluation for data
+                        source characterization purposes on the target
+                        prediction performance (average)
+process_mlrmbo_nichenet_optimization
+                        Process the output of mlrmbo multi-objective
+                        optimization to extract optimal parameter
+                        values.
+process_niche_de        Process the DE output of 'calculate_niche_de'
+process_receiver_target_de
+                        Processing differential expression output of
+                        the receiver cell types
+process_spatial_de      Process the spatialDE output
+process_table_to_ic     Process DE or expression information into
+                        intercellular communication focused
+                        information.
+randomize_complete_network_source_specific
+                        Randomize an integrated network by shuffling
+                        its source networks
+randomize_datasource_network
+                        Randomize a network of a particular data
+                        source.
+randomize_network       Randomize a network
+run_nsga2R_cluster      Run NSGA-II for parameter optimization.
+scale_quantile          Cut off outer quantiles and rescale to a [0, 1]
+                        range
+scale_quantile_adapted
+                        Normalize values in a vector by quantile
+                        scaling and add a pseudovalue of 0.001
+scaling_modified_zscore
+                        Normalize values in a vector by the modified
+                        z-score method.
+scaling_zscore          Normalize values in a vector by the z-score
+                        method
+single_ligand_activity_score_classification
+                        Assess how well cells' ligand activities
+                        predict a binary property of interest of cells.
+single_ligand_activity_score_regression
+                        Perform a correlation and regression analysis
+                        between cells' ligand activities and property
+                        scores of interest
+source_weights_df       Data source weights
+visualize_parameter_values
+                        Visualize parameter values from the output of
+                        'run_nsga2R_cluster'.
+visualize_parameter_values_across_folds
+                        Visualize parameter values from the output of
+                        'run_nsga2R_cluster' across cross-validation
+                        folds.
+wrapper_average_performances
+                        Calculate average performance of datasets of a
+                        specific ligand.
+wrapper_evaluate_single_importances_ligand_prediction
+                        Evaluation of ligand activity prediction
+                        performance of single ligand importance scores:
+                        each dataset individually.

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="The order in which recipe steps are specified matters, and this vignette gives some general suggestions that you should consider.">
+
+<title>Ordering of steps</title>
+<style>
+
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+width: 0.8em;
+margin: 0 0.8em 0.2em -1em;  vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+
+
+
+
+<style type="text/css">body {
+background-color: #fff;
+margin: 1em auto;
+max-width: 700px;
+overflow: visible;
+padding-left: 2em;
+padding-right: 2em;
+font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 1.35;
+}
+table {
+margin: 1em auto;
+border-width: 1px;
+border-color: #DDDDDD;
+border-style: outset;
+border-collapse: collapse;
+}
+table th {
+border-width: 2px;
+padding: 5px;
+border-style: inset;
+}
+table td {
+border-width: 1px;
+border-style: inset;
+line-height: 18px;
+padding: 5px 5px;
+}
+table, table th, table td {
+border-left-style: none;
+border-right-style: none;
+}
+table thead, table tr.even {
+background-color: #f7f7f7;
+}
+p {
+margin: 0.5em 0;
+}
+blockquote {
+background-color: #f6f6f6;
+padding: 0.25em 0.75em;
+}
+hr {
+border-style: solid;
+border: none;
+border-top: 1px solid #777;
+margin: 28px 0;
+}
+dl {
+margin-left: 0;
+}
+dl dd {
+margin-bottom: 13px;
+margin-left: 13px;
+}
+dl dt {
+font-weight: bold;
+}
+ul {
+margin-top: 0;
+}
+ul li {
+list-style: circle outside;
+}
+ul ul {
+margin-bottom: 0;
+}
+pre, code {
+background-color: #f7f7f7;
+border-radius: 3px;
+color: #333;
+white-space: pre-wrap; 
+}
+pre {
+border-radius: 3px;
+margin: 5px 0px 10px 0px;
+padding: 10px;
+}
+pre:not([class]) {
+background-color: #f7f7f7;
+}
+code {
+font-family: Consolas, Monaco, 'Courier New', monospace;
+font-size: 85%;
+}
+p > code, li > code {
+padding: 2px 0px;
+}
+div.figure {
+text-align: center;
+}
+img {
+background-color: #FFFFFF;
+padding: 2px;
+border: 1px solid #DDDDDD;
+border-radius: 3px;
+border: 1px solid #CCCCCC;
+margin: 0 5px;
+}
+h1 {
+margin-top: 0;
+font-size: 35px;
+line-height: 40px;
+}
+h2 {
+border-bottom: 4px solid #f7f7f7;
+padding-top: 10px;
+padding-bottom: 2px;
+font-size: 145%;
+}
+h3 {
+border-bottom: 2px solid #f7f7f7;
+padding-top: 10px;
+font-size: 120%;
+}
+h4 {
+border-bottom: 1px solid #f7f7f7;
+margin-left: 8px;
+font-size: 105%;
+}
+h5, h6 {
+border-bottom: 1px solid #ccc;
+font-size: 105%;
+}
+a {
+color: #0033dd;
+text-decoration: none;
+}
+a:hover {
+color: #6666ff; }
+a:visited {
+color: #800080; }
+a:visited:hover {
+color: #BB00BB; }
+a[href^="http:"] {
+text-decoration: underline; }
+a[href^="https:"] {
+text-decoration: underline; }
+</style>
+</head>
+
+<body>
+
+
+<header id="title-block-header">
+<h1 class="title">Ordering of steps</h1>
+
+</header>
+
+
+<p>In the recipes package, there are no constraints on the order in which steps are added to the recipe; you as a user are free to apply steps in the order appropriate to your data preprocessing needs. However, the <strong>order of steps matters</strong> and there are some general suggestions that you should consider.</p>
+<h2 id="transforming-a-variable">Transforming a variable</h2>
+<ul>
+<li>If using a Box-Cox transformation, don’t center the data first or do any operations that might make the data non-positive.</li>
+<li>Alternatively, use the Yeo-Johnson transformation so you don’t have to worry about this.</li>
+</ul>
+<h2 id="handling-levels-in-categorical-data">Handling levels in categorical data</h2>
+<p>The order of steps for handling categorical levels is important, because each step sets levels for the next step to use as input. These steps create <em>factor</em> output, even if the input is of character type.</p>
+<ul>
+<li>Typically use <code>step_novel()</code> before other steps for changing factor levels, so that the new factor level can be set as you desire rather than coerced to <code>NA</code> by other factor handling steps.</li>
+<li>Use steps like <code>step_unknown()</code> and <code>step_other()</code> after other steps for changing factor levels.</li>
+<li>If you are creating dummy variables from a categorical variable (see below), complete handling of the categorical variable’s levels <em>before</em> <code>step_dummy()</code>.</li>
+</ul>
+<h2 id="dummy-variables">Dummy variables</h2>
+<p>Recipes do not automatically create dummy variables (unlike <em>most</em> formula methods).</p>
+<ul>
+<li>If you want to center, scale, or do any other operations on <em>all</em> of the predictors, run <code>step_dummy()</code> first so that numeric columns are in the data set instead of factors.</li>
+<li>As noted in the <a href="https://recipes.tidymodels.org/reference/step_interact.html">help file for <code>step_interact()</code></a>, you should make dummy variables <em>before</em> creating the interactions.</li>
+</ul>
+<h2 id="recommended-preprocessing-outline">Recommended preprocessing outline</h2>
+<p>While every individual project’s needs are different, here is a suggested order of <em>potential</em> steps that should work for most problems:</p>
+<ol type="1">
+<li>Impute</li>
+<li>Handle factor levels</li>
+<li>Individual transformations for skewness and other issues</li>
+<li>Discretize (if needed and if you have no other choice)</li>
+<li>Create dummy variables</li>
+<li>Create interactions</li>
+<li>Normalization steps (center, scale, range, etc)</li>
+<li>Multivariate transformation (e.g. PCA, spatial sign, etc)</li>
+</ol>
+<p>Again, your mileage may vary for your particular problem.</p>
+
+
+
+
+
+</body></html>

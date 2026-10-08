@@ -1,0 +1,5 @@
+interaction_id	source	target	raw_probability	pval	eligible	ligand	receptor	pathway_name	annotation	weight	detected	sample	patient_uid	dataset
+"MDK_SDC1"	"Epithelial"	"Epithelial"	0.200775704050621	0	TRUE	"MDK"	"SDC1"	"MK"	"Secreted Signaling"	0.200775704050621	TRUE	"GSM4006645_BC2"	NA	"GSE135337"
+"PTN_SDC1"	"Epithelial"	"Epithelial"	0.189931192610377	0	TRUE	"PTN"	"SDC1"	"PTN"	"Secreted Signaling"	0.189931192610377	TRUE	"GSM4006645_BC2"	NA	"GSE135337"
+"PPIA_BSG"	"Epithelial"	"Epithelial"	0.16416401813484	0	TRUE	"PPIA"	"BSG"	"CypA"	"Secreted Signaling"	0.16416401813484	TRUE	"GSM4006645_BC2"	NA	"GSE135337"
+"CLDN3_CLDN3"	"Epithelial"	"Epithelial"	0.000808745633786956	0.01	TRUE	"CLDN3"	"CLDN3"	"CLDN"	"Cell-Cell Contact"	0.000808745633786956	TRUE	"GSM4006645_BC2"	NA	"GSE135337"

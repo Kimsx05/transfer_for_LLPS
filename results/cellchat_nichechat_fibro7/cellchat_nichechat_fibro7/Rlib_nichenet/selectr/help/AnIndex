@@ -1,0 +1,6 @@
+css_to_xpath	css_to_xpath
+querySelector	querySelectorAll
+querySelectorAll	querySelectorAll
+querySelectorAllNS	querySelectorAll
+querySelectorNS	querySelectorAll
+selectors	selectors

@@ -1,0 +1,4 @@
+detectCores             Detect the Number of CPU Cores
+LdFlags                 Get portable linker flags for libraries
+                        building on RcppThread
+RcppThread              R-friendly C++11 threads

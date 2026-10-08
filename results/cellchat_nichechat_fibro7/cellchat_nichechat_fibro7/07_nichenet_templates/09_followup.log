@@ -1,0 +1,4 @@
+Warning message:
+In `[.data.table`(lr, , `:=`(NicheNet_target_genes, NA_character_)) :
+  Coercing 'character' RHS to 'logical' to match the type of column 12 named 'NicheNet_target_genes'.
+NICHENET FOLLOWUP TEMPLATE COMPLETE; LIGAND ACTIVITY NOT RUN

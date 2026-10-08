@@ -1,0 +1,9 @@
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Registered S3 method overwritten by 'pROC':
+  method   from            
+  plot.roc spatstat.explore
+Warning messages:
+1: In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+2: replacing previous import ‘e1071::element’ by ‘ggplot2::element’ when loading ‘nichenetr’ 
+NICHENET RESOURCE AUDIT COMPLETE; installed=TRUE

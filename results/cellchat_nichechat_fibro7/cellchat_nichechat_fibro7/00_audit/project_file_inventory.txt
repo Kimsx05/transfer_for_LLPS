@@ -1,0 +1,1559 @@
+/home/jinshengxi/LLPS/1.0 基因集获取/LLPS获取.R
+/home/jinshengxi/LLPS/1.0 基因集获取/LLPS.txt
+/home/jinshengxi/LLPS/1.0 基因集获取/LLPS_human_Gene.name.rdata
+/home/jinshengxi/LLPS/1.0 基因集获取/df_LLPS_human.rdata
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/01_audit/merge_summary_20260914_153429.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/01_audit/feature_metadata_repairs_20260914_153138.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/01_audit/input_manifest.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/01_audit/input_object_audit.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/01_audit/orig_ident_cell_counts.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/01_audit/metadata_fields_by_dataset.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/01_audit/barcode_overlap_by_dataset_20260914_151500.tsv
+/home/jinshengxi/LLPS/1.1 单细胞数据/InhouseData_scRNA_original.rdata
+/home/jinshengxi/LLPS/1.1 单细胞数据/4-6单细胞数据从头过滤.R
+/home/jinshengxi/LLPS/1.1 单细胞数据/1-6单细胞数据集整合.R
+/home/jinshengxi/LLPS/1.1 单细胞数据/GSE135337_scRNA_original.rdata
+/home/jinshengxi/LLPS/1.1 单细胞数据/HRA003620_scRNA.qs
+/home/jinshengxi/LLPS/1.1 单细胞数据/CNP0000460_scRNA_original.rdata
+/home/jinshengxi/LLPS/1.1 单细胞数据/GSE222315_scRNA_original.rdata
+/home/jinshengxi/LLPS/1.1 单细胞数据/3-6单细胞数据集临床数据写入.R
+/home/jinshengxi/LLPS/1.1 单细胞数据/2-6单细胞数据集注释.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_DoubletFinder_overlap_20260914_232334/final_filter_summary_global.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_DoubletFinder_overlap_20260914_232334/QC_DoubletFinder_overlap.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_DoubletFinder_overlap_20260914_232334/01d_checkpoint_path.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_DoubletFinder_overlap_20260914_232334/final_filter_summary_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_DoubletFinder_overlap_20260914_232334/phase_completion_summary.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_DoubletFinder_overlap_20260914_232334/final_filter_summary_by_dataset.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_DoubletFinder_overlap_20260914_232334/QC_DoubletFinder_overlap_summary.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/gene_symbol_audit_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/gene_symbol_mapping_GSE222315.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/gene_symbol_mapping_InhouseData.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/code/03_annotation_plots_report.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/code/01_remove_and_clean_rerun.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/code/02_markers_and_audits.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/08_reports/clean_major_rerun_v2_report.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/gene_symbol_mapping_HRA003620.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/08_reports/01_remove_and_clean_rerun.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/gene_symbol_mapping_CNP0000460.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/gene_symbol_mapping_overall.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/gene_symbol_mapping_all_datasets.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/gene_symbol_mapping_GSE135337.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/duplicate_gene_groups.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/gene_symbol_mapping_warnings.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/01_gene_symbol_audit/official_alias_coexistence.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_standardMAD_20260914_191846/QC_standardMAD_summary.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_standardMAD_20260914_191846/05_phase2_pathology_checks.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_standardMAD_20260914_191846/04_standardMAD_thresholds.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_standardMAD_20260914_191846/sessionInfo.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_standardMAD_20260914_191846/01_standardMAD_rule_comparison_global.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_standardMAD_20260914_191846/03_standardMAD_rule_comparison_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_standardMAD_20260914_191846/02_standardMAD_rule_comparison_by_dataset.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/05_dotplot/major_30_marker_cluster_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/05_dotplot/major_30_marker_DotPlot_SCP.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/05_dotplot/plot_provenance.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/05_dotplot/major_30_marker_DotPlot_SCP.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/code/01_harmonize_and_audit.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/code/02_extract_annotation_evidence.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/code/03_annotate_and_plot.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/02_clean_object/clean_object_final_annotated.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/02_clean_object/harmonized_object_before_cluster_removal.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/02_clean_object/clean_object_after_cluster_removal_before_rerun.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/02_clean_object/clean_object_after_harmony_clustering.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/07_reports/final_major_annotation_report.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/03_pca_harmony_umap/UMAP_cluster_clean_SCP.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/03_pca_harmony_umap/UMAP_cluster_clean_SCP.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/03_pca_harmony_umap/new_cluster_cell_counts.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/03_pca_harmony_umap/clean_rerun_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/03_annotation/final_major_annotation.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/03_annotation/final_major_annotation_candidate.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/06_inhouse_mt_audit.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_cell_counts_20260914_153706.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/02_candidate_object/llps_major_annotated_final.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_thresholds_by_orig_ident_20260914_153705.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/02_candidate_object/llps_major_annotated_candidate_final.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_distributions_by_orig_ident.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_thresholds_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_cell_counts.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/07_inhouse_mt_candidate_genes.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/05_qc_sensitivity_global.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/run_qc_sensitivity_audit.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/08_mt_qc_audit_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/02_qc_tail_decomposition_global.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/04_qc_sensitivity_by_dataset.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/01_qc_tail_decomposition_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/03_qc_sensitivity_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/04_markers/marker_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/04_markers/markers_top50.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/04_markers/markers_all.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/04_markers/markers_top100.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/04_markers/marker_warnings.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/Rplots.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/02_harmonized_object/object_after_gene_symbol_harmonization_annotated.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/02_harmonized_object/object_after_gene_symbol_harmonization.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/02_harmonized_object/object_before_gene_symbol_harmonization_manifest.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/04_umap/UMAP_major_annotation_final_candidate.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/04_umap/UMAP_major_annotation_final_white.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/04_umap/UMAP_major_annotation_final_transparent.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/04_umap/UMAP_major_annotation_final_transparent.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/04_umap/UMAP_major_annotation_final_white.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/04_umap/UMAP_major_annotation_final_candidate.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/05_rule_ABC_retention_comparison.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/02_log1p_nFeature_density_thresholds.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/01_log1p_nCount_density_thresholds.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/01_log1p_nCount_density_thresholds.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/03_percent_mt_by_dataset.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/03_percent_mt_by_dataset.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/02_log1p_nFeature_density_thresholds.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/04_percent_hb_by_dataset.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/05_rule_ABC_retention_comparison.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/plots/04_percent_hb_by_dataset.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/07_major_annotation/UMAP_major_celltype_clean_SCP.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/07_major_annotation/UMAP_major_celltype_clean_SCP.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/07_major_annotation/clean_major_annotation.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/sessionInfo_audit.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/07_major_annotation/canonical_marker_cluster_evidence.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/10_hb_qc_audit.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/09_mt_qc_audit_by_dataset.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/QC_sensitivity_audit_20260914_185530/QC_sensitivity_audit_summary.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/05_internal_audit/UMAP_cluster_internal_audit.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/05_internal_audit/UMAP_cluster_internal_audit.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/03_marker_panel_audit/major_marker_cluster_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/qc_thresholds_standardMAD_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/03_marker_panel_audit/marker_all_symbol_audited.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/03_marker_panel_audit/marker_top50_symbol_audited.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/build_candidate.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/plot_and_workflow_provenance.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/redraw_margin_clipping_fix.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/redraw_reference_arrow_axes.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/redraw_scp_default_coord.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/final_freeze_report.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/final_annotation_candidate_report.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/export_white_transparent_final.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/redraw_axis_names.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/redraw_native_scp_coordinate.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/06_reports/redraw_axes.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/03_marker_panel_audit/major_marker_panel_audit.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/cluster_by_specimen_fraction_within_cluster.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/cluster_dataset_specimen_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/cluster_by_specimen_count.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/cluster_dataset_enrichment_flags.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/old14_old15_newcluster_composition.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/cluster_by_dataset_enrichment.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/cluster_by_dataset_count.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/old15_to_newcluster_mapping.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/cluster_umap_nearest_centroid.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/cluster_by_dataset_fraction_within_cluster.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/06_dataset_specimen_audit/old14_to_newcluster_mapping.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/code/01_remove_and_rerun.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/code/03_annotation_plots.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/code/02_markers_and_audits.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/12_final_annotation_candidate/01_removal_audit/final_candidate_removal_audit.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/qc_standardMAD_checkpoint_path.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_gene_presence_20260914_153706.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_distributions_by_orig_ident_20260914_153706.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_distributions_by_orig_ident_20260914_153706.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_distributions_by_orig_ident.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/qc_gene_presence.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/06_umap/cluster_UMAP_SCP.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/06_umap/major_UMAP_SCP.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/06_umap/major_UMAP_SCP.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/06_umap/cluster_UMAP_SCP.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/08_reports/02_markers_and_audits.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/plots/qc_standardMAD_distributions.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/01_removal_audit/cluster_removal_audit.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/08_reports/final_clean_basic_rerun_report.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/01_removal_audit/removed_cells_by_specimen.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/01_removal_audit/removed_cells_by_dataset.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/plots/qc_standardMAD_retained_removed.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/08_clean_major_rerun_v2/01_removal_audit/input_and_removal_summary.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/plots/qc_standardMAD_retained_removed.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/qc_summary_standardMAD_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/qc_summary_standardMAD_by_dataset.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/qc_failure_overlap.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/plots/qc_standardMAD_distributions.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/QCflags_only_allCellCalled_20260914_195247/qc_standardMAD_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/standardMAD_20260915_090524/cluster_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/qc_thresholds_standardMAD_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/standardMAD_20260915_090524/harmony_parameters_and_summary.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/standardMAD_20260915_090524/cluster_by_dataset.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/standardMAD_20260915_090524/cluster_cell_counts.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/05_dotplot/major_30_marker_cluster_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/05_dotplot/major_30_marker_DotPlot_final_clean.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/05_dotplot/plot_provenance.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/05_dotplot/major_30_marker_DotPlot_final_clean.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/checkpoints/02_harmony_clustered_res0.8_standardMAD_20260915_092711.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/checkpoints/01b_QCflags_only_noFiltering_20260914_195631.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/plots/qc_standardMAD_distributions.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/plots/qc_standardMAD_retained_removed.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/plots/qc_standardMAD_retained_removed.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/plots/qc_standardMAD_distributions.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/qc_standardMAD_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/qc_summary_standardMAD_by_orig_ident.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/qc_summary_standardMAD_by_dataset.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/qc_failure_overlap.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/02_qc/standardMAD_20260914_191846/qc_standardMAD_checkpoint_path.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/06_dataset_specimen_audit/cluster_by_specimen_fraction_within_cluster.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/06_dataset_specimen_audit/cluster_dataset_specimen_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/06_dataset_specimen_audit/cluster_by_specimen_count.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/02_clean_object/object_after_final_cluster_removal.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/06_dataset_specimen_audit/cluster_dataset_enrichment_flags.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/02_clean_object/object_before_final_cluster_removal.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/06_dataset_specimen_audit/cluster_by_dataset_enrichment.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/02_clean_object/object_final_annotated_before_LLPS.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/02_clean_object/object_after_final_harmony_clustering.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/checkpoints/01c_doubletfinder_singlets_20260914_175719.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/06_dataset_specimen_audit/source_v2_special_to_newcluster_mapping.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/checkpoints/01c_DoubletFinder_allCellCalled_20260914_231016.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/06_dataset_specimen_audit/cluster_by_dataset_count.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/checkpoints/01_merged_full_20260914_153425.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/06_dataset_specimen_audit/cluster_umap_nearest_centroid.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/checkpoints/01b_qc_filtered_20260914_153809.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/checkpoints/01d_final_QC_DF_singlets_20260914_232441.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/checkpoints/01b_qc_standardMAD_3lower_5upper_20260914_192353.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/checkpoints/01e_preprocessed_PCA30_standardMAD_20260915_001747.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/06_dataset_specimen_audit/cluster_by_dataset_fraction_within_cluster.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/05_annotation/cluster_umap_nearest_neighbors.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/05_annotation/cluster_umap_centroids.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/05_annotation/canonical_marker_cluster_evidence.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/05_annotation/major_celltype_annotation.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/03_pca_harmony_umap/new_cluster_cell_counts.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/03_pca_harmony_umap/UMAP_cluster_final_clean.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/03_pca_harmony_umap/clean_rerun_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/03_pca_harmony_umap/UMAP_cluster_final_clean.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/SCP_UMAP_standardMAD_20260915_165308/UMAP_cluster.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/03_merge_v3.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/02b_barcode_overlap_audit.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/SCP_UMAP_standardMAD_20260915_165525/UMAP_cluster.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/04_qc_v2.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder_standardMAD.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/sessionInfo_initial.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/07_preprocess_pca_tmux_20260914_232700.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/03_merge_v2.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/04_qc.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder_allcellcalled_recovery_20260914_225312.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/04_markers/marker_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/10_cluster_markers_tmux_20260915_173000.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/04_markers/markers_top50.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/package_versions.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/04_markers/markers_all.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/01_environment_check.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/04_markers/markers_top100.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/environment_check.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/04_markers/marker_warnings.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder_allCellCalled_recovery.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/01_merged_checkpoint_path_v5.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/01c_singlets_checkpoint_path_20260914_154610.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder_allcellcalled_recovery_tmux_20260914_230500.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/03_merge_v4.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/06_overlap_and_final_filter_tmux_20260914_231500.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/10_cluster_markers_presto_tmux_20260915_192000.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/09_scp_umap_tmux_20260915_093500.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder_allcellcalled_recovery_tmux_20260914_230100.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/doubletfinder_allCellCalled_summary_recovered.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/07_preprocess_pca_v3_tmux_20260915_084000.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder_v2.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/07_preprocess_pca_v2_tmux_20260914_233000.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder_allcellcalled_recovery_tmux_20260914_225900.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/08_harmony_cluster_umap_v2_tmux_20260915_083000.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/09_umap_compat_fallback_tmux_20260915_171000.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/03_merge_v5.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/08_harmony_cluster_umap_tmux_20260915_003000.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/01b_qc_checkpoint_path_v2.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder_allCellCalled.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/03_merge.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/05_doubletfinder_allcellcalled_recovery_tmux_20260914_230300.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/02_input_audit.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/09_scp_umap_v2_tmux_20260915_170000.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/00_logs/01c_allCellCalled_checkpoint_path_20260914_230054.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/06_markers/standardMAD_res0.8_20260915_191457/marker_warnings.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/06_markers/standardMAD_res0.8_20260915_191457/marker_all.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/06_markers/standardMAD_res0.8_20260915_191457/marker_top50.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/06_markers/standardMAD_res0.8_20260915_191457/marker_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/01_removal_audit/removed_cells_by_specimen.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260914_232853/PCA_elbow.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/01_removal_audit/removed_cells_by_dataset.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260914_232853/PCA_by_dataset.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/01_removal_audit/cluster_removal_audit_final_clean.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260914_232853/PCA_elbow.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/01_removal_audit/input_and_removal_summary.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/07_major_annotation/final_major_annotation.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/UMAP_blank_compatFallback_20260915_165720/UMAP_dataset.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/07_major_annotation/canonical_marker_cluster_evidence.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/UMAP_blank_compatFallback_20260915_165720/UMAP_dataset.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/UMAP_blank_compatFallback_20260915_165720/UMAP_fallback_audit.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/07_major_annotation/UMAP_major_celltype_final_clean.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/UMAP_blank_compatFallback_20260915_165720/UMAP_cluster.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/09_final_clean_basic_rerun/07_major_annotation/UMAP_major_celltype_final_clean.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/UMAP_blank_compatFallback_20260915_165720/UMAP_cluster.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/UMAP_blank_compatFallback_20260915_165720/UMAP_split_by_dataset.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/doubletfinder_summary_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/UMAP_blank_compatFallback_20260915_165720/UMAP_split_by_dataset.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/UMAP_blank_compatFallback_20260915_165720/UMAP_orig_ident.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/02_celllevel_GSVA/celllevel_50k_complete_LLPS_GSVA.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/05_harmony/UMAP_blank_compatFallback_20260915_165720/UMAP_orig_ident.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/02_celllevel_GSVA/celllevel_50k_complete_LLPS_GSVA.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/02_celllevel_GSVA/celllevel_expression_matrix_audit.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/10_reports/01_basic_rerun.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/10_reports/resolution1.6_doublet_clean_rerun_report.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/10_reports/03_annotation_dc_plots.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/10_reports/02_markers_and_audits.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/10_reports/04_plots_retry.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/10_reports/plot_provenance.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260915_001009/PCA_by_dataset.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260915_001009/PCA_by_orig_ident.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260915_001009/preprocess_pca_summary.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260915_001009/PCA_by_dataset.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260915_001009/PCA_elbow.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260915_001009/PCA_elbow.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/04_pca/standardMAD_20260915_001009/PCA_by_orig_ident.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/04_QC/celllevel_LLPS_scores_with_metadata.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/04_QC/README_QC.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/04_QC/LLPS_QC_spearman_by_celltype.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/04_QC/LLPS_QC_spearman_all.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/09_resolution_comparison/resolution12_to_resolution16_mapping.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/00_config.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/01_environment_check.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/02b_barcode_overlap_audit.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/run_pipeline.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/02_input_audit.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/05_major_dotplot/major_30_marker_cluster_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/05_major_dotplot/major_30_marker_DotPlot_resolution1.6.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/05_major_dotplot/major_30_marker_DotPlot_resolution1.6.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/code/01_remove_and_rerun.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/code/02_markers_and_audits.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/04_dotplot/plot_provenance.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/04_dotplot/major_27_marker_DotPlot_SCP.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/07_annotation/04_dotplot/major_27_marker_DotPlot_SCP.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/config.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/make_report.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/06_make_report.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/01_prepare_50k_sampling.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/05_QC_and_visualization.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/04_run_pseudobulk_GSVA.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/common.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/06_dc_b_audit/dc_b_umap_centroid_neighbors.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/02_run_celllevel_GSVA.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/06_dc_b_audit/old19_dc_b_split_audit.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/pipeline.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/01_removal_audit/removed_cells_by_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/00_audit_inputs.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/07_dataset_specimen_audit/cluster_by_specimen_fraction_within_cluster.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/05_doubletfinder_v2.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/07_dataset_specimen_audit/cluster_dataset_specimen_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/00_config.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/07_dataset_specimen_audit/cluster_by_specimen_count.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/04_qc_v2.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/07_dataset_specimen_audit/cluster_by_dataset_enrichment.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/code/03_build_pseudobulk.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/03_merge_v3.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/07_dataset_specimen_audit/cluster_by_dataset_count.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/04_qc.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/LLPS_atlas_stage1_report.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/07_dataset_specimen_audit/cluster_by_dataset_fraction_within_cluster.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/05_doubletfinder.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/03_merge.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/03_merge_v5.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/03_merge_v2.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/version_20260914_152000/03_merge_v4.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/01_removal_audit/removed_cells_by_dataset.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/01_removal_audit/input_and_removal_summary.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/02_clean_object/object_after_resolution1.6_removal.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/01_removal_audit/cluster_removal_audit_resolution1.6.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/02_clean_object/object_resolution1.6_annotated.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/02_clean_object/object_after_resolution1.6_harmony_clustering.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/02_clean_object/object_before_resolution1.6_removal.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/01_removal_audit/removed_cells_by_specimen.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/01_removal_audit/removed_cells_by_dataset.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/01_removal_audit/cluster_removal_audit_resolution1.2.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/01_removal_audit/input_and_removal_summary.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/10_reports/04_annotation_plots.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/10_reports/03_prostate_audit.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/10_reports/02_markers_and_audits.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/10_reports/plot_provenance.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/01_sampling/sampling_summary_by_dataset.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/01_sampling/sampling_summary_by_specimen.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/01_sampling/sampling_summary_celltype_x_specimen.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/01_sampling/sampling_summary_by_celltype.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/01_sampling/sampled_barcodes.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/01_sampling/sampling_summary_celltype_x_dataset.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/01_sampling/celllevel_50k_sampling_manifest.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/10_reports/01_basic_rerun.log
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/10_reports/resolution1.2_clean_rerun_report.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/09_resolution_comparison/resolution_fragmentation_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/09_resolution_comparison/resolution08_to_resolution12_mapping.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/04_markers/marker_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/04_markers/markers_top50.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/04_markers/cluster_level_marker_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/04_markers/markers_all.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/04_markers/markers_top100.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/04_markers/marker_warnings.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/UMAP_major_celltype_resolution1.6_transparent.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/UMAP_major_celltype_resolution1.6_transparent.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/UMAP_major_celltype_resolution1.6_white.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/clean_rerun_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/UMAP_major_celltype_resolution1.6_white.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/UMAP_cluster_resolution1.6_white.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/05_major_dotplot/major_30_marker_cluster_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/new_cluster_cell_counts.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/05_major_dotplot/major_30_marker_DotPlot_resolution1.2.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/UMAP_cluster_resolution1.6_white.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/05_major_dotplot/major_30_marker_DotPlot_resolution1.2.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/UMAP_cluster_resolution1.6_transparent.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/03_pca_harmony_umap/UMAP_cluster_resolution1.6_transparent.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/08_major_annotation/proposed_major_annotation_resolution1.6.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/11_resolution1.6_doublet_clean_rerun/08_major_annotation/canonical_marker_cluster_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/03_pseudobulk/celltype_x_specimen_score_matrix.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/03_pseudobulk/pseudobulk_LLPS_GSVA_scores_primary_ge30cells.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/03_pseudobulk/pseudobulk_metadata.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/03_pseudobulk/pseudobulk_LLPS_GSVA_scores_all.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/03_pseudobulk/pseudobulk_raw_counts.rds
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/04_markers/marker_warnings.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/03_pseudobulk/pseudobulk_log2CPM.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/03_pseudobulk/pseudobulk_cellcount_QC.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/05_doubletfinder_allcellcalled_recovery.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/04_markers/marker_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/05_doubletfinder_allcellcalled_recovery_v2_20260914_230100.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/04_markers/markers_top50.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/07_preprocess_pca_v2_20260914_233000.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/04_markers/markers_all.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/09_scp_umap_v2_20260915_170000.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/04_markers/markers_top100.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/00_config.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/code/01_remove_and_rerun.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/07_preprocess_pca_v3_20260915_084000.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/08_major_annotation/UMAP_major_celltype_resolution1.2.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSM4006644_BC1_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/01_standardmad_sensitivity_audit.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/code/02_markers_and_audits.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/08_major_annotation/UMAP_major_celltype_resolution1.2.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p4_NAT_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P01N_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/08_major_annotation/final_major_annotation_resolution1.2.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/04_qc_standardmad.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4465219_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/10_cluster_markers_20260915_173000.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4463209b_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/08_harmony_cluster_umap_v2_20260915_083000.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_BC-01_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/05_doubletfinder_allcellcalled_recovery_v3_20260914_230300.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_NC-01_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/09_umap_compat_fallback_20260915_171000.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4465935_20260914_230054.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/04_qcflags_only_allcellcalled.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4463209a_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/06_overlap_and_final_filter_20260914_231500.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_BC-30_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/08_major_annotation/canonical_marker_cluster_evidence.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/08_harmony_cluster_umap_20260915_003000.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4450398_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/05_doubletfinder_standardmad.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/02_clean_object/object_resolution1.2_annotated.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_BC-24_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/05_doubletfinder_allcellcalled.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/02_clean_object/object_after_resolution1.2_removal.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p5_BCa_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/02_clean_object/object_after_resolution1.2_harmony_clustering.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/07_preprocess_pca_20260914_232700.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P01T_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/02_clean_object/object_before_resolution1.2_removal.qs2
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/10_cluster_markers_presto_20260915_192000.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_NC-30_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/code/standardMAD_20260914_191846/09_scp_umap_20260915_093500.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSM4751267_BC6_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/07_dataset_specimen_audit/cluster_by_dataset_enrichment.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/07_dataset_specimen_audit/cluster_by_dataset_fraction_within_cluster.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_NC-24_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/07_dataset_specimen_audit/cluster_by_dataset_count.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/07_dataset_specimen_audit/cluster_dataset_specimen_summary.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4466585_20260914_230054.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSM4006645_BC2_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/07_dataset_specimen_audit/cluster_by_specimen_fraction_within_cluster.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSM4006648_BC5_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/07_dataset_specimen_audit/cluster_by_specimen_count.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_BC-11_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSM5329919_BCN_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4398343_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/03_pca_harmony_umap/clean_rerun_parameters.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/06_prostate_audit/prostate_urothelial_cluster_expression_long.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p2_NAT_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P07T_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/03_pca_harmony_umap/UMAP_cluster_resolution1.2.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4091568_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSM4006646_BC3_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P05T_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/03_pca_harmony_umap/new_cluster_cell_counts.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P07T_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p3_BCa_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p4_NAT_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/03_pca_harmony_umap/UMAP_cluster_resolution1.2.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_BC-04_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4091568_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P04T_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_NC-05_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P03N_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P02N_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p9_BCa_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/06_prostate_audit/prostate_vs_urothelial_DotPlot_resolution1.2.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p4_BCa_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4465935_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSM4006647_BC4_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_NC-11_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_NC-11_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/06_prostate_audit/prostate_vs_urothelial_DotPlot_resolution1.2.pdf
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P04T_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P07N_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v2/results/10_resolution1.2_clean_rerun/06_prostate_audit/prostate_contamination_audit.csv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSM4751268_BC7_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P05T_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_BC-04_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSM4006647_BC4_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p2_BCa_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P02T_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4463209a_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P07N_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P03N_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P01N_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4450398_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p5_NAT_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P06T_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p7_BCa_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_NC-05_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T8009218_20260914_230054.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p2_BCa_20260914_195742.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/complete_LLPS_unmatched.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSM4751268_BC7_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p6_BCa_20260914_195742.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/LLPS_gene_set_audit.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_NC-04_20260914_195742.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/LLPS_gene_set_provenance.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/gene_detection_audit.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_NC-27_20260914_195742.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/dataset_counts.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p1_BCa_20260914_195742.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/README_input_audit.md
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4471438_20260914_230054.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/input_object_audit.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P03T_20260914_195742.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/specimen_counts.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/major_celltype_counts.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p8_BCa_20260914_195742.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/gene_symbol_duplicate_audit.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4295396_20260914_195742.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/annotation_barcode_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/analysis_config_frozen.rds
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSM4006646_BC3_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/GSE222315_p9_BCa_20260914_195742.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/complete_LLPS_frozen.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_BC-05_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4469479_20260914_230054.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/00_input_audit/metadata_columns.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/T4380845_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/HRA003620_BC-27_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_NC-01_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P03T_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_NC-30_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/cell_classifications/CNP0000460_P05N_20260914_195742.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_BC-11_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/doubletfinder_allCellCalled_checkpoint_path_recovered.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/allCellCalled_20260914_195247/doubletfinder_allCellCalled_parameters_recovered.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/doubletfinder_parameters_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p4_BCa_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p5_BCa_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/standardMAD_20260914_191846/ABORTED_AFTER_1_OF_59_20260914_195247.txt
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4380845_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T8009218_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p6_BCa_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p1_BCa_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_NC-24_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P05N_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSM5329919_BCN_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p2_NAT_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p5_NAT_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_BC-30_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_BC-27_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_NC-04_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_BC-05_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_NC-27_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSM4006645_BC2_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4469479_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSM4751267_BC6_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P06T_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P01T_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4398343_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P01N_ERROR_20260914_154104.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/LLPS_77genes.rdata
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p8_BCa_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4465219_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_BC-01_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P02T_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4463209b_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p7_BCa_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/HRA003620_BC-24_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSE222315_p3_BCa_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4295396_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4466585_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSM4006644_BC1_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/T4471438_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/GSM4006648_BC5_20260914_154610.tsv
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/cell_classifications/CNP0000460_P02N_20260914_154610.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/celllevel_CYCLING_vs_other.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/celllevel_LLPS_GSVA_ridge.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/sampling_QC_dataset.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/02_run_AUCell_chunk.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/standardMAD_20260914_191846/cell_classifications/CNP0000460_P03T_20260914_192744.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/config.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/standardMAD_20260914_191846/cell_classifications/CNP0000460_P02T_20260914_192744.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/03_run_all_chunks.sh
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/12_make_full_AUCell_UMAP_plasma_SCP_blank.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/standardMAD_20260914_191846/cell_classifications/CNP0000460_P01T_20260914_192744.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/03_summarize_chunk_resources.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/07_major_landscape.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/standardMAD_20260914_191846/cell_classifications/CNP0000460_P03N_20260914_192744.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/08_make_figures.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/config.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/specimen_major_celltype_AUCell_distribution.png
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/standardMAD_20260914_191846/cell_classifications/CNP0000460_P01N_20260914_192744.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/11_make_full_AUCell_UMAP_plasma.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/04_method_QC.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_AUCell_vs_pseudobulk_GSVA.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/00_audit_stage3_inputs.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/00_audit_stage2_inputs.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/05_reproducibility_QC.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/01_nFeature_audit.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/common.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/10_make_full_AUCell_UMAP_viridis.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/02_run_AUCell_benchmark.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/09_build_report.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/01_build_chunk_manifest.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/06_build_method_gate.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/04_merge_full_scores.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/pipeline.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/code/06_full_depth_QC.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/08_make_report.R
+/home/jinshengxi/LLPS/1.2 基本处理/LLPS_BASIC/v1/03_doubletfinder/standardMAD_20260914_191846/cell_classifications/CNP0000460_P02N_20260914_192744.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/05_pseudobulk_depth_QC.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/07_make_figures.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/code/03_run_UCell_benchmark.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_nFeature_decile_trend.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/LLPS_atlas_full_UMAP_AUCell1000_plasma.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/sampling_QC_dataset.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_AUCell_vs_pseudobulk_GSVA.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_nFeature_decile_trend.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/celllevel_LLPS_GSVA_original_UMAP.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_AUCell_vs_nFeature_bin2d.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/selected_lineage_AUCell_vs_nFeature.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/pseudobulk_LLPS_GSVA_primary_violin_points.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_UMAP_LLPS_AUCell1000.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_UMAP_LLPS_AUCell1000.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/pseudobulk_specimen_x_celltype_RAW_GSVA_heatmap.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/LLPS_atlas_full_UMAP_AUCell1000_viridis_readme.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/selected_lineage_AUCell_vs_nFeature.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/LLPS_atlas_full_UMAP_AUCell1000_viridis.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/LLPS_atlas_full_UMAP_AUCell1000_plasma.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_major_celltype_violin_boxplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/LLPS_atlas_full_UMAP_AUCell1000_plasma_readme.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_AUCell_vs_nFeature_bin2d.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/full_major_celltype_violin_boxplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/LLPS_atlas_full_UMAP_AUCell1000_viridis.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/06_figures/specimen_major_celltype_AUCell_distribution.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/celllevel_LLPS_GSVA_original_UMAP.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/sampling_QC_major_celltype.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/celllevel_LLPS_GSVA_violin_boxplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/sampling_QC_specimen.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/sampling_QC_major_celltype.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/celllevel_LLPS_GSVA_violin_boxplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/sampling_QC_specimen.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/celllevel_CYCLING_vs_other.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/celllevel_LLPS_GSVA_ridge.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/pseudobulk_LLPS_GSVA_primary_violin_points.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/05_figures/pseudobulk_specimen_x_celltype_RAW_GSVA_heatmap.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/03_merged_scores/full_merge_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/03_merged_scores/full_355k_LLPS_AUCell1000_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/03_merged_scores/full_355k_LLPS_AUCell1000_scores.qs
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/03_merged_scores/chunk_completion_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/04_method_QC/method_depth_correlation_overall.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/04_method_QC/parameter_score_correlations.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/04_method_QC/method_score_by_nFeature_decile.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/04_method_QC/celltype_score_summary_by_method.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/04_method_QC/method_depth_correlation_by_celltype.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/04_method_QC/specimen_celltype_median_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/04_method_QC/method_QC_merged.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/01_chunk_manifest/chunk_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/01_chunk_manifest/chunk_manifest_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/01_chunk_manifest/full_AUCell_chunk_manifest.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/02_AUCell/AUCell_scores_50k.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/02_AUCell/AUCell_input_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/R/SpatialExperiment.rdb
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/R/SpatialExperiment
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/R/SpatialExperiment.rdx
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/01b_extend_resolution_scan.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_umap_subclusters.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_umap_subclusters.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_llps_featureplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_llps_barplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_analysis_summary.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_cluster_by_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_input_cell_counts.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_pca_variance.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_llps_cluster_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/04_validate_outputs.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_umap_annotation.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/R/GSVA.rdx
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_subset.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/R/GSVA
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_llps_barplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_cluster_expression_qc.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/R/GSVA.rdb
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/annotation_decisions.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_marker_dotplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/02_markers.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_marker_dotplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_output_manifest.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/04_full_QC/full_score_by_nFeature_decile.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/04_full_QC/full_depth_correlation_overall.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/04_full_QC/full_AUCell_dynamic_range.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/04_full_QC/full_score_by_nFeature_decile_selected_celltypes.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/04_full_QC/full_depth_correlation_by_celltype.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/04_full_QC/stage2_vs_stage3_score_reproducibility.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/LLPS_atlas_stage3_full_AUCell_report.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/help/AnIndex
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/help/SpatialExperiment.rdb
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/help/paths.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/help/aliases.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/help/SpatialExperiment.rdx
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_canonical_marker_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/help/AnIndex
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_umap_source_major.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/help/GSVA.rdx
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/analysis_settings.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/01_joint_subcluster.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/03_annotation_plots.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/help/GSVA.rdb
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_llps_featureplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_global_score_reference.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/help/paths.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_cluster_composition_qc.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_cluster_by_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_cluster_top20_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_resolution_composition.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/help/aliases.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_cell_metadata_scores_umap.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_cluster_annotation_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/05_QC_and_visualization.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_llps_violin.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_marker_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/nFeature_overall_histogram_density.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_cluster_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_old_C0_by_dataset_QC.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/celllevel_GSVA_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_cluster_neighbor_connectivity.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_old_C0_within_dataset_marker_checks.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/nFeature_by_major_celltype_violin_boxplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/sessionInfo_sampling.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_llps_barplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_llps_violin.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/sessionInfo_pseudobulk_build.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_llps_violin.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/candidate_resolution_stability.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/method_median_score_by_nFeature_decile.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/method_median_score_by_nFeature_decile.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_marker_dotplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/method_specimen_level_point_boxplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_umap_annotation.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/resolution_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/memory_after.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/nFeature_by_major_celltype_violin_boxplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/05_global_split_QC.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/sessionInfo_pseudobulk_GSVA.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_resolution_marker_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/method_specimen_level_point_boxplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/resolution_composition.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/04_run_pseudobulk_GSVA.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/html/00Index.html
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_llps_cluster_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/03_build_pseudobulk.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/method_celltype_violin_boxplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_llps_umap.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/html/R.css
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/03_global_final_markers.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/images/test_mag.gif
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/method_celltype_violin_boxplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/libs/GSVA.so
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/output_manifest.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/resolution_clean_v2_crosswalk.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/00_input_audit/LLPS_unmatched_genes.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/07_figures/nFeature_overall_histogram_density.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/images/man.gif
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_output_manifest.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/00_input_audit/LLPS_gene_set_consistency.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/memory_before.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/images/building.jpg
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/00_input_audit/input_provenance_sha256.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_marker_dotplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/sessionInfo_audit.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_umap_source_major.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_marker_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster/fibro_pericyte_resolution_scan.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/images/shape_rectangle.gif
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_umap_clusters.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/00_input_audit/full_input_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/celllevel_GSVA.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/images/objects.gif
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_object.qs
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/00_audit_inputs.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_cell_metadata_scores_umap.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/LICENSE
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/sessionInfo_QC_visualization.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_llps_umap.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_settings.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/sessionInfo_celllevel_GSVA.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_candidate_pilot_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/sessionInfo_report.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/00_input_audit/stage3_config_frozen.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/excluded_clean_v2_C5_barcodes.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/00_input_audit/major_celltype_counts.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/code_sha256.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/resolution_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/00_input_audit/README.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/logs/01_prepare_50k_sampling.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_llps_violin.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_v2_crosswalk.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_umap_v2_origin.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/resolution_scan.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_composition.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_old_C0_global_split_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_umap_clusters.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/06_validate_global_final.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/resolution_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_annotation_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_umap_v2_origin.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/html/00Index.html
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/html/R.css
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/reports/LLPS77_major_atlas_report.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/reports/LLPS77_input_audit.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/README
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/03_UCell/UCell_parameter_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/03_UCell/UCell_scores_50k.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/03_UCell/UCell_input_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_013_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_001_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/sessionInfo_input_audit.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_002_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_014_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_006_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_015_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_002_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/02_merge_and_save_object_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_008_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_001.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_013.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_003_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_011_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/sessionInfo_merge.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_009.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_006_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_004_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/sessionInfo_analysis.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_007.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_003.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/extdata/cache4vignette_leukemia_es.RData
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_012_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_003_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_002.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/DESCRIPTION
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_014_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_005_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_012.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/NAMESPACE
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/NEWS
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_009_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/INDEX
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/03_analyze_plot_report.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_014.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_top20_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/CITATION
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/05_major_landscape/celltype_dataset_AUCell_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_011_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/03_analyze_plot_report_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_expression_qc.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/05_major_landscape/celltype_condition_AUCell_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_003_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/common_clean_v4.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/05_major_landscape/full_celltype_AUCell_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_009_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_010.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/02_global_candidate_markers.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_013_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/05_major_landscape/specimen_celltype_AUCell_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_006.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_011_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_001_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_015_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/05_major_landscape/landscape_data.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_chunk_manifest.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_004.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_candidate_pilot_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/05_major_landscape/full_AUCell_vs_pseudobulk_GSVA.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_resource_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/01_global_recluster_without_C5.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_001_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_007_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_input_audit.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/R/magick.rdb
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_analysis_summary.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_010_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_014_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/R/magick.rdx
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_001_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_full_AUCell_UMAP_plasma_SCP_blank.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_007_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/R/magick
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_011.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_015_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_007_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/R/sysdata.rdb
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/R/sysdata.rdx
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_010_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_012_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_002_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/07_package_manifest.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_001.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_annotation_decisions.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/02_merge_and_save_object.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/04_merge_full_scores.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_004_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_013.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_009_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_003_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/05_reproducibility_QC.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_012_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/07_major_landscape.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/04_global_final_plots.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_merge.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_005.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_llps_barplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_009.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/retained_cell_barcodes.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/00_audit_and_manifest_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_006_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/00_input_audit.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_validation_checks.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/clean_v4_cluster_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_007.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_013_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_003.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/00_input_audit/stage2_config_frozen.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_008_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_002.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/00_input_audit/LLPS_gene_set_consistency.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_015_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_012.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/00_input_audit/input_provenance_sha256.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_002_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/00_input_audit/barcode_match_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_full_AUCell_UMAP_viridis.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_009_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_014.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/00_input_audit/stage2_input_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_015.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/06_full_depth_QC.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/00_input_audit/README.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_004_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_011_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_010_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_010.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_011_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_008.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_015_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/00_audit_and_manifest.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_004.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_006_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/memory_after.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_013_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/01_build_chunk_manifest.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_014_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_005_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_005_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/logs/chunk_008_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_cluster_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_C0_local_umap.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_annotation_decisions.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/retained_cell_barcodes.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/C0_local_resolution_scan.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_marker_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/C0_candidate_pilot_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/matrixModule.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_010_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_C0_children_top30.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/downloadModule.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_C0_within_dataset_marker_checks.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/global.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_llps_umap.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_001_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/modalGSVAModule.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_v2_crosswalk.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_007_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/closeModule.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_007_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/06_hierarchical_final_markers.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/plot2_Module.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/argumentsDataModule.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/01_recluster_without_C5.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_010_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/server.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/C0_local_candidate_stability.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_003_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/plot3_Module.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/geneSetsModule.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/plot1_Module.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/08_make_figures.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/ui.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_005_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_009_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_006.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/Meta/links.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/Meta/features.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/Meta/Rd.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/Meta/hsearch.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/Meta/vignette.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/Meta/package.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/memory_before.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/Meta/nsInfo.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_figures.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_011.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_012_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_004_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_C0_local_umap.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_012_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_005.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_full_QC.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_output_manifest.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_008_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_landscape.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_expression_coverage_by_major.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_C0_expression_QC.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_overall_score_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_002_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_report.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section1/outs/raw_feature_bc_matrix/barcodes.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_chunk_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/01b_local_joint_scan.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_015.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section1/outs/raw_feature_bc_matrix/matrix.mtx
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_matched_genes.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_umap_v2_origin.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_004_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_QC_correlations.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_all_cell_scores.qs
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_full_AUCell_UMAP_plasma.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_input_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_008.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_chunk_resource_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_006_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/common_clean_v3.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_dataset_major_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_013_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_014_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_chunk_manifest.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_analysis_summary.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/sessionInfo_reproducibility.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_gene_matching_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_005_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/www/GSVA.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_specimen_major_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/logs/chunk_008_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/help/AnIndex
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section1/outs/raw_feature_bc_matrix/features.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_settings.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_major_celltype_counts.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/shinyApp/www/style.css
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/help/magick.rdb
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_all_cell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/help/magick.rdx
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/09_validate_final.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_merge_audit.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/help/paths.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_frozen_inputs.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_llps_umap.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/help/aliases.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_unmatched_genes.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/resolution_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/tables/LLPS77_major_celltype_summary.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_C0_children_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_008_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_annotation_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_003_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_marker_dotplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_001_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_005_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_015_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/C0_local_resolution_composition.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_009_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/unitTests/test_sparse.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_010_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_013_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/unitTests/test_newAPI.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_015_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/unitTests/test_inputdatacontainers.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_012_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/unitTests/test_ssgsea.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_010_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/resolution_scan.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_003_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/unitTests/test_gsvaCcode.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_006_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/unitTests/test_gsvaRanks.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_005_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_llps_cluster_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_umap_clusters.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/unitTests/test_params.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/resolution_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section1/outs/spatial/scalefactors_json.json
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_013_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/global_res012_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/doc/GSVA.html
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_002_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/doc/index.html
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section1/outs/spatial/tissue_positions_list.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_006_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_004_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/doc/GSVA.Rmd
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/GSVA/doc/GSVA.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section1/outs/spatial/tissue_lowres_image.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_012_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/INDEX
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_008_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_014_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/CITATION
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_009_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_007_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_011_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/excluded_clean_v2_C5_barcodes.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_001_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_004_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_014_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_002_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/C0_local_resolution_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/libs/magick.so
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_007_status.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/C0_local_resolution_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage3_full_AUCell_v1/02_chunk_scores/chunk_011_AUCell_scores.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/sessionInfo_report.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/output_manifest.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/sessionInfo_method_gate.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/method_runtime_resources.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/sessionInfo_figures.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/sessionInfo_UCell.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/UCell_memory_before.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/AUCell.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/code_sha256.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/07_make_figures.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/UCell.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/LLPS_atlas_stage2_scoring_benchmark_report.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/UMAP_LLPS77_AUC_q995_visualization.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/LLPS77_dataset_major_specimen_median_heatmap.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/LLPS77_dataset_major_specimen_median_heatmap.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/UMAP_LLPS77_AUC_raw.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/LLPS77_major_celltype_violin.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/LLPS77_major_celltype_summary.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/LLPS77_major_celltype_violin.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/UMAP_LLPS77_AUC_q995_visualization.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/UMAP_LLPS77_AUC_raw.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/plots/LLPS77_major_celltype_summary.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/sessionInfo_input_audit.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/sessionInfo_nFeature_audit.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/06_method_gate/METHOD_SELECTION_GATE.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/04_method_QC.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/06_method_gate/method_dynamic_range.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/AUCell_memory_before.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/doc/SpatialExperiment.Rmd
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/doc/SpatialExperiment.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/doc/index.html
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/doc/SpatialExperiment.html
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/00_input_audit.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/AUCell_memory_after.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/html/00Index.html
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/sessionInfo_method_QC.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/html/R.css
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/05_pseudobulk_depth_QC.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/AUCell_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/01_nFeature_audit.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/UCell_time_v.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/DESCRIPTION
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/UCell_memory_after.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/06_build_method_gate.log
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/WORDLIST
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/sessionInfo_AUCell.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/NAMESPACE
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/logs/sessionInfo_pseudobulk_QC.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/NEWS
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/INDEX
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/01_nFeature_audit/nFeature_distribution_overall.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/01_nFeature_audit/nFeature_distribution_by_celltype.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/01_nFeature_audit/nCount_distribution_by_celltype.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/global_res012_object.qs
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_expression_qc.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_C0_by_dataset_expression_QC.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_llps_barplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_validation_checks.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_llps_violin.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_top20_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/10_package_manifest.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_C0_local_object.qs
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/C0_candidate_pilot_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_cell_metadata_scores_umap.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_composition.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/resolution_clean_v2_crosswalk.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/08_C0_dataset_QC.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_umap_v2_origin.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_llps_barplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_object.qs
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/C0_local_resolution_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/resolution_composition.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/04_C0_local_scan.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/Meta/links.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/Meta/features.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/Meta/Rd.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/C2_manual_selection_choices.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/Meta/hsearch.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/final_dotplot_data.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/03_validate_and_short_rationale.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/final_panel_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/Meta/vignette.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/source_object_assignment_DE_fingerprints.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/ranked_C2_relative_marker_candidates.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/validation_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/Meta/package.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/top20_C2_relative_marker_candidates.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/final_21_gene_marker_panel.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/Meta/nsInfo.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/final_marker_dotplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/C2_selection_rationale.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/unchanged_input_file_checksums.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/all_C2_relative_candidates_with_exclusion_audit.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/C2_selection_rationale_full_audit.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/01_rank_C2_relative_candidates.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section2/outs/raw_feature_bc_matrix/barcodes.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/DESCRIPTION
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section2/outs/raw_feature_bc_matrix/matrix.mtx
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/NAMESPACE
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/02_select_final_panel_and_plot.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/NEWS
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section2/outs/raw_feature_bc_matrix/features.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/final_C2_three_marker_selection.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_closeness_informative_existing_HVGs.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v6_final_panel/final_marker_dotplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/unchanged_cell_assignments_scores_QC.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/legacy_gene_alias_expression_by_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/03_validation_and_review_audit.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/fixed_embedding_sampled_silhouette.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/global_res012_umap.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/cluster_by_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/llps_global_res012_cluster_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_pairwise_markers_combined.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/05_pseudobulk_QC/celllevel_vs_pseudobulk_correlations.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/cluster_QC_by_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/05_pseudobulk_QC/pseudobulk_depth_metrics.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/resolution_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_QC_within_shared_specimens.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/two_tier_C2_analysis_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/global_res012_numeric_violin.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/llps_global_res012_violin_cluster_order.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/global_res012_cell_labels_scores.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/updated_dotplot_data.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/two_tier_eligible_candidates.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/fixed_embedding_silhouette_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/05_pseudobulk_QC/pseudobulk_depth_correlations_overall.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/tier_candidate_counts.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_004_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/05_pseudobulk_QC/pseudobulk_depth_correlations_by_dataset.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_QC_comparison.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_vs_other_QC_within_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_006_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage2_scoring_benchmark_v1/05_pseudobulk_QC/pseudobulk_depth_correlations_by_celltype.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_vs_C0_pairwise_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_013_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/02_panel_stratification_and_figures.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_008_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/global_res012_umap.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/doc/intro.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/selected_and_diagnostic_genes_by_cluster_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/llps_global_res012_violin_cluster_order.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_009_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/doc/index.html
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/panel_plot_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_dedicated_two_tier_marker_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_005_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/global_res016_to_res012_crosswalk.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/marker_dotplot_two_tier_publication_style.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/doc/intro.html
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/validation_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/doc/intro.Rmd
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_umap_clusters.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C1_selected_supportive_markers_pairwise_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/two_tier_all_candidate_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/proposed_final_marker_panel_with_tiers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_marker_dotplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/01_two_tier_and_C2_audit.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_transcriptional_closest_clusters.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_cross_cluster_and_pairwise_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/cluster_QC_comparison.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/05_C0_candidate_markers.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_015_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_003_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/selected_marker_scaled_expression_matrix.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/07_final_plots.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_010_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_APOE_dataset_stratified_contrast.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_001_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_APOE_vs_other_by_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_mean_expression_maximal_genes.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_002_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_protein_coding_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_007_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_vs_C5_pairwise_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/final_panel_requested_metrics.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_011_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/clean_v3_llps_violin.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section2/outs/spatial/scalefactors_json.json
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_012_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_APOE_supportive_pairwise_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_plot_cell_data.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/chunks/chunk_014_LLPS77_AUC.tsv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section2/outs/spatial/tissue_positions_list.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/top10_two_tier_candidates_per_cluster.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/proposed_marker_choices.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/SpatialExperiment/extdata/10xVisium/section2/outs/spatial/tissue_lowres_image.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v3_noC5/candidate_resolution_stability.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/cluster_QC_by_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_dedicated_audit_and_two_tier_summary.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_fresh_expanded_positive_vs_rest_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C1_dedicated_two_tier_marker_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/marker_dotplot_two_tier_publication_style.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C2_QC_comparison.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/C1_previous_mural_marker_reassessment.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/source_major_composition.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/marker_HGNC_annotation.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/Meta/package.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v5_two_tier/cluster_by_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/Meta/nsInfo.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/Meta/hsearch.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/Meta/vignette.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/Meta/Rd.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/Meta/features.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/hgnc_complete_set.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_SCP_LLPS_violin_unmarked.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib/magick/Meta/links.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_SCP_umap_transparent.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_LLPS_cluster_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_SCP_umap_white.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_top3_dotplot_average_expression.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/objects/major_annotated_with_LLPS77_AUC.qs
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/C0_vs_C5_test_diagnostics.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/C0_vs_C5_paired_specimen_medians.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_top3_gene_dotplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C1_C3_top10_pairwise_contrast_candidates.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C1_top10_specificity.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C4_top10_specificity.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/ranked_specificity_table.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_SCP_umap_transparent.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/scripts/config.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_all_positive_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/scripts/02_merge_and_save_object.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_specimen_medians.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/scripts/common.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results_umap_continuous/llps_77_gene_matching.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results_umap_continuous/llps_77_score_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/scripts/03_analyze_plot_report.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/01_build_specificity_and_pairwise.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results_umap_continuous/llps_77_umap_continuous.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/scripts/01_run_AUCell_chunk.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/refined_dotplot_data.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results_umap_continuous/llps_77_umap_plot_data.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/scripts/00_audit_and_manifest.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results_umap_continuous/llps_77_AUCell_scores.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/scripts/run_all.sh
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C3_top10_specificity.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results_umap_continuous/llps_77_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results_umap_continuous/llps_77_umap_continuous.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results_umap_continuous/llps_77_umap_continuous.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/res012_SCP_LLPS_violin_primary_paired_wilcoxon.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/marker_dotplot_publication_data.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_differences_normality_diagnostics.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/full_candidate_specificity_with_exclusions.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_SCP_umap_white.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/02_finalize_review_and_plot.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/prepare_markers.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_differences_qqplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/finish_violin.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/previous_panel_specificity_reassessment.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_sensitivity_report.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/proposed_marker_rowwise_zscore_matrix.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_SCP_LLPS_violin_unmarked.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/beautify_res012.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_top3_gene_dotplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_differences_histogram.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_beautification_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/cluster_marker_confidence_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_differences_normality_diagnostics.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/fixed_cluster_by_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/cluster_SCP_Paired_colors.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/publication_style_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/C0_vs_C5_paired_differences.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/proposed_marker_choices.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/res012_top3_protein_coding_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/proposed_marker_dotplot_data.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/proposed_3_markers_per_cluster_for_manual_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/proposed_final_marker_panel_with_rationale.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/marker_dotplot_style_v1.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_differences_qqplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/marker_dotplot_existing_markers_no_grid.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/fixed_C0_C6_positive_FindAllMarkers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/res012_SCP_LLPS_violin_primary_paired_wilcoxon.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/detection_fraction_matrix.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/C4_top20_candidate_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/06_package_manifest.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_cluster_by_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/top10_specificity_candidates_per_cluster.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/marker_dotplot_style_v2.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/C2_top20_candidate_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/specificity_analysis_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/unchanged_marker_display_order.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_analysis_summary.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/core_cycling_program_detection_support.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_sensitivity_analysis.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/restyle_publication_figures.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C1_C3_cross_cluster_and_pairwise_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_differences_histogram.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_cluster_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C2_S100P_stromal_epithelial_cell_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/llps_violin_no_titles_no_significance.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/all_protein_coding_positive_candidates.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_sensitivity_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C2_S100P_coexpression_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/marker_dotplot_publication_style.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/paired_difference_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/marker_discovery_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/llps_violin_no_titles_no_significance.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_canonical_marker_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/C0_vs_C5_paired_test_results.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/retained_cell_barcodes.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/canonical_lineage_specificity.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/publication_style_v2/marker_dotplot_publication_style.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/C1_top20_candidate_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/marker_dotplot_publication_style.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/beautified_SCP_protein_coding_top3/paired_specimen_sensitivity/normality_visual_review.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C2_top10_specificity.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_marker_dotplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/02_review_marker_candidates.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/fixed_cluster_by_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/pct_expr_matrix.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/01b_verify_native_seed.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C1_vs_C3_pairwise_marker_table.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/marker_dotplot_publication_style.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/avg_expr_matrix.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_annotation_decisions.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C2_extensive_candidate_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C0_top10_specificity.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_additional_review_dotplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/fixed_cell_assignment_score_audit.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_umap_clusters.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/refinement_plot_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/marker_specificity_audit.md
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C6_top10_specificity.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/validation_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/03_validate_outputs.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v4_specificity/C5_top10_specificity.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/biological_marker_review_notes.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_cell_metadata_scores_umap.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_umap_source_major.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/candidate_screen_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_llps_barplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/02_candidate_markers.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_marker_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_preliminary_annotation_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_previous_to_new_clusters.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/top20_candidate_markers_for_manual_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/C0_top20_candidate_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/C3_top20_candidate_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/README_review_status.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/top20_candidate_markers_per_cluster.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/marker_dotplot_publication_style.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/marker_dotplot_publication_style.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/fixed_cluster_cell_labels_scores.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/fixed_cluster_QC_context.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/03_grid_free_dotplots.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/C6_top20_candidate_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/C5_top20_candidate_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/candidate_and_canonical_expression_by_cluster.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/biological_context_references.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/positive_markers_with_candidate_metrics.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/marker_dotplot_existing_markers_no_grid.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/missing_canonical_marker_genes.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/proposed_marker_choices.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/grid_free_dotplot_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/cluster_identity_and_state_review.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/01_fixed_cluster_marker_discovery.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/marker_dotplot_proposed_markers_no_grid.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/marker_dotplot_proposed_markers_no_grid.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/canonical_lineage_and_cycling_marker_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/marker_discovery_review_v3/fixed_clusters_source_major_composition.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_settings.rds
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/04_clean_plots_save.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_output_manifest.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_top20_markers.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/retained_major_counts.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_llps_cluster_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_llps_umap.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/resolution_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/resolution_scan.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_cluster_composition_qc.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/02b_local_resolution_scan.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_llps_barplot.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_llps_umap.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/resolution_dataset.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_umap_clusters.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/03_final_markers.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/excluded_cluster_counts.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_additional_review_dotplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/candidate_marker_screens.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_cluster_by_specimen.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/resolution_evidence.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_sessionInfo.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/resolution_composition.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/excluded_C4_C5_C6_barcodes.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/01_clean_recluster.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_marker_dotplot.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_expression_qc.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_validation_checks.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/common_clean_v2.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_umap_preliminary_identity.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/candidate_resolution_stability.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_llps_violin.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_umap_source_major.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_llps_violin.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/candidate_screen_marker_summary.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_umap_preliminary_identity.png
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/05_validate_outputs.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/clean_v2_object.qs
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/llps_without_C5/excluded_C5_barcodes.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/llps_without_C5/clean_v2_llps_summary_without_C5.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/llps_without_C5/llps_without_C5_run_log.txt
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/llps_without_C5/clean_v2_llps_violin_without_C5.pdf
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/llps_without_C5/plot_llps_without_C5.R
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/llps_without_C5/clean_v2_llps_cells_without_C5.csv
+/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v2/llps_without_C5/clean_v2_llps_violin_without_C5.png

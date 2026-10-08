@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html>
+<head><title>R: Modeling Intercellular Communication by Linking Ligands to
+Target Genes with NicheNet</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body><div class="container">
+<h1> Modeling Intercellular Communication by Linking Ligands to
+Target Genes with NicheNet
+<img class="toplogo" src="../../../doc/html/Rlogo.svg" alt="[R logo]" />
+</h1>
+<hr/>
+<div style="text-align: center;">
+<a href="../../../doc/html/packages.html"><img class="arrow" src="../../../doc/html/left.jpg" alt="[Up]" /></a>
+<a href="../../../doc/html/index.html"><img class="arrow" src="../../../doc/html/up.jpg" alt="[Top]" /></a>
+</div><h2>Documentation for package &lsquo;nichenetr&rsquo; version 2.2.1.1</h2>
+
+<ul><li><a href="../DESCRIPTION">DESCRIPTION file</a>.</li>
+</ul>
+
+<h2>Help Pages</h2>
+
+
+<p style="text-align: center;">
+<a href="#A">A</a>
+<a href="#B">B</a>
+<a href="#C">C</a>
+<a href="#D">D</a>
+<a href="#E">E</a>
+<a href="#G">G</a>
+<a href="#H">H</a>
+<a href="#I">I</a>
+<a href="#L">L</a>
+<a href="#M">M</a>
+<a href="#N">N</a>
+<a href="#O">O</a>
+<a href="#P">P</a>
+<a href="#R">R</a>
+<a href="#S">S</a>
+<a href="#V">V</a>
+<a href="#W">W</a>
+</p>
+
+
+<h2><a id="A">-- A --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="add_hyperparameters_parameter_settings.html">add_hyperparameters_parameter_settings</a></td>
+<td>Add hyperparameters to existing parameter settings</td></tr>
+<tr><td style="width: 25%;"><a href="add_ligand_popularity_measures_to_perfs.html">add_ligand_popularity_measures_to_perfs</a></td>
+<td>Merge target gene prediction performances with popularity measures of ligands</td></tr>
+<tr><td style="width: 25%;"><a href="add_new_datasource.html">add_new_datasource</a></td>
+<td>Add a new data source to the model</td></tr>
+<tr><td style="width: 25%;"><a href="alias_to_symbol_seurat.html">alias_to_symbol_seurat</a></td>
+<td>Convert aliases to official gene symbols in a Seurat Object</td></tr>
+<tr><td style="width: 25%;"><a href="annotation_data_sources.html">annotation_data_sources</a></td>
+<td>Annotation table of all data sources used in the NicheNet model</td></tr>
+<tr><td style="width: 25%;"><a href="apply_hub_corrections.html">apply_hub_corrections</a></td>
+<td>Apply hub corrections to the weighted integrated ligand-signaling and gene regulatory network</td></tr>
+<tr><td style="width: 25%;"><a href="assess_influence_source.html">assess_influence_source</a></td>
+<td>Assess the influence of an individual data source on ligand-target probability scores</td></tr>
+<tr><td style="width: 25%;"><a href="assess_rf_class_probabilities.html">assess_rf_class_probabilities</a></td>
+<td>Assess probability that a target gene belongs to the geneset based on a multi-ligand random forest model</td></tr>
+<tr><td style="width: 25%;"><a href="assign_ligands_to_celltype.html">assign_ligands_to_celltype</a></td>
+<td>Assign ligands to cell types</td></tr>
+</table>
+
+<h2><a id="B">-- B --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="bootstrap_ligand_activity_analysis.html">bootstrap_ligand_activity_analysis</a></td>
+<td>Run ligand activity analysis with bootstrap</td></tr>
+</table>
+
+<h2><a id="C">-- C --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="calculate_de.html">calculate_de</a></td>
+<td>Calculate differential expression of one cell type versus all other cell types</td></tr>
+<tr><td style="width: 25%;"><a href="calculate_fraction_top_predicted.html">calculate_fraction_top_predicted</a></td>
+<td>Determine the fraction of genes belonging to the geneset or background and to the top-predicted genes.</td></tr>
+<tr><td style="width: 25%;"><a href="calculate_fraction_top_predicted_fisher.html">calculate_fraction_top_predicted_fisher</a></td>
+<td>Perform a Fisher's exact test to determine whether genes belonging to the gene set of interest are more likely to be part of the top-predicted targets.</td></tr>
+<tr><td style="width: 25%;"><a href="calculate_niche_de.html">calculate_niche_de</a></td>
+<td>Calculate differential expression of cell types in one niche versus all other niches of interest.</td></tr>
+<tr><td style="width: 25%;"><a href="calculate_niche_de_targets.html">calculate_niche_de_targets</a></td>
+<td>Calculate differential expression of receiver cell type in one niche versus all other niches of interest: focus on finding DE genes</td></tr>
+<tr><td style="width: 25%;"><a href="calculate_p_value_bootstrap.html">calculate_p_value_bootstrap</a></td>
+<td>Calculate ligand p-values from the bootstrapped ligand activity analysis</td></tr>
+<tr><td style="width: 25%;"><a href="calculate_spatial_DE.html">calculate_spatial_DE</a></td>
+<td>Calculate differential expression between spatially different subpopulations of the same cell type</td></tr>
+<tr><td style="width: 25%;"><a href="classification_evaluation_continuous_pred_wrapper.html">classification_evaluation_continuous_pred_wrapper</a></td>
+<td>Assess how well classification predictions accord to the expected response</td></tr>
+<tr><td style="width: 25%;"><a href="combine_sender_receiver_de.html">combine_sender_receiver_de</a></td>
+<td>Combine the differential expression information of ligands in the sender celltypes with the differential expression information of their cognate receptors in the receiver cell types</td></tr>
+<tr><td style="width: 25%;"><a href="construct_ligand_target_matrix.html">construct_ligand_target_matrix</a></td>
+<td>Construct a ligand-target probability matrix for ligands of interest.</td></tr>
+<tr><td style="width: 25%;"><a href="construct_ligand_tf_matrix.html">construct_ligand_tf_matrix</a></td>
+<td>Construct a ligand-tf signaling probability matrix for ligands of interest.</td></tr>
+<tr><td style="width: 25%;"><a href="construct_model.html">construct_model</a></td>
+<td>Construct a ligand-target model given input parameters.</td></tr>
+<tr><td style="width: 25%;"><a href="construct_random_model.html">construct_random_model</a></td>
+<td>Construct a randomised ligand-target model given input parameters.</td></tr>
+<tr><td style="width: 25%;"><a href="construct_tf_target_matrix.html">construct_tf_target_matrix</a></td>
+<td>Construct a tf-target matrix.</td></tr>
+<tr><td style="width: 25%;"><a href="construct_weighted_networks.html">construct_weighted_networks</a></td>
+<td>Construct weighted layer-specific networks</td></tr>
+<tr><td style="width: 25%;"><a href="convert_alias_to_symbols.html">convert_alias_to_symbols</a></td>
+<td>Convert aliases to official gene symbols</td></tr>
+<tr><td style="width: 25%;"><a href="convert_cluster_to_settings.html">convert_cluster_to_settings</a></td>
+<td>Convert cluster assignment to settings format suitable for target gene prediction.</td></tr>
+<tr><td style="width: 25%;"><a href="convert_expression_settings_evaluation.html">convert_expression_settings_evaluation</a></td>
+<td>Convert expression settings to correct settings format for evaluation of target gene prediction.</td></tr>
+<tr><td style="width: 25%;"><a href="convert_expression_settings_evaluation_regression.html">convert_expression_settings_evaluation_regression</a></td>
+<td>Convert expression settings to correct settings format for evaluation of target gene log fold change prediction (regression).</td></tr>
+<tr><td style="width: 25%;"><a href="convert_gene_list_settings_evaluation.html">convert_gene_list_settings_evaluation</a></td>
+<td>Convert gene list to correct settings format for evaluation of target gene prediction.</td></tr>
+<tr><td style="width: 25%;"><a href="convert_human_to_mouse_symbols.html">convert_human_to_mouse_symbols</a></td>
+<td>Convert human gene symbols to their mouse one-to-one orthologs.</td></tr>
+<tr><td style="width: 25%;"><a href="convert_mouse_to_human_symbols.html">convert_mouse_to_human_symbols</a></td>
+<td>Convert mouse gene symbols to their human one-to-one orthologs.</td></tr>
+<tr><td style="width: 25%;"><a href="convert_settings_ligand_prediction.html">convert_settings_ligand_prediction</a></td>
+<td>Convert settings to correct settings format for ligand prediction.</td></tr>
+<tr><td style="width: 25%;"><a href="convert_settings_tf_prediction.html">convert_settings_tf_prediction</a></td>
+<td>Convert settings to correct settings format for TF prediction.</td></tr>
+<tr><td style="width: 25%;"><a href="convert_settings_topn_ligand_prediction.html">convert_settings_topn_ligand_prediction</a></td>
+<td>Converts expression settings to format in which the total number of potential ligands is reduced up to n top-predicted active ligands.</td></tr>
+<tr><td style="width: 25%;"><a href="convert_single_cell_expression_to_settings.html">convert_single_cell_expression_to_settings</a></td>
+<td>Prepare single-cell expression data to perform ligand activity analysis</td></tr>
+<tr><td style="width: 25%;"><a href="correct_topology_ppr.html">correct_topology_ppr</a></td>
+<td>Adapt a ligand-target probability matrix construced via PPR by correcting for network topolgoy.</td></tr>
+</table>
+
+<h2><a id="D">-- D --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="diagrammer_format_signaling_graph.html">diagrammer_format_signaling_graph</a></td>
+<td>Prepare extracted ligand-target signaling network for visualization with DiagrammeR.</td></tr>
+</table>
+
+<h2><a id="E">-- E --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="estimate_source_weights_characterization.html">estimate_source_weights_characterization</a></td>
+<td>Estimate data source weights of data sources of interest based on leave-one-in and leave-one-out characterization performances.</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_importances_ligand_prediction.html">evaluate_importances_ligand_prediction</a></td>
+<td>Evaluation of ligand activity prediction based on ligand importance scores.</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_ligand_prediction_per_bin.html">evaluate_ligand_prediction_per_bin</a></td>
+<td>Evaluate ligand activity predictions for different bins/groups of targets genes</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_model.html">evaluate_model</a></td>
+<td>Construct and evaluate a ligand-target model given input parameters.</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_model_application.html">evaluate_model_application</a></td>
+<td>Construct and evaluate a ligand-target model given input parameters (for application purposes).</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_model_application_multi_ligand.html">evaluate_model_application_multi_ligand</a></td>
+<td>Construct and evaluate a ligand-target model given input parameters (for application purposes + multi-ligand predictive model).</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_model_cv.html">evaluate_model_cv</a></td>
+<td>Construct and evaluate a ligand-target model given input parameters with the purpose of evaluating cross-validation models.</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_multi_ligand_target_prediction.html">evaluate_multi_ligand_target_prediction</a></td>
+<td>Evaluation of target gene prediction for multiple ligands.</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_multi_ligand_target_prediction_regression.html">evaluate_multi_ligand_target_prediction_regression</a></td>
+<td>Evaluation of target gene value prediction for multiple ligands (regression).</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_random_model.html">evaluate_random_model</a></td>
+<td>Construct and evaluate a randomised ligand-target model given input parameters.</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_single_importances_ligand_prediction.html">evaluate_single_importances_ligand_prediction</a></td>
+<td>Evaluation of ligand activity prediction performance of single ligand importance scores: aggregate all datasets.</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_target_prediction.html">evaluate_target_prediction</a></td>
+<td>Evaluation of target gene prediction.</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_target_prediction_interprete.html">evaluate_target_prediction_interprete</a></td>
+<td>Evaluation of target gene prediction.</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_target_prediction_per_bin.html">evaluate_target_prediction_per_bin</a></td>
+<td>Evaluate target gene predictions for different bins/groups of targets genes</td></tr>
+<tr><td style="width: 25%;"><a href="evaluate_target_prediction_regression.html">evaluate_target_prediction_regression</a></td>
+<td>Evaluation of target gene value prediction (regression).</td></tr>
+<tr><td style="width: 25%;"><a href="expression_settings_validation.html">expression_settings_validation</a></td>
+<td>Expression datasets for validation</td></tr>
+<tr><td style="width: 25%;"><a href="extract_ligands_from_settings.html">extract_ligands_from_settings</a></td>
+<td>Extract ligands of interest from settings</td></tr>
+<tr><td style="width: 25%;"><a href="extract_top_fraction_ligands.html">extract_top_fraction_ligands</a></td>
+<td>Get the predicted top n percentage ligands of a target of interest</td></tr>
+<tr><td style="width: 25%;"><a href="extract_top_fraction_targets.html">extract_top_fraction_targets</a></td>
+<td>Get the predicted top n percentage target genes of a ligand of interest</td></tr>
+<tr><td style="width: 25%;"><a href="extract_top_n_ligands.html">extract_top_n_ligands</a></td>
+<td>Get the predicted top n ligands of a target gene of interest</td></tr>
+<tr><td style="width: 25%;"><a href="extract_top_n_targets.html">extract_top_n_targets</a></td>
+<td>Get the predicted top n target genes of a ligand of interest</td></tr>
+</table>
+
+<h2><a id="G">-- G --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="geneinfo_2022.html">geneinfo_2022</a></td>
+<td>Gene annotation information: version 2 - january 2022</td></tr>
+<tr><td style="width: 25%;"><a href="geneinfo_alias_human.html">geneinfo_alias_human</a></td>
+<td>Gene annotation information: version 2 - january 2022 - suited for alias conversion</td></tr>
+<tr><td style="width: 25%;"><a href="geneinfo_alias_mouse.html">geneinfo_alias_mouse</a></td>
+<td>Gene annotation information: version 2 - january 2022 - suited for alias conversion</td></tr>
+<tr><td style="width: 25%;"><a href="geneinfo_human.html">geneinfo_human</a></td>
+<td>Gene annotation information</td></tr>
+<tr><td style="width: 25%;"><a href="generate_info_tables.html">generate_info_tables</a></td>
+<td>Generate tables used for 'generate_prioritization_tables'</td></tr>
+<tr><td style="width: 25%;"><a href="generate_prioritization_tables.html">generate_prioritization_tables</a></td>
+<td>Perform a prioritization of cell-cell interactions (similar to MultiNicheNet).</td></tr>
+<tr><td style="width: 25%;"><a href="get_active_ligand_receptor_network.html">get_active_ligand_receptor_network</a></td>
+<td>Get active ligand-receptor network for cellular interaction between a sender and receiver cell.</td></tr>
+<tr><td style="width: 25%;"><a href="get_active_ligand_target_df.html">get_active_ligand_target_df</a></td>
+<td>Get active ligand-target network in data frame format.</td></tr>
+<tr><td style="width: 25%;"><a href="get_active_ligand_target_matrix.html">get_active_ligand_target_matrix</a></td>
+<td>Get active ligand-target matrix.</td></tr>
+<tr><td style="width: 25%;"><a href="get_active_regulatory_network.html">get_active_regulatory_network</a></td>
+<td>Get active gene regulatory network in a receiver cell.</td></tr>
+<tr><td style="width: 25%;"><a href="get_active_signaling_network.html">get_active_signaling_network</a></td>
+<td>Get active signaling network in a receiver cell.</td></tr>
+<tr><td style="width: 25%;"><a href="get_expressed_genes.html">get_expressed_genes</a></td>
+<td>Determine expressed genes of a cell type from an input object</td></tr>
+<tr><td style="width: 25%;"><a href="get_expressed_genes.html">get_expressed_genes.default</a></td>
+<td>Determine expressed genes of a cell type from an input object</td></tr>
+<tr><td style="width: 25%;"><a href="get_expressed_genes.html">get_expressed_genes.Seurat</a></td>
+<td>Determine expressed genes of a cell type from an input object</td></tr>
+<tr><td style="width: 25%;"><a href="get_exprs_avg.html">get_exprs_avg</a></td>
+<td>Calculate average of gene expression per cell type.</td></tr>
+<tr><td style="width: 25%;"><a href="get_lfc_celltype.html">get_lfc_celltype</a></td>
+<td>Get log fold change values of genes in cell type of interest</td></tr>
+<tr><td style="width: 25%;"><a href="get_ligand_activities_targets.html">get_ligand_activities_targets</a></td>
+<td>Calculate the ligand activities and infer ligand-target links based on a list of niche-specific genes per receiver cell type</td></tr>
+<tr><td style="width: 25%;"><a href="get_ligand_signaling_path.html">get_ligand_signaling_path</a></td>
+<td>Get ligand-target signaling paths between ligand(s) and target gene(s) of interest</td></tr>
+<tr><td style="width: 25%;"><a href="get_ligand_signaling_path_with_receptor.html">get_ligand_signaling_path_with_receptor</a></td>
+<td>Get ligand-target signaling paths between ligand(s), receptors, and target gene(s) of interest</td></tr>
+<tr><td style="width: 25%;"><a href="get_ligand_slope_ligand_prediction_popularity.html">get_ligand_slope_ligand_prediction_popularity</a></td>
+<td>Regression analysis between popularity of left-out ligands for ligand activity prediction performance</td></tr>
+<tr><td style="width: 25%;"><a href="get_ligand_target_links_oi.html">get_ligand_target_links_oi</a></td>
+<td>Get ligand-target links of interest</td></tr>
+<tr><td style="width: 25%;"><a href="get_multi_ligand_importances.html">get_multi_ligand_importances</a></td>
+<td>Get ligand importances from a multi-ligand classfication model.</td></tr>
+<tr><td style="width: 25%;"><a href="get_multi_ligand_importances_regression.html">get_multi_ligand_importances_regression</a></td>
+<td>Get ligand importances from a multi-ligand regression model.</td></tr>
+<tr><td style="width: 25%;"><a href="get_multi_ligand_rf_importances.html">get_multi_ligand_rf_importances</a></td>
+<td>Get ligand importances from a multi-ligand trained random forest model.</td></tr>
+<tr><td style="width: 25%;"><a href="get_multi_ligand_rf_importances_regression.html">get_multi_ligand_rf_importances_regression</a></td>
+<td>Get ligand importances from a multi-ligand trained random forest regression model.</td></tr>
+<tr><td style="width: 25%;"><a href="get_ncitations_genes.html">get_ncitations_genes</a></td>
+<td>Get the number of times of gene is mentioned in the pubmed literature</td></tr>
+<tr><td style="width: 25%;"><a href="get_non_spatial_de.html">get_non_spatial_de</a></td>
+<td>Makes a table similar to the output of 'calculate_spatial_DE' and 'process_spatial_de', but now in case you don't have spatial information for the sender and/or receiver celltype. This is needed for comparability reasons.</td></tr>
+<tr><td style="width: 25%;"><a href="get_optimized_parameters_nsga2r.html">get_optimized_parameters_nsga2r</a></td>
+<td>Get optimized parameters from the output of 'run_nsga2R_cluster'.</td></tr>
+<tr><td style="width: 25%;"><a href="get_prioritization_tables.html">get_prioritization_tables</a></td>
+<td>Use the information from the niche- and spatial differential expression analysis of ligand-senders and receptor-receivers pairs, in addition to the ligand activity prediction and ligand-target inferernce, in order to make a final ligand-receptor and ligand-target prioritization table.</td></tr>
+<tr><td style="width: 25%;"><a href="get_single_ligand_importances.html">get_single_ligand_importances</a></td>
+<td>Get ligand importances based on target gene prediction performance of single ligands.</td></tr>
+<tr><td style="width: 25%;"><a href="get_single_ligand_importances_regression.html">get_single_ligand_importances_regression</a></td>
+<td>Get ligand importances based on target gene value prediction performance of single ligands (regression).</td></tr>
+<tr><td style="width: 25%;"><a href="get_slope_ligand_popularity.html">get_slope_ligand_popularity</a></td>
+<td>Regression analysis between ligand popularity and target gene predictive performance</td></tr>
+<tr><td style="width: 25%;"><a href="get_slope_target_gene_popularity.html">get_slope_target_gene_popularity</a></td>
+<td>Regression analysis between target gene popularity and target gene predictive performance</td></tr>
+<tr><td style="width: 25%;"><a href="get_slope_target_gene_popularity_ligand_prediction.html">get_slope_target_gene_popularity_ligand_prediction</a></td>
+<td>Regression analysis between target gene popularity and ligand activity predictive performance</td></tr>
+<tr><td style="width: 25%;"><a href="get_target_genes_ligand_oi.html">get_target_genes_ligand_oi</a></td>
+<td>Get a set of predicted target genes of a ligand of interest</td></tr>
+<tr><td style="width: 25%;"><a href="get_top_predicted_genes.html">get_top_predicted_genes</a></td>
+<td>Find which genes were among the top-predicted targets genes in a specific cross-validation round and see whether these genes belong to the gene set of interest as well.</td></tr>
+<tr><td style="width: 25%;"><a href="get_weighted_ligand_receptor_links.html">get_weighted_ligand_receptor_links</a></td>
+<td>Get the weighted ligand-receptor links between a possible ligand and its receptors</td></tr>
+<tr><td style="width: 25%;"><a href="get_weighted_ligand_target_links.html">get_weighted_ligand_target_links</a></td>
+<td>Infer weighted active ligand-target links between a possible ligand and target genes of interest</td></tr>
+</table>
+
+<h2><a id="H">-- H --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="hyperparameter_list.html">hyperparameter_list</a></td>
+<td>Optimized hyperparameter values</td></tr>
+</table>
+
+<h2><a id="I">-- I --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="infer_supporting_datasources.html">infer_supporting_datasources</a></td>
+<td>Get the data sources that support the specific interactions in the extracted ligand-target signaling subnetwork</td></tr>
+</table>
+
+<h2><a id="L">-- L --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="ligand_activity_performance_top_i_removed.html">ligand_activity_performance_top_i_removed</a></td>
+<td>Calculate ligand activity performance without considering evaluation datasets belonging to the top i most frequently cited ligands</td></tr>
+</table>
+
+<h2><a id="M">-- M --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="make_circos_lr.html">make_circos_lr</a></td>
+<td>make_circos_lr</td></tr>
+<tr><td style="width: 25%;"><a href="make_circos_plot.html">make_circos_plot</a></td>
+<td>Draw a circos plot</td></tr>
+<tr><td style="width: 25%;"><a href="make_discrete_ligand_target_matrix.html">make_discrete_ligand_target_matrix</a></td>
+<td>Convert probabilistic ligand-target matrix to a discrete one.</td></tr>
+<tr><td style="width: 25%;"><a href="make_heatmap_bidir_lt_ggplot.html">make_heatmap_bidir_lt_ggplot</a></td>
+<td>Make a ggplot heatmap object from an input ligand-target matrix.</td></tr>
+<tr><td style="width: 25%;"><a href="make_heatmap_ggplot.html">make_heatmap_ggplot</a></td>
+<td>Make a ggplot heatmap object from an input matrix (2-color).</td></tr>
+<tr><td style="width: 25%;"><a href="make_ligand_activity_target_exprs_plot.html">make_ligand_activity_target_exprs_plot</a></td>
+<td>make_ligand_activity_target_exprs_plot</td></tr>
+<tr><td style="width: 25%;"><a href="make_ligand_receptor_lfc_plot.html">make_ligand_receptor_lfc_plot</a></td>
+<td>make_ligand_receptor_lfc_plot</td></tr>
+<tr><td style="width: 25%;"><a href="make_ligand_receptor_lfc_spatial_plot.html">make_ligand_receptor_lfc_spatial_plot</a></td>
+<td>make_ligand_receptor_lfc_spatial_plot</td></tr>
+<tr><td style="width: 25%;"><a href="make_line_plot.html">make_line_plot</a></td>
+<td>Make a line plot</td></tr>
+<tr><td style="width: 25%;"><a href="make_mushroom_plot.html">make_mushroom_plot</a></td>
+<td>Make a "mushroom plot" of ligand-receptor interactions</td></tr>
+<tr><td style="width: 25%;"><a href="make_threecolor_heatmap_ggplot.html">make_threecolor_heatmap_ggplot</a></td>
+<td>Make a ggplot heatmap object from an input matrix (3-color).</td></tr>
+<tr><td style="width: 25%;"><a href="mlrmbo_optimization.html">mlrmbo_optimization</a></td>
+<td>Optimization of objective functions via model-based optimization (mlrMBO).</td></tr>
+<tr><td style="width: 25%;"><a href="model_based_ligand_activity_prediction.html">model_based_ligand_activity_prediction</a></td>
+<td>Prediction of ligand activity prediction by a model trained on ligand importance scores.</td></tr>
+<tr><td style="width: 25%;"><a href="model_evaluation_hyperparameter_optimization_mlrmbo.html">model_evaluation_hyperparameter_optimization_mlrmbo</a></td>
+<td>Construct and evaluate a ligand-target model given input parameters with the purpose of hyperparameter optimization using mlrMBO.</td></tr>
+<tr><td style="width: 25%;"><a href="model_evaluation_optimization_application.html">model_evaluation_optimization_application</a></td>
+<td>Construct and evaluate a ligand-target model given input parameters with the purpose of parameter optimization for multi-ligand application.</td></tr>
+<tr><td style="width: 25%;"><a href="model_evaluation_optimization_mlrmbo.html">model_evaluation_optimization_mlrmbo</a></td>
+<td>Construct and evaluate a ligand-target model given input parameters with the purpose of parameter optimization with mlrMBO.</td></tr>
+<tr><td style="width: 25%;"><a href="model_evaluation_optimization_nsga2r.html">model_evaluation_optimization_nsga2r</a></td>
+<td>Construct and evaluate a ligand-target model with the purpose of parameter optimization with NSGA-II.</td></tr>
+<tr><td style="width: 25%;"><a href="mutate_cond.html">mutate_cond</a></td>
+<td>Change values in a tibble if some condition is fulfilled.</td></tr>
+</table>
+
+<h2><a id="N">-- N --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="ncitations.html">ncitations</a></td>
+<td>Number of citations for genes</td></tr>
+<tr><td style="width: 25%;"><a href="nichenet_seuratobj_aggregate.html">nichenet_seuratobj_aggregate</a></td>
+<td>Perform NicheNet analysis on Seurat object: explain DE between conditions</td></tr>
+<tr><td style="width: 25%;"><a href="nichenet_seuratobj_aggregate_cluster_de.html">nichenet_seuratobj_aggregate_cluster_de</a></td>
+<td>Perform NicheNet analysis on Seurat object: explain DE between two cell clusters from separate conditions</td></tr>
+<tr><td style="width: 25%;"><a href="nichenet_seuratobj_cluster_de.html">nichenet_seuratobj_cluster_de</a></td>
+<td>Perform NicheNet analysis on Seurat object: explain DE between two cell clusters</td></tr>
+<tr><td style="width: 25%;"><a href="normalize_single_cell_ligand_activities.html">normalize_single_cell_ligand_activities</a></td>
+<td>Normalize single-cell ligand activities</td></tr>
+</table>
+
+<h2><a id="O">-- O --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="optimized_source_weights_df.html">optimized_source_weights_df</a></td>
+<td>Optimized data source weights</td></tr>
+</table>
+
+<h2><a id="P">-- P --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="predict_ligand_activities.html">predict_ligand_activities</a></td>
+<td>Predict activities of ligands in regulating expression of a gene set of interest</td></tr>
+<tr><td style="width: 25%;"><a href="predict_single_cell_ligand_activities.html">predict_single_cell_ligand_activities</a></td>
+<td>Single-cell ligand activity prediction</td></tr>
+<tr><td style="width: 25%;"><a href="prepare_circos_visualization.html">prepare_circos_visualization</a></td>
+<td>Prepare circos visualization</td></tr>
+<tr><td style="width: 25%;"><a href="prepare_ligand_receptor_visualization.html">prepare_ligand_receptor_visualization</a></td>
+<td>Prepare ligand-receptor visualization</td></tr>
+<tr><td style="width: 25%;"><a href="prepare_ligand_target_visualization.html">prepare_ligand_target_visualization</a></td>
+<td>Prepare heatmap visualization of the ligand-target links starting from a ligand-target tibble.</td></tr>
+<tr><td style="width: 25%;"><a href="prepare_settings_leave_one_in_characterization.html">prepare_settings_leave_one_in_characterization</a></td>
+<td>Prepare settings for leave-one-in characterization</td></tr>
+<tr><td style="width: 25%;"><a href="prepare_settings_leave_one_out_characterization.html">prepare_settings_leave_one_out_characterization</a></td>
+<td>Prepare settings for leave-one-out characterization</td></tr>
+<tr><td style="width: 25%;"><a href="prepare_settings_one_vs_one_characterization.html">prepare_settings_one_vs_one_characterization</a></td>
+<td>Prepare settings for one-vs-one characterization</td></tr>
+<tr><td style="width: 25%;"><a href="process_characterization_ligand_prediction.html">process_characterization_ligand_prediction</a></td>
+<td>Process the output of model evaluation for data source characterization purposes on the ligand prediction performance</td></tr>
+<tr><td style="width: 25%;"><a href="process_characterization_ligand_prediction_single_measures.html">process_characterization_ligand_prediction_single_measures</a></td>
+<td>Process the output of model evaluation for data source characterization purposes on the ligand prediction performance (for every importance score individually)</td></tr>
+<tr><td style="width: 25%;"><a href="process_characterization_popularity_slopes_ligand_prediction.html">process_characterization_popularity_slopes_ligand_prediction</a></td>
+<td>Process the output of model evaluation for data source characterization purposes on the popularity bias assessment of ligand activity performance</td></tr>
+<tr><td style="width: 25%;"><a href="process_characterization_popularity_slopes_target_prediction.html">process_characterization_popularity_slopes_target_prediction</a></td>
+<td>Process the output of model evaluation for data source characterization purposes on the popularity bias assessment of target prediction performance</td></tr>
+<tr><td style="width: 25%;"><a href="process_characterization_target_prediction.html">process_characterization_target_prediction</a></td>
+<td>Process the output of model evaluation for data source characterization purposes on the target prediction performance</td></tr>
+<tr><td style="width: 25%;"><a href="process_characterization_target_prediction_average.html">process_characterization_target_prediction_average</a></td>
+<td>Process the output of model evaluation for data source characterization purposes on the target prediction performance (average)</td></tr>
+<tr><td style="width: 25%;"><a href="process_mlrmbo_nichenet_optimization.html">process_mlrmbo_nichenet_optimization</a></td>
+<td>Process the output of mlrmbo multi-objective optimization to extract optimal parameter values.</td></tr>
+<tr><td style="width: 25%;"><a href="process_niche_de.html">process_niche_de</a></td>
+<td>Process the DE output of 'calculate_niche_de'</td></tr>
+<tr><td style="width: 25%;"><a href="process_receiver_target_de.html">process_receiver_target_de</a></td>
+<td>Processing differential expression output of the receiver cell types</td></tr>
+<tr><td style="width: 25%;"><a href="process_spatial_de.html">process_spatial_de</a></td>
+<td>Process the spatialDE output</td></tr>
+<tr><td style="width: 25%;"><a href="process_table_to_ic.html">process_table_to_ic</a></td>
+<td>Process DE or expression information into intercellular communication focused information.</td></tr>
+</table>
+
+<h2><a id="R">-- R --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="randomize_complete_network_source_specific.html">randomize_complete_network_source_specific</a></td>
+<td>Randomize an integrated network by shuffling its source networks</td></tr>
+<tr><td style="width: 25%;"><a href="randomize_datasource_network.html">randomize_datasource_network</a></td>
+<td>Randomize a network of a particular data source.</td></tr>
+<tr><td style="width: 25%;"><a href="randomize_network.html">randomize_network</a></td>
+<td>Randomize a network</td></tr>
+<tr><td style="width: 25%;"><a href="run_nsga2R_cluster.html">run_nsga2R_cluster</a></td>
+<td>Run NSGA-II for parameter optimization.</td></tr>
+</table>
+
+<h2><a id="S">-- S --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="scale_quantile.html">scale_quantile</a></td>
+<td>Cut off outer quantiles and rescale to a [0, 1] range</td></tr>
+<tr><td style="width: 25%;"><a href="scale_quantile_adapted.html">scale_quantile_adapted</a></td>
+<td>Normalize values in a vector by quantile scaling and add a pseudovalue of 0.001</td></tr>
+<tr><td style="width: 25%;"><a href="scaling_modified_zscore.html">scaling_modified_zscore</a></td>
+<td>Normalize values in a vector by the modified z-score method.</td></tr>
+<tr><td style="width: 25%;"><a href="scaling_zscore.html">scaling_zscore</a></td>
+<td>Normalize values in a vector by the z-score method</td></tr>
+<tr><td style="width: 25%;"><a href="single_ligand_activity_score_classification.html">single_ligand_activity_score_classification</a></td>
+<td>Assess how well cells' ligand activities predict a binary property of interest of cells.</td></tr>
+<tr><td style="width: 25%;"><a href="single_ligand_activity_score_regression.html">single_ligand_activity_score_regression</a></td>
+<td>Perform a correlation and regression analysis between cells' ligand activities and property scores of interest</td></tr>
+<tr><td style="width: 25%;"><a href="source_weights_df.html">source_weights_df</a></td>
+<td>Data source weights</td></tr>
+</table>
+
+<h2><a id="V">-- V --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="visualize_parameter_values.html">visualize_parameter_values</a></td>
+<td>Visualize parameter values from the output of 'run_nsga2R_cluster'.</td></tr>
+<tr><td style="width: 25%;"><a href="visualize_parameter_values_across_folds.html">visualize_parameter_values_across_folds</a></td>
+<td>Visualize parameter values from the output of 'run_nsga2R_cluster' across cross-validation folds.</td></tr>
+</table>
+
+<h2><a id="W">-- W --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="wrapper_average_performances.html">wrapper_average_performances</a></td>
+<td>Calculate average performance of datasets of a specific ligand.</td></tr>
+<tr><td style="width: 25%;"><a href="wrapper_evaluate_single_importances_ligand_prediction.html">wrapper_evaluate_single_importances_ligand_prediction</a></td>
+<td>Evaluation of ligand activity prediction performance of single ligand importance scores: each dataset individually.</td></tr>
+</table>
+</div></body></html>

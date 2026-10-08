@@ -1,0 +1,1 @@
+Native CellChat inference completed. Export failed because data.table 1.18.4 disallows a bare logical-column symbol in i. Repaired row selection eligible==TRUE/FALSE, preserving all CellChat parameters; sample is rerun with seed=123. Added explicit meta.samples equal to the audited biological sample. No source object mutation.

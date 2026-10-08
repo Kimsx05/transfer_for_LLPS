@@ -1,0 +1,7 @@
+PASS: 59/59 independent sample inference objects; final failed samples 0.
+PASS: every sample has the complete 14x14 frame, exact frozen count-derived eligibility, and correct NA/zero distinction.
+PASS: LR weights/counts reconcile with every native sample aggregate; raw consensus recomputation matches every edge.
+PASS: complete LR/pathway statistic universes and valid compressed per-sample long tables.
+PASS: nine figure-format artifacts; visual labels and legends inspected.
+PASS: NicheNet official resources and 59-sample expression audits ready; geneset_oi undefined; activity intentionally not run.
+PASS: source major/fibro7 Seurat object SHA256 hashes remain identical to pre-flight.

@@ -1,0 +1,263 @@
+[[1]]
+[[1]]$function_name
+[1] "createCellChat"
+
+[[1]]$formals
+[[1]]$formals$object
+
+
+[[1]]$formals$meta
+NULL
+
+[[1]]$formals$group.by
+NULL
+
+[[1]]$formals$datatype
+c("RNA", "spatial")
+
+[[1]]$formals$coordinates
+NULL
+
+[[1]]$formals$spatial.factors
+NULL
+
+[[1]]$formals$assay
+NULL
+
+[[1]]$formals$do.sparse
+T
+
+
+
+[[2]]
+[[2]]$function_name
+[1] "subsetData"
+
+[[2]]$formals
+[[2]]$formals$object
+
+
+[[2]]$formals$features
+NULL
+
+
+
+[[3]]
+[[3]]$function_name
+[1] "identifyOverExpressedGenes"
+
+[[3]]$formals
+[[3]]$formals$object
+
+
+[[3]]$formals$data.use
+NULL
+
+[[3]]$formals$group.by
+NULL
+
+[[3]]$formals$idents.use
+NULL
+
+[[3]]$formals$invert
+[1] FALSE
+
+[[3]]$formals$group.dataset
+NULL
+
+[[3]]$formals$pos.dataset
+NULL
+
+[[3]]$formals$group.DE.combined
+[1] FALSE
+
+[[3]]$formals$features.name
+[1] "features"
+
+[[3]]$formals$only.pos
+[1] TRUE
+
+[[3]]$formals$features
+NULL
+
+[[3]]$formals$return.object
+[1] TRUE
+
+[[3]]$formals$thresh.pc
+[1] 0
+
+[[3]]$formals$thresh.fc
+[1] 0
+
+[[3]]$formals$thresh.p
+[1] 0.05
+
+[[3]]$formals$do.DE
+[1] TRUE
+
+[[3]]$formals$do.fast
+[1] TRUE
+
+[[3]]$formals$min.cells
+[1] 10
+
+
+
+[[4]]
+[[4]]$function_name
+[1] "identifyOverExpressedInteractions"
+
+[[4]]$formals
+[[4]]$formals$object
+
+
+[[4]]$formals$features.name
+[1] "features"
+
+[[4]]$formals$variable.both
+[1] TRUE
+
+[[4]]$formals$features
+NULL
+
+[[4]]$formals$return.object
+[1] TRUE
+
+
+
+[[5]]
+[[5]]$function_name
+[1] "computeCommunProb"
+
+[[5]]$formals
+[[5]]$formals$object
+
+
+[[5]]$formals$type
+c("triMean", "truncatedMean", "thresholdedMean", "median")
+
+[[5]]$formals$trim
+[1] 0.1
+
+[[5]]$formals$LR.use
+NULL
+
+[[5]]$formals$raw.use
+[1] TRUE
+
+[[5]]$formals$population.size
+[1] FALSE
+
+[[5]]$formals$distance.use
+[1] TRUE
+
+[[5]]$formals$interaction.range
+[1] 250
+
+[[5]]$formals$scale.distance
+[1] 0.01
+
+[[5]]$formals$k.min
+[1] 10
+
+[[5]]$formals$contact.dependent
+[1] TRUE
+
+[[5]]$formals$contact.range
+NULL
+
+[[5]]$formals$contact.knn.k
+NULL
+
+[[5]]$formals$contact.dependent.forced
+[1] FALSE
+
+[[5]]$formals$do.symmetric
+[1] TRUE
+
+[[5]]$formals$nboot
+[1] 100
+
+[[5]]$formals$seed.use
+[1] 1
+
+[[5]]$formals$Kh
+[1] 0.5
+
+[[5]]$formals$n
+[1] 1
+
+
+
+[[6]]
+[[6]]$function_name
+[1] "filterCommunication"
+
+[[6]]$formals
+[[6]]$formals$object
+
+
+[[6]]$formals$min.cells
+[1] 10
+
+[[6]]$formals$min.samples
+NULL
+
+[[6]]$formals$rare.keep
+[1] FALSE
+
+[[6]]$formals$nonFilter.keep
+[1] FALSE
+
+
+
+[[7]]
+[[7]]$function_name
+[1] "computeCommunProbPathway"
+
+[[7]]$formals
+[[7]]$formals$object
+NULL
+
+[[7]]$formals$net
+NULL
+
+[[7]]$formals$pairLR.use
+NULL
+
+[[7]]$formals$thresh
+[1] 0.05
+
+
+
+[[8]]
+[[8]]$function_name
+[1] "aggregateNet"
+
+[[8]]$formals
+[[8]]$formals$object
+
+
+[[8]]$formals$sources.use
+NULL
+
+[[8]]$formals$targets.use
+NULL
+
+[[8]]$formals$signaling
+NULL
+
+[[8]]$formals$pairLR.use
+NULL
+
+[[8]]$formals$remove.isolate
+[1] TRUE
+
+[[8]]$formals$thresh
+[1] 0.05
+
+[[8]]$formals$return.object
+[1] TRUE
+
+
+

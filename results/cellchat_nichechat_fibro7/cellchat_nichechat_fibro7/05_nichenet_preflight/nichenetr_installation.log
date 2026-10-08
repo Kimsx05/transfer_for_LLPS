@@ -1,0 +1,1158 @@
+Installing 42 packages: BBmisc, ParamHelpers, parallelMap, SQUAREM, lava, diagram, prodlim, sparsevctrs, ipred, hardhat, gower, clock, selectr, rematch, cellranger, rematch2, ids, googledrive, gargle, RcppThread, lhs, smoof, mlr, visNetwork, recipes, ModelMetrics, htmlTable, rvest, reprex, readxl, haven, googlesheets4, dtplyr, conflicted, DiceKriging, emoa, mlrMBO, DiagrammeR, caret, Hmisc, fdrtool, tidyverse
+trying URL 'https://cloud.r-project.org/src/contrib/BBmisc_1.13.1.tar.gz'
+Content type 'application/x-gzip' length 88087 bytes (86 KB)
+==================================================
+downloaded 86 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/ParamHelpers_1.14.2.tar.gz'
+Content type 'application/x-gzip' length 114877 bytes (112 KB)
+==================================================
+downloaded 112 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/parallelMap_1.5.1.tar.gz'
+Content type 'application/x-gzip' length 29651 bytes (28 KB)
+==================================================
+downloaded 28 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/SQUAREM_2026.1.tar.gz'
+Content type 'application/x-gzip' length 240392 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/lava_1.9.3.tar.gz'
+Content type 'application/x-gzip' length 1230388 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/diagram_1.6.5.tar.gz'
+Content type 'application/x-gzip' length 536872 bytes (524 KB)
+==================================================
+downloaded 524 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/prodlim_2026.03.11.tar.gz'
+Content type 'application/x-gzip' length 147490 bytes (144 KB)
+==================================================
+downloaded 144 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/sparsevctrs_0.3.6.tar.gz'
+Content type 'application/x-gzip' length 94020 bytes (91 KB)
+==================================================
+downloaded 91 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/ipred_0.9-16.tar.gz'
+Content type 'application/x-gzip' length 179935 bytes (175 KB)
+==================================================
+downloaded 175 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/hardhat_1.4.3.tar.gz'
+Content type 'application/x-gzip' length 628032 bytes (613 KB)
+==================================================
+downloaded 613 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/gower_1.0.2.tar.gz'
+Content type 'application/x-gzip' length 187966 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/clock_0.7.4.tar.gz'
+Content type 'application/x-gzip' length 560532 bytes (547 KB)
+==================================================
+downloaded 547 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/selectr_0.8-0.tar.gz'
+Content type 'application/x-gzip' length 171370 bytes (167 KB)
+==================================================
+downloaded 167 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/rematch_2.0.0.tar.gz'
+Content type 'application/x-gzip' length 4781 bytes
+==================================================
+downloaded 4781 bytes
+
+trying URL 'https://cloud.r-project.org/src/contrib/cellranger_1.1.0.tar.gz'
+Content type 'application/x-gzip' length 63857 bytes (62 KB)
+==================================================
+downloaded 62 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/rematch2_2.1.2.tar.gz'
+Content type 'application/x-gzip' length 13366 bytes (13 KB)
+==================================================
+downloaded 13 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/ids_1.0.1.tar.gz'
+Content type 'application/x-gzip' length 91213 bytes (89 KB)
+==================================================
+downloaded 89 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/googledrive_2.1.2.tar.gz'
+Content type 'application/x-gzip' length 1615911 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/gargle_1.6.1.tar.gz'
+Content type 'application/x-gzip' length 629852 bytes (615 KB)
+==================================================
+downloaded 615 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/RcppThread_2.4.0.tar.gz'
+Content type 'application/x-gzip' length 315632 bytes (308 KB)
+==================================================
+downloaded 308 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/lhs_1.3.0.tar.gz'
+Content type 'application/x-gzip' length 243654 bytes (237 KB)
+==================================================
+downloaded 237 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/smoof_1.7.0.tar.gz'
+Content type 'application/x-gzip' length 236301 bytes (230 KB)
+==================================================
+downloaded 230 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/mlr_2.19.3.tar.gz'
+Content type 'application/x-gzip' length 2943826 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/visNetwork_2.1.4.tar.gz'
+Content type 'application/x-gzip' length 4269530 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/recipes_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 899046 bytes (877 KB)
+==================================================
+downloaded 877 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/ModelMetrics_1.2.2.2.tar.gz'
+Content type 'application/x-gzip' length 17078 bytes (16 KB)
+==================================================
+downloaded 16 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/htmlTable_2.5.0.tar.gz'
+Content type 'application/x-gzip' length 219431 bytes (214 KB)
+==================================================
+downloaded 214 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/rvest_1.0.5.tar.gz'
+Content type 'application/x-gzip' length 121721 bytes (118 KB)
+==================================================
+downloaded 118 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/reprex_2.1.1.tar.gz'
+Content type 'application/x-gzip' length 1089023 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/readxl_1.5.0.1.tar.gz'
+Content type 'application/x-gzip' length 2089119 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/haven_2.5.5.tar.gz'
+Content type 'application/x-gzip' length 316909 bytes (309 KB)
+==================================================
+downloaded 309 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/googlesheets4_1.1.2.tar.gz'
+Content type 'application/x-gzip' length 231280 bytes (225 KB)
+==================================================
+downloaded 225 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/dtplyr_1.3.3.tar.gz'
+Content type 'application/x-gzip' length 199752 bytes (195 KB)
+==================================================
+downloaded 195 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/conflicted_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 17071 bytes (16 KB)
+==================================================
+downloaded 16 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/DiceKriging_1.6.1.tar.gz'
+Content type 'application/x-gzip' length 109173 bytes (106 KB)
+==================================================
+downloaded 106 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/emoa_0.5-3.tar.gz'
+Content type 'application/x-gzip' length 94035 bytes (91 KB)
+==================================================
+downloaded 91 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/mlrMBO_1.1.6.tar.gz'
+Content type 'application/x-gzip' length 692408 bytes (676 KB)
+==================================================
+downloaded 676 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/DiagrammeR_1.0.12.tar.gz'
+Content type 'application/x-gzip' length 1235201 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/caret_7.0-1.tar.gz'
+Content type 'application/x-gzip' length 2273919 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/Hmisc_5.3-0.tar.gz'
+Content type 'application/x-gzip' length 940531 bytes (918 KB)
+==================================================
+downloaded 918 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/fdrtool_1.2.18.tar.gz'
+Content type 'application/x-gzip' length 60023 bytes (58 KB)
+==================================================
+downloaded 58 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/tidyverse_2.0.0.tar.gz'
+Content type 'application/x-gzip' length 704618 bytes (688 KB)
+==================================================
+downloaded 688 KB
+
+* installing *source* package ‘BBmisc’ ...
+** package ‘BBmisc’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c getMaxColRowIndex.c -o getMaxColRowIndex.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c getMaxIndex.c -o getMaxIndex.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c itostr.c -o itostr.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o BBmisc.so getMaxColRowIndex.o getMaxIndex.o init.o itostr.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-BBmisc/00new/BBmisc/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (BBmisc)
+* installing *source* package ‘SQUAREM’ ...
+** package ‘SQUAREM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (SQUAREM)
+* installing *source* package ‘diagram’ ...
+** package ‘diagram’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (diagram)
+* installing *source* package ‘sparsevctrs’ ...
+** package ‘sparsevctrs’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c altrep-sparse-double.c -o altrep-sparse-double.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c altrep-sparse-integer.c -o altrep-sparse-integer.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c altrep-sparse-logical.c -o altrep-sparse-logical.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c altrep-sparse-string.c -o altrep-sparse-string.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sparse-arithmatic.c -o sparse-arithmatic.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sparse-dummy.c -o sparse-dummy.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sparse-extractors.c -o sparse-extractors.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sparse-utils.c -o sparse-utils.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o sparsevctrs.so altrep-sparse-double.o altrep-sparse-integer.o altrep-sparse-logical.o altrep-sparse-string.o init.o sparse-arithmatic.o sparse-dummy.o sparse-extractors.o sparse-utils.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-sparsevctrs/00new/sparsevctrs/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (sparsevctrs)
+* installing *source* package ‘gower’ ...
+** package ‘gower’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG      -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_register_native.c -o R_register_native.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gower.c -o gower.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o gower.so R_register_native.o gower.o -fopenmp -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-gower/00new/gower/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (gower)
+* installing *source* package ‘clock’ ...
+** package ‘clock’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c duration.cpp -o duration.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c enums.cpp -o enums.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c format.cpp -o format.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c gregorian-year-day.cpp -o gregorian-year-day.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c gregorian-year-month-day.cpp -o gregorian-year-month-day.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c gregorian-year-month-weekday.cpp -o gregorian-year-month-weekday.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c iso-year-week-day.cpp -o iso-year-week-day.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c limits.cpp -o limits.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c naive-time.cpp -o naive-time.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c quarterly-year-quarter-day.cpp -o quarterly-year-quarter-day.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c rcrd.cpp -o rcrd.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c sys-time.cpp -o sys-time.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c time-point.cpp -o time-point.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c utils.cpp -o utils.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c week-year-week-day.cpp -o week-year-week-day.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c weekday.cpp -o weekday.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c zone.cpp -o zone.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/tzdb/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c zoned-time.cpp -o zoned-time.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o clock.so cpp11.o duration.o enums.o format.o gregorian-year-day.o gregorian-year-month-day.o gregorian-year-month-weekday.o iso-year-week-day.o limits.o naive-time.o quarterly-year-quarter-day.o rcrd.o sys-time.o time-point.o utils.o week-year-week-day.o weekday.o zone.o zoned-time.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-clock/00new/clock/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (clock)
+* installing *source* package ‘selectr’ ...
+** package ‘selectr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (selectr)
+* installing *source* package ‘rematch’ ...
+** package ‘rematch’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rematch)
+* installing *source* package ‘rematch2’ ...
+** package ‘rematch2’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rematch2)
+* installing *source* package ‘ids’ ...
+** package ‘ids’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ids)
+* installing *source* package ‘gargle’ ...
+** package ‘gargle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (gargle)
+* installing *source* package ‘RcppThread’ ...
+** package ‘RcppThread’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c detectCores.cpp -o detectCores.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c testGlobal.cpp -o testGlobal.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o RcppThread.so detectCores.o testGlobal.o -latomic -lpthread -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-RcppThread/00new/RcppThread/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (RcppThread)
+* installing *source* package ‘lhs’ ...
+** package ‘lhs’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c COrthogonalArray.cpp -o COrthogonalArray.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c GaloisField.cpp -o GaloisField.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ak3.cpp -o ak3.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c akconst.cpp -o akconst.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c akn.cpp -o akn.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c construct.cpp -o construct.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c geneticLHS.cpp -o geneticLHS.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c improvedLHS.cpp -o improvedLHS.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c lhs_r.cpp -o lhs_r.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c lhs_r_utilities.cpp -o lhs_r_utilities.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c maximinLHS.cpp -o maximinLHS.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c oa.cpp -o oa.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c oaLHS.cpp -o oaLHS.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c oa_r.cpp -o oa_r.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c oa_r_utils.cpp -o oa_r_utils.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c oalhs_r.cpp -o oalhs_r.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c optSeededLHS.cpp -o optSeededLHS.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c optimumLHS.cpp -o optimumLHS.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c primes.cpp -o primes.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c randomLHS.cpp -o randomLHS.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c runif.cpp -o runif.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c rutils.cpp -o rutils.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DRCOMPILE -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c utilityLHS.cpp -o utilityLHS.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o lhs.so COrthogonalArray.o GaloisField.o ak3.o akconst.o akn.o construct.o geneticLHS.o improvedLHS.o init.o lhs_r.o lhs_r_utilities.o maximinLHS.o oa.o oaLHS.o oa_r.o oa_r_utils.o oalhs_r.o optSeededLHS.o optimumLHS.o primes.o randomLHS.o runif.o rutils.o utilityLHS.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-lhs/00new/lhs/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (lhs)
+* installing *source* package ‘visNetwork’ ...
+** package ‘visNetwork’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (visNetwork)
+* installing *source* package ‘ModelMetrics’ ...
+** package ‘ModelMetrics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c auc_.cpp -o auc_.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c confusionMatrix_.cpp -o confusionMatrix_.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c error.cpp -o error.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c gini_.cpp -o gini_.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c logLoss_.cpp -o logLoss_.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o ModelMetrics.so RcppExports.o auc_.o confusionMatrix_.o error.o gini_.o logLoss_.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-ModelMetrics/00new/ModelMetrics/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ModelMetrics)
+* installing *source* package ‘htmlTable’ ...
+** package ‘htmlTable’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (htmlTable)
+* installing *source* package ‘reprex’ ...
+** package ‘reprex’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (reprex)
+* installing *source* package ‘haven’ ...
+** package ‘haven’ successfully unpacked and MD5 sums checked
+** using staged installation
+Found pkg-config cflags and libs!
+Using PKG_CFLAGS=
+Using PKG_LIBS=-lz
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tagged_na.c -o tagged_na.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/CKHashTable.c -o readstat/CKHashTable.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_bits.c -o readstat/readstat_bits.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_convert.c -o readstat/readstat_convert.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_error.c -o readstat/readstat_error.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_io_unistd.c -o readstat/readstat_io_unistd.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_malloc.c -o readstat/readstat_malloc.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_metadata.c -o readstat/readstat_metadata.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_parser.c -o readstat/readstat_parser.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_value.c -o readstat/readstat_value.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_variable.c -o readstat/readstat_variable.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/readstat_writer.c -o readstat/readstat_writer.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/ieee.c -o readstat/sas/ieee.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_sas.c -o readstat/sas/readstat_sas.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_sas7bcat_read.c -o readstat/sas/readstat_sas7bcat_read.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_sas7bcat_write.c -o readstat/sas/readstat_sas7bcat_write.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_sas7bdat_read.c -o readstat/sas/readstat_sas7bdat_read.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_sas7bdat_write.c -o readstat/sas/readstat_sas7bdat_write.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_sas_rle.c -o readstat/sas/readstat_sas_rle.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_xport.c -o readstat/sas/readstat_xport.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_xport_parse_format.c -o readstat/sas/readstat_xport_parse_format.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_xport_read.c -o readstat/sas/readstat_xport_read.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/sas/readstat_xport_write.c -o readstat/sas/readstat_xport_write.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_por.c -o readstat/spss/readstat_por.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_por_parse.c -o readstat/spss/readstat_por_parse.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_por_read.c -o readstat/spss/readstat_por_read.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_por_write.c -o readstat/spss/readstat_por_write.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_sav.c -o readstat/spss/readstat_sav.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_sav_compress.c -o readstat/spss/readstat_sav_compress.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_sav_parse.c -o readstat/spss/readstat_sav_parse.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_sav_parse_mr_name.c -o readstat/spss/readstat_sav_parse_mr_name.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_sav_parse_timestamp.c -o readstat/spss/readstat_sav_parse_timestamp.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_sav_read.c -o readstat/spss/readstat_sav_read.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_sav_write.c -o readstat/spss/readstat_sav_write.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_spss.c -o readstat/spss/readstat_spss.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_spss_parse.c -o readstat/spss/readstat_spss_parse.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_zsav_compress.c -o readstat/spss/readstat_zsav_compress.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_zsav_read.c -o readstat/spss/readstat_zsav_read.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/spss/readstat_zsav_write.c -o readstat/spss/readstat_zsav_write.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/stata/readstat_dta.c -o readstat/stata/readstat_dta.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/stata/readstat_dta_parse_timestamp.c -o readstat/stata/readstat_dta_parse_timestamp.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/stata/readstat_dta_read.c -o readstat/stata/readstat_dta_read.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readstat/stata/readstat_dta_write.c -o readstat/stata/readstat_dta_write.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c DfReader.cpp -o DfReader.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c DfWriter.cpp -o DfWriter.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include'    -Ireadstat -DHAVE_ZLIB -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c haven_types.cpp -o haven_types.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o haven.so tagged_na.o readstat/CKHashTable.o readstat/readstat_bits.o readstat/readstat_convert.o readstat/readstat_error.o readstat/readstat_io_unistd.o readstat/readstat_malloc.o readstat/readstat_metadata.o readstat/readstat_parser.o readstat/readstat_value.o readstat/readstat_variable.o readstat/readstat_writer.o readstat/sas/ieee.o readstat/sas/readstat_sas.o readstat/sas/readstat_sas7bcat_read.o readstat/sas/readstat_sas7bcat_write.o readstat/sas/readstat_sas7bdat_read.o readstat/sas/readstat_sas7bdat_write.o readstat/sas/readstat_sas_rle.o readstat/sas/readstat_xport.o readstat/sas/readstat_xport_parse_format.o readstat/sas/readstat_xport_read.o readstat/sas/readstat_xport_write.o readstat/spss/readstat_por.o readstat/spss/readstat_por_parse.o readstat/spss/readstat_por_read.o readstat/spss/readstat_por_write.o readstat/spss/readstat_sav.o readstat/spss/readstat_sav_compress.o readstat/spss/readstat_sav_parse.o readstat/spss/readstat_sav_parse_mr_name.o readstat/spss/readstat_sav_parse_timestamp.o readstat/spss/readstat_sav_read.o readstat/spss/readstat_sav_write.o readstat/spss/readstat_spss.o readstat/spss/readstat_spss_parse.o readstat/spss/readstat_zsav_compress.o readstat/spss/readstat_zsav_read.o readstat/spss/readstat_zsav_write.o readstat/stata/readstat_dta.o readstat/stata/readstat_dta_parse_timestamp.o readstat/stata/readstat_dta_read.o readstat/stata/readstat_dta_write.o DfReader.o DfWriter.o cpp11.o haven_types.o -lz -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-haven/00new/haven/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (haven)
+* installing *source* package ‘dtplyr’ ...
+** package ‘dtplyr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (dtplyr)
+* installing *source* package ‘conflicted’ ...
+** package ‘conflicted’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (conflicted)
+* installing *source* package ‘DiceKriging’ ...
+** package ‘DiceKriging’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c CovFuns.c -o CovFuns.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c Scaling.c -o Scaling.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o DiceKriging.so CovFuns.o Scaling.o init.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-DiceKriging/00new/DiceKriging/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Note: ... may be used in an incorrect context 
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (DiceKriging)
+* installing *source* package ‘emoa’ ...
+** package ‘emoa’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c avl.c -o avl.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cec2009.c -o cec2009.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c crowding_distance.c -o crowding_distance.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dominance.c -o dominance.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c emoa.c -o emoa.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c eps_ind.c -o eps_ind.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c front_edge.c -o front_edge.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c hv.c -o hv.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c hypervolume.c -o hypervolume.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c poly_mutation.c -o poly_mutation.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c r_ind.c -o r_ind.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sb_crossover.c -o sb_crossover.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sympart.c -o sympart.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c utilities.c -o utilities.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o emoa.so avl.o cec2009.o crowding_distance.o dominance.o emoa.o eps_ind.o front_edge.o hv.o hypervolume.o poly_mutation.o r_ind.o sb_crossover.o sympart.o utilities.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-emoa/00new/emoa/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (emoa)
+* installing *source* package ‘fdrtool’ ...
+** package ‘fdrtool’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fdrtool_init.c -o fdrtool_init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c isomean.c -o isomean.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o fdrtool.so fdrtool_init.o isomean.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-fdrtool/00new/fdrtool/libs
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (fdrtool)
+* installing *source* package ‘ParamHelpers’ ...
+** package ‘ParamHelpers’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c c_dfRowsToList.c -o c_dfRowsToList.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o ParamHelpers.so c_dfRowsToList.o init.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-ParamHelpers/00new/ParamHelpers/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ParamHelpers)
+* installing *source* package ‘parallelMap’ ...
+** package ‘parallelMap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (parallelMap)
+* installing *source* package ‘lava’ ...
+** package ‘lava’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (lava)
+* installing *source* package ‘hardhat’ ...
+** package ‘hardhat’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (hardhat)
+* installing *source* package ‘cellranger’ ...
+** package ‘cellranger’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (cellranger)
+* installing *source* package ‘googledrive’ ...
+** package ‘googledrive’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (googledrive)
+* installing *source* package ‘rvest’ ...
+** package ‘rvest’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rvest)
+* installing *source* package ‘DiagrammeR’ ...
+** package ‘DiagrammeR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (DiagrammeR)
+* installing *source* package ‘Hmisc’ ...
+** package ‘Hmisc’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c Hmisc.c -o Hmisc.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c  cidxcn.f90 -o cidxcn.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c  cidxcp.f90 -o cidxcp.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c  cutgn.f90 -o cutgn.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c  hlqest.f90 -o hlqest.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c  hoeffd.f90 -o hoeffd.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c  jacklins.f90 -o jacklins.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c largrec.f -o largrec.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mChoice.c -o mChoice.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c  maxempr.f90 -o maxempr.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nstr.c -o nstr.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ranksort.c -o ranksort.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c  rcorr.f90 -o rcorr.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c string_box.c -o string_box.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong  -c  wclosest.f90 -o wclosest.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o Hmisc.so Hmisc.o cidxcn.o cidxcp.o cutgn.o hlqest.o hoeffd.o init.o jacklins.o largrec.o mChoice.o maxempr.o nstr.o ranksort.o rcorr.o string_box.o wclosest.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-Hmisc/00new/Hmisc/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (Hmisc)
+* installing *source* package ‘prodlim’ ...
+** package ‘prodlim’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c GMLE.c -o GMLE.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c IntIndex.c -o IntIndex.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c icens_prodlim.c -o icens_prodlim.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c icens_prodlim_ml.c -o icens_prodlim_ml.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c iindex.c -o iindex.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c life_table.c -o life_table.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c loo.c -o loo.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c neighborhood.c -o neighborhood.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c predict.c -o predict.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c predict_individual_survival.c -o predict_individual_survival.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c prodlim.c -o prodlim.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c prodlim_clustersurv.c -o prodlim_clustersurv.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c prodlim_comprisk.c -o prodlim_comprisk.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c prodlim_multistates.c -o prodlim_multistates.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c prodlim_surv.c -o prodlim_surv.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sindex.c -o sindex.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c summary_prodlim.c -o summary_prodlim.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o prodlim.so GMLE.o IntIndex.o icens_prodlim.o icens_prodlim_ml.o iindex.o init.o life_table.o loo.o neighborhood.o predict.o predict_individual_survival.o prodlim.o prodlim_clustersurv.o prodlim_comprisk.o prodlim_multistates.o prodlim_surv.o sindex.o summary_prodlim.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-prodlim/00new/prodlim/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (prodlim)
+* installing *source* package ‘smoof’ ...
+** package ‘smoof’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bbob_r_to_c_interface.c -o bbob_r_to_c_interface.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c benchmarks.c -o benchmarks.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c benchmarkshelper.c -o benchmarkshelper.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cec09.c -o cec09.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cec09_r_to_c_interface.c -o cec09_r_to_c_interface.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c dtlz.cpp -o dtlz.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mof.BK1.c -o mof.BK1.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c mof.ED.cpp -o mof.ED.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mof.MOP1.c -o mof.MOP1.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mof.MOP2.c -o mof.MOP2.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mof.MOP3.c -o mof.MOP3.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mof.MOP4.c -o mof.MOP4.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mof.MOP5.c -o mof.MOP5.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mof.MOP6.c -o mof.MOP6.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mof.MOP7.c -o mof.MOP7.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c mof.cec2019.cpp -o mof.cec2019.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c mof.kursawe.cpp -o mof.kursawe.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mof.viennet.c -o mof.viennet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c mof.wfg.cpp -o mof.wfg.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nk_landscapes.cpp -o nk_landscapes.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o smoof.so RcppExports.o bbob_r_to_c_interface.o benchmarks.o benchmarkshelper.o cec09.o cec09_r_to_c_interface.o dtlz.o mof.BK1.o mof.ED.o mof.MOP1.o mof.MOP2.o mof.MOP3.o mof.MOP4.o mof.MOP5.o mof.MOP6.o mof.MOP7.o mof.cec2019.o mof.kursawe.o mof.viennet.o mof.wfg.o nk_landscapes.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-smoof/00new/smoof/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (smoof)
+* installing *source* package ‘mlr’ ...
+** package ‘mlr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c smote.c -o smote.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o mlr.so init.o smote.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-mlr/00new/mlr/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (mlr)
+* installing *source* package ‘readxl’ ...
+** package ‘readxl’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c XlsWorkBook.cpp -o XlsWorkBook.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c XlsxWorkBook.cpp -o XlsxWorkBook.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c zip.cpp -o zip.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Read.cpp -o Read.o
+gcc -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cran.c -o cran.o
+gcc -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c libxls/xlstool.c -o libxls/xlstool.o
+gcc -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c libxls/endian.c -o libxls/endian.o
+gcc -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c libxls/ole.c -o libxls/ole.o
+gcc -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c libxls/xls.c -o libxls/xls.o
+gcc -I"/usr/share/R/include" -DNDEBUG -Iunix -I. -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/progress/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c libxls/locale.c -o libxls/locale.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o readxl.so cpp11.o XlsWorkBook.o XlsxWorkBook.o zip.o Read.o cran.o libxls/xlstool.o libxls/endian.o libxls/ole.o libxls/xls.o libxls/locale.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-readxl/00new/readxl/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (readxl)
+* installing *source* package ‘googlesheets4’ ...
+** package ‘googlesheets4’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (googlesheets4)
+* installing *source* package ‘ipred’ ...
+** package ‘ipred’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c SdiffKM.c -o SdiffKM.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o ipred.so SdiffKM.o init.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-ipred/00new/ipred/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ipred)
+* installing *source* package ‘mlrMBO’ ...
+** package ‘mlrMBO’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c avl.c -o avl.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c hv.c -o hv.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c infill.c -o infill.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o mlrMBO.so avl.o hv.o infill.o init.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-mlrMBO/00new/mlrMBO/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (mlrMBO)
+* installing *source* package ‘tidyverse’ ...
+** package ‘tidyverse’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (tidyverse)
+* installing *source* package ‘recipes’ ...
+** package ‘recipes’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (recipes)
+* installing *source* package ‘caret’ ...
+** package ‘caret’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c caret.c -o caret.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o caret.so caret.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/00LOCK-caret/00new/caret/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (caret)
+
+The downloaded source packages are in
+	‘/tmp/Rtmppasm8G/downloaded_packages’
+── R CMD build ─────────────────────────────────────────────────────────────────
+* checking for file ‘/tmp/Rtmppasm8G/file12170565114243/nichenetr-66f90d5eeafef280b2b2f339b3fd70ffec1781dd/DESCRIPTION’ ... OK
+* preparing ‘nichenetr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘nichenetr_2.2.1.1.tar.gz’
+
+* installing *source* package ‘nichenetr’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  namespace ‘ggplot2’ 3.5.2 is already loaded, but >= 4.0.0 is required
+Calls: <Anonymous> ... namespaceImport -> loadNamespace -> namespaceImport -> loadNamespace
+Execution halted
+ERROR: lazy loading failed for package ‘nichenetr’
+* removing ‘/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet/nichenetr’
+Warning message:
+In i.p(...) :
+  installation of package ‘/tmp/Rtmppasm8G/file1217056705765b/nichenetr_2.2.1.1.tar.gz’ had non-zero exit status
+Error: requireNamespace("nichenetr", quietly = TRUE) is not TRUE
+Execution halted

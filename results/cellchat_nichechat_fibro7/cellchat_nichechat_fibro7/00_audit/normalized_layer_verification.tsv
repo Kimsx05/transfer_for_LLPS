@@ -1,0 +1,5 @@
+metric	value
+check_rule	first cell per biological sample; full gene universe
+checked_cells	59
+max_absolute_error	0
+normalized_expression_overwritten	FALSE

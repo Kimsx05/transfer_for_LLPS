@@ -1,0 +1,4 @@
+Warning message:
+In fread(status_path) :
+  Detected 11 column names but the data has 4 columns. Filling rows automatically. Set fill=TRUE explicitly to avoid this warning.
+REPORT UPDATED: CellChat=PARTIAL; NicheChat=NOT_APPLICABLE; NicheNet=PREFLIGHT; overall=PARTIAL

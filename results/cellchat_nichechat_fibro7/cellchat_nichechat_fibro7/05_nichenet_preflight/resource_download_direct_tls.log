@@ -1,0 +1,9 @@
+REUSED nichenetr_66f90d5eeafef280b2b2f339b3fd70ffec1781dd.tar.gz
+OFFICIAL SOURCE READY commit=66f90d5eeafef280b2b2f339b3fd70ffec1781dd
+RESOURCE {'resource': 'lr_network_human_21122021.rds', 'url': 'https://zenodo.org/api/records/7074291/files/lr_network_human_21122021.rds/content', 'official_checksum': 'md5:2a155f81e9ffffd5d5e709fe66bcc465', 'size_bytes': 20724, 'local_path': '/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/05_nichenet_preflight/lr_network_human_21122021.rds', 'record': '7074291', 'source_commit': '66f90d5eeafef280b2b2f339b3fd70ffec1781dd'}
+RESOURCE {'resource': 'weighted_networks_nsga2r_final.rds', 'url': 'https://zenodo.org/api/records/7074291/files/weighted_networks_nsga2r_final.rds/content', 'official_checksum': 'md5:80014dee22df42e98d1c608731c685b5', 'size_bytes': 73662019, 'local_path': '/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/05_nichenet_preflight/weighted_networks_nsga2r_final.rds', 'record': '7074291', 'source_commit': '66f90d5eeafef280b2b2f339b3fd70ffec1781dd'}
+RESOURCE {'resource': 'ligand_target_matrix_nsga2r_final.rds', 'url': 'https://zenodo.org/api/records/7074291/files/ligand_target_matrix_nsga2r_final.rds/content', 'official_checksum': 'md5:b09606b04b2d4490418d9028c0e58b9f', 'size_bytes': 262116605, 'local_path': '/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/05_nichenet_preflight/ligand_target_matrix_nsga2r_final.rds', 'record': '7074291', 'source_commit': '66f90d5eeafef280b2b2f339b3fd70ffec1781dd'}
+REUSED lr_network_human_21122021.rds
+DOWNLOADED weighted_networks_nsga2r_final.rds: 73662019 bytes; MD5=80014dee22df42e98d1c608731c685b5
+DOWNLOADED ligand_target_matrix_nsga2r_final.rds: 262116605 bytes; MD5=b09606b04b2d4490418d9028c0e58b9f
+ALL OFFICIAL NICHENET RESOURCES AVAILABLE

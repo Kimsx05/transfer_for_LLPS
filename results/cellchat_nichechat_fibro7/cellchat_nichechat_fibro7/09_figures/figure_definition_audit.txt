@@ -1,0 +1,6 @@
+Figure A: full cohort circle is primary; fibro-centered circle is supplemental.
+Both circle plots contain 14 equally sized nodes, fixed order, no edge labels, source-colored directed edges, and legend.
+Edge line widths are exactly proportional to the displayed median communication strength. All retained positive edges are drawn; no aesthetic cutoff.
+Figure B: outgoing and incoming fibro x seven major-population heatmaps; consistent linear strength color scale; no gridlines.
+PDF and SVG are vector outputs. PNG is 450 dpi.
+NicheNet ligand-activity and mechanism figures are deferred until a receiver geneset_oi is explicitly designed. NICHECHAT_STATUS=NOT_APPLICABLE.

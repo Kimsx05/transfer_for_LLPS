@@ -1,0 +1,15 @@
+final_cellchat_group	total_cells	n_samples_present	n_samples_eligible	max_sample_cells
+Fibro_C0	10717	43	20	2774
+Fibro_C1	5280	39	22	1715
+Fibro_C2	1305	47	10	443
+Fibro_C3	913	39	7	380
+Fibro_C4	811	39	7	159
+Fibro_C5	716	37	10	109
+Fibro_C6	404	25	3	168
+Epithelial	130804	57	49	9601
+Endothelial	8163	54	33	1497
+Myeloid	34536	59	55	2398
+T_NK	121222	55	50	6149
+B	18622	51	39	4610
+Plasma	8374	57	30	1884
+Mast	2510	51	20	670

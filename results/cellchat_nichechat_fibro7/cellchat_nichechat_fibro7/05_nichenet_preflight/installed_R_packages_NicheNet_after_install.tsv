@@ -1,0 +1,1378 @@
+installed_name	Package	LibPath	Version	Priority	Depends	Imports	LinkingTo	Suggests	Enhances	License	License_is_FOSS	License_restricts_use	OS_type	MD5sum	NeedsCompilation	Built
+"BBmisc"	"BBmisc"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.13.1"	NA	NA	"checkmate (>= 1.8.0), data.table, methods, stats, utils"	NA	"codetools, microbenchmark, testthat"	NA	"BSD_2_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"caret"	"caret"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"7.0-1"	NA	"ggplot2, lattice (>= 0.20), R (>= 3.2.0)"	"e1071, foreach, grDevices, methods, ModelMetrics (>= 1.2.2.2),
+nlme, plyr, pROC, recipes (>= 0.1.10), reshape2, stats, stats4,
+utils, withr (>= 2.0.0)"	NA	"BradleyTerry2, covr, Cubist, dplyr, earth (>= 2.2-3),
+ellipse, fastICA, gam (>= 1.15), ipred, kernlab, klaR, knitr,
+MASS, Matrix, mda, mgcv, mlbench, MLmetrics, nnet, pamr, party
+(>= 0.9-99992), pls, proxy, randomForest, RANN, rmarkdown,
+rpart, spls, superpc, testthat (>= 0.9.1), themis (>= 0.1.3)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"cellranger"	"cellranger"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.1.0"	NA	"R (>= 3.0.0)"	"rematch, tibble"	NA	"covr, testthat (>= 1.0.0), knitr, rmarkdown"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"clock"	"clock"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"0.7.4"	NA	"R (>= 4.0.0)"	"cli (>= 3.6.4), lifecycle (>= 1.0.4), rlang (>= 1.1.5), tzdb
+(>= 0.5.0), vctrs (>= 0.6.5)"	"cpp11 (>= 0.5.2), tzdb (>= 0.5.0)"	"covr, knitr, magrittr, pillar, rmarkdown, slider (>= 0.3.2),
+testthat (>= 3.0.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"conflicted"	"conflicted"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.2.0"	NA	"R (>= 3.2)"	"cli (>= 3.4.0), memoise, rlang (>= 1.0.0)"	NA	"callr, covr, dplyr, Matrix, methods, pkgload, testthat (>=
+3.0.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"diagram"	"diagram"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.6.5"	NA	"R (>= 2.01), shape"	"stats, graphics"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"DiagrammeR"	"DiagrammeR"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.0.12"	NA	"R (>= 4.1)"	"dplyr (>= 1.0.7), glue (>= 1.5.0), htmltools (>= 0.5.2),
+htmlwidgets (>= 1.5), igraph (>= 2.0.0), magrittr (>= 1.5),
+purrr (>= 0.3.4), RColorBrewer (>= 1.1-2), readr (>= 2.1.1),
+rlang (>= 1.1.0), cli, rstudioapi (>= 0.7), scales (>= 1.1),
+stringr (>= 1.4), tibble (>= 3.1), tidyr (>= 1.1), viridisLite
+(>= 0.4.2), visNetwork (>= 2.1.0)"	NA	"curl, DiagrammeRsvg, knitr, rmarkdown, rsvg, testthat (>=
+3.1.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"DiceKriging"	"DiceKriging"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.6.1"	NA	"methods"	NA	NA	"rgenoud (>= 5.8-2.0), foreach, doParallel, testthat, numDeriv"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"dtplyr"	"dtplyr"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.3.3"	NA	"R (>= 4.0)"	"cli (>= 3.4.0), data.table (>= 1.13.0), dplyr (>= 1.1.0),
+glue, lifecycle, rlang (>= 1.0.4), tibble, tidyselect (>=
+1.2.0), vctrs (>= 0.4.1)"	NA	"bench, covr, knitr, rmarkdown, testthat (>= 3.1.2), tidyr (>=
+1.1.0), waldo (>= 0.3.1)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"emoa"	"emoa"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"0.5-3"	NA	NA	NA	NA	"testthat"	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"fdrtool"	"fdrtool"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.2.18"	NA	"R (>= 3.4.0)"	"graphics, grDevices, stats"	NA	""	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"gargle"	"gargle"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.6.1"	NA	"R (>= 4.1)"	"cli (>= 3.0.1), fs (>= 1.3.1), glue (>= 1.3.0), httr (>=
+1.4.5), jsonlite, lifecycle (>= 0.2.0), openssl, rappdirs,
+rlang (>= 1.1.0), stats, utils, withr"	NA	"aws.ec2metadata, aws.signature, covr, httpuv, knitr,
+rmarkdown, sodium, spelling, testthat (>= 3.1.7)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggplot2"	"ggplot2"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"4.0.3"	NA	"R (>= 4.1)"	"cli, grDevices, grid, gtable (>= 0.3.6), isoband, lifecycle (>
+1.0.1), rlang (>= 1.1.0), S7, scales (>= 1.4.0), stats, vctrs
+(>= 0.6.0), withr (>= 2.5.0)"	NA	"broom, covr, dplyr, ggplot2movies, hexbin, Hmisc, hms, knitr,
+mapproj, maps, MASS, mgcv, multcomp, munsell, nlme, profvis,
+quantreg, quarto, ragg (>= 1.2.6), RColorBrewer, roxygen2,
+rpart, sf (>= 0.7-3), svglite (>= 2.1.2), testthat (>= 3.1.5),
+tibble, vdiffr (>= 1.0.6), xml2"	"sp"	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"googledrive"	"googledrive"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.1.2"	NA	"R (>= 4.1)"	"cli (>= 3.0.0), gargle (>= 1.6.0), glue (>= 1.4.2), httr,
+jsonlite, lifecycle, magrittr, pillar (>= 1.9.0), purrr (>=
+1.0.1), rlang (>= 1.0.2), tibble (>= 2.0.0), utils, uuid, vctrs
+(>= 0.3.0), withr"	NA	"curl, dplyr (>= 1.0.0), knitr, rmarkdown, spelling, testthat
+(>= 3.1.5)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"googlesheets4"	"googlesheets4"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.1.2"	NA	"R (>= 3.6)"	"cellranger, cli (>= 3.0.0), curl, gargle (>= 1.6.0), glue (>=
+1.3.0), googledrive (>= 2.1.0), httr, ids, lifecycle, magrittr,
+methods, purrr, rematch2, rlang (>= 1.0.2), tibble (>= 2.1.1),
+utils, vctrs (>= 0.2.3), withr"	NA	"readr, rmarkdown, spelling, testthat (>= 3.1.7)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"gower"	"gower"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.0.2"	NA	NA	NA	NA	"tinytest (>= 0.9.3),"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"hardhat"	"hardhat"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.4.3"	NA	"R (>= 4.1)"	"cli (>= 3.6.0), glue (>= 1.6.2), rlang (>= 1.1.0), sparsevctrs
+(>= 0.2.0), tibble (>= 3.2.1), vctrs (>= 0.6.0)"	NA	"covr, crayon, devtools, knitr, Matrix, modeldata (>= 0.0.2),
+recipes (>= 1.3.0), rmarkdown (>= 2.3), roxygen2, testthat (>=
+3.0.0), usethis (>= 2.1.5), withr (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"haven"	"haven"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.5.5"	NA	"R (>= 3.6)"	"cli (>= 3.0.0), forcats (>= 0.2.0), hms, lifecycle, methods,
+readr (>= 0.1.0), rlang (>= 0.4.0), tibble, tidyselect, vctrs
+(>= 0.3.0)"	"cpp11"	"covr, crayon, fs, knitr, pillar (>= 1.4.0), rmarkdown,
+testthat (>= 3.0.0), utf8"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"Hmisc"	"Hmisc"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"5.3-0"	NA	"R (>= 4.2.0)"	"methods, ggplot2, cluster, rpart, nnet, foreign, gtable, grid,
+gridExtra, data.table, htmlTable (>= 1.11.0), viridisLite,
+htmltools, base64enc, colorspace, rmarkdown, knitr, Formula"	NA	"survival, qreport, acepack, chron, rms, mice, rstudioapi,
+tables, plotly (>= 4.5.6), rlang, VGAM, leaps, pcaPP, digest,
+parallel, polspline, abind, kableExtra, rio, lattice,
+latticeExtra, gt, sparkline, jsonlite, htmlwidgets, qs2,
+getPass, keyring, safer, htm2txt, boot"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"htmlTable"	"htmlTable"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.5.0"	NA	"R (>= 4.1)"	"stringr, knitr (>= 1.6), magrittr (>= 1.5), methods,
+checkmate, htmlwidgets, htmltools, rstudioapi (>= 0.6)"	NA	"testthat, XML, xml2, Hmisc, rmarkdown, chron, lubridate,
+tibble, purrr, tidyselect, glue, rlang, tidyr (>= 0.7.2), dplyr
+(>= 0.7.4)"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"no"	"4.4.3"
+"ids"	"ids"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.0.1"	NA	NA	"openssl, uuid"	NA	"knitr, rcorpora, rmarkdown, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ipred"	"ipred"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"0.9-16"	NA	"R (>= 2.10)"	"rpart (>= 3.1-8), MASS, survival, nnet, class, prodlim"	NA	"mvtnorm, mlbench, TH.data, randomForest, party"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"lava"	"lava"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.9.3"	NA	"R (>= 3.5.0)"	"cli, future.apply, graphics, grDevices, methods, numDeriv,
+progressr, stats, survival, SQUAREM, utils"	NA	"KernSmooth, Rgraphviz, data.table, ellipse, fields, future,
+geepack, graph, knitr, rmarkdown, igraph (>= 0.6), lavaSearch2,
+lme4 (>= 1.1.35.1), MASS, Matrix (>= 1.6.3), mets (>= 1.1),
+nlme, optimx, polycor, quantreg, quarto, rgl, svglite, targeted
+(>= 0.4), testthat (>= 0.11), vdiffr, visNetwork"	NA	"Apache License (== 2.0)"	NA	NA	NA	NA	"no"	"4.4.3"
+"lhs"	"lhs"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.3.0"	NA	"R (>= 4.1.0)"	"Rcpp"	"Rcpp"	"testthat, DoE.base, knitr, rmarkdown"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"mlr"	"mlr"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.19.3"	NA	"ParamHelpers (>= 1.10), R (>= 3.0.2)"	"backports (>= 1.1.0), BBmisc (>= 1.11), checkmate (>= 1.8.2),
+data.table (>= 1.12.4), ggplot2, methods, parallelMap (>= 1.3),
+stats, stringi, survival, utils, XML"	NA	"ada, adabag, batchtools, bit64, brnn, bst, C50, care, caret
+(>= 6.0-57), class, clue, cluster, ClusterR, clusterSim (>=
+0.44-5), cmaes, cowplot, crs, Cubist, deepnet, DiceKriging,
+e1071, earth, elasticnet, emoa, evtree, fda.usc, FDboost, FNN,
+forecast (>= 8.3), fpc, frbs, FSelector, FSelectorRcpp (>=
+0.3.5), gbm, GenSA, ggpubr, glmnet, GPfit, h2o (>= 3.6.0.8),
+Hmisc, irace (>= 2.0), kernlab, kknn, klaR, knitr, laGP,
+LiblineaR, lintr (>= 1.0.0.9001), MASS, mboost, mco, mda,
+memoise, mlbench, mldr, mlrMBO, modeltools, mRMRe, neuralnet,
+nnet, numDeriv, pamr, pander, party, pec, penalized (>=
+0.9-47), pls, PMCMRplus, praznik (>= 5.0.0), randomForest,
+ranger (>= 0.8.0), rappdirs, refund, rex, rFerns, rgenoud,
+rmarkdown, Rmpi, ROCR, rotationForest, rpart, RRF, rsm, RSNNS,
+rucrdtw, RWeka, sda, sf, smoof, sparseLDA, stepPlr, survAUC,
+svglite, testthat, tgp, TH.data, tidyr, tsfeatures, vdiffr,
+wavelets, xgboost (>= 0.7)"	NA	"BSD_2_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"mlrMBO"	"mlrMBO"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.1.6"	NA	"mlr (>= 2.10), ParamHelpers (>= 1.10), smoof (>= 1.5.1)"	"backports (>= 1.1.0), BBmisc (>= 1.11), checkmate (>= 1.8.2),
+data.table, lhs, parallelMap (>= 1.3)"	NA	"akima, cmaesr (>= 1.0.3), covr, DiceKriging, earth, emoa,
+GGally, ggplot2, gridExtra, interp, kernlab, kknn, knitr, mco,
+nnet, party, randomForest, reshape2, rgenoud, rmarkdown, rpart,
+testthat"	NA	"BSD_2_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ModelMetrics"	"ModelMetrics"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.2.2.2"	NA	"R (>= 3.2.2)"	"Rcpp, data.table"	"Rcpp"	"testthat"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"nichenetr"	"nichenetr"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.2.1.1"	NA	"R (>= 3.0.0)"	"tidyverse, data.table, dplyr, ggplot2, magrittr, purrr, readr,
+tibble, tidyr, igraph, Matrix, fdrtool, ROCR, caTools, Hmisc,
+caret, randomForest, DiagrammeR, mlrMBO, parallelMap, emoa,
+DiceKriging, e1071, Seurat, cowplot, ggpubr, circlize,
+ComplexHeatmap, grDevices, ggnewscale, ggforce, shadowtext"	NA	"knitr, RColorBrewer, rmarkdown, testthat, doMC, limma, mco,
+parallel, covr, sf"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"parallelMap"	"parallelMap"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.5.1"	NA	"R (>= 3.0.0)"	"BBmisc (>= 1.8), checkmate (>= 1.8.0), parallel, stats, utils"	NA	"BatchJobs (>= 1.8), batchtools (>= 0.9.6), data.table, Rmpi,
+rpart, snow, testthat"	NA	"BSD_2_clause + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ParamHelpers"	"ParamHelpers"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.14.2"	NA	NA	"backports, BBmisc (>= 1.10), checkmate (>= 1.8.2), fastmatch,
+methods"	NA	"akima, covr, eaf, emoa, GGally, ggplot2, grid, gridExtra,
+irace (>= 2.1), lhs, plyr, reshape2, testthat"	NA	"BSD_2_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"prodlim"	"prodlim"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2026.03.11"	NA	"R (>= 4.1.0)"	"Rcpp (>= 0.11.5), stats, rlang, data.table, grDevices,
+ggplot2, scales, graphics, diagram, survival, KernSmooth, lava"	"Rcpp"	"tibble, ggthemes, riskRegression, testthat, etm, survey"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppThread"	"RcppThread"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.4.0"	NA	"R (>= 3.3.0)"	NA	NA	"testthat, R.rsp, Rcpp"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"readxl"	"readxl"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.5.0.1"	NA	"R (>= 4.1)"	"cellranger, tibble (>= 2.0.1), utils"	"cpp11 (>= 0.5.5), progress"	"covr, knitr, rmarkdown, testthat (>= 3.1.6), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"recipes"	"recipes"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.4.0"	NA	"dplyr (>= 1.1.0), R (>= 4.1)"	"cli, clock (>= 0.6.1), generics (>= 0.1.2), glue, gower,
+hardhat (>= 1.4.1), ipred (>= 0.9-12), lifecycle (>= 1.0.3),
+lubridate (>= 1.8.0), magrittr, Matrix, purrr (>= 1.0.0), rlang
+(>= 1.1.0), sparsevctrs (>= 0.3.3), stats, tibble, tidyr (>=
+1.0.0), tidyselect (>= 1.2.0), timeDate, utils, vctrs (>=
+0.5.0), withr"	NA	"covr, ddalpha, dials (>= 1.2.0), dimRed, fastICA, ggplot2,
+igraph (>= 2.1.1), kernlab, knitr, methods, mixOmics, modeldata
+(>= 0.1.1), parsnip (>= 1.2.0), quarto, RANN, RcppRoll,
+rmarkdown, rpart, rsample, RSpectra, splines2, survival,
+testthat (>= 3.3.0), workflows, xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"rematch"	"rematch"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.0.0"	NA	NA	NA	NA	"covr, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"rematch2"	"rematch2"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.1.2"	NA	NA	"tibble"	NA	"covr, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"reprex"	"reprex"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.1.1"	NA	"R (>= 3.6)"	"callr (>= 3.6.0), cli (>= 3.2.0), clipr (>= 0.4.0), fs, glue,
+knitr (>= 1.23), lifecycle, rlang (>= 1.0.0), rmarkdown,
+rstudioapi, utils, withr (>= 2.3.0)"	NA	"covr, fortunes, miniUI, rprojroot, sessioninfo, shiny,
+spelling, styler (>= 1.2.0), testthat (>= 3.2.1)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"rvest"	"rvest"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.0.5"	NA	"R (>= 4.1)"	"cli, glue, httr (>= 0.5), lifecycle (>= 1.0.3), magrittr,
+rlang (>= 1.1.0), selectr, tibble, xml2 (>= 1.4.0)"	NA	"chromote, covr, knitr, purrr, R6, readr, repurrrsive,
+rmarkdown, spelling, stringi (>= 0.3.1), testthat (>= 3.0.2),
+tidyr, webfakes"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"selectr"	"selectr"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"0.8-0"	NA	"R (>= 3.6)"	NA	NA	"testthat (>= 3.0.0), XML, xml2"	NA	"BSD_3_clause + file LICENCE"	NA	NA	NA	NA	"no"	"4.4.3"
+"smoof"	"smoof"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"1.7.0"	NA	"ParamHelpers (>= 1.8), checkmate (>= 1.1)"	"BBmisc (>= 1.6), ggplot2 (>= 3.0.0), Rcpp (>= 0.11.0),"	"Rcpp, RcppArmadillo"	"testthat, MASS, plot3D, plotly, mco, RColorBrewer,
+reticulate, covr"	NA	"BSD_2_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"sparsevctrs"	"sparsevctrs"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"0.3.6"	NA	"R (>= 4.1)"	"cli (>= 3.4.0), rlang (>= 1.1.0), vctrs"	NA	"knitr, Matrix, methods, rmarkdown, testthat (>= 3.0.0),
+tibble, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"SQUAREM"	"SQUAREM"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2026.1"	NA	"R (>= 4.0)"	NA	NA	"setRNG, interval"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"tidyverse"	"tidyverse"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.0.0"	NA	"R (>= 3.3)"	"broom (>= 1.0.3), conflicted (>= 1.2.0), cli (>= 3.6.0),
+dbplyr (>= 2.3.0), dplyr (>= 1.1.0), dtplyr (>= 1.2.2), forcats
+(>= 1.0.0), ggplot2 (>= 3.4.1), googledrive (>= 2.0.0),
+googlesheets4 (>= 1.0.1), haven (>= 2.5.1), hms (>= 1.1.2),
+httr (>= 1.4.4), jsonlite (>= 1.8.4), lubridate (>= 1.9.2),
+magrittr (>= 2.0.3), modelr (>= 0.1.10), pillar (>= 1.8.1),
+purrr (>= 1.0.1), ragg (>= 1.2.5), readr (>= 2.1.4), readxl (>=
+1.4.2), reprex (>= 2.0.2), rlang (>= 1.0.6), rstudioapi (>=
+0.14), rvest (>= 1.0.3), stringr (>= 1.5.0), tibble (>= 3.1.8),
+tidyr (>= 1.3.0), xml2 (>= 1.3.3)"	NA	"covr (>= 3.6.1), feather (>= 0.3.5), glue (>= 1.6.2), mockr
+(>= 0.2.0), knitr (>= 1.41), rmarkdown (>= 2.20), testthat (>=
+3.1.6)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"visNetwork"	"visNetwork"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib_nichenet"	"2.1.4"	NA	"R (>= 3.0)"	"htmlwidgets, htmltools, jsonlite, magrittr, utils, methods,
+grDevices, stats"	NA	"knitr, rmarkdown, webshot, igraph, rpart, shiny,
+shinyWidgets, colourpicker, sparkline, ggraph, tidygraph,
+flashClust"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"CellChat"	"CellChat"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib"	"2.1.2"	NA	"R (>= 3.6.0),dplyr,igraph,ggplot2"	"future, future.apply, pbapply, irlba, NMF (>= 0.23.0),
+ggalluvial, stringr, svglite, Matrix, ggrepel, circlize (>=
+0.4.12), RColorBrewer, cowplot, methods, ComplexHeatmap,
+RSpectra, Rcpp, reticulate, scales, sna, reshape2, FNN, shape,
+BiocGenerics, magrittr, patchwork, colorspace, plyr, ggpubr,
+ggnetwork, BiocNeighbors, plotly,shiny,bslib"	"Rcpp, RcppEigen"	"rmarkdown, knitr, roxygen2, Seurat (>= 4.0.0),
+SingleCellExperiment, SummarizedExperiment,
+purrr,uwot,gg.gap,wordcloud,bsicons,presto,tidyverse,tidyr,rlang"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"coda"	"coda"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib"	"0.19-4.1"	NA	"R (>= 2.14.0)"	"lattice"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggalluvial"	"ggalluvial"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib"	"0.12.6"	NA	"R (>= 3.6), ggplot2 (>= 2.2)"	"stats, dplyr (>= 0.7), tidyr (>= 0.7), lazyeval, rlang,
+tidyselect"	NA	"grid, alluvial, testthat, knitr, rmarkdown, babynames,
+sessioninfo, ggrepel, shiny (>= 1.4.0.2), htmltools, sp (>=
+1.4-0), ggfittext (>= 0.6), vdiffr (>= 0.2)"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggnetwork"	"ggnetwork"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib"	"0.5.14"	NA	"R (>= 3.5), ggplot2 (>= 2.0.0)"	"ggrepel (>= 0.5), network, igraph, sna, utils"	NA	"knitr, rmarkdown, testthat"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"network"	"network"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib"	"1.20.0"	NA	"R (>= 2.10), utils"	"tibble, magrittr, statnet.common (>= 4.5), stats"	NA	"sna, testthat, covr"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"sna"	"sna"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib"	"2.8"	NA	"R (>= 2.0.0), utils, statnet.common, network"	NA	NA	"rgl, numDeriv, SparseM"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"statnet.common"	"statnet.common"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib"	"4.13.0"	NA	"R (>= 4.1)"	"utils, methods, coda, parallel, tools, Matrix"	NA	"covr, roxygen2, rlang (>= 1.1.1), purrr, testthat, MASS"	NA	"GPL-3 + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"svglite"	"svglite"	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib"	"2.2.2"	NA	"R (>= 4.1)"	"base64enc, cli, lifecycle, rlang (>= 1.1.0), systemfonts (>=
+1.3.0), textshaping (>= 0.3.0)"	"cpp11, systemfonts, textshaping"	"covr, fontquiver (>= 0.2.0), htmltools, knitr, rmarkdown,
+testthat (>= 3.0.0), xml2 (>= 1.0.0)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"GSVA"	"GSVA"	"/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib"	"2.0.7"	NA	"R (>= 3.5.0)"	"methods, stats, utils, graphics, S4Vectors, IRanges, Biobase,
+SummarizedExperiment, GSEABase, Matrix (>= 1.5-0), parallel,
+BiocParallel, SingleCellExperiment, SpatialExperiment,
+sparseMatrixStats, DelayedArray, DelayedMatrixStats, HDF5Array,
+BiocSingular, cli"	"cli"	"BiocGenerics, RUnit, BiocStyle, knitr, rmarkdown, limma,
+RColorBrewer, org.Hs.eg.db, genefilter, edgeR, GSVAdata, shiny,
+shinydashboard, ggplot2, data.table, plotly, future, promises,
+shinybusy, shinyjs"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"magick"	"magick"	"/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib"	"2.9.1"	NA	"R (>= 4.1.0)"	"Rcpp (>= 0.12.12), magrittr, curl"	"Rcpp"	"av, spelling, jsonlite, methods, knitr, rmarkdown, rsvg,
+webp, pdftools, ggplot2, gapminder, IRdisplay, tesseract,
+gifski"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"SpatialExperiment"	"SpatialExperiment"	"/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_atlas_stage1_v1/Rlib"	"1.16.0"	NA	"methods, SingleCellExperiment"	"rjson, grDevices, magick, utils, S4Vectors,
+SummarizedExperiment, BiocGenerics, BiocFileCache"	NA	"knitr, rmarkdown, testthat, BiocStyle, BumpyMatrix,
+DropletUtils"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"DoubletFinder"	"DoubletFinder"	"/home/jinshengxi/Rlibrary/LLPS_pipeline_v1_20260914_150459"	"2.0.6"	NA	"R (>= 4.0.0)"	"fields,
+KernSmooth,
+parallel,
+ROCR,
+Seurat,
+SeuratObject"	NA	"testthat"	NA	"CC0"	NA	NA	NA	NA	NA	"4.4.3"
+"fields"	"fields"	"/home/jinshengxi/Rlibrary/LLPS_pipeline_v1_20260914_150459"	"17.3"	NA	"R (>= 4.0.0), methods, spam, viridisLite, RColorBrewer"	"maps"	NA	"mapproj"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"maps"	"maps"	"/home/jinshengxi/Rlibrary/LLPS_pipeline_v1_20260914_150459"	"3.4.3"	NA	"R (>= 3.5.0)"	"graphics, utils"	NA	"mapproj (>= 1.2-0), mapdata (>= 2.3.0), sf, rnaturalearth"	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"presto"	"presto"	"/home/jinshengxi/Rlibrary/LLPS_pipeline_v1_20260914_150459"	"1.1.0"	NA	"R (>= 3.5.0)"	"Rcpp, data.table, dplyr, methods, tidyr, purrr, tibble,
+Matrix, rlang, stats, utils"	"Rcpp, RcppArmadillo"	"knitr, rmarkdown, testthat, Seurat, SingleCellExperiment,
+SummarizedExperiment, DelayedArray, broom, BiocStyle, DESeq2,
+rhdf5, R.utils"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"qs2"	"qs2"	"/home/jinshengxi/Rlibrary/LLPS_pipeline_v1_20260914_150459"	"0.3.1"	NA	"R (>= 3.6.0)"	"Rcpp, RcppParallel (>= 6.1.1), stringfish (>= 0.18.0)"	"Rcpp, RcppParallel (>= 6.1.1)"	"knitr, rmarkdown, dplyr, data.table, stringi"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppParallel"	"RcppParallel"	"/home/jinshengxi/Rlibrary/LLPS_pipeline_v1_20260914_150459"	"6.2.1"	NA	"R (>= 3.6.0)"	NA	NA	"Rcpp, knitr, rmarkdown"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"stringfish"	"stringfish"	"/home/jinshengxi/Rlibrary/LLPS_pipeline_v1_20260914_150459"	"0.19.2"	NA	"R (>= 3.6.0)"	"Rcpp, RcppParallel"	"Rcpp (>= 0.12.18.3), RcppParallel (>= 6.1.1)"	"knitr, rmarkdown"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"abind"	"abind"	"/home/jinshengxi/Rlibrary/packages"	"1.4-8"	NA	"R (>= 1.5.0)"	"methods, utils"	NA	NA	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"admisc"	"admisc"	"/home/jinshengxi/Rlibrary/packages"	"0.40"	NA	"R (>= 3.5.0)"	"methods"	NA	"QCA (>= 3.7)"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"annotate"	"annotate"	"/home/jinshengxi/Rlibrary/packages"	"1.84.0"	NA	"R (>= 2.10), AnnotationDbi (>= 1.27.5), XML"	"Biobase, DBI, xtable, graphics, utils, stats, methods,
+BiocGenerics (>= 0.13.8), httr"	NA	"hgu95av2.db, genefilter, Biostrings (>= 2.25.10), IRanges,
+rae230a.db, rae230aprobe, tkWidgets, GO.db, org.Hs.eg.db,
+org.Mm.eg.db, humanCHRLOC, Rgraphviz, RUnit, BiocStyle, knitr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"AnnotationDbi"	"AnnotationDbi"	"/home/jinshengxi/Rlibrary/packages"	"1.68.0"	NA	"R (>= 2.7.0), methods, stats4, BiocGenerics (>= 0.29.2),
+Biobase (>= 1.17.0), IRanges"	"DBI, RSQLite, S4Vectors (>= 0.9.25), stats, KEGGREST"	NA	"utils, hgu95av2.db, GO.db, org.Sc.sgd.db, org.At.tair.db,
+RUnit, TxDb.Hsapiens.UCSC.hg19.knownGene, org.Hs.eg.db,
+reactome.db, AnnotationForge, graph, EnsDb.Hsapiens.v75,
+BiocStyle, knitr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"ape"	"ape"	"/home/jinshengxi/Rlibrary/packages"	"5.8-1"	NA	"R (>= 3.2.0)"	"nlme, lattice, graphics, methods, stats, utils, parallel, Rcpp
+(>= 0.12.0), digest"	"Rcpp"	"gee, expm, igraph, phangorn, xml2"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"aplot"	"aplot"	"/home/jinshengxi/Rlibrary/packages"	"0.3.1"	NA	"R (>= 4.1.0)"	"ggfun (>= 0.1.3), gtable, ggplot2, ggplotify, patchwork,
+magrittr, methods, utils, yulab.utils (>= 0.1.9), pillar"	NA	"ggtree, testthat (>= 3.0.0)"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"askpass"	"askpass"	"/home/jinshengxi/Rlibrary/packages"	"1.2.1"	NA	NA	"sys (>= 2.1)"	NA	"testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"assorthead"	"assorthead"	"/home/jinshengxi/Rlibrary/packages"	"1.0.1"	NA	NA	NA	NA	"knitr, rmarkdown, BiocStyle"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"AUCell"	"AUCell"	"/home/jinshengxi/Rlibrary/packages"	"1.28.0"	NA	NA	"DelayedArray, DelayedMatrixStats, data.table, graphics,
+grDevices, GSEABase, Matrix, methods, mixtools, R.utils, stats,
+SummarizedExperiment, BiocGenerics, utils"	NA	"Biobase, BiocStyle, doSNOW, dynamicTreeCut, DT, GEOquery,
+knitr, NMF, plyr, R2HTML, rmarkdown, reshape2, plotly, Rtsne,
+testthat, zoo"	"doMC, doRNG, doParallel, foreach"	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"backports"	"backports"	"/home/jinshengxi/Rlibrary/packages"	"1.5.1"	NA	"R (>= 3.0.0)"	NA	NA	NA	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"base64enc"	"base64enc"	"/home/jinshengxi/Rlibrary/packages"	"0.1-6"	NA	"R (>= 2.9.0)"	NA	NA	NA	"png"	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"batchelor"	"batchelor"	"/home/jinshengxi/Rlibrary/packages"	"1.22.0"	NA	"SingleCellExperiment"	"SummarizedExperiment, S4Vectors, BiocGenerics, Rcpp, stats,
+methods, utils, igraph, BiocNeighbors, BiocSingular, Matrix,
+SparseArray, DelayedArray (>= 0.31.5), DelayedMatrixStats,
+BiocParallel, scuttle, ResidualMatrix, ScaledMatrix, beachmat"	"Rcpp"	"testthat, BiocStyle, knitr, rmarkdown, scran, scater,
+bluster, scRNAseq"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"bbotk"	"bbotk"	"/home/jinshengxi/Rlibrary/packages"	"1.11.0"	NA	"paradox (>= 1.0.0), R (>= 3.1.0)"	"checkmate (>= 2.0.0), cli, data.table, lgr, methods, mlr3misc
+(>= 0.21.0), moocore, R6"	NA	"adagio, emoa, GenSA, irace (>= 4.0.0), knitr, mirai, nloptr,
+processx, progressr, redux, RhpcBLASctl, rush (>= 1.0.0),
+testthat (>= 3.0.0)"	NA	"LGPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"beachmat"	"beachmat"	"/home/jinshengxi/Rlibrary/packages"	"2.22.0"	NA	NA	"methods, DelayedArray (>= 0.27.2), SparseArray, BiocGenerics,
+Matrix, Rcpp"	"Rcpp, assorthead"	"testthat, BiocStyle, knitr, rmarkdown, rcmdcheck,
+BiocParallel, HDF5Array, beachmat.hdf5"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"beeswarm"	"beeswarm"	"/home/jinshengxi/Rlibrary/packages"	"0.4.0"	NA	NA	"stats, graphics, grDevices, utils"	NA	NA	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"BH"	"BH"	"/home/jinshengxi/Rlibrary/packages"	"1.90.0-1"	NA	NA	NA	NA	NA	NA	"BSL-1.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"Biobase"	"Biobase"	"/home/jinshengxi/Rlibrary/packages"	"2.62.0"	NA	"R (>= 2.10), BiocGenerics (>= 0.27.1), utils"	"methods"	NA	"tools, tkWidgets, ALL, RUnit, golubEsets, BiocStyle, knitr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"BiocFileCache"	"BiocFileCache"	"/home/jinshengxi/Rlibrary/packages"	"2.10.2"	NA	"R (>= 3.4.0), dbplyr (>= 1.0.0)"	"methods, stats, utils, dplyr, RSQLite, DBI, filelock, curl,
+httr"	NA	"testthat, knitr, BiocStyle, rmarkdown, rtracklayer"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"BiocGenerics"	"BiocGenerics"	"/home/jinshengxi/Rlibrary/packages"	"0.52.0"	NA	"R (>= 4.0.0), methods, utils, graphics, stats"	"methods, utils, graphics, stats"	NA	"Biobase, S4Vectors, IRanges, S4Arrays, SparseArray,
+DelayedArray, HDF5Array, GenomicRanges, pwalign, Rsamtools,
+AnnotationDbi, affy, affyPLM, DESeq2, flowClust, MSnbase,
+annotate, RUnit"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"BiocIO"	"BiocIO"	"/home/jinshengxi/Rlibrary/packages"	"1.16.0"	NA	"R (>= 4.3.0)"	"BiocGenerics, S4Vectors, methods, tools"	NA	"testthat, knitr, rmarkdown, BiocStyle"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"BiocManager"	"BiocManager"	"/home/jinshengxi/Rlibrary/packages"	"1.30.27"	NA	NA	"utils"	NA	"BiocVersion, BiocStyle, remotes, rmarkdown, testthat, withr,
+curl, knitr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"BiocNeighbors"	"BiocNeighbors"	"/home/jinshengxi/Rlibrary/packages"	"2.0.1"	NA	NA	"Rcpp, methods"	"Rcpp, assorthead"	"BiocParallel, testthat, BiocStyle, knitr, rmarkdown"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"BiocParallel"	"BiocParallel"	"/home/jinshengxi/Rlibrary/packages"	"1.36.0"	NA	"methods, R (>= 3.5.0)"	"stats, utils, futile.logger, parallel, snow, codetools"	"BH, cpp11"	"BiocGenerics, tools, foreach, BBmisc, doParallel,
+GenomicRanges, RNAseqData.HNRNPC.bam.chr14,
+TxDb.Hsapiens.UCSC.hg19.knownGene, VariantAnnotation,
+Rsamtools, GenomicAlignments, ShortRead, RUnit, BiocStyle,
+knitr, batchtools, data.table"	"Rmpi"	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"BiocSingular"	"BiocSingular"	"/home/jinshengxi/Rlibrary/packages"	"1.22.0"	NA	NA	"BiocGenerics, S4Vectors, Matrix, methods, utils, DelayedArray,
+BiocParallel, ScaledMatrix, irlba, rsvd, Rcpp, beachmat (>=
+2.21.1)"	"Rcpp, beachmat, assorthead"	"testthat, BiocStyle, knitr, rmarkdown, ResidualMatrix"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"BiocVersion"	"BiocVersion"	"/home/jinshengxi/Rlibrary/packages"	"3.20.0"	NA	"R (>= 4.4.0)"	NA	NA	NA	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"biocViews"	"biocViews"	"/home/jinshengxi/Rlibrary/packages"	"1.74.0"	NA	"R (>= 3.6.0)"	"Biobase, graph (>= 1.9.26), methods, RBGL (>= 1.13.5), tools,
+utils, XML, RCurl, RUnit, BiocManager"	NA	"BiocGenerics, knitr, commonmark, BiocStyle"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"biomaRt"	"biomaRt"	"/home/jinshengxi/Rlibrary/packages"	"2.62.1"	NA	"methods"	"utils, AnnotationDbi, progress, stringr, httr2, digest,
+BiocFileCache, rappdirs, xml2, curl"	NA	"BiocStyle, knitr, mockery, rmarkdown, testthat, httptest2"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"Biostrings"	"Biostrings"	"/home/jinshengxi/Rlibrary/packages"	"2.74.1"	NA	"R (>= 4.0.0), BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.27.12), IRanges (>= 2.31.2), XVector (>= 0.37.1),
+GenomeInfoDb"	"methods, utils, grDevices, stats, crayon"	"S4Vectors, IRanges, XVector"	"graphics, pwalign, BSgenome (>= 1.13.14),
+BSgenome.Celegans.UCSC.ce2 (>= 1.3.11),
+BSgenome.Dmelanogaster.UCSC.dm3 (>= 1.3.11),
+BSgenome.Hsapiens.UCSC.hg18, drosophila2probe, hgu95av2probe,
+hgu133aprobe, GenomicFeatures (>= 1.3.14), hgu95av2cdf, affy
+(>= 1.41.3), affydata (>= 1.11.5), RUnit, BiocStyle, knitr,
+testthat (>= 3.0.0), covr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"bit"	"bit"	"/home/jinshengxi/Rlibrary/packages"	"4.6.0"	NA	"R (>= 3.4.0)"	NA	NA	"testthat (>= 3.0.0), roxygen2, knitr, markdown, rmarkdown,
+microbenchmark, bit64 (>= 4.0.0), ff (>= 4.0.0)"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"bit64"	"bit64"	"/home/jinshengxi/Rlibrary/packages"	"4.8.2"	NA	"R (>= 3.5.0)"	"bit (>= 4.0.0), graphics, methods, stats, utils"	NA	"patrick (>= 0.3.0), testthat (>= 3.3.0), withr"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"bitops"	"bitops"	"/home/jinshengxi/Rlibrary/packages"	"1.0-9"	NA	NA	NA	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"blob"	"blob"	"/home/jinshengxi/Rlibrary/packages"	"1.3.0"	NA	NA	"methods, rlang, vctrs (>= 0.2.1)"	NA	"covr, crayon, pillar (>= 1.2.1), testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"bluster"	"bluster"	"/home/jinshengxi/Rlibrary/packages"	"1.16.0"	NA	NA	"stats, methods, utils, cluster, Matrix, Rcpp, igraph,
+S4Vectors, BiocParallel, BiocNeighbors"	"Rcpp, assorthead"	"knitr, rmarkdown, testthat, BiocStyle, dynamicTreeCut,
+scRNAseq, scuttle, scater, scran, pheatmap, viridis, mbkmeans,
+kohonen, apcluster, DirichletMultinomial, vegan, fastcluster"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"brew"	"brew"	"/home/jinshengxi/Rlibrary/packages"	"1.0-10"	NA	NA	NA	NA	"testthat (>= 3.0.0)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"brio"	"brio"	"/home/jinshengxi/Rlibrary/packages"	"1.1.5"	NA	"R (>= 3.6)"	NA	NA	"covr, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"broom"	"broom"	"/home/jinshengxi/Rlibrary/packages"	"1.0.13"	NA	"R (>= 4.1)"	"backports, cli, dplyr (>= 1.0.0), generics (>= 0.0.2), glue,
+lifecycle, purrr, rlang (>= 1.1.0), stringr, tibble (>= 3.0.0),
+tidyr (>= 1.0.0)"	NA	"AER, AUC, bbmle, betareg (>= 3.2-1), biglm, binGroup, boot,
+btergm (>= 1.10.6), car (>= 3.1-2), carData, caret, cluster,
+cmprsk, coda, covr, drc, e1071, emmeans, epiR (>= 2.0.85), ergm
+(>= 3.10.4), fixest (>= 0.9.0), gam (>= 1.15), gee, geepack,
+ggplot2, glmnet, glmnetUtils, gmm, Hmisc, interp, irlba,
+joineRML, Kendall, knitr, ks, Lahman, lavaan (>= 0.6.18),
+leaps, lfe, lm.beta, lme4, lmodel2, lmtest (>= 0.9.38),
+lsmeans, maps, margins, MASS, mclust, mediation, metafor, mfx,
+mgcv, mlogit, modeldata, modeltests (>= 0.1.6), muhaz,
+multcomp, network, nnet, ordinal, plm, poLCA, psych, quantreg,
+rmarkdown, robust, robustbase, rsample, sandwich, spatialreg,
+spdep (>= 1.1), speedglm, spelling, stats4, survey, survival
+(>= 3.6-4), systemfit, testthat (>= 3.0.0), tseries, vars, zoo"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"bslib"	"bslib"	"/home/jinshengxi/Rlibrary/packages"	"0.11.0"	NA	"R (>= 2.10)"	"base64enc, cachem, fastmap (>= 1.1.1), grDevices, htmltools
+(>= 0.5.8), jquerylib (>= 0.1.3), jsonlite, lifecycle, memoise
+(>= 2.0.1), mime, rlang, sass (>= 0.4.9)"	NA	"brand.yml, bsicons, curl, fontawesome, future, ggplot2,
+knitr, lattice, magrittr, rappdirs, rmarkdown (>= 2.7), shiny
+(>= 1.11.1.9000), testthat, thematic, tools, utils, withr, yaml"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"cachem"	"cachem"	"/home/jinshengxi/Rlibrary/packages"	"1.1.0"	NA	NA	"rlang, fastmap (>= 1.2.0)"	NA	"testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"Cairo"	"Cairo"	"/home/jinshengxi/Rlibrary/packages"	"1.7-0"	NA	"R (>= 2.7.0)"	"grDevices, graphics"	NA	"png"	"FastRWeb"	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"callr"	"callr"	"/home/jinshengxi/Rlibrary/packages"	"3.8.0"	NA	"R (>= 3.4)"	"otel (>= 0.2.0), processx (>= 3.6.1), R6, utils"	NA	"asciicast (>= 2.3.1), carrier, cli (>= 1.1.0), otelsdk (>=
+0.2.0), ps, rprojroot, spelling, testthat (>= 3.2.0), withr (>=
+2.3.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"car"	"car"	"/home/jinshengxi/Rlibrary/packages"	"3.1-5"	NA	"R (>= 3.5.0), carData (>= 3.0-0)"	"abind, Formula, MASS, mgcv, nnet, pbkrtest (>= 0.4-4),
+quantreg, grDevices, utils, stats, graphics, lme4 (>=
+1.1-27.1), nlme, scales"	NA	"alr4, boot, coxme, effects, knitr, leaps, lmtest, Matrix,
+MatrixModels, ordinal, plotrix, mvtnorm, rgl (>= 0.111.3), rio,
+sandwich, SparseM, survival, survey"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"carData"	"carData"	"/home/jinshengxi/Rlibrary/packages"	"3.0-6"	NA	"R (>= 3.5.0)"	NA	NA	"car (>= 3.0-0)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"caTools"	"caTools"	"/home/jinshengxi/Rlibrary/packages"	"1.18.3"	NA	"R (>= 3.6.0)"	"bitops"	NA	"MASS, rpart"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"checkmate"	"checkmate"	"/home/jinshengxi/Rlibrary/packages"	"2.3.4"	NA	"R (>= 3.0.0)"	"backports (>= 1.1.0), utils"	NA	"R6, fastmatch, data.table (>= 1.9.8), devtools, ggplot2,
+knitr, magrittr, microbenchmark, rmarkdown, testthat (>=
+3.0.4), tinytest (>= 1.1.0), tibble"	NA	"BSD_3_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"circlize"	"circlize"	"/home/jinshengxi/Rlibrary/packages"	"0.4.18"	NA	"R (>= 4.0.0), graphics"	"GlobalOptions (>= 0.1.2), shape, grDevices, utils, stats,
+colorspace, methods, grid"	NA	"knitr, dendextend (>= 1.0.1), ComplexHeatmap (>= 2.0.0),
+gridBase, png, markdown, bezier, covr, rmarkdown"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"classInt"	"classInt"	"/home/jinshengxi/Rlibrary/packages"	"0.4-11"	NA	"R (>= 2.2)"	"grDevices, stats, graphics, e1071, class, KernSmooth"	NA	"spData (>= 0.2.6.2), units, knitr, rmarkdown, tinytest"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"cli"	"cli"	"/home/jinshengxi/Rlibrary/packages"	"3.6.6"	NA	"R (>= 3.4)"	"utils"	NA	"callr, covr, crayon, digest, glue (>= 1.6.0), grDevices,
+htmltools, htmlwidgets, knitr, methods, processx, ps (>=
+1.3.4.9000), rlang (>= 1.0.2.9003), rmarkdown, rprojroot,
+rstudioapi, testthat (>= 3.2.0), tibble, whoami, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"clipr"	"clipr"	"/home/jinshengxi/Rlibrary/packages"	"0.8.1"	NA	NA	"utils"	NA	"covr, knitr, rmarkdown, rstudioapi (>= 0.5), testthat (>=
+2.0.0)"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"clue"	"clue"	"/home/jinshengxi/Rlibrary/packages"	"0.3-68"	NA	"R (>= 3.2.0)"	"stats, cluster, graphics, methods"	NA	"e1071, lpSolve (>= 5.5.7), quadprog (>= 1.4-8), relations"	"RWeka, ape, cba, cclust, flexclust, flexmix, kernlab, mclust,
+movMF, modeltools"	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"clusterProfiler"	"clusterProfiler"	"/home/jinshengxi/Rlibrary/packages"	"4.14.6"	NA	"R (>= 3.5.0)"	"AnnotationDbi, DOSE (>= 3.23.2), dplyr, enrichplot (>= 1.9.3),
+GO.db, GOSemSim (>= 2.27.2), gson (>= 0.0.7), httr, igraph,
+magrittr, methods, plyr, qvalue, rlang, stats, tidyr, utils,
+yulab.utils (>= 0.1.6)"	NA	"AnnotationHub, knitr, jsonlite, readr, rmarkdown,
+org.Hs.eg.db, prettydoc, BiocManager, testthat"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"colorspace"	"colorspace"	"/home/jinshengxi/Rlibrary/packages"	"2.1-2"	NA	"R (>= 3.0.0), methods"	"graphics, grDevices, stats"	NA	"datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd,
+tcltk, shiny, shinyjs, ggplot2, dplyr, scales, grid, png, jpeg,
+knitr, rmarkdown, RColorBrewer, rcartocolor, scico, viridis,
+wesanderson"	NA	"BSD_3_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"combinat"	"combinat"	"/home/jinshengxi/Rlibrary/packages"	"0.0-8"	NA	NA	NA	NA	NA	NA	"GPL-2"	NA	NA	NA	NA	NA	"4.4.3"
+"commonmark"	"commonmark"	"/home/jinshengxi/Rlibrary/packages"	"2.0.0"	NA	NA	NA	NA	"curl, testthat, xml2"	NA	"BSD_2_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ComplexHeatmap"	"ComplexHeatmap"	"/home/jinshengxi/Rlibrary/packages"	"2.22.0"	NA	"R (>= 3.5.0), methods, grid, graphics, stats, grDevices"	"circlize (>= 0.4.14), GetoptLong, colorspace, clue,
+RColorBrewer, GlobalOptions (>= 0.1.0), png, digest, IRanges,
+matrixStats, foreach, doParallel, codetools"	NA	"testthat (>= 1.0.0), knitr, markdown, dendsort, jpeg, tiff,
+fastcluster, EnrichedHeatmap, dendextend (>= 1.0.1), grImport,
+grImport2, glue, GenomicRanges, gridtext, pheatmap (>= 1.0.12),
+gridGraphics, gplots, rmarkdown, Cairo, magick"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"conos"	"conos"	"/home/jinshengxi/Rlibrary/packages"	"1.5.4"	NA	"R (>= 3.5.0), Matrix, igraph"	"abind, cowplot, ComplexHeatmap, dendextend, dplyr, ggplot2,
+ggrepel, gridExtra, irlba, leidenAlg, magrittr, methods, N2R,
+pagoda2, parallel, R6, reshape2, rlang, Rtsne, sccore (>=
+1.0.0), stats, tools, utils"	"Rcpp, RcppArmadillo, RcppEigen, RcppProgress"	"AnnotationDbi, BiocParallel, conosPanel, drat, DESeq2,
+entropy, ggrastr, GO.db, jsonlite, knitr, org.Hs.eg.db,
+org.Mm.eg.db, p2data, PMA, plyr, rhdf5, rmarkdown, rmumps,
+Seurat, shinycssloaders, SummarizedExperiment, testthat,
+tibble, uwot, zoo"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"corrplot"	"corrplot"	"/home/jinshengxi/Rlibrary/packages"	"0.95"	NA	NA	NA	NA	"seriation, knitr, RColorBrewer, rmarkdown, magrittr,
+prettydoc, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"covr"	"covr"	"/home/jinshengxi/Rlibrary/packages"	"3.6.5"	NA	"R (>= 3.1.0), methods"	"digest, stats, utils, jsonlite, rex, httr, cli, withr (>=
+1.0.2), yaml"	NA	"R6, S7 (>= 0.2.0), curl, knitr, rmarkdown, htmltools, DT (>=
+0.2), testthat (>= 3.0.0), rlang, rstudioapi (>= 0.2), xml2 (>=
+1.0.0), parallel, memoise, covr, box (>= 1.2.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"cowplot"	"cowplot"	"/home/jinshengxi/Rlibrary/packages"	"1.2.0"	NA	"R (>= 3.5.0)"	"ggplot2 (>= 3.5.2), grid, gtable, grDevices, methods, rlang,
+scales"	NA	"Cairo, covr, dplyr, forcats, gridGraphics (>= 0.4-0), knitr,
+lattice, magick, maps, PASWR, patchwork, rmarkdown, ragg,
+testthat (>= 1.0.0), tidyr, vdiffr (>= 0.3.0), VennDiagram"	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"cpp11"	"cpp11"	"/home/jinshengxi/Rlibrary/packages"	"0.5.5"	NA	"R (>= 4.0.0)"	NA	NA	"bench, brio, callr, cli, covr, decor, desc, ggplot2, glue,
+knitr, lobstr, mockery, progress, rmarkdown, scales, Rcpp,
+testthat (>= 3.2.0), tibble, utils, vctrs, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"crayon"	"crayon"	"/home/jinshengxi/Rlibrary/packages"	"1.5.3"	NA	NA	"grDevices, methods, utils"	NA	"mockery, rstudioapi, testthat, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"credentials"	"credentials"	"/home/jinshengxi/Rlibrary/packages"	"2.0.3"	NA	NA	"openssl (>= 1.3), sys (>= 2.1), curl, jsonlite, askpass"	NA	"testthat, knitr, rmarkdown"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"crosstalk"	"crosstalk"	"/home/jinshengxi/Rlibrary/packages"	"1.2.2"	NA	NA	"htmltools (>= 0.3.6), jsonlite, lazyeval, R6"	NA	"bslib, ggplot2, sass, shiny, testthat (>= 2.1.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"curl"	"curl"	"/home/jinshengxi/Rlibrary/packages"	"7.1.0"	NA	"R (>= 3.0.0)"	NA	NA	"spelling, testthat (>= 1.0.0), knitr, jsonlite, later,
+rmarkdown, httpuv (>= 1.4.4), webutils"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"data.table"	"data.table"	"/home/jinshengxi/Rlibrary/packages"	"1.18.4"	NA	"R (>= 3.4.0)"	"methods"	NA	"bit64 (>= 4.0.0), bit (>= 4.0.4), R.utils (>= 2.13.0), xts,
+zoo (>= 1.8-1), yaml, knitr, markdown"	NA	"MPL-2.0 | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"DBI"	"DBI"	"/home/jinshengxi/Rlibrary/packages"	"1.3.0"	NA	"methods, R (>= 3.0.0)"	NA	NA	"arrow, blob, callr, covr, DBItest (>= 1.8.2), dbplyr,
+downlit, dplyr, glue, hms, knitr, magrittr, nanoarrow (>=
+0.3.0.1), otel, otelsdk, RMariaDB, rmarkdown, rprojroot,
+RSQLite (>= 1.1-2), testthat (>= 3.0.0), vctrs, xml2"	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"no"	"4.4.3"
+"dbplyr"	"dbplyr"	"/home/jinshengxi/Rlibrary/packages"	"2.6.0"	NA	"R (>= 4.1)"	"blob (>= 1.2.0), cli (>= 3.6.1), DBI (>= 1.1.3), dplyr (>=
+1.1.2), glue (>= 1.6.2), lifecycle (>= 1.0.3), magrittr,
+methods, pillar (>= 1.9.0), purrr (>= 1.0.1), R6 (>= 2.2.2),
+rlang (>= 1.1.1), tibble (>= 3.2.1), tidyr (>= 1.3.0),
+tidyselect (>= 1.2.1), utils, vctrs (>= 0.6.3), withr (>=
+2.5.0)"	NA	"adbcdrivermanager, adbcsqlite, adbi, bit64, covr, knitr,
+Lahman, nycflights13, odbc (>= 1.4.2), RJDBC, RMariaDB (>=
+1.2.2), rmarkdown, RPostgres (>= 1.4.5), RPostgreSQL, RSQLite
+(>= 2.3.8), testthat (>= 3.1.10)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"DDRTree"	"DDRTree"	"/home/jinshengxi/Rlibrary/packages"	"0.1.6"	NA	"irlba"	"Rcpp"	"Rcpp, RcppEigen, BH"	NA	NA	"Artistic License 2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"DelayedArray"	"DelayedArray"	"/home/jinshengxi/Rlibrary/packages"	"0.32.0"	NA	"R (>= 4.0.0), methods, stats4, Matrix, BiocGenerics (>=
+0.51.3), MatrixGenerics (>= 1.1.3), S4Vectors (>= 0.27.2),
+IRanges (>= 2.17.3), S4Arrays (>= 1.5.4), SparseArray (>=
+1.5.42)"	"stats"	"S4Vectors"	"BiocParallel, HDF5Array (>= 1.17.12), genefilter,
+SummarizedExperiment, airway, lobstr, DelayedMatrixStats,
+knitr, rmarkdown, BiocStyle, RUnit"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"DelayedMatrixStats"	"DelayedMatrixStats"	"/home/jinshengxi/Rlibrary/packages"	"1.28.1"	NA	"MatrixGenerics (>= 1.15.1), DelayedArray (>= 0.31.7)"	"methods, sparseMatrixStats (>= 1.13.2), Matrix (>= 1.5-0),
+S4Vectors (>= 0.17.5), IRanges (>= 2.25.10), SparseArray (>=
+1.5.19)"	NA	"testthat, knitr, rmarkdown, BiocStyle, microbenchmark,
+profmem, HDF5Array, matrixStats (>= 1.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"deldir"	"deldir"	"/home/jinshengxi/Rlibrary/packages"	"2.0-4"	NA	"R (>= 3.5.0)"	"graphics, grDevices"	NA	"polyclip"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"dendextend"	"dendextend"	"/home/jinshengxi/Rlibrary/packages"	"1.19.1"	NA	"R (>= 3.0.0)"	"utils, stats, datasets, magrittr (>= 1.0.1), ggplot2, viridis"	NA	"knitr, rmarkdown, testthat, seriation, colorspace, ape,
+microbenchmark, gplots, heatmaply, dynamicTreeCut, pvclust,
+corrplot, DendSer, MASS, cluster, fpc, circlize (>= 0.2.5),
+covr"	"ggdendro, dendroextras, Hmisc, data.table, rpart, WGCNA,
+moduleColor, distory, phangorn, zoo"	"GPL-2 | GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"dendsort"	"dendsort"	"/home/jinshengxi/Rlibrary/packages"	"0.3.4"	NA	NA	NA	NA	"knitr, RColorBrewer, gplots, seriation, gapmap, rmarkdown"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"DEoptimR"	"DEoptimR"	"/home/jinshengxi/Rlibrary/packages"	"1.2-0"	NA	NA	"stats, methods"	NA	"mirai (>= 2.7.1)"	"robustbase"	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"Deriv"	"Deriv"	"/home/jinshengxi/Rlibrary/packages"	"4.2.0"	NA	NA	"methods"	NA	"testthat (>= 0.11.0)"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"no"	"4.4.3"
+"desc"	"desc"	"/home/jinshengxi/Rlibrary/packages"	"1.4.3"	NA	"R (>= 3.4)"	"cli, R6, utils"	NA	"callr, covr, gh, spelling, testthat, whoami, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"devtools"	"devtools"	"/home/jinshengxi/Rlibrary/packages"	"2.5.2"	NA	"R (>= 4.1), usethis (>= 3.2.1)"	"cli (>= 3.6.6), desc (>= 1.4.3), ellipsis (>= 0.3.3), fs (>=
+2.1.0), lifecycle (>= 1.0.5), memoise (>= 2.0.1), miniUI (>=
+0.1.2), pak (>= 0.9.5), pkgbuild (>= 1.4.8), pkgdown (>=
+2.2.0), pkgload (>= 1.5.2), profvis (>= 0.4.0), rcmdcheck (>=
+1.4.0), rlang (>= 1.2.0), roxygen2 (>= 7.3.3), rversions (>=
+3.0.0), sessioninfo (>= 1.2.3), testthat (>= 3.3.2), urlchecker
+(>= 1.0.1), withr (>= 3.0.2)"	NA	"BiocManager (>= 1.30.18), callr (>= 3.7.1), covr (>= 3.5.1),
+curl (>= 4.3.2), digest (>= 0.6.29), DT (>= 0.23), foghorn (>=
+1.4.2), gh (>= 1.3.0), httr2 (>= 1.0.0), knitr (>= 1.39), lintr
+(>= 3.0.0), quarto (>= 1.5.1), remotes (>= 2.5.0), rmarkdown
+(>= 2.14), rstudioapi (>= 0.13), spelling (>= 2.2), xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"diffobj"	"diffobj"	"/home/jinshengxi/Rlibrary/packages"	"0.3.6"	NA	"R (>= 3.1.0)"	"crayon (>= 1.3.2), tools, methods, utils, stats"	NA	"knitr, rmarkdown"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"digest"	"digest"	"/home/jinshengxi/Rlibrary/packages"	"0.6.39"	NA	"R (>= 3.3.0)"	"utils"	NA	"tinytest, simplermarkdown, rbenchmark"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"doBy"	"doBy"	"/home/jinshengxi/Rlibrary/packages"	"4.7.2"	NA	"R (>= 4.2.0), methods"	"boot, broom, cowplot, Deriv, dplyr, forecast, ggplot2, MASS,
+Matrix, modelr, rlang, purrr, tibble, tidyr,"	NA	"geepack, knitr, lme4, markdown, rmarkdown, multcomp,
+microbenchmark, pbkrtest (>= 0.5.2), survival, testthat (>=
+2.1.0)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"doParallel"	"doParallel"	"/home/jinshengxi/Rlibrary/packages"	"1.0.17"	NA	"R (>= 2.14.0), foreach (>= 1.2.0), iterators (>= 1.0.0),
+parallel, utils"	NA	NA	"caret, mlbench, rpart, RUnit"	"compiler"	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"DOSE"	"DOSE"	"/home/jinshengxi/Rlibrary/packages"	"4.0.1"	NA	"R (>= 3.5.0)"	"AnnotationDbi, BiocParallel, fgsea, ggplot2, GOSemSim (>=
+2.31.2), methods, qvalue, reshape2, stats, utils, yulab.utils
+(>= 0.1.6)"	NA	"prettydoc, clusterProfiler, gson (>= 0.0.5), knitr, memoise,
+org.Hs.eg.db, rmarkdown, testthat"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"dotCall64"	"dotCall64"	"/home/jinshengxi/Rlibrary/packages"	"1.2"	NA	"R (>= 4.0)"	NA	NA	"microbenchmark, RhpcBLASctl, RColorBrewer, roxygen2, spam,
+testthat,"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"downlit"	"downlit"	"/home/jinshengxi/Rlibrary/packages"	"0.4.5"	NA	"R (>= 4.0.0)"	"brio, desc, digest, evaluate, fansi, memoise, rlang, vctrs,
+withr, yaml"	NA	"covr, htmltools, jsonlite, MASS, MassSpecWavelet, pkgload,
+rmarkdown, testthat (>= 3.0.0), xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"downloader"	"downloader"	"/home/jinshengxi/Rlibrary/packages"	"0.4.1"	NA	NA	"utils, digest"	NA	"testthat"	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"dplyr"	"dplyr"	"/home/jinshengxi/Rlibrary/packages"	"1.2.1"	NA	"R (>= 4.1.0)"	"cli (>= 3.6.2), generics, glue (>= 1.3.2), lifecycle (>=
+1.0.5), magrittr (>= 1.5), methods, pillar (>= 1.9.0), R6,
+rlang (>= 1.1.7), tibble (>= 3.2.0), tidyselect (>= 1.2.0),
+utils, vctrs (>= 0.7.1)"	NA	"broom, covr, DBI, dbplyr (>= 2.2.1), ggplot2, knitr, Lahman,
+lobstr, nycflights13, purrr, rmarkdown, RSQLite, stringi (>=
+1.7.6), testthat (>= 3.1.5), tidyr (>= 1.3.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"dqrng"	"dqrng"	"/home/jinshengxi/Rlibrary/packages"	"0.4.1"	NA	"R (>= 3.5.0)"	"Rcpp (>= 0.12.16)"	"Rcpp, BH (>= 1.64.0-1), sitmo (>= 2.0.0)"	"BH, testthat, knitr, rmarkdown, mvtnorm (>= 1.2-3), bench,
+sitmo"	NA	"AGPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"drat"	"drat"	"/home/jinshengxi/Rlibrary/packages"	"0.2.5"	NA	"R (>= 3.6.0)"	"utils"	NA	"git2r, simplermarkdown"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"e1071"	"e1071"	"/home/jinshengxi/Rlibrary/packages"	"1.7-17"	NA	NA	"graphics, grDevices, class, stats, methods, utils, proxy"	NA	"cluster, mlbench, nnet, randomForest, rpart, SparseM, xtable,
+Matrix, MASS, slam"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"edgeR"	"edgeR"	"/home/jinshengxi/Rlibrary/packages"	"4.4.2"	NA	"R (>= 3.6.0), limma (>= 3.61.9)"	"methods, graphics, stats, utils, locfit"	NA	"jsonlite, readr, rhdf5, splines, knitr, AnnotationDbi,
+Biobase, BiocStyle, SummarizedExperiment, org.Hs.eg.db, Matrix,
+SeuratObject"	NA	"GPL (>=2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ellipsis"	"ellipsis"	"/home/jinshengxi/Rlibrary/packages"	"0.3.3"	NA	"R (>= 3.2)"	"rlang (>= 1.1.7)"	NA	"covr, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"enrichplot"	"enrichplot"	"/home/jinshengxi/Rlibrary/packages"	"1.26.6"	NA	"R (>= 3.5.0)"	"aplot (>= 0.2.1), DOSE (>= 3.31.2), ggfun (>= 0.1.7),
+ggnewscale, ggplot2, ggrepel (>= 0.9.0), ggtangle (>= 0.0.4),
+graphics, grid, igraph, methods, plyr, purrr, RColorBrewer,
+reshape2, rlang, stats, utils, scatterpie, GOSemSim (>=
+2.31.2), magrittr, ggtree, yulab.utils (>= 0.1.6)"	NA	"clusterProfiler, dplyr, europepmc, ggarchery, ggupset, knitr,
+rmarkdown, org.Hs.eg.db, prettydoc, tibble, tidyr, ggforce,
+ggHoriPlot, AnnotationDbi, ggplotify, ggridges, grDevices,
+gridExtra, ggstar, scales, ggtreeExtra, tidydr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"evaluate"	"evaluate"	"/home/jinshengxi/Rlibrary/packages"	"1.0.5"	NA	"R (>= 3.6.0)"	NA	NA	"callr, covr, ggplot2 (>= 3.3.6), lattice, methods, pkgload,
+ragg (>= 1.4.0), rlang (>= 1.1.5), knitr, testthat (>= 3.0.0),
+withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"fansi"	"fansi"	"/home/jinshengxi/Rlibrary/packages"	"1.0.7"	NA	"R (>= 3.1.0)"	"grDevices, utils"	NA	"unitizer, knitr, rmarkdown"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"farver"	"farver"	"/home/jinshengxi/Rlibrary/packages"	"2.1.2"	NA	NA	NA	NA	"covr, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"fastcluster"	"fastcluster"	"/home/jinshengxi/Rlibrary/packages"	"1.3.0"	NA	"R (>= 3.0.0)"	NA	NA	NA	"stats, flashClust"	"FreeBSD | GPL-2 | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"fastDummies"	"fastDummies"	"/home/jinshengxi/Rlibrary/packages"	"1.7.6"	NA	"R (>= 2.10)"	"data.table, tibble, stringr"	NA	"testthat (>= 2.1.0), knitr, rmarkdown, covr, spelling, dplyr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"fastICA"	"fastICA"	"/home/jinshengxi/Rlibrary/packages"	"1.2-7"	NA	"R (>= 4.0.0)"	NA	NA	"MASS"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"fastmap"	"fastmap"	"/home/jinshengxi/Rlibrary/packages"	"1.2.0"	NA	NA	NA	NA	"testthat (>= 2.1.1)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"fastmatch"	"fastmatch"	"/home/jinshengxi/Rlibrary/packages"	"1.1-8"	NA	"R (>= 2.3.0)"	NA	NA	NA	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"fgsea"	"fgsea"	"/home/jinshengxi/Rlibrary/packages"	"1.32.4"	NA	"R (>= 4.1)"	"Rcpp, data.table, BiocParallel, stats, ggplot2 (>= 2.2.0),
+cowplot, grid, fastmatch, Matrix, scales, utils"	"Rcpp, BH"	"testthat, knitr, rmarkdown, reactome.db, AnnotationDbi,
+parallel, org.Mm.eg.db, limma, GEOquery, msigdbr, aggregation,
+Seurat"	NA	"MIT + file LICENCE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"filelock"	"filelock"	"/home/jinshengxi/Rlibrary/packages"	"1.0.3"	NA	"R (>= 3.4)"	NA	NA	"callr (>= 2.0.0), covr, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"fitdistrplus"	"fitdistrplus"	"/home/jinshengxi/Rlibrary/packages"	"1.2-6"	NA	"R (>= 3.5.0), MASS, grDevices, survival, methods"	"stats, rlang"	NA	"actuar, rgenoud, mc2d, gamlss.dist, knitr, ggplot2,
+GeneralizedHyperbolic, rmarkdown, Hmisc, bookdown"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"FNN"	"FNN"	"/home/jinshengxi/Rlibrary/packages"	"1.1.4.1"	NA	"R (>= 4.0.0)"	NA	NA	"chemometrics, mvtnorm"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"fontawesome"	"fontawesome"	"/home/jinshengxi/Rlibrary/packages"	"0.5.3"	NA	"R (>= 3.3.0)"	"rlang (>= 1.0.6), htmltools (>= 0.5.1.1)"	NA	"covr, dplyr (>= 1.0.8), gt (>= 0.9.0), knitr (>= 1.31),
+testthat (>= 3.0.0), rsvg"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"fontBitstreamVera"	"fontBitstreamVera"	"/home/jinshengxi/Rlibrary/packages"	"0.1.1"	NA	"R (>= 3.0.0)"	NA	NA	NA	NA	"file LICENCE"	"yes"	NA	NA	NA	"no"	"4.4.3"
+"fontLiberation"	"fontLiberation"	"/home/jinshengxi/Rlibrary/packages"	"0.1.0"	NA	"R (>= 3.0)"	NA	NA	NA	NA	"file LICENSE"	"yes"	NA	NA	NA	"no"	"4.4.3"
+"fontquiver"	"fontquiver"	"/home/jinshengxi/Rlibrary/packages"	"0.2.1"	NA	"R (>= 3.0.0)"	"fontBitstreamVera (>= 0.1.0), fontLiberation (>= 0.1.0)"	NA	"testthat, htmltools"	NA	"GPL-3 | file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"forcats"	"forcats"	"/home/jinshengxi/Rlibrary/packages"	"1.0.1"	NA	"R (>= 4.1)"	"cli (>= 3.4.0), glue, lifecycle, magrittr, rlang (>= 1.0.0),
+tibble"	NA	"covr, dplyr, ggplot2, knitr, readr, rmarkdown, testthat (>=
+3.0.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"foreach"	"foreach"	"/home/jinshengxi/Rlibrary/packages"	"1.5.2"	NA	"R (>= 2.5.0)"	"codetools, utils, iterators"	NA	"randomForest, doMC, doParallel, testthat, knitr, rmarkdown"	NA	"Apache License (== 2.0)"	NA	NA	NA	NA	"no"	"4.4.3"
+"forecast"	"forecast"	"/home/jinshengxi/Rlibrary/packages"	"9.0.2"	NA	"R (>= 4.1.0)"	"colorspace, fracdiff, generics (>= 0.1.2), ggplot2 (>= 3.4.0),
+graphics, lmtest, magrittr, nnet, parallel, Rcpp (>= 0.12.4),
+stats, timeDate, urca, withr, zoo"	"Rcpp (>= 0.12.4), RcppArmadillo (>= 0.2.35)"	"forecTheta, knitr, methods, rmarkdown, rticles, scales,
+seasonal, testthat (>= 3.3.0), uroot"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"formatR"	"formatR"	"/home/jinshengxi/Rlibrary/packages"	"1.14"	NA	"R (>= 3.2.3)"	NA	NA	"rstudioapi, shiny, testit, rmarkdown, knitr"	NA	"GPL"	NA	NA	NA	NA	"no"	"4.4.3"
+"Formula"	"Formula"	"/home/jinshengxi/Rlibrary/packages"	"1.2-5"	NA	"R (>= 2.0.0), stats"	NA	NA	NA	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"formula.tools"	"formula.tools"	"/home/jinshengxi/Rlibrary/packages"	"1.7.1"	NA	"R (>= 3.0.0)"	"operator.tools(>= 1.4.0), utils, methods"	NA	"magrittr, testthat"	NA	"GPL-2 | file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"fracdiff"	"fracdiff"	"/home/jinshengxi/Rlibrary/packages"	"1.5-4"	NA	NA	"stats"	NA	"longmemo, forecast, urca"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"fs"	"fs"	"/home/jinshengxi/Rlibrary/packages"	"2.1.0"	NA	"R (>= 4.1)"	"methods"	NA	"covr, crayon, knitr, pillar (>= 1.0.0), rmarkdown, spelling,
+testthat (>= 3.0.0), tibble (>= 1.1.0), vctrs (>= 0.3.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"futile.logger"	"futile.logger"	"/home/jinshengxi/Rlibrary/packages"	"1.4.9"	NA	"R (>= 3.0.0)"	"utils, lambda.r (>= 1.1.0), futile.options"	NA	"testit, jsonlite, httr, crayon, rsyslog, glue"	NA	"LGPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"futile.options"	"futile.options"	"/home/jinshengxi/Rlibrary/packages"	"1.0.1"	NA	"R (>= 2.8.0)"	NA	NA	NA	NA	"LGPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"future"	"future"	"/home/jinshengxi/Rlibrary/packages"	"1.70.0"	NA	"R (>= 3.2.0)"	"digest, globals (>= 0.18.0), listenv (>= 0.8.0), parallel,
+parallelly (>= 1.44.0), tools, utils"	NA	"methods, RhpcBLASctl, R.rsp, markdown"	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"no"	"4.4.3"
+"future.apply"	"future.apply"	"/home/jinshengxi/Rlibrary/packages"	"1.20.2"	NA	"R (>= 3.2.0), future (>= 1.49.0)"	"globals, parallel, utils"	NA	"datasets, stats, tools, listenv, R.rsp, markdown"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"gdtools"	"gdtools"	"/home/jinshengxi/Rlibrary/packages"	"0.5.1"	NA	"R (>= 4.0.0)"	"fontquiver (>= 0.2.0), htmltools, Rcpp (>= 0.12.12),
+systemfonts (>= 1.3.1), tools"	"Rcpp"	"curl, gfonts, methods, testthat"	NA	"GPL-3 | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"genefilter"	"genefilter"	"/home/jinshengxi/Rlibrary/packages"	"1.88.0"	NA	NA	"MatrixGenerics (>= 1.11.1), AnnotationDbi, annotate, Biobase,
+graphics, methods, stats, survival, grDevices"	NA	"class, hgu95av2.db, tkWidgets, ALL, ROC, RColorBrewer,
+BiocStyle, knitr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"generics"	"generics"	"/home/jinshengxi/Rlibrary/packages"	"0.1.4"	NA	"R (>= 3.6)"	"methods"	NA	"covr, pkgload, testthat (>= 3.0.0), tibble, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"GenomeInfoDb"	"GenomeInfoDb"	"/home/jinshengxi/Rlibrary/packages"	"1.42.3"	NA	"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.25.12), IRanges (>= 2.13.12)"	"stats, stats4, utils, UCSC.utils, GenomeInfoDbData"	NA	"R.utils, data.table, GenomicRanges, Rsamtools,
+GenomicAlignments, GenomicFeatures, BSgenome,
+TxDb.Dmelanogaster.UCSC.dm3.ensGene,
+BSgenome.Scerevisiae.UCSC.sacCer2, BSgenome.Celegans.UCSC.ce2,
+BSgenome.Hsapiens.NCBI.GRCh38, RUnit, BiocStyle, knitr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"GenomeInfoDbData"	"GenomeInfoDbData"	"/home/jinshengxi/Rlibrary/packages"	"1.2.11"	NA	"R (>= 3.5.0)"	NA	NA	NA	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"GenomicAlignments"	"GenomicAlignments"	"/home/jinshengxi/Rlibrary/packages"	"1.42.0"	NA	"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.27.12), IRanges (>= 2.23.9), GenomeInfoDb (>= 1.13.1),
+GenomicRanges (>= 1.55.3), SummarizedExperiment (>= 1.9.13),
+Biostrings (>= 2.55.7), Rsamtools (>= 1.31.2)"	"methods, utils, stats, BiocGenerics, S4Vectors, IRanges,
+GenomicRanges, Biostrings, Rsamtools, BiocParallel"	"S4Vectors, IRanges"	"ShortRead, rtracklayer, BSgenome, GenomicFeatures,
+RNAseqData.HNRNPC.bam.chr14, pasillaBamSubset,
+TxDb.Hsapiens.UCSC.hg19.knownGene,
+TxDb.Dmelanogaster.UCSC.dm3.ensGene,
+BSgenome.Dmelanogaster.UCSC.dm3, BSgenome.Hsapiens.UCSC.hg19,
+DESeq2, edgeR, RUnit, knitr, BiocStyle"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"GenomicRanges"	"GenomicRanges"	"/home/jinshengxi/Rlibrary/packages"	"1.58.0"	NA	"R (>= 4.0.0), methods, stats4, BiocGenerics (>= 0.37.0),
+S4Vectors (>= 0.27.12), IRanges (>= 2.37.1), GenomeInfoDb (>=
+1.15.2)"	"utils, stats, XVector (>= 0.29.2)"	"S4Vectors, IRanges"	"Matrix, Biobase, AnnotationDbi, annotate, Biostrings (>=
+2.25.3), SummarizedExperiment (>= 0.1.5), Rsamtools (>=
+1.13.53), GenomicAlignments, rtracklayer, BSgenome,
+GenomicFeatures, txdbmaker, Gviz, VariantAnnotation,
+AnnotationHub, DESeq2, DEXSeq, edgeR, KEGGgraph,
+RNAseqData.HNRNPC.bam.chr14, pasillaBamSubset, KEGGREST,
+hgu95av2.db, hgu95av2probe, BSgenome.Scerevisiae.UCSC.sacCer2,
+BSgenome.Hsapiens.UCSC.hg38, BSgenome.Mmusculus.UCSC.mm10,
+TxDb.Athaliana.BioMart.plantsmart22,
+TxDb.Dmelanogaster.UCSC.dm3.ensGene,
+TxDb.Hsapiens.UCSC.hg38.knownGene,
+TxDb.Mmusculus.UCSC.mm10.knownGene, RUnit, digest, knitr,
+rmarkdown, BiocStyle"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"gert"	"gert"	"/home/jinshengxi/Rlibrary/packages"	"2.3.1"	NA	NA	"askpass, credentials (>= 1.2.1), openssl (>= 2.0.3),
+rstudioapi (>= 0.11), sys, zip (>= 2.1.0)"	NA	"spelling, knitr, rmarkdown, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"GetoptLong"	"GetoptLong"	"/home/jinshengxi/Rlibrary/packages"	"1.1.1"	NA	"R (>= 4.0.0)"	"rjson, GlobalOptions (>= 0.1.0), methods, crayon"	NA	"testthat (>= 1.0.0), knitr, markdown, rmarkdown"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggbeeswarm"	"ggbeeswarm"	"/home/jinshengxi/Rlibrary/packages"	"0.7.3"	NA	"R (>= 3.5.0), ggplot2 (>= 3.3.0)"	"beeswarm, lifecycle, vipor, cli"	NA	"gridExtra"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggforce"	"ggforce"	"/home/jinshengxi/Rlibrary/packages"	"0.5.0"	NA	"ggplot2 (>= 3.5.0), R (>= 3.3.0)"	"grid, scales, MASS, tweenr (>= 0.1.5), gtable, rlang,
+polyclip, stats, grDevices, tidyselect, withr, utils,
+lifecycle, cli, vctrs, systemfonts"	"cpp11"	"sessioninfo, deldir, latex2exp, reshape2, units (>= 0.8.0),
+covr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ggfun"	"ggfun"	"/home/jinshengxi/Rlibrary/packages"	"0.2.1"	NA	"R (>= 4.2.0)"	"cli, dplyr, ggplot2, graphics, grid, rlang, scales, utils,
+yulab.utils (>= 0.1.6)"	NA	"ggplotify, knitr, pkgload, quarto, testthat, tidyr,
+ggnewscale"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggiraph"	"ggiraph"	"/home/jinshengxi/Rlibrary/packages"	"0.9.6"	NA	NA	"cli, dplyr, gdtools (>= 0.5.0), ggplot2 (>= 4.0.0), grid,
+htmltools, htmlwidgets (>= 1.5), MASS, purrr, Rcpp (>= 1.1.0),
+rlang, S7 (>= 0.2.0), stats, systemfonts (>= 1.3.1), vctrs"	"Rcpp, systemfonts"	"ggbeeswarm, ggrepel (>= 0.9.1), hexbin, knitr, maps,
+quantreg, rmarkdown, sf (>= 1.0), shiny, tinytest, xml2 (>=
+1.0)"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ggnewscale"	"ggnewscale"	"/home/jinshengxi/Rlibrary/packages"	"0.5.2"	NA	NA	"ggplot2 (>= 3.5.0)"	NA	"testthat, vdiffr, covr"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggplot.multistats"	"ggplot.multistats"	"/home/jinshengxi/Rlibrary/packages"	"1.0.1"	NA	NA	"methods, rlang, scales, hexbin, ggplot2 (>= 3.3.0)"	NA	NA	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggplot2"	"ggplot2"	"/home/jinshengxi/Rlibrary/packages"	"3.5.2"	NA	"R (>= 3.5)"	"cli, glue, grDevices, grid, gtable (>= 0.1.1), isoband,
+lifecycle (> 1.0.1), MASS, mgcv, rlang (>= 1.1.0), scales (>=
+1.3.0), stats, tibble, vctrs (>= 0.6.0), withr (>= 2.5.0)"	NA	"covr, dplyr, ggplot2movies, hexbin, Hmisc, knitr, mapproj,
+maps, multcomp, munsell, nlme, profvis, quantreg, ragg (>=
+1.2.6), RColorBrewer, rmarkdown, rpart, sf (>= 0.7-3), svglite
+(>= 2.1.2), testthat (>= 3.1.2), vdiffr (>= 1.0.6), xml2"	"sp"	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggplotify"	"ggplotify"	"/home/jinshengxi/Rlibrary/packages"	"0.1.3"	NA	"R (>= 3.4.0)"	"ggplot2, graphics, grDevices, grid, gridGraphics, rlang,
+yulab.utils"	NA	"aplot, colorspace, cowplot, ggimage, knitr, rmarkdown,
+lattice, prettydoc, vcd, utils"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggpubr"	"ggpubr"	"/home/jinshengxi/Rlibrary/packages"	"1.0.0"	NA	"R (>= 4.1.0), ggplot2 (>= 3.5.2)"	"ggrepel (>= 0.9.2), grid, ggsci, stats, utils, tidyr (>=
+1.3.2), purrr, dplyr (>= 1.2.0), cowplot (>= 1.2.0), ggsignif,
+scales, gridExtra, glue, polynom, rlang (>= 1.1.7), rstatix (>=
+1.0.0), tibble, magrittr"	NA	"grDevices, knitr, RColorBrewer, gtable, testthat"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggraph"	"ggraph"	"/home/jinshengxi/Rlibrary/packages"	"2.2.2"	NA	"R (>= 2.10), ggplot2 (>= 3.5.0)"	"dplyr, ggforce (>= 0.3.1), grid, igraph (>= 1.0.0), scales,
+MASS, ggrepel, utils, stats, viridis, rlang, tidygraph,
+graphlayouts (>= 1.1.0), withr, cli, vctrs, lifecycle, memoise"	"cpp11"	"network, knitr, rmarkdown, purrr, tibble, seriation, deldir,
+gganimate, covr, sf, sfnetworks"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ggrastr"	"ggrastr"	"/home/jinshengxi/Rlibrary/packages"	"1.0.2"	NA	"R (>= 3.2.2)"	"ggplot2 (>= 2.1.0), Cairo (>= 1.5.9), ggbeeswarm, grid, png,
+ragg"	NA	"knitr, maps, rmarkdown, sf"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggrepel"	"ggrepel"	"/home/jinshengxi/Rlibrary/packages"	"0.9.8"	NA	"R (>= 4.1.0), ggplot2 (>= 3.5.2)"	"grid, Rcpp, rlang (>= 1.1.6), S7, scales (>= 1.4.0), withr (>=
+3.0.2)"	"Rcpp"	"knitr, rmarkdown, testthat, svglite, vdiffr, gridExtra, ggpp,
+patchwork, devtools, prettydoc, ggbeeswarm, dplyr, magrittr,
+readr, stringr, marquee, rsvg, sf"	NA	"GPL-3 | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ggridges"	"ggridges"	"/home/jinshengxi/Rlibrary/packages"	"0.5.7"	NA	"R (>= 3.2)"	"ggplot2 (>= 3.5.0), grid (>= 3.0.0), scales (>= 0.4.1), withr
+(>= 2.1.1)"	NA	"covr, dplyr, patchwork, ggplot2movies, forcats, knitr,
+rmarkdown, testthat, vdiffr"	NA	"GPL-2 | file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggsci"	"ggsci"	"/home/jinshengxi/Rlibrary/packages"	"5.1.0"	NA	"R (>= 3.5.0)"	"ggplot2 (>= 2.0.0), grDevices, rlang, scales"	NA	"gridExtra, knitr, ragg, rmarkdown"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggsignif"	"ggsignif"	"/home/jinshengxi/Rlibrary/packages"	"0.6.4"	NA	NA	"ggplot2 (>= 3.3.5)"	NA	"knitr, rmarkdown, testthat, vdiffr (>= 1.0.2)"	NA	"GPL-3 | file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggtangle"	"ggtangle"	"/home/jinshengxi/Rlibrary/packages"	"0.1.2"	NA	"R (>= 4.1.0)"	"ggfun (>= 0.1.7), ggplot2, ggrepel, igraph, rlang, yulab.utils
+(>= 0.2.2)"	NA	"aplot, cli, ggiraph, ggnewscale, ggtree, quarto, scatterpie
+(>= 0.2.4)"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggthemes"	"ggthemes"	"/home/jinshengxi/Rlibrary/packages"	"5.2.0"	NA	"R (>= 3.3.0)"	"ggplot2 (>= 3.0.0), graphics, grid, lifecycle, methods, purrr,
+scales, stringr, tibble"	NA	"dplyr, covr, extrafont, glue, knitr, lattice, lintr, maps,
+mapproj, pander, quantreg, rlang, rmarkdown, spelling, testthat
+(>= 3.2.0), tidyr, vdiffr, withr"	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggtree"	"ggtree"	"/home/jinshengxi/Rlibrary/packages"	"3.14.0"	NA	"R (>= 3.5.0)"	"ape, aplot, dplyr, ggplot2 (> 3.3.6), grid, magrittr, methods,
+purrr, rlang, ggfun (>= 0.1.7), yulab.utils (>= 0.1.6), tidyr,
+tidytree (>= 0.4.5), treeio (>= 1.8.0), utils, scales, stats,
+cli"	NA	"emojifont, ggimage, ggplotify, shadowtext, grDevices, knitr,
+prettydoc, rmarkdown, testthat, tibble, glue"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggupset"	"ggupset"	"/home/jinshengxi/Rlibrary/packages"	"0.4.1"	NA	"R (>= 2.10)"	"ggplot2 (>= 3.3.0), gtable, grid, tibble, rlang, scales"	NA	"testthat"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggVennDiagram"	"ggVennDiagram"	"/home/jinshengxi/Rlibrary/packages"	"1.5.7"	NA	"R (>= 4.1.0)"	"ggplot2 (>= 3.4.0), dplyr, methods, tibble, aplot, venn (>=
+1.12), yulab.utils, forcats"	NA	"testthat (>= 2.1.0), knitr, plotly, RColorBrewer, shiny,
+rmarkdown, tidyr"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"ggwordcloud"	"ggwordcloud"	"/home/jinshengxi/Rlibrary/packages"	"0.6.2"	NA	"R (>= 3.5.0), ggplot2 (>= 3.0.0)"	"grid, gridtext, Rcpp, scales (>= 1.0.0), colorspace, png"	"Rcpp"	"testthat (>= 2.0.0), knitr, rmarkdown, ggrepel, wordcloud,
+wordcloud2, covr, dplyr, tidyr"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"gh"	"gh"	"/home/jinshengxi/Rlibrary/packages"	"1.6.0"	NA	"R (>= 4.1)"	"cli (>= 3.0.1), gitcreds, glue, httr2 (>= 1.0.6), ini,
+jsonlite, lifecycle, rlang (>= 1.1.0)"	NA	"connectcreds, covr, knitr, rmarkdown, rprojroot, spelling,
+testthat (>= 3.0.0), vctrs, webfakes (>= 1.5.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"gitcreds"	"gitcreds"	"/home/jinshengxi/Rlibrary/packages"	"0.1.2"	NA	"R (>= 3.4)"	NA	NA	"codetools, covr, knitr, mockery, oskeyring, rmarkdown,
+testthat (>= 3.0.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"glmpca"	"glmpca"	"/home/jinshengxi/Rlibrary/packages"	"0.2.0"	NA	"R (>= 3.5),"	"MASS, methods, stats, utils"	NA	"covr, ggplot2, knitr, logisticPCA, markdown, Matrix,
+testthat,"	NA	"LGPL (>= 3) | file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"GlobalOptions"	"GlobalOptions"	"/home/jinshengxi/Rlibrary/packages"	"0.1.4"	NA	"R (>= 3.3.0), methods"	"utils"	NA	"testthat (>= 1.0.0), knitr, markdown, GetoptLong, rmarkdown"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"globals"	"globals"	"/home/jinshengxi/Rlibrary/packages"	"0.19.1"	NA	"R (>= 3.1.2)"	"codetools"	NA	NA	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"no"	"4.4.3"
+"glue"	"glue"	"/home/jinshengxi/Rlibrary/packages"	"1.8.1"	NA	"R (>= 4.1)"	"methods"	NA	"crayon, DBI (>= 1.2.0), dplyr, knitr, rlang, rmarkdown,
+RSQLite, testthat (>= 3.2.0), vctrs (>= 0.3.0), waldo (>=
+0.5.3), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"GO.db"	"GO.db"	"/home/jinshengxi/Rlibrary/packages"	"3.20.0"	NA	"R (>= 2.7.0), methods, AnnotationDbi (>= 1.67.0)"	NA	NA	"DBI"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"goftest"	"goftest"	"/home/jinshengxi/Rlibrary/packages"	"1.2-3"	NA	"R (>= 3.3)"	"stats"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"googleVis"	"googleVis"	"/home/jinshengxi/Rlibrary/packages"	"0.7.3"	NA	"R (>= 3.0.2)"	"methods, jsonlite, utils"	NA	"shiny (>= 0.4.0), httpuv (>= 1.2.0), knitr (>= 1.5),
+rmarkdown, markdown, data.table"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"GOSemSim"	"GOSemSim"	"/home/jinshengxi/Rlibrary/packages"	"2.32.0"	NA	"R (>= 3.5.0)"	"AnnotationDbi, DBI, digest, GO.db, methods, rlang, R.utils,
+stats, utils, yulab.utils (>= 0.1.6)"	"Rcpp"	"AnnotationHub, BiocManager, clusterProfiler, DOSE, knitr,
+org.Hs.eg.db, prettydoc, rappdirs, readr, rmarkdown, testthat,
+tidyr, tidyselect, ROCR"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"gplots"	"gplots"	"/home/jinshengxi/Rlibrary/packages"	"3.3.0"	NA	"R (>= 3.0)"	"gtools, stats, caTools, KernSmooth, methods"	NA	"grid, MASS, knitr, rmarkdown, r2d2, nlme, dendextend,
+heatmaply, RColorBrewer"	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"graph"	"graph"	"/home/jinshengxi/Rlibrary/packages"	"1.84.1"	NA	"R (>= 2.10), methods, BiocGenerics (>= 0.13.11)"	"stats, stats4, utils"	NA	"SparseM (>= 0.36), XML, RBGL, RUnit, cluster, BiocStyle,
+knitr"	"Rgraphviz"	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"graphlayouts"	"graphlayouts"	"/home/jinshengxi/Rlibrary/packages"	"1.2.4"	NA	"R (>= 3.6.0)"	"igraph (>= 2.0.0), Rcpp"	"Rcpp, RcppArmadillo"	"testthat, ggplot2, uwot, oaqc"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"gridBase"	"gridBase"	"/home/jinshengxi/Rlibrary/packages"	"0.4-7"	NA	"R (>= 2.3.0)"	"graphics, grid"	NA	"lattice"	NA	"GPL"	NA	NA	NA	NA	"no"	"4.4.3"
+"gridExtra"	"gridExtra"	"/home/jinshengxi/Rlibrary/packages"	"2.3.1"	NA	NA	"gtable, grid, grDevices, graphics, utils"	NA	"ggplot2, egg, lattice, knitr, testthat"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"gridGraphics"	"gridGraphics"	"/home/jinshengxi/Rlibrary/packages"	"0.5-1"	NA	"grid, graphics"	"grDevices"	NA	"magick (>= 1.3), pdftools (>= 1.6)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"gridtext"	"gridtext"	"/home/jinshengxi/Rlibrary/packages"	"0.1.6"	NA	"R (>= 3.5)"	"curl, grid, grDevices, markdown, rlang, Rcpp, png, jpeg,
+stringr, xml2"	"Rcpp"	"covr, knitr, rmarkdown, testthat, vdiffr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"GSEABase"	"GSEABase"	"/home/jinshengxi/Rlibrary/packages"	"1.68.0"	NA	"R (>= 2.6.0), BiocGenerics (>= 0.13.8), Biobase (>= 2.17.8),
+annotate (>= 1.45.3), methods, graph (>= 1.37.2)"	"AnnotationDbi, XML"	NA	"hgu95av2.db, GO.db, org.Hs.eg.db, Rgraphviz, ReportingTools,
+testthat, BiocStyle, knitr, RUnit"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"gson"	"gson"	"/home/jinshengxi/Rlibrary/packages"	"0.2.0"	NA	NA	"jsonlite, methods, rlang, stats, tidyr, utils, yulab.utils (>=
+0.0.7)"	NA	"digest, fs, testthat (>= 3.0.0)"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"gtable"	"gtable"	"/home/jinshengxi/Rlibrary/packages"	"0.3.6"	NA	"R (>= 4.0)"	"cli, glue, grid, lifecycle, rlang (>= 1.1.0), stats"	NA	"covr, ggplot2, knitr, profvis, rmarkdown, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"gtools"	"gtools"	"/home/jinshengxi/Rlibrary/packages"	"3.9.5"	NA	"methods, stats, utils"	NA	NA	"car, gplots, knitr, rstudioapi, SGP, taxize"	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"harmony"	"harmony"	"/home/jinshengxi/Rlibrary/packages"	"2.0.5"	NA	"R(>= 4.2.0), Rcpp"	"dplyr, cowplot, ggplot2, Matrix, methods, tibble, rlang,
+RhpcBLASctl, cli"	"Rcpp, RcppArmadillo, RcppProgress"	"SingleCellExperiment, Seurat (>= 4.1.1), testthat, knitr,
+rmarkdown, ggthemes, ggrepel, patchwork, tidyverse, tidyr,
+data.table"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"HDF5Array"	"HDF5Array"	"/home/jinshengxi/Rlibrary/packages"	"1.34.0"	NA	"R (>= 3.4), methods, SparseArray (>= 1.5.42), DelayedArray (>=
+0.31.8), rhdf5 (>= 2.31.6)"	"utils, stats, tools, Matrix, rhdf5filters, BiocGenerics (>=
+0.51.2), S4Vectors, IRanges, S4Arrays (>= 1.1.1)"	"S4Vectors (>= 0.27.13), Rhdf5lib"	"BiocParallel, GenomicRanges, SummarizedExperiment (>=
+1.15.1), h5vcData, ExperimentHub, TENxBrainData, zellkonverter,
+GenomicFeatures, RUnit, SingleCellExperiment,
+DelayedMatrixStats, genefilter"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"here"	"here"	"/home/jinshengxi/Rlibrary/packages"	"1.0.2"	NA	NA	"rprojroot (>= 2.1.0)"	NA	"conflicted, covr, fs, knitr, palmerpenguins, plyr, readr,
+rlang, rmarkdown, testthat, uuid, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"hexbin"	"hexbin"	"/home/jinshengxi/Rlibrary/packages"	"1.28.5"	NA	"R (>= 2.0.1), methods"	"lattice, grid, graphics, grDevices, stats, utils"	NA	"marray, affy, Biobase, limma, knitr"	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"highr"	"highr"	"/home/jinshengxi/Rlibrary/packages"	"0.12"	NA	"R (>= 3.3.0)"	"xfun (>= 0.18)"	NA	"knitr, markdown, testit"	NA	"GPL"	NA	NA	NA	NA	"no"	"4.4.3"
+"hms"	"hms"	"/home/jinshengxi/Rlibrary/packages"	"1.1.4"	NA	NA	"cli, lifecycle, methods, pkgconfig, rlang (>= 1.0.2), vctrs
+(>= 0.3.8)"	NA	"crayon, lubridate, pillar (>= 1.1.0), testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"HSMMSingleCell"	"HSMMSingleCell"	"/home/jinshengxi/Rlibrary/packages"	"1.26.0"	NA	"R (>= 2.10)"	NA	NA	NA	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"htmltools"	"htmltools"	"/home/jinshengxi/Rlibrary/packages"	"0.5.9"	NA	"R (>= 2.14.1)"	"base64enc, digest, fastmap (>= 1.1.0), grDevices, rlang (>=
+1.0.0), utils"	NA	"Cairo, markdown, ragg, shiny, testthat, withr"	"knitr"	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"htmlwidgets"	"htmlwidgets"	"/home/jinshengxi/Rlibrary/packages"	"1.6.4"	NA	NA	"grDevices, htmltools (>= 0.5.7), jsonlite (>= 0.9.16), knitr
+(>= 1.8), rmarkdown, yaml"	NA	"testthat"	"shiny (>= 1.1)"	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"httpuv"	"httpuv"	"/home/jinshengxi/Rlibrary/packages"	"1.6.17"	NA	"R (>= 2.15.1)"	"later (>= 0.8.0), promises, R6, Rcpp (>= 1.0.7), utils"	"later, Rcpp"	"callr, curl, jsonlite, testthat (>= 3.0.0), websocket"	NA	"GPL (>= 2) | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"httr"	"httr"	"/home/jinshengxi/Rlibrary/packages"	"1.4.8"	NA	"R (>= 3.6)"	"curl (>= 5.1.0), jsonlite, mime, openssl (>= 0.8), R6"	NA	"covr, httpuv, jpeg, knitr, png, readr, rmarkdown, testthat
+(>= 0.8.0), xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"httr2"	"httr2"	"/home/jinshengxi/Rlibrary/packages"	"1.2.3"	NA	"R (>= 4.1)"	"cli (>= 3.0.0), curl (>= 6.4.0), glue, lifecycle, magrittr,
+openssl, R6, rappdirs, rlang (>= 1.1.0), vctrs (>= 0.6.3),
+withr"	NA	"askpass, bench, clipr, covr, digest, docopt, httpuv, jose,
+jsonlite, knitr, later (>= 1.4.0), nanonext, otel (>= 0.2.0),
+otelsdk (>= 0.2.0), paws.common (>= 0.8.0), promises,
+rmarkdown, testthat (>= 3.1.8), tibble, webfakes (>= 1.4.0),
+xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ica"	"ica"	"/home/jinshengxi/Rlibrary/packages"	"1.0-3"	NA	NA	NA	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"igraph"	"igraph"	"/home/jinshengxi/Rlibrary/packages"	"2.3.3"	NA	"methods, R (>= 3.5.0)"	"cli, graphics, grDevices, lifecycle, magrittr, Matrix,
+pkgconfig (>= 2.0.0), rlang (>= 1.1.0), stats, utils, vctrs"	"cpp11 (>= 0.5.0)"	"ape (>= 5.7-0.1), callr, decor, digest, igraphdata, knitr,
+rgl (>= 1.3.14), rmarkdown, scales, stats4, tcltk, testthat,
+vdiffr, withr"	"graph"	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ini"	"ini"	"/home/jinshengxi/Rlibrary/packages"	"0.3.1"	NA	NA	NA	NA	"testthat"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"intrinsicDimension"	"intrinsicDimension"	"/home/jinshengxi/Rlibrary/packages"	"1.2.0"	NA	"yaImpute"	NA	NA	"knitr, rmarkdown, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"IRanges"	"IRanges"	"/home/jinshengxi/Rlibrary/packages"	"2.40.1"	NA	"R (>= 4.0.0), methods, utils, stats, BiocGenerics (>= 0.39.2),
+S4Vectors (>= 0.43.2)"	"stats4"	"S4Vectors"	"XVector, GenomicRanges, Rsamtools, GenomicAlignments,
+GenomicFeatures, BSgenome.Celegans.UCSC.ce2, pasillaBamSubset,
+RUnit, BiocStyle"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"irlba"	"irlba"	"/home/jinshengxi/Rlibrary/packages"	"2.3.7"	NA	"R (>= 3.6.2), Matrix"	"stats, methods"	"Matrix"	NA	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"isoband"	"isoband"	"/home/jinshengxi/Rlibrary/packages"	"0.3.0"	NA	NA	"cli, grid, rlang, utils"	"cpp11"	"covr, ggplot2, knitr, magick, bench, rmarkdown, sf, testthat
+(>= 3.0.0), xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"iterators"	"iterators"	"/home/jinshengxi/Rlibrary/packages"	"1.0.14"	NA	"R (>= 2.5.0), utils"	NA	NA	"RUnit, foreach"	NA	"Apache License (== 2.0)"	NA	NA	NA	NA	"no"	"4.4.3"
+"jpeg"	"jpeg"	"/home/jinshengxi/Rlibrary/packages"	"0.1-11"	NA	"R (>= 2.9.0)"	NA	NA	NA	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"jquerylib"	"jquerylib"	"/home/jinshengxi/Rlibrary/packages"	"0.1.4"	NA	NA	"htmltools"	NA	"testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"jsonlite"	"jsonlite"	"/home/jinshengxi/Rlibrary/packages"	"2.0.0"	NA	"methods"	NA	NA	"httr, vctrs, testthat, knitr, rmarkdown, R.rsp, sf"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"KEGGREST"	"KEGGREST"	"/home/jinshengxi/Rlibrary/packages"	"1.46.0"	NA	"R (>= 3.5.0)"	"methods, httr, png, Biostrings"	NA	"RUnit, BiocGenerics, BiocStyle, knitr, markdown"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"kernlab"	"kernlab"	"/home/jinshengxi/Rlibrary/packages"	"0.9-33"	NA	"R (>= 2.10)"	"methods, stats, grDevices, graphics"	NA	NA	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"knitr"	"knitr"	"/home/jinshengxi/Rlibrary/packages"	"1.51"	NA	"R (>= 3.6.0)"	"evaluate (>= 0.15), highr (>= 0.11), methods, tools, xfun (>=
+0.52), yaml (>= 2.1.19)"	NA	"bslib, DBI (>= 0.4-1), digest, formatR, gifski, gridSVG,
+htmlwidgets (>= 0.7), jpeg, JuliaCall (>= 0.11.1), magick,
+litedown, markdown (>= 1.3), otel, otelsdk, png, ragg,
+reticulate (>= 1.4), rgl (>= 0.95.1201), rlang, rmarkdown,
+sass, showtext, styler (>= 1.2.0), targets (>= 0.6.0), testit,
+tibble, tikzDevice (>= 0.10), tinytex (>= 0.56), webshot,
+rstudioapi, svglite"	NA	"GPL"	NA	NA	NA	NA	"no"	"4.4.3"
+"knn.covertree"	"knn.covertree"	"/home/jinshengxi/Rlibrary/packages"	"1.1"	NA	NA	"Rcpp (>= 1.0.2), RcppEigen (>= 0.3.3.5.0), Matrix, methods"	"Rcpp, RcppEigen"	"testthat, FNN"	NA	"AGPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"labeling"	"labeling"	"/home/jinshengxi/Rlibrary/packages"	"0.4.3"	NA	NA	"stats, graphics"	NA	NA	NA	"MIT + file LICENSE | Unlimited"	NA	NA	NA	NA	"no"	"4.4.3"
+"laeken"	"laeken"	"/home/jinshengxi/Rlibrary/packages"	"0.5.3"	NA	"R (>= 3.2.0)"	"boot, MASS"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"lambda.r"	"lambda.r"	"/home/jinshengxi/Rlibrary/packages"	"1.2.4"	NA	"R (>= 3.0.0)"	"formatR"	NA	"testit"	NA	"LGPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"later"	"later"	"/home/jinshengxi/Rlibrary/packages"	"1.4.8"	NA	"R (>= 3.5)"	"Rcpp (>= 1.0.10), rlang"	"Rcpp"	"knitr, nanonext, promises, rmarkdown, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"lazyeval"	"lazyeval"	"/home/jinshengxi/Rlibrary/packages"	"0.2.3"	NA	"R (>= 3.1.0)"	"rlang"	NA	"knitr, rmarkdown (>= 0.2.65), testthat, covr"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"leidenAlg"	"leidenAlg"	"/home/jinshengxi/Rlibrary/packages"	"1.1.8"	NA	"R (>= 3.5.0), Matrix"	"graphics, grDevices, igraph, methods, parallel, Rcpp (>=
+1.0.5), sccore, stats"	"Rcpp, RcppArmadillo, RcppEigen"	"pbapply, testthat (>= 3.1.0)"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"leidenbase"	"leidenbase"	"/home/jinshengxi/Rlibrary/packages"	"0.1.37"	NA	"R (>= 3.5.0)"	"igraph (>= 0.9.0)"	NA	"rmarkdown, knitr, testthat (>= 3.1.0), pandoc"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"lgr"	"lgr"	"/home/jinshengxi/Rlibrary/packages"	"0.5.2"	NA	"R (>= 3.2.0)"	"R6 (>= 2.4.0)"	NA	"cli, covr, crayon, data.table, desc, future, future.apply,
+glue, jsonlite, knitr, rmarkdown, rotor (>= 0.3.5), rprojroot,
+testthat, tibble, tools, utils, whoami, yaml"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"lifecycle"	"lifecycle"	"/home/jinshengxi/Rlibrary/packages"	"1.0.5"	NA	"R (>= 3.6)"	"cli (>= 3.4.0), rlang (>= 1.1.0)"	NA	"covr, knitr, lintr (>= 3.1.0), rmarkdown, testthat (>=
+3.0.1), tibble, tidyverse, tools, vctrs, withr, xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"limma"	"limma"	"/home/jinshengxi/Rlibrary/packages"	"3.62.2"	NA	"R (>= 3.6.0)"	"grDevices, graphics, stats, utils, methods, statmod"	NA	"BiasedUrn, ellipse, gplots, knitr, locfit, MASS, splines,
+affy, AnnotationDbi, Biobase, BiocStyle, GO.db, illuminaio,
+org.Hs.eg.db, vsn"	NA	"GPL (>=2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"listenv"	"listenv"	"/home/jinshengxi/Rlibrary/packages"	"1.0.0"	NA	"R (>= 3.1.2)"	NA	NA	"R.utils, R.rsp, markdown"	NA	"Apache License (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"litedown"	"litedown"	"/home/jinshengxi/Rlibrary/packages"	"0.9"	NA	"R (>= 3.2.0)"	"utils, commonmark (>= 2.0.0), xfun (>= 0.55)"	NA	"rbibutils, rstudioapi, tinytex"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"lme4"	"lme4"	"/home/jinshengxi/Rlibrary/packages"	"2.0-1"	NA	"R (>= 3.6), Matrix, methods, stats"	"MASS, Rdpack, boot, graphics, grid, lattice, minqa (>=
+1.1.15), nlme (>= 3.1-123), nloptr (>= 1.0.4), parallel,
+reformulas (>= 0.4.3.1), rlang, splines, utils"	"Matrix (>= 1.5-0), Rcpp (>= 0.10.5), RcppEigen (>=
+0.3.3.9.4)"	"HSAUR3, MEMSS, car, dfoptim, gamm4, ggplot2, glmmTMB, knitr,
+merDeriv, mgcv, mlmRev, numDeriv, optimx (>= 2013.8.6),
+pbkrtest, rmarkdown, rr2, semEff, statmod, testthat (>= 0.8.1),
+tibble"	"DHARMa, performance"	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"lmtest"	"lmtest"	"/home/jinshengxi/Rlibrary/packages"	"0.9-40"	NA	"R (>= 3.0.0), stats, zoo"	"graphics"	NA	"car, strucchange, sandwich, dynlm, stats4, survival, AER"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"locfit"	"locfit"	"/home/jinshengxi/Rlibrary/packages"	"1.5-9.12"	NA	"R (>= 4.1.0)"	"lattice"	NA	"interp, gam"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"lubridate"	"lubridate"	"/home/jinshengxi/Rlibrary/packages"	"1.9.5"	NA	"methods, R (>= 3.2)"	"generics, timechange (>= 0.4.0)"	NA	"covr, knitr, rmarkdown, testthat (>= 2.1.0), vctrs (>= 0.6.5)"	"chron, data.table, timeDate, tis, zoo"	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"magrittr"	"magrittr"	"/home/jinshengxi/Rlibrary/packages"	"2.0.5"	NA	"R (>= 3.4.0)"	NA	NA	"covr, knitr, rlang, rmarkdown, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"markdown"	"markdown"	"/home/jinshengxi/Rlibrary/packages"	"2.0"	NA	"R (>= 2.11.1)"	"utils, xfun, litedown (>= 0.6)"	NA	"knitr, rmarkdown (>= 2.18), yaml, RCurl"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"MatrixGenerics"	"MatrixGenerics"	"/home/jinshengxi/Rlibrary/packages"	"1.18.1"	NA	"matrixStats (>= 1.4.1)"	"methods"	NA	"Matrix, sparseMatrixStats, SparseArray, DelayedArray,
+DelayedMatrixStats, SummarizedExperiment, testthat (>= 2.1.0)"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"MatrixModels"	"MatrixModels"	"/home/jinshengxi/Rlibrary/packages"	"0.5-4"	NA	"R (>= 3.6.0)"	"stats, methods, Matrix (>= 1.6-0), Matrix(< 1.8-0)"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"matrixStats"	"matrixStats"	"/home/jinshengxi/Rlibrary/packages"	"1.5.0"	NA	"R (>= 3.4.0)"	NA	NA	"utils, base64enc, ggplot2, knitr, markdown, microbenchmark,
+R.devices, R.rsp"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"memoise"	"memoise"	"/home/jinshengxi/Rlibrary/packages"	"2.0.1"	NA	NA	"rlang (>= 0.4.10), cachem"	NA	"digest, aws.s3, covr, googleAuthR, googleCloudStorageR, httr,
+testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"metapod"	"metapod"	"/home/jinshengxi/Rlibrary/packages"	"1.14.0"	NA	NA	"Rcpp"	"Rcpp"	"testthat, knitr, BiocStyle, rmarkdown"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"metR"	"metR"	"/home/jinshengxi/Rlibrary/packages"	"0.18.3"	NA	"R (>= 2.10)"	"checkmate, data.table, digest, Formula, formula.tools, ggplot2
+(>= 3.5.0), grid, gtable, isoband, lubridate, memoise, plyr,
+purrr, rlang, scales, sf, stringr"	NA	"CFtime, furrr, gsignal, irlba, knitr, kriging, maps,
+markdown, ncdf4, proj4, rcdo, reshape2, rnaturalearth, terra,
+testthat (>= 2.1.0), vdiffr"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"mime"	"mime"	"/home/jinshengxi/Rlibrary/packages"	"0.13"	NA	NA	"tools"	NA	NA	NA	"GPL"	NA	NA	NA	NA	"yes"	"4.4.3"
+"miniUI"	"miniUI"	"/home/jinshengxi/Rlibrary/packages"	"0.1.2"	NA	NA	"shiny (>= 0.13), htmltools (>= 0.3), utils"	NA	NA	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"minqa"	"minqa"	"/home/jinshengxi/Rlibrary/packages"	"1.2.8"	NA	NA	"Rcpp (>= 0.9.10)"	"Rcpp"	NA	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"mirai"	"mirai"	"/home/jinshengxi/Rlibrary/packages"	"2.7.1"	NA	"R (>= 3.6)"	"nanonext (>= 1.9.0)"	NA	"cli, later, litedown, mori, otel, otelsdk, secretbase"	"parallel, promises"	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"mixtools"	"mixtools"	"/home/jinshengxi/Rlibrary/packages"	"2.0.0.1"	NA	"R (>= 4.0.0)"	"kernlab, MASS, plotly, scales, segmented, stats, survival"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"mlbench"	"mlbench"	"/home/jinshengxi/Rlibrary/packages"	"2.1-8"	NA	"R (>= 2.10)"	NA	NA	"lattice"	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"mlr3"	"mlr3"	"/home/jinshengxi/Rlibrary/packages"	"1.7.1"	NA	"R (>= 3.5.0)"	"R6 (>= 2.4.1), backports (>= 1.5.0), checkmate (>= 2.0.0),
+cli, data.table (>= 1.15.0), evaluate (>= 1.0.4), future,
+future.apply (>= 1.5.0), lgr (>= 0.3.4), mirai (>= 2.4.1),
+methods, mlbench, mlr3measures (>= 1.2.0), mlr3misc (>=
+0.21.0), parallelly, palmerpenguins, paradox (>= 1.0.1), uuid"	NA	"callr, codetools, datasets, future.callr, mlr3data,
+progressr, remotes, RhpcBLASctl, rpart, testthat (>= 3.3.0)"	NA	"LGPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"mlr3learners"	"mlr3learners"	"/home/jinshengxi/Rlibrary/packages"	"0.15.0"	NA	"mlr3 (>= 1.2.0), R (>= 3.4.0)"	"checkmate, data.table, methods, mlr3misc (>= 0.9.4), paradox
+(>= 1.0.0), R6"	NA	"DiceKriging, e1071, future, glmnet, kknn, knitr, lgr, MASS,
+mirai, nnet, pracma, ranger, rgenoud, rmarkdown, testthat (>=
+3.0.0), xgboost (>= 3.2.0.1)"	NA	"LGPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"mlr3measures"	"mlr3measures"	"/home/jinshengxi/Rlibrary/packages"	"1.3.0"	NA	"R (>= 3.3.0)"	"checkmate, mlr3misc, PRROC"	NA	"testthat (>= 3.0.0)"	NA	"LGPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"mlr3misc"	"mlr3misc"	"/home/jinshengxi/Rlibrary/packages"	"0.22.0"	NA	"R (>= 3.4.0)"	"backports (>= 0.1.5), checkmate, cli, data.table, digest,
+methods, R6"	NA	"callr, evaluate, mirai, paradox, testthat (>= 3.0.0)"	NA	"LGPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"mlr3pipelines"	"mlr3pipelines"	"/home/jinshengxi/Rlibrary/packages"	"0.11.0"	NA	"R (>= 4.1.0)"	"backports, checkmate, cli, data.table, digest, lgr, mlr3 (>=
+0.20.0), mlr3misc (>= 0.17.0), paradox (>= 1.0.0), R6"	NA	"ggplot2, glmnet, igraph, knitr, lme4, mlbench, bbotk (>=
+0.3.0), mlr3filters (>= 0.8.1), mlr3learners, mlr3measures,
+nloptr, quanteda, rmarkdown, rpart, stopwords, testthat,
+visNetwork, bestNormalize, fastICA, kernlab, smotefamily,
+evaluate, NMF, MASS, GenSA, methods, vtreat, future,
+htmlwidgets, ranger, themis, splines, dimRed, RSpectra, RANN"	NA	"LGPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"mlr3tuning"	"mlr3tuning"	"/home/jinshengxi/Rlibrary/packages"	"1.6.0"	NA	"mlr3 (>= 0.23.0), paradox (>= 1.0.1), R (>= 3.3.0)"	"bbotk (>= 1.9.0), checkmate (>= 2.0.0), cli, data.table, lgr,
+mlr3misc (>= 0.15.1), R6"	NA	"adagio, future, GenSA, irace (>= 4.1.0), knitr, mirai,
+mlflow, mlr3learners (>= 0.14.0), mlr3pipelines (>= 0.5.2),
+nloptr, processx, redux, rush (>= 0.4.1), rmarkdown, rpart,
+testthat (>= 3.0.0), xgboost (>= 3.1.2.1)"	NA	"LGPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"modelr"	"modelr"	"/home/jinshengxi/Rlibrary/packages"	"0.1.11"	NA	"R (>= 3.2)"	"broom, magrittr, purrr (>= 0.2.2), rlang (>= 1.0.6), tibble,
+tidyr (>= 0.8.0), tidyselect, vctrs"	NA	"compiler, covr, ggplot2, testthat (>= 3.0.0)"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"monocle"	"monocle"	"/home/jinshengxi/Rlibrary/packages"	"2.34.0"	NA	"R (>= 2.10.0), methods, Matrix (>= 1.2-6), Biobase, ggplot2
+(>= 1.0.0), VGAM (>= 1.0-6), DDRTree (>= 0.1.4),"	"parallel, igraph (>= 1.0.1), BiocGenerics, HSMMSingleCell (>=
+0.101.5), plyr, cluster, combinat, fastICA, grid, irlba (>=
+2.0.0), matrixStats, Rtsne, MASS, reshape2, leidenbase (>=
+0.1.9), limma, tibble, dplyr, pheatmap, stringr, proxy, slam,
+viridis, stats, biocViews, RANN(>= 2.5), Rcpp (>= 0.12.0)"	"Rcpp"	"destiny, Hmisc, knitr, Seurat, scater, testthat"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"moocore"	"moocore"	"/home/jinshengxi/Rlibrary/packages"	"0.3.1"	NA	"R (>= 4.1)"	"matrixStats, Rdpack (>= 2.4)"	NA	"doctest (>= 0.4.0), spelling, testthat (>= 3.2.0), withr"	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"N2R"	"N2R"	"/home/jinshengxi/Rlibrary/packages"	"1.0.5"	NA	"Matrix"	"Rcpp (>= 1.0.4)"	"Rcpp, BH, RcppSpdlog, RcppEigen"	"testthat"	NA	"Apache License 2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"nanonext"	"nanonext"	"/home/jinshengxi/Rlibrary/packages"	"1.10.0"	NA	"R (>= 3.6)"	NA	NA	"later, litedown"	"promises"	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"nloptr"	"nloptr"	"/home/jinshengxi/Rlibrary/packages"	"2.2.1"	NA	NA	NA	NA	"knitr, rmarkdown, covr, tinytest"	NA	"LGPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"NLP"	"NLP"	"/home/jinshengxi/Rlibrary/packages"	"0.3-2"	NA	"R (>= 3.5.0)"	"utils"	NA	NA	"udpipe, spacyr, cleanNLP"	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"NMF"	"NMF"	"/home/jinshengxi/Rlibrary/packages"	"0.28"	NA	"R (>= 3.0.0), methods, utils, registry, rngtools (>= 1.2.3),
+cluster"	"graphics, stats, stringr (>= 1.0.0), digest, grid, grDevices,
+gridBase, colorspace, RColorBrewer, foreach, doParallel,
+ggplot2, reshape2, Biobase, codetools, BiocManager"	NA	"fastICA, doMPI, bigmemory (>= 4.2), synchronicity(>= 1.3.2),
+corpcor, xtable, devtools, knitr, RUnit"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"numDeriv"	"numDeriv"	"/home/jinshengxi/Rlibrary/packages"	"2016.8-1.1"	NA	"R (>= 2.11.1)"	NA	NA	NA	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"openssl"	"openssl"	"/home/jinshengxi/Rlibrary/packages"	"2.4.2"	NA	NA	"askpass"	NA	"curl, testthat (>= 2.1.0), digest, knitr, rmarkdown,
+jsonlite, jose, sodium"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"openxlsx"	"openxlsx"	"/home/jinshengxi/Rlibrary/packages"	"4.2.8.1"	NA	"R (>= 3.3.0)"	"grDevices, methods, Rcpp, stats, stringi, utils, zip"	"Rcpp"	"curl, formula.tools, knitr, rmarkdown, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"operator.tools"	"operator.tools"	"/home/jinshengxi/Rlibrary/packages"	"1.6.3.1"	NA	NA	"utils (>= 3.3.2)"	NA	"operators (>= 0.1.8), magrittr (>= 1.5), testthat (>= 1.0.2)"	NA	"GPL-2 | file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"org.Hs.eg.db"	"org.Hs.eg.db"	"/home/jinshengxi/Rlibrary/packages"	"3.20.0"	NA	"R (>= 2.7.0), methods, AnnotationDbi (>= 1.67.0)"	NA	NA	"DBI, annotate, RUnit"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"org.Mm.eg.db"	"org.Mm.eg.db"	"/home/jinshengxi/Rlibrary/packages"	"3.20.0"	NA	"R (>= 2.7.0), methods, AnnotationDbi (>= 1.67.0)"	NA	NA	"DBI, annotate, RUnit"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"otel"	"otel"	"/home/jinshengxi/Rlibrary/packages"	"0.2.0"	NA	"R (>= 3.6.0)"	NA	NA	"callr, cli, glue, jsonlite, otelsdk, processx, shiny,
+spelling, testthat (>= 3.0.0), utils, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"pagoda2"	"pagoda2"	"/home/jinshengxi/Rlibrary/packages"	"1.0.15"	NA	"R (>= 3.5.0), Matrix, igraph"	"dendsort, drat, fastcluster, graphics, grDevices, irlba,
+magrittr, MASS, mgcv, methods, N2R, parallel, plyr, R.utils,
+Rcpp, rjson, rlang, R6, RMTstat, Rook, Rtsne, sccore (>=
+0.1.1), stats, urltools, utils"	"Rcpp, RcppArmadillo, RcppProgress, RcppEigen"	"AnnotationDbi, base64enc, BiocGenerics, BiocParallel,
+colorRamps, data.table, dbscan, dplyr, ggplot2, GO.db,
+gridExtra, KernSmooth, knitr, org.Dr.eg.db, org.Hs.eg.db,
+org.Mm.eg.db, pcaMethods, pheatmap, rgl, rmarkdown, robustbase,
+scde, testthat, uwot"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"pak"	"pak"	"/home/jinshengxi/Rlibrary/packages"	"0.10.0"	NA	"R (>= 3.5)"	"tools, utils"	NA	"callr (>= 3.7.0), cli (>= 3.2.0), covr, curl (>= 4.3.2), desc
+(>= 1.4.1), filelock (>= 1.0.2), gitcreds, glue (>= 1.6.2),
+jsonlite (>= 1.8.0), keyring (>= 1.4.0), pingr, pkgbuild (>=
+1.4.2), pkgcache (>= 2.2.4), pkgdepends (>= 0.9.0), pkgload,
+pkgsearch (>= 3.1.0), processx (>= 3.8.1), ps (>= 1.6.0),
+rstudioapi, testthat (>= 3.2.0), webfakes, withr, yaml"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"palmerpenguins"	"palmerpenguins"	"/home/jinshengxi/Rlibrary/packages"	"0.1.1"	NA	"R (>= 2.10)"	NA	NA	"knitr, rmarkdown, tibble, ggplot2, dplyr, tidyr, recipes"	NA	"CC0"	NA	NA	NA	NA	"no"	"4.4.3"
+"paradox"	"paradox"	"/home/jinshengxi/Rlibrary/packages"	"1.0.1"	NA	NA	"backports, checkmate, data.table, methods, mlr3misc (>=
+0.9.4), R6"	NA	"rmarkdown, mlr3learners, e1071, knitr, lhs, spacefillr,
+testthat"	NA	"LGPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"parallelly"	"parallelly"	"/home/jinshengxi/Rlibrary/packages"	"1.48.0"	NA	NA	"parallel, tools, utils"	NA	"commonmark, base64enc"	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"patchwork"	"patchwork"	"/home/jinshengxi/Rlibrary/packages"	"1.3.2"	NA	NA	"ggplot2 (>= 3.0.0), gtable (>= 0.3.6), grid, stats, grDevices,
+utils, graphics, rlang (>= 1.0.0), cli, farver"	NA	"knitr, rmarkdown, gridGraphics, gridExtra, ragg, testthat (>=
+2.1.0), vdiffr, covr, png, gt (>= 0.11.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"pbapply"	"pbapply"	"/home/jinshengxi/Rlibrary/packages"	"1.7-4"	NA	"R (>= 3.2.0)"	"parallel"	NA	"shiny, future, future.apply"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"pbkrtest"	"pbkrtest"	"/home/jinshengxi/Rlibrary/packages"	"0.5.5"	NA	"R (>= 4.2.0), lme4 (>= 1.1.31)"	"broom, dplyr, MASS, methods, numDeriv, Matrix (>= 1.2.3), doBy
+(>= 4.6.22)"	NA	"nlme, markdown, knitr"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"pbmcapply"	"pbmcapply"	"/home/jinshengxi/Rlibrary/packages"	"1.5.1"	NA	"utils, parallel"	NA	NA	NA	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"pcaMethods"	"pcaMethods"	"/home/jinshengxi/Rlibrary/packages"	"1.98.0"	NA	"Biobase, methods"	"BiocGenerics, Rcpp (>= 0.11.3), MASS"	"Rcpp"	"matrixStats, lattice, ggplot2"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"PFAM.db"	"PFAM.db"	"/home/jinshengxi/Rlibrary/packages"	"3.20.0"	NA	"R (>= 2.7.0), methods, AnnotationDbi (>= 1.67.0)"	NA	NA	"DBI"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"pheatmap"	"pheatmap"	"/home/jinshengxi/Rlibrary/packages"	"1.0.13"	NA	"R (>= 2.0)"	"grid, RColorBrewer, scales, gtable, stats, grDevices, graphics"	NA	NA	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"pillar"	"pillar"	"/home/jinshengxi/Rlibrary/packages"	"1.11.1"	NA	NA	"cli (>= 2.3.0), glue, lifecycle, rlang (>= 1.0.2), utf8 (>=
+1.1.0), utils, vctrs (>= 0.5.0)"	NA	"bit64, DBI, debugme, DiagrammeR, dplyr, formattable, ggplot2,
+knitr, lubridate, nanotime, nycflights13, palmerpenguins,
+rmarkdown, scales, stringi, survival, testthat (>= 3.1.1),
+tibble, units (>= 0.7.2), vdiffr, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"pkgbuild"	"pkgbuild"	"/home/jinshengxi/Rlibrary/packages"	"1.4.8"	NA	"R (>= 3.5)"	"callr (>= 3.2.0), cli (>= 3.4.0), desc, processx, R6"	NA	"covr, cpp11, knitr, Rcpp, rmarkdown, testthat (>= 3.2.0),
+withr (>= 2.3.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"pkgconfig"	"pkgconfig"	"/home/jinshengxi/Rlibrary/packages"	"2.0.3"	NA	NA	"utils"	NA	"covr, testthat, disposables (>= 1.0.3)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"pkgdown"	"pkgdown"	"/home/jinshengxi/Rlibrary/packages"	"2.2.1"	NA	"R (>= 4.1)"	"bslib (>= 0.5.1), callr (>= 3.7.3), cli (>= 3.6.1), desc (>=
+1.4.0), downlit (>= 0.4.4), fontawesome, fs (>= 1.4.0), httr2
+(>= 1.0.2), jsonlite, lifecycle, openssl, purrr (>= 1.0.0),
+ragg (>= 1.4.0), rlang (>= 1.1.4), rmarkdown (>= 2.27), tibble,
+whisker, withr (>= 2.4.3), xml2 (>= 1.3.1), yaml (>= 2.3.9)"	NA	"covr, diffviewer, evaluate (>= 0.24.0), gert, gt, htmltools,
+htmlwidgets, knitr (>= 1.50), magick, methods, nanonext (>=
+1.8.0), pkgload (>= 1.0.2), quarto, rsconnect, rstudioapi,
+rticles, sass, testthat (>= 3.1.3), tools"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"pkgload"	"pkgload"	"/home/jinshengxi/Rlibrary/packages"	"1.5.3"	NA	"R (>= 3.4.0)"	"cli (>= 3.3.0), desc, fs, glue, lifecycle, methods, pkgbuild,
+processx, rlang (>= 1.1.1), rprojroot, utils"	NA	"bitops, jsonlite, mathjaxr, pak, Rcpp, remotes, rstudioapi,
+testthat (>= 3.2.1.1), usethis, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"plotly"	"plotly"	"/home/jinshengxi/Rlibrary/packages"	"4.12.0"	NA	"R (>= 3.5.0), ggplot2 (>= 3.0.0)"	"tools, scales, httr (>= 1.3.0), jsonlite (>= 1.6), magrittr,
+digest, viridisLite, base64enc, htmltools (>= 0.3.6),
+htmlwidgets (>= 1.5.2.9001), tidyr (>= 1.0.0), RColorBrewer,
+dplyr, vctrs, tibble, lazyeval (>= 0.2.0), rlang (>= 1.0.0),
+crosstalk, purrr, data.table, promises"	NA	"MASS, maps, hexbin, ggthemes, GGally, ggalluvial, testthat,
+knitr, shiny (>= 1.1.0), shinytest2, curl, rmarkdown, Cairo,
+broom, webshot, listviewer, dendextend, sf, png, IRdisplay,
+processx, plotlyGeoAssets, forcats, withr, palmerpenguins,
+rversions, reticulate, rsvg, ggridges"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"plyr"	"plyr"	"/home/jinshengxi/Rlibrary/packages"	"1.8.9"	NA	"R (>= 3.1.0)"	"Rcpp (>= 0.11.0)"	"Rcpp"	"abind, covr, doParallel, foreach, iterators, itertools,
+tcltk, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"png"	"png"	"/home/jinshengxi/Rlibrary/packages"	"0.1-9"	NA	"R (>= 2.9.0)"	NA	NA	NA	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"Polychrome"	"Polychrome"	"/home/jinshengxi/Rlibrary/packages"	"1.6.1"	NA	"R (>= 4.4)"	"colorspace, scatterplot3d, methods, graphics, grDevices,
+stats, utils"	NA	"RColorBrewer, knitr, rmarkdown, ggplot2"	NA	"Apache License (== 2.0)"	NA	NA	NA	NA	"no"	"4.4.3"
+"polyclip"	"polyclip"	"/home/jinshengxi/Rlibrary/packages"	"1.10-7"	NA	"R (>= 3.5.0)"	NA	NA	NA	NA	"BSL"	NA	NA	NA	NA	"yes"	"4.4.3"
+"polynom"	"polynom"	"/home/jinshengxi/Rlibrary/packages"	"1.4-1"	NA	NA	"stats, graphics"	NA	"knitr, rmarkdown"	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"praise"	"praise"	"/home/jinshengxi/Rlibrary/packages"	"1.0.0"	NA	NA	NA	NA	"testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"prettyunits"	"prettyunits"	"/home/jinshengxi/Rlibrary/packages"	"1.2.0"	NA	"R(>= 2.10)"	NA	NA	"codetools, covr, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"princurve"	"princurve"	"/home/jinshengxi/Rlibrary/packages"	"2.1.6"	NA	"R (>= 3.0)"	"stats, graphics, grDevices, Rcpp"	"Rcpp"	"devtools, testthat"	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"pROC"	"pROC"	"/home/jinshengxi/Rlibrary/packages"	"1.19.0.1"	NA	"R (>= 2.14)"	"methods, Rcpp (>= 0.11.1)"	"Rcpp"	"tcltk, MASS, logcondens, testthat, vdiffr, ggplot2, rlang"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"processx"	"processx"	"/home/jinshengxi/Rlibrary/packages"	"3.9.0"	NA	"R (>= 3.4.0)"	"ps (>= 1.9.3), R6, utils"	NA	"callr (>= 3.7.3), cli (>= 3.3.0), codetools, covr, curl,
+debugme, parallel, rlang (>= 1.0.2), testthat (>= 3.0.0),
+webfakes, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"profvis"	"profvis"	"/home/jinshengxi/Rlibrary/packages"	"0.4.0"	NA	"R (>= 4.0)"	"htmlwidgets (>= 0.3.2), rlang (>= 1.1.0), vctrs"	NA	"htmltools, knitr, rmarkdown, shiny, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"progress"	"progress"	"/home/jinshengxi/Rlibrary/packages"	"1.2.3"	NA	"R (>= 3.6)"	"crayon, hms, prettyunits, R6"	NA	"Rcpp, testthat (>= 3.0.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"progressr"	"progressr"	"/home/jinshengxi/Rlibrary/packages"	"1.0.0"	NA	"R (>= 3.5.0)"	"digest, utils"	NA	"graphics, tcltk, beepr, cli, crayon, pbmcapply, progress,
+purrr, foreach, plyr, doFuture, future, future.apply, furrr,
+ntfy, RPushbullet, rstudioapi, shiny, commonmark, base64enc,
+tools"	NA	"Apache License (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"promises"	"promises"	"/home/jinshengxi/Rlibrary/packages"	"1.5.0"	NA	"R (>= 4.1.0)"	"fastmap (>= 1.1.0), later, lifecycle, magrittr (>= 1.5), otel
+(>= 0.2.0), R6, rlang"	NA	"future (>= 1.21.0), knitr, mirai, otelsdk (>= 0.2.0), purrr,
+Rcpp, rmarkdown, spelling, testthat (>= 3.0.0), vembedr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"proxy"	"proxy"	"/home/jinshengxi/Rlibrary/packages"	"0.4-29"	NA	"R (>= 3.4.0)"	"stats, utils"	NA	"cba"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"proxyC"	"proxyC"	"/home/jinshengxi/Rlibrary/packages"	"0.5.2"	NA	"R (>= 3.1.0), methods"	"Matrix (>= 1.2), Rcpp (>= 0.12.12)"	"Rcpp, RcppArmadillo (>= 0.7.600.1.0)"	"testthat, entropy, proxy, knitr, rmarkdown"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"PRROC"	"PRROC"	"/home/jinshengxi/Rlibrary/packages"	"1.4"	NA	"rlang"	NA	NA	"testthat, ggplot2, ROCR"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"ps"	"ps"	"/home/jinshengxi/Rlibrary/packages"	"1.9.3"	NA	"R (>= 3.4)"	"utils"	NA	"callr, covr, curl, pillar, pingr, processx (>= 3.1.0), R6,
+rlang, testthat (>= 3.0.0), webfakes, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"purrr"	"purrr"	"/home/jinshengxi/Rlibrary/packages"	"1.2.2"	NA	"R (>= 4.1)"	"cli (>= 3.6.1), lifecycle (>= 1.0.3), magrittr (>= 1.5.0),
+rlang (>= 1.1.1), vctrs (>= 0.6.3)"	"cli"	"carrier (>= 0.3.0), covr, dplyr (>= 0.7.8), httr, knitr,
+lubridate, mirai (>= 2.5.1), rmarkdown, testthat (>= 3.0.0),
+tibble, tidyselect"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"qs"	"qs"	"/home/jinshengxi/Rlibrary/packages"	"0.27.3"	NA	"R (>= 3.0.2)"	"Rcpp, RApiSerialize (>= 0.1.4), stringfish (>= 0.15.1)"	"Rcpp, RApiSerialize, stringfish, BH"	"knitr, rmarkdown, testthat, dplyr, data.table"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"quantreg"	"quantreg"	"/home/jinshengxi/Rlibrary/packages"	"6.1"	NA	"R (>= 3.5), stats, SparseM"	"methods, graphics, Matrix, MatrixModels, survival, MASS"	NA	"interp, rgl, logspline, nor1mix, Formula, zoo, R.rsp, conquer"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"qvalue"	"qvalue"	"/home/jinshengxi/Rlibrary/packages"	"2.34.0"	NA	"R(>= 2.10)"	"splines, ggplot2, grid, reshape2"	NA	"knitr"	NA	"LGPL"	NA	NA	NA	NA	"no"	"4.4.3"
+"R.cache"	"R.cache"	"/home/jinshengxi/Rlibrary/packages"	"0.17.0"	NA	"R (>= 2.14.0)"	"utils, R.methodsS3 (>= 1.8.1), R.oo (>= 1.24.0), R.utils (>=
+2.10.1), digest (>= 0.6.13)"	NA	NA	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"no"	"4.4.3"
+"R.methodsS3"	"R.methodsS3"	"/home/jinshengxi/Rlibrary/packages"	"1.8.2"	NA	"R (>= 2.13.0)"	"utils"	NA	"codetools"	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"no"	"4.4.3"
+"R.oo"	"R.oo"	"/home/jinshengxi/Rlibrary/packages"	"1.27.1"	NA	"R (>= 2.13.0), R.methodsS3 (>= 1.8.2)"	"methods, utils"	NA	"tools"	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"no"	"4.4.3"
+"R.utils"	"R.utils"	"/home/jinshengxi/Rlibrary/packages"	"2.13.0"	NA	"R (>= 2.14.0), R.oo"	"methods, utils, tools, R.methodsS3"	NA	"datasets, digest (>= 0.6.10)"	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"no"	"4.4.3"
+"R6"	"R6"	"/home/jinshengxi/Rlibrary/packages"	"2.6.1"	NA	"R (>= 3.6)"	NA	NA	"lobstr, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"ragg"	"ragg"	"/home/jinshengxi/Rlibrary/packages"	"1.5.2"	NA	NA	"systemfonts (>= 1.0.3), textshaping (>= 0.3.0)"	"systemfonts, textshaping"	"covr, graphics, grid, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"randomForest"	"randomForest"	"/home/jinshengxi/Rlibrary/packages"	"4.7-1.2"	NA	"R (>= 4.1.0), stats"	NA	NA	"RColorBrewer, MASS"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ranger"	"ranger"	"/home/jinshengxi/Rlibrary/packages"	"0.18.0"	NA	"R (>= 3.1)"	"Rcpp (>= 0.11.2), Matrix"	"Rcpp, RcppEigen"	"survival, testthat"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RANN"	"RANN"	"/home/jinshengxi/Rlibrary/packages"	"2.6.2"	NA	NA	NA	NA	"testthat"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RApiSerialize"	"RApiSerialize"	"/home/jinshengxi/Rlibrary/packages"	"0.1.4"	NA	NA	NA	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rappdirs"	"rappdirs"	"/home/jinshengxi/Rlibrary/packages"	"0.3.4"	NA	"R (>= 4.1)"	NA	NA	"covr, roxygen2, testthat (>= 3.2.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RBGL"	"RBGL"	"/home/jinshengxi/Rlibrary/packages"	"1.82.0"	NA	"graph, methods"	"methods"	"BH"	"Rgraphviz, XML, RUnit, BiocGenerics, BiocStyle, knitr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rbibutils"	"rbibutils"	"/home/jinshengxi/Rlibrary/packages"	"2.4.1"	NA	"R (>= 2.10)"	"utils, tools"	NA	"testthat"	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rcmdcheck"	"rcmdcheck"	"/home/jinshengxi/Rlibrary/packages"	"1.4.0"	NA	NA	"callr (>= 3.1.1.9000), cli (>= 3.0.0), curl, desc (>= 1.2.0),
+digest, pkgbuild, prettyunits, R6, rprojroot, sessioninfo (>=
+1.1.1), utils, withr, xopen"	NA	"covr, knitr, mockery, processx, ps, rmarkdown, svglite,
+testthat, webfakes"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"RColorBrewer"	"RColorBrewer"	"/home/jinshengxi/Rlibrary/packages"	"1.1-3"	NA	"R (>= 2.0.0)"	NA	NA	NA	NA	"Apache License 2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"Rcpp"	"Rcpp"	"/home/jinshengxi/Rlibrary/packages"	"1.1.2"	NA	"R (>= 3.5.0)"	"methods, utils"	NA	"tinytest, inline, rbenchmark, pkgKitten (>= 0.1.2)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppAnnoy"	"RcppAnnoy"	"/home/jinshengxi/Rlibrary/packages"	"0.0.23"	NA	"R (>= 3.1)"	"methods, Rcpp"	"Rcpp"	"tinytest"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppArmadillo"	"RcppArmadillo"	"/home/jinshengxi/Rlibrary/packages"	"15.4.0-1"	NA	"R (>= 3.3.0)"	"Rcpp (>= 1.1.1), stats, utils, methods"	"Rcpp"	"tinytest, Matrix (>= 1.3.0), pkgKitten, reticulate, slam"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppEigen"	"RcppEigen"	"/home/jinshengxi/Rlibrary/packages"	"0.3.4.0.2"	NA	"R (>= 3.6.0)"	"Rcpp (>= 0.11.0), stats, utils"	"Rcpp"	"Matrix, inline, tinytest, pkgKitten, microbenchmark"	NA	"GPL (>= 2) | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppHNSW"	"RcppHNSW"	"/home/jinshengxi/Rlibrary/packages"	"0.7.0"	NA	NA	"methods, Rcpp (>= 0.11.3)"	"Rcpp"	"covr, testthat"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppML"	"RcppML"	"/home/jinshengxi/Rlibrary/packages"	"0.3.7.1"	NA	NA	"Rcpp, Matrix, methods, stats"	"Rcpp, RcppEigen"	"knitr, rmarkdown, testthat (>= 3.0.0)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppParallel"	"RcppParallel"	"/home/jinshengxi/Rlibrary/packages"	"5.1.11-2"	NA	"R (>= 3.0.2)"	NA	NA	"Rcpp, RUnit, knitr, rmarkdown"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppProgress"	"RcppProgress"	"/home/jinshengxi/Rlibrary/packages"	"0.4.2"	NA	NA	NA	NA	"RcppArmadillo, devtools, roxygen2, testthat"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"no"	"4.4.3"
+"RcppRoll"	"RcppRoll"	"/home/jinshengxi/Rlibrary/packages"	"0.3.2"	NA	"R (>= 2.15.1)"	"Rcpp"	"Rcpp"	"zoo, testthat"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppSpdlog"	"RcppSpdlog"	"/home/jinshengxi/Rlibrary/packages"	"0.0.29"	NA	NA	"Rcpp"	"Rcpp"	"simplermarkdown"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RcppTOML"	"RcppTOML"	"/home/jinshengxi/Rlibrary/packages"	"0.2.3"	NA	"R (>= 3.3.0)"	"Rcpp (>= 1.0.8)"	"Rcpp"	"tinytest"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RCurl"	"RCurl"	"/home/jinshengxi/Rlibrary/packages"	"1.98-1.19"	NA	"R (>= 3.4.0), methods"	"bitops"	NA	"XML"	NA	"BSD_3_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"Rdpack"	"Rdpack"	"/home/jinshengxi/Rlibrary/packages"	"2.6.6"	NA	"R (>= 2.15.0), methods"	"tools, utils, rbibutils (> 2.4)"	NA	"grDevices, testthat, rstudioapi, rprojroot, gbRd"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"reactome.db"	"reactome.db"	"/home/jinshengxi/Rlibrary/packages"	"1.89.0"	NA	"R (>= 2.7.0), methods, AnnotationDbi (>= 1.33.0)"	"methods, AnnotationDbi"	NA	"RSQLite"	NA	"CC BY 4.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"readr"	"readr"	"/home/jinshengxi/Rlibrary/packages"	"2.2.0"	NA	"R (>= 4.1)"	"cli, clipr, crayon, glue, hms (>= 0.4.1), lifecycle, methods,
+R6, rlang, tibble, utils, vroom (>= 1.7.0), withr"	"cpp11, tzdb (>= 0.1.1)"	"covr, curl, datasets, knitr, rmarkdown, spelling, stringi,
+testthat (>= 3.2.0), tzdb (>= 0.1.1), waldo, xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"reformulas"	"reformulas"	"/home/jinshengxi/Rlibrary/packages"	"0.4.4"	NA	NA	"stats, methods, Matrix, Rdpack"	NA	"lme4, tinytest, glmmTMB, Formula"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"registry"	"registry"	"/home/jinshengxi/Rlibrary/packages"	"0.5-1"	NA	"R (>= 2.6.0)"	"utils"	NA	NA	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"remotes"	"remotes"	"/home/jinshengxi/Rlibrary/packages"	"2.5.0"	NA	"R (>= 3.0.0)"	"methods, stats, tools, utils"	NA	"brew, callr, codetools, covr, curl, git2r (>= 0.23.0), knitr,
+mockery, pingr, pkgbuild (>= 1.0.1), rmarkdown, rprojroot,
+testthat (>= 3.0.0), webfakes, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"renv"	"renv"	"/home/jinshengxi/Rlibrary/packages"	"1.2.3"	NA	NA	"utils"	NA	"BiocManager, cli, compiler, covr, cpp11, curl, devtools,
+generics, gitcreds, jsonlite, jsonvalidate, knitr, miniUI,
+modules, packrat, pak, R6, remotes, reticulate, rmarkdown,
+rstudioapi, shiny, testthat, uuid, waldo, yaml, webfakes"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"reshape2"	"reshape2"	"/home/jinshengxi/Rlibrary/packages"	"1.4.5"	NA	"R (>= 3.1)"	"plyr (>= 1.8.1), Rcpp, stringr"	"Rcpp"	"covr, lattice, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ResidualMatrix"	"ResidualMatrix"	"/home/jinshengxi/Rlibrary/packages"	"1.16.0"	NA	NA	"methods, Matrix, S4Vectors, DelayedArray"	NA	"testthat, BiocStyle, knitr, rmarkdown, BiocSingular"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"restfulr"	"restfulr"	"/home/jinshengxi/Rlibrary/packages"	"0.0.17"	NA	"R (>= 3.4.0), methods"	"XML, RCurl, rjson, S4Vectors (>= 0.13.15), yaml"	NA	"getPass, rsolr, RUnit"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"reticulate"	"reticulate"	"/home/jinshengxi/Rlibrary/packages"	"1.46.0"	NA	"R (>= 3.5)"	"Matrix, Rcpp (>= 1.0.7), RcppTOML, graphics, here, jsonlite,
+methods, png, rappdirs, utils, rlang, withr"	"Rcpp"	"callr, knitr, glue, cli, rmarkdown, pillar, testthat"	NA	"Apache License 2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rex"	"rex"	"/home/jinshengxi/Rlibrary/packages"	"1.2.2"	NA	NA	"withr"	NA	"covr, dplyr, ggplot2, Hmisc, knitr, magrittr, rmarkdown,
+roxygen2, rvest, stringr, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"rhdf5"	"rhdf5"	"/home/jinshengxi/Rlibrary/packages"	"2.50.2"	NA	"R (>= 4.0.0), methods"	"Rhdf5lib (>= 1.13.4), rhdf5filters (>= 1.15.5)"	"Rhdf5lib"	"bit64, BiocStyle, knitr, rmarkdown, testthat, bench, dplyr,
+ggplot2, mockery, BiocParallel"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rhdf5filters"	"rhdf5filters"	"/home/jinshengxi/Rlibrary/packages"	"1.18.1"	NA	NA	NA	"Rhdf5lib"	"BiocStyle, knitr, rmarkdown, tinytest, rhdf5 (>= 2.47.7)"	NA	"BSD_2_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"Rhdf5lib"	"Rhdf5lib"	"/home/jinshengxi/Rlibrary/packages"	"1.24.2"	NA	"R (>= 4.2.0)"	NA	NA	"BiocStyle, knitr, rmarkdown, tinytest, mockery"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RhpcBLASctl"	"RhpcBLASctl"	"/home/jinshengxi/Rlibrary/packages"	"0.23-42"	NA	NA	NA	NA	NA	NA	"AGPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"Rhtslib"	"Rhtslib"	"/home/jinshengxi/Rlibrary/packages"	"3.2.0"	NA	NA	"tools, zlibbioc"	"zlibbioc"	"knitr, rmarkdown, BiocStyle"	NA	"LGPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rjson"	"rjson"	"/home/jinshengxi/Rlibrary/packages"	"0.2.23"	NA	"R (>= 4.0.0)"	NA	NA	NA	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rlang"	"rlang"	"/home/jinshengxi/Rlibrary/packages"	"1.3.0"	NA	"R (>= 4.0.0)"	"utils"	NA	"cli (>= 3.1.0), covr, crayon, desc, fs, glue, knitr,
+magrittr, methods, pillar, pkgload, rmarkdown, stats, testthat
+(>= 3.3.2), tibble, usethis, vctrs (>= 0.2.3), withr"	"winch"	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rmarkdown"	"rmarkdown"	"/home/jinshengxi/Rlibrary/packages"	"2.31"	NA	"R (>= 3.0)"	"bslib (>= 0.2.5.1), evaluate (>= 0.13), fontawesome (>=
+0.5.0), htmltools (>= 0.5.1), jquerylib, jsonlite, knitr (>=
+1.43), methods, tinytex (>= 0.31), tools, utils, xfun (>=
+0.36), yaml (>= 2.1.19)"	NA	"digest, dygraphs, fs, rsconnect, downlit (>= 0.4.0), katex
+(>= 1.4.0), sass (>= 0.4.0), shiny (>= 1.6.0), testthat (>=
+3.0.3), tibble, vctrs, cleanrmd, withr (>= 2.4.2), xml2"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"RMTstat"	"RMTstat"	"/home/jinshengxi/Rlibrary/packages"	"0.3.2"	NA	NA	NA	NA	NA	NA	"BSD_3_clause + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"rngtools"	"rngtools"	"/home/jinshengxi/Rlibrary/packages"	"1.5.2"	NA	"R (>= 3.2.0), methods"	"digest, utils, stats, parallel"	NA	"covr, RUnit, testthat"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"robustbase"	"robustbase"	"/home/jinshengxi/Rlibrary/packages"	"0.99-7"	NA	"R (>= 3.5.0)"	"stats, graphics, utils, methods, DEoptimR"	NA	"grid, MASS, lattice, boot, cluster, Matrix, robust,
+fit.models, MPV, xtable, ggplot2, GGally, RColorBrewer,
+reshape2, sfsmisc, catdata, doParallel, foreach, skewt"	"robustX, rrcov, matrixStats, quantreg, Hmisc"	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ROCR"	"ROCR"	"/home/jinshengxi/Rlibrary/packages"	"1.0-12"	NA	"R (>= 3.6)"	"methods, graphics, grDevices, gplots, stats"	NA	"testthat, knitr, rmarkdown"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"Rook"	"Rook"	"/home/jinshengxi/Rlibrary/packages"	"1.2.1"	NA	"R (>= 2.13.0)"	"utils, tools, methods, brew"	NA	NA	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"roxygen2"	"roxygen2"	"/home/jinshengxi/Rlibrary/packages"	"8.0.0"	NA	"R (>= 4.1)"	"brew, cli (>= 3.3.0), commonmark, desc (>= 1.2.0), knitr,
+lifecycle, methods, pkgload (>= 1.5.2), R6 (>= 2.1.2), rlang
+(>= 1.1.0), utils, withr, xml2"	"cpp11"	"covr, R.methodsS3, S7, R.oo, rmarkdown (>= 2.16), testthat
+(>= 3.1.2), yaml"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rprojroot"	"rprojroot"	"/home/jinshengxi/Rlibrary/packages"	"2.1.1"	NA	"R (>= 3.0.0)"	NA	NA	"covr, knitr, lifecycle, rlang, rmarkdown, testthat (>=
+3.2.0), withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"Rsamtools"	"Rsamtools"	"/home/jinshengxi/Rlibrary/packages"	"2.22.0"	NA	"methods, GenomeInfoDb (>= 1.1.3), GenomicRanges (>= 1.31.8),
+Biostrings (>= 2.47.6), R (>= 3.5.0)"	"utils, BiocGenerics (>= 0.25.1), S4Vectors (>= 0.17.25),
+IRanges (>= 2.13.12), XVector (>= 0.19.7), zlibbioc, bitops,
+BiocParallel, stats"	"Rhtslib (>= 2.99.1), S4Vectors, IRanges, XVector, Biostrings"	"GenomicAlignments, ShortRead (>= 1.19.10), GenomicFeatures,
+TxDb.Dmelanogaster.UCSC.dm3.ensGene,
+TxDb.Hsapiens.UCSC.hg18.knownGene, RNAseqData.HNRNPC.bam.chr14,
+BSgenome.Hsapiens.UCSC.hg19, RUnit, BiocStyle, knitr"	NA	"Artistic-2.0 | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RSpectra"	"RSpectra"	"/home/jinshengxi/Rlibrary/packages"	"0.16-2"	NA	"R (>= 3.0.2)"	"Matrix (>= 1.1-0), Rcpp (>= 0.11.5)"	"Rcpp, RcppEigen (>= 0.3.3.3.0)"	"knitr, rmarkdown, prettydoc"	NA	"MPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"RSQLite"	"RSQLite"	"/home/jinshengxi/Rlibrary/packages"	"3.53.3"	NA	"R (>= 3.1.0)"	"bit64, blob (>= 1.2.0), DBI (>= 1.2.0), memoise, methods,
+pkgconfig, rlang"	"cpp11 (>= 0.4.0)"	"callr, cli, DBItest (>= 1.8.0), decor, gert, gh, hms, httpuv,
+knitr, magrittr, rmarkdown, rvest, testthat (>= 3.0.0), withr,
+xml2"	NA	"LGPL (>= 2.1)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rstatix"	"rstatix"	"/home/jinshengxi/Rlibrary/packages"	"1.0.0"	NA	"R (>= 3.3.0)"	"stats, utils, tidyr (>= 1.0.0), purrr, broom (>= 0.7.4), rlang
+(>= 0.3.1), tibble (>= 2.1.3), dplyr (>= 0.7.1), magrittr,
+corrplot, tidyselect (>= 1.2.0), car, generics (>= 0.0.2)"	NA	"knitr, rmarkdown, ggpubr, graphics, emmeans, coin, boot,
+testthat, spelling"	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"rstudioapi"	"rstudioapi"	"/home/jinshengxi/Rlibrary/packages"	"0.19.0"	NA	NA	NA	NA	"testthat, knitr, rmarkdown, clipr, covr, curl, jsonlite, R6,
+withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"rsvd"	"rsvd"	"/home/jinshengxi/Rlibrary/packages"	"1.0.5"	NA	"R (>= 4.0.0)"	"Matrix"	NA	"ggplot2, testthat"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"no"	"4.4.3"
+"rtracklayer"	"rtracklayer"	"/home/jinshengxi/Rlibrary/packages"	"1.66.0"	NA	"R (>= 3.5.0), methods, GenomicRanges (>= 1.37.2)"	"XML (>= 1.98-0), BiocGenerics (>= 0.35.3), S4Vectors (>=
+0.23.18), IRanges (>= 2.13.13), XVector (>= 0.19.7),
+GenomeInfoDb (>= 1.15.2), Biostrings (>= 2.47.6), zlibbioc,
+curl, httr, Rsamtools (>= 1.31.2), GenomicAlignments (>=
+1.15.6), BiocIO, tools, restfulr (>= 0.0.13)"	"S4Vectors, IRanges, XVector"	"BSgenome (>= 1.33.4), humanStemCell, microRNA (>= 1.1.1),
+genefilter, limma, org.Hs.eg.db, hgu133plus2.db,
+GenomicFeatures, BSgenome.Hsapiens.UCSC.hg19,
+TxDb.Hsapiens.UCSC.hg19.knownGene, RUnit"	NA	"Artistic-2.0 + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"Rtsne"	"Rtsne"	"/home/jinshengxi/Rlibrary/packages"	"0.17"	NA	NA	"Rcpp (>= 0.11.0), stats"	"Rcpp"	"irlba, testthat"	NA	"file LICENSE"	"yes"	NA	NA	NA	"yes"	"4.4.3"
+"RUnit"	"RUnit"	"/home/jinshengxi/Rlibrary/packages"	"0.4.33.1"	NA	"R (>= 2.5.0), utils (>= 2.5.0), methods (>= 2.5.0), graphics
+(>= 2.5.0)"	NA	NA	"XML (>= 3.1.0)"	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"rversions"	"rversions"	"/home/jinshengxi/Rlibrary/packages"	"3.0.0"	NA	NA	"curl"	NA	"pillar, testthat (>= 3.0.0), webfakes, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"s2"	"s2"	"/home/jinshengxi/Rlibrary/packages"	"1.1.11"	NA	"R (>= 3.0.0)"	"Rcpp, wk (>= 0.6.0)"	"Rcpp, wk"	"bit64, testthat (>= 3.0.0), vctrs"	NA	"Apache License (== 2.0)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"S4Arrays"	"S4Arrays"	"/home/jinshengxi/Rlibrary/packages"	"1.6.0"	NA	"R (>= 4.3.0), methods, Matrix, abind, BiocGenerics (>=
+0.45.2), S4Vectors, IRanges"	"stats, crayon"	"S4Vectors"	"BiocParallel, SparseArray (>= 0.0.4), DelayedArray, testthat,
+knitr, rmarkdown, BiocStyle"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"S4Vectors"	"S4Vectors"	"/home/jinshengxi/Rlibrary/packages"	"0.44.0"	NA	"R (>= 4.0.0), methods, utils, stats, stats4, BiocGenerics (>=
+0.37.0)"	NA	NA	"IRanges, GenomicRanges, SummarizedExperiment, Matrix,
+DelayedArray, ShortRead, graph, data.table, RUnit, BiocStyle,
+knitr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"S7"	"S7"	"/home/jinshengxi/Rlibrary/packages"	"0.2.2"	NA	"R (>= 3.5.0)"	"utils"	NA	"bench, callr, covr, knitr, methods, rmarkdown, testthat (>=
+3.2.0), tibble"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"sass"	"sass"	"/home/jinshengxi/Rlibrary/packages"	"0.4.10"	NA	NA	"fs (>= 1.2.4), rlang (>= 0.4.10), htmltools (>= 0.5.1), R6,
+rappdirs"	NA	"testthat, knitr, rmarkdown, withr, shiny, curl"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"ScaledMatrix"	"ScaledMatrix"	"/home/jinshengxi/Rlibrary/packages"	"1.14.0"	NA	NA	"methods, Matrix, S4Vectors, DelayedArray"	NA	"testthat, BiocStyle, knitr, rmarkdown, BiocSingular,
+DelayedMatrixStats"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"scales"	"scales"	"/home/jinshengxi/Rlibrary/packages"	"1.4.0"	NA	"R (>= 4.1)"	"cli, farver (>= 2.0.3), glue, labeling, lifecycle, R6,
+RColorBrewer, rlang (>= 1.1.0), viridisLite"	NA	"bit64, covr, dichromat, ggplot2, hms (>= 0.5.0), stringi,
+testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"scater"	"scater"	"/home/jinshengxi/Rlibrary/packages"	"1.34.1"	NA	"SingleCellExperiment, scuttle, ggplot2"	"stats, utils, methods, Matrix, BiocGenerics, S4Vectors,
+SummarizedExperiment, MatrixGenerics, SparseArray,
+DelayedArray, beachmat, BiocNeighbors, BiocSingular,
+BiocParallel, rlang, ggbeeswarm, viridis, Rtsne, RColorBrewer,
+RcppML, uwot, pheatmap, ggrepel, ggrastr"	NA	"BiocStyle, DelayedMatrixStats, snifter, densvis, cowplot,
+biomaRt, knitr, scRNAseq, robustbase, rmarkdown, testthat,
+Biobase, scattermore"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"scattermore"	"scattermore"	"/home/jinshengxi/Rlibrary/packages"	"1.2"	NA	NA	"ggplot2, scales, grid, grDevices, graphics"	NA	"covr, knitr, rmarkdown, testthat"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"scatterpie"	"scatterpie"	"/home/jinshengxi/Rlibrary/packages"	"0.2.6"	NA	"R (>= 4.1.0), ggplot2"	"ggforce, rlang, ggfun, stats, tidyr, dplyr, utils, yulab.utils
+(>= 0.1.6)"	NA	"knitr, rmarkdown, prettydoc, maps, scales, cli"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"scatterplot3d"	"scatterplot3d"	"/home/jinshengxi/Rlibrary/packages"	"0.3-45"	NA	"R (>= 2.7.0)"	"grDevices, graphics, stats"	NA	NA	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"sccore"	"sccore"	"/home/jinshengxi/Rlibrary/packages"	"1.0.7"	NA	"R (>= 3.5.0)"	"dplyr, ggplot2, ggrepel, graphics, grDevices, igraph, irlba,
+magrittr, Matrix, methods, parallel, pbmcapply, pROC, Rcpp,
+rlang, scales, stats, tibble, utils, uwot, withr"	"Rcpp, RcppArmadillo, RcppProgress, RcppEigen"	"ggrastr (>= 0.1.7), jsonlite, philentropy, rmumps, Seurat,
+testthat"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"scDblFinder"	"scDblFinder"	"/home/jinshengxi/Rlibrary/packages"	"1.20.2"	NA	"R (>= 4.0), SingleCellExperiment"	"igraph, Matrix, BiocGenerics, BiocParallel, BiocNeighbors,
+BiocSingular, S4Vectors, SummarizedExperiment, scran, scater,
+scuttle, bluster, methods, DelayedArray, xgboost, stats, utils,
+MASS, IRanges, GenomicRanges, GenomeInfoDb, Rsamtools,
+rtracklayer"	NA	"BiocStyle, knitr, rmarkdown, testthat, scRNAseq, circlize,
+ComplexHeatmap, ggplot2, dplyr, viridisLite, mbkmeans"	NA	"GPL-3 + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"scds"	"scds"	"/home/jinshengxi/Rlibrary/packages"	"1.22.0"	NA	"R (>= 3.6.0)"	"Matrix, S4Vectors, SingleCellExperiment, SummarizedExperiment,
+xgboost, methods, stats, dplyr, pROC"	NA	"BiocStyle, knitr, rsvd, Rtsne, scater, cowplot, rmarkdown"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"scmap"	"scmap"	"/home/jinshengxi/Rlibrary/packages"	"1.28.0"	NA	"R(>= 3.4)"	"Biobase, SingleCellExperiment, SummarizedExperiment,
+BiocGenerics, S4Vectors, dplyr, reshape2, matrixStats, proxy,
+utils, googleVis, ggplot2, methods, stats, e1071, randomForest,
+Rcpp (>= 0.12.12)"	"Rcpp, RcppArmadillo"	"knitr, rmarkdown, BiocStyle"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"SCP"	"SCP"	"/home/jinshengxi/Rlibrary/packages"	"0.5.6"	NA	"R (>= 4.1.0)"	"AnnotationDbi, biomaRt, BiocParallel, circlize,
+clusterProfiler, ComplexHeatmap (>= 2.13.0), data.table, dplyr
+(>= 1.1.0), future, future.apply, ggnewscale, ggplot2 (>=
+3.4.0), ggrepel, ggforce, GO.db, GOSemSim, grDevices, grid,
+gtable, HDF5Array, igraph, intrinsicDimension, methods, mgcv,
+Matrix, patchwork, pbapply, png, plotly, proxyC, R.cache,
+R.utils, reshape2, reticulate, rlang, rhdf5, scales,
+simplifyEnrichment (>= 1.5.2), slingshot, Signac, Seurat (>=
+4.2.0), SeuratObject, uwot"	"Rcpp"	"AUCell, batchelor, Biobase, BiocGenerics, BiocManager,
+concaveman, conos, covr, cowplot, dendextend, destiny,
+devtools, DDRTree, e1071, ggpubr, ggridges, ggsignif, ggupset,
+ggVennDiagram, ggwordcloud, glmGamPoi, glmpca, harmony, hexbin,
+htmlwidgets, httr, metR, monocle, MatrixGenerics, MASS, NMF,
+openxlsx, org.Hs.eg.db, org.Mm.eg.db, promises, purrr, PFAM.db,
+ragg, reactome.db, renv, RcppParallel, RcppML, scattermore,
+scds, scDblFinder, scmap, sf, shiny (>= 1.6.0), styler,
+stringr, sva, symphony, S4Vectors, SingleR,
+SingleCellExperiment, SummarizedExperiment, testthat (>=
+3.0.0), tidyr, umap, UCell, withr"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"scran"	"scran"	"/home/jinshengxi/Rlibrary/packages"	"1.34.0"	NA	"SingleCellExperiment, scuttle"	"SummarizedExperiment, S4Vectors, BiocGenerics, BiocParallel,
+Rcpp, stats, methods, utils, Matrix, edgeR, limma, igraph,
+statmod, MatrixGenerics, S4Arrays, DelayedArray, BiocSingular,
+bluster, metapod, dqrng, beachmat"	"Rcpp, beachmat, BH, dqrng, scuttle"	"testthat, BiocStyle, knitr, rmarkdown, DelayedMatrixStats,
+HDF5Array, scRNAseq, dynamicTreeCut, ResidualMatrix,
+ScaledMatrix, DESeq2, pheatmap, scater"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"sctransform"	"sctransform"	"/home/jinshengxi/Rlibrary/packages"	"0.4.3"	NA	"R (>= 3.6.0)"	"dplyr, magrittr, MASS, Matrix (>= 1.5-0), methods,
+future.apply, future, parallelly, ggplot2, reshape2, rlang,
+gridExtra, matrixStats"	"RcppArmadillo, Rcpp (>= 0.11.0)"	"irlba, testthat, knitr"	"glmGamPoi"	"GPL-3 | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"scuttle"	"scuttle"	"/home/jinshengxi/Rlibrary/packages"	"1.16.0"	NA	"SingleCellExperiment"	"methods, utils, stats, Matrix, Rcpp, BiocGenerics, S4Vectors,
+BiocParallel, GenomicRanges, SummarizedExperiment, S4Arrays,
+MatrixGenerics, SparseArray, DelayedArray, beachmat"	"Rcpp, beachmat"	"BiocStyle, knitr, scRNAseq, rmarkdown, testthat,
+sparseMatrixStats, DelayedMatrixStats, scran"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"segmented"	"segmented"	"/home/jinshengxi/Rlibrary/packages"	"2.2-1"	NA	"R (>= 3.5.0), MASS, nlme"	NA	NA	NA	NA	"GPL"	NA	NA	NA	NA	"no"	"4.4.3"
+"sessioninfo"	"sessioninfo"	"/home/jinshengxi/Rlibrary/packages"	"1.2.4"	NA	"R (>= 3.4)"	"cli (>= 3.1.0), tools, utils"	NA	"callr, covr, gh, reticulate, rmarkdown, testthat (>= 3.2.0),
+withr"	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"Seurat"	"Seurat"	"/home/jinshengxi/Rlibrary/packages"	"5.5.1"	NA	"R (>= 4.0.0), methods, SeuratObject (>= 5.0.2)"	"cluster, cowplot, fastDummies, fitdistrplus, future,
+future.apply, generics (>= 0.1.3), ggplot2 (>= 3.3.0), ggrepel,
+ggridges, graphics, grDevices, grid, httr, ica, igraph, irlba,
+jsonlite, KernSmooth, lifecycle, lmtest, MASS, Matrix (>=
+1.5-0), matrixStats, miniUI, patchwork, pbapply, plotly (>=
+4.9.0), png, progressr, RANN, RColorBrewer, Rcpp (>= 1.0.7),
+RcppAnnoy (>= 0.0.18), RcppHNSW, reticulate, rlang, ROCR,
+RSpectra, Rtsne, scales, scattermore (>= 1.2), sctransform (>=
+0.4.1), shiny, spatstat.explore, spatstat.geom, stats, tibble,
+tools, utils, uwot (>= 0.1.10)"	"Rcpp (>= 0.11.0), RcppEigen, RcppProgress"	"ape, arrow, base64enc, Biobase, BiocGenerics, BPCells,
+data.table, DESeq2, DelayedArray, enrichR, GenomicRanges,
+GenomeInfoDb, glmGamPoi, ggrastr, harmony, hdf5r, IRanges,
+leidenbase, limma, magrittr, MAST, metap, mixtools, monocle,
+presto, rsvd, R.utils, Rfast2, rtracklayer, S4Vectors, sf (>=
+1.0.0), sp, SingleCellExperiment, SummarizedExperiment,
+testthat, VGAM"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"SeuratObject"	"SeuratObject"	"/home/jinshengxi/Rlibrary/packages"	"5.4.0"	NA	"R (>= 4.1.0), sp (>= 1.5.0)"	"future, future.apply, generics, grDevices, grid, lifecycle,
+Matrix (>= 1.6.4), methods, progressr, Rcpp (>= 1.0.5), rlang
+(>= 0.4.7), spam, stats, tools, utils"	"Rcpp, RcppEigen"	"BPCells, DelayedArray, fs (>= 1.5.2), sf (>= 1.0.0), ggplot2,
+HDF5Array, rmarkdown, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"sf"	"sf"	"/home/jinshengxi/Rlibrary/packages"	"1.1-1"	NA	"methods, R (>= 4.1.0)"	"classInt (>= 0.4-1), DBI (>= 0.8), graphics, grDevices, grid,
+s2 (>= 1.1.0), stats, tools, units (>= 0.7-0), utils"	"Rcpp"	"blob, nanoarrow, covr, dplyr (>= 1.0.0), ggplot2, knitr,
+lwgeom (>= 0.2-14), maps, mapview, Matrix, microbenchmark,
+odbc, pbapply, pillar, pool, raster, rlang, rmarkdown,
+RPostgres (>= 1.1.0), RPostgreSQL, RSQLite, sp (>= 1.2-4),
+spatstat (>= 2.0-1), spatstat.geom, spatstat.random,
+spatstat.linnet, spatstat.utils, stars (>= 0.6-0), terra,
+testthat (>= 3.0.0), tibble (>= 1.4.1), tidyr (>= 1.2.0),
+tidyselect (>= 1.0.0), tmap (>= 2.0), vctrs, wk (>= 0.9.0)"	NA	"GPL-2 | MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"shadowtext"	"shadowtext"	"/home/jinshengxi/Rlibrary/packages"	"0.1.6"	NA	"R (>= 3.4.0)"	"ggiraph, ggplot2, grid, scales, S7, purrr, rlang"	NA	"knitr, rmarkdown, prettydoc"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"shape"	"shape"	"/home/jinshengxi/Rlibrary/packages"	"1.4.6.1"	NA	"R (>= 2.01)"	"stats, graphics, grDevices"	NA	NA	NA	"GPL (>= 3)"	NA	NA	NA	NA	"no"	"4.4.3"
+"shiny"	"shiny"	"/home/jinshengxi/Rlibrary/packages"	"1.14.0"	NA	"methods, R (>= 3.1.2)"	"bslib (>= 0.6.0), cachem (>= 1.1.0), cli, commonmark (>=
+2.0.0), fastmap (>= 1.1.1), fontawesome (>= 0.4.0), glue (>=
+1.3.2), grDevices, htmltools (>= 0.5.4), httpuv (>= 1.5.2),
+jsonlite (>= 0.9.16), later (>= 1.0.0), lifecycle (>= 0.2.0),
+mime (>= 0.3), otel, promises (>= 1.5.0), R6 (>= 2.0), rlang
+(>= 0.4.10), sourcetools, tools, utils, withr, xtable"	NA	"Cairo (>= 1.5-5), coro (>= 1.1.0), datasets, DT, dygraphs,
+future, ggplot2, knitr (>= 1.6), magrittr, markdown, mirai,
+otelsdk (>= 0.2.0), ragg, reactlog (>= 1.0.0), rmarkdown, sass,
+shinytest2, showtext, testthat (>= 3.2.1), watcher, yaml"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"Signac"	"Signac"	"/home/jinshengxi/Rlibrary/packages"	"1.17.1"	NA	"R (>= 4.1.0), methods"	"GenomeInfoDb (>= 1.29.3), GenomicRanges, IRanges, Matrix,
+Rsamtools, S4Vectors, SeuratObject (>= 5.0.2), data.table,
+dplyr (>= 1.0.0), future, future.apply, ggplot2, rlang,
+pbapply, tidyr, patchwork, stats, utils, BiocGenerics, stringi,
+fastmatch, RcppRoll, scales, Rcpp, grid, tidyselect, vctrs,
+lifecycle, sparseMatrixStats, RSpectra"	"Rcpp"	"Seurat (>= 5.0.2), ggforce, ggrepel, ggseqlogo, testthat (>=
+2.1.0), SummarizedExperiment, TFBSTools, motifmatchr, BSgenome,
+shiny, miniUI, rtracklayer, biovizBase, Biostrings, lsa, MASS,
+wrswoR, fgsea"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"simona"	"simona"	"/home/jinshengxi/Rlibrary/packages"	"1.4.0"	NA	"R (>= 4.1.0)"	"methods, Rcpp, matrixStats, GetoptLong, grid, GlobalOptions,
+igraph, Polychrome, S4Vectors, xml2 (>= 1.3.3), circlize,
+ComplexHeatmap, grDevices, stats, utils, shiny"	"Rcpp"	"knitr, testthat, BiocManager, GO.db, org.Hs.eg.db, proxyC,
+AnnotationDbi, Matrix, DiagrammeR, ragg, png,
+InteractiveComplexHeatmap, UniProtKeywords, simplifyEnrichment,
+AnnotationHub, jsonlite"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"simplifyEnrichment"	"simplifyEnrichment"	"/home/jinshengxi/Rlibrary/packages"	"2.0.0"	NA	"R (>= 4.0.0)"	"simona, ComplexHeatmap (>= 2.7.4), grid, circlize, GetoptLong,
+digest, tm, GO.db, AnnotationDbi, slam, methods, clue,
+grDevices, stats, utils, cluster (>= 1.14.2), colorspace,
+GlobalOptions (>= 0.1.0)"	NA	"knitr, ggplot2, cowplot, mclust, apcluster, MCL, dbscan,
+igraph, gridExtra, dynamicTreeCut, testthat, gridGraphics,
+flexclust, BiocManager, InteractiveComplexHeatmap (>= 0.99.11),
+shiny, shinydashboard, cola, hu6800.db, rmarkdown, genefilter,
+gridtext, fpc"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"SingleCellExperiment"	"SingleCellExperiment"	"/home/jinshengxi/Rlibrary/packages"	"1.28.1"	NA	"SummarizedExperiment"	"methods, utils, stats, S4Vectors, BiocGenerics, GenomicRanges,
+DelayedArray"	NA	"testthat, BiocStyle, knitr, rmarkdown, Matrix, scRNAseq (>=
+2.9.1), Rtsne"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"SingleR"	"SingleR"	"/home/jinshengxi/Rlibrary/packages"	"2.8.0"	NA	"SummarizedExperiment"	"methods, Matrix, S4Vectors, DelayedArray, DelayedMatrixStats,
+BiocParallel, BiocSingular, BiocNeighbors, stats, utils, Rcpp,
+beachmat (>= 2.21.1), parallel"	"Rcpp, beachmat, assorthead, BiocNeighbors"	"testthat, knitr, rmarkdown, BiocStyle, BiocGenerics,
+SingleCellExperiment, scuttle, scater, scran, scRNAseq,
+ggplot2, pheatmap, grDevices, gridExtra, viridis, celldex"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"sitmo"	"sitmo"	"/home/jinshengxi/Rlibrary/packages"	"2.0.2"	NA	"R (>= 3.2.0)"	"Rcpp (>= 0.12.13)"	"Rcpp"	"knitr, rmarkdown, ggplot2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"slam"	"slam"	"/home/jinshengxi/Rlibrary/packages"	"0.1-55"	NA	"R (>= 3.4.0)"	"stats"	NA	NA	"Matrix, SparseM, spam"	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"slingshot"	"slingshot"	"/home/jinshengxi/Rlibrary/packages"	"2.14.0"	NA	"R (>= 4.0), princurve (>= 2.0.4), stats, TrajectoryUtils"	"graphics, grDevices, igraph, matrixStats, methods, S4Vectors,
+SingleCellExperiment, SummarizedExperiment"	NA	"BiocGenerics, BiocStyle, clusterExperiment,
+DelayedMatrixStats, knitr, mclust, mgcv, RColorBrewer, rgl,
+rmarkdown, testthat, uwot, covr"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"snow"	"snow"	"/home/jinshengxi/Rlibrary/packages"	"0.4-4"	NA	"R (>= 2.13.1), utils"	NA	NA	"rlecuyer"	"Rmpi"	"GPL"	NA	NA	NA	NA	"no"	"4.4.3"
+"sourcetools"	"sourcetools"	"/home/jinshengxi/Rlibrary/packages"	"0.1.7-2"	NA	"R (>= 3.0.2)"	NA	NA	"testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"sp"	"sp"	"/home/jinshengxi/Rlibrary/packages"	"2.2-1"	NA	"R (>= 3.5.0), methods"	"utils, stats, graphics, grDevices, lattice, grid"	NA	"RColorBrewer, gstat, deldir, knitr, maps, mapview, rmarkdown,
+sf, terra, raster"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"spam"	"spam"	"/home/jinshengxi/Rlibrary/packages"	"2.11-4"	NA	"R (>= 4.0)"	"dotCall64, grid, methods, Rcpp (>= 1.0.8.3)"	"Rcpp"	"spam64, fields, Matrix, testthat, R.rsp, truncdist, knitr,
+rmarkdown"	NA	"LGPL-2 | BSD_3_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"SparseArray"	"SparseArray"	"/home/jinshengxi/Rlibrary/packages"	"1.6.2"	NA	"R (>= 4.3.0), methods, Matrix, BiocGenerics (>= 0.43.1),
+MatrixGenerics (>= 1.11.1), S4Vectors (>= 0.43.2), S4Arrays (>=
+1.5.11)"	"utils, stats, matrixStats, IRanges, XVector"	"S4Vectors, IRanges, XVector"	"HDF5Array, ExperimentHub, testthat, knitr, rmarkdown,
+BiocStyle"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"SparseM"	"SparseM"	"/home/jinshengxi/Rlibrary/packages"	"1.84-2"	NA	"R (>= 2.15), methods"	"graphics, stats, utils"	NA	"knitr"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"sparseMatrixStats"	"sparseMatrixStats"	"/home/jinshengxi/Rlibrary/packages"	"1.14.0"	NA	"MatrixGenerics (>= 1.5.3)"	"Rcpp, Matrix, matrixStats (>= 0.60.0), methods"	"Rcpp"	"testthat (>= 2.1.0), knitr, bench, rmarkdown, BiocStyle"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"spatstat.data"	"spatstat.data"	"/home/jinshengxi/Rlibrary/packages"	"3.1-9"	NA	"R (>= 3.5.0)"	"spatstat.utils (>= 3.1-2), Matrix"	NA	"spatstat.geom, spatstat.random, spatstat.explore,
+spatstat.model, spatstat.linnet"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"spatstat.explore"	"spatstat.explore"	"/home/jinshengxi/Rlibrary/packages"	"3.8-1"	NA	"R (>= 3.5.0), spatstat.data (>= 3.1-9), spatstat.univar (>=
+3.2-0), spatstat.geom (>= 3.8-1), spatstat.random (>= 3.5-0),
+stats, graphics, grDevices, utils, methods, nlme"	"spatstat.utils (>= 3.2-3), spatstat.sparse (>= 3.2-0), goftest
+(>= 1.2-2), Matrix, abind"	NA	"sm, gsl, locfit, spatial, fftwtools (>= 0.9-8),
+spatstat.linnet (>= 3.5), spatstat.model (>= 3.7), spatstat (>=
+3.6)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"spatstat.geom"	"spatstat.geom"	"/home/jinshengxi/Rlibrary/packages"	"3.8-1"	NA	"R (>= 3.5.0), spatstat.data (>= 3.1-9), spatstat.univar (>=
+3.2-0), stats, graphics, grDevices, utils, methods"	"spatstat.utils (>= 3.2-3), deldir (>= 1.0-2), polyclip (>=
+1.10)"	NA	"spatstat.random (>= 3.4-5), spatstat.explore (>= 3.8),
+spatstat.model (>= 3.7), spatstat.linnet (>= 3.5), spatial,
+fftwtools (>= 0.9-8), spatstat (>= 3.6)"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"spatstat.random"	"spatstat.random"	"/home/jinshengxi/Rlibrary/packages"	"3.5-0"	NA	"R (>= 3.5.0), spatstat.data (>= 3.1-9), spatstat.univar (>=
+3.2-0), spatstat.geom (>= 3.8-1), stats, utils, methods,
+grDevices"	"Matrix, spatstat.utils (>= 3.2-3), spatstat.sparse (>= 3.2-0)"	NA	"spatial, spatstat.linnet (>= 3.5), spatstat.explore (>= 3.8),
+spatstat.model (>= 3.7), spatstat (>= 3.6), gsl"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"spatstat.sparse"	"spatstat.sparse"	"/home/jinshengxi/Rlibrary/packages"	"3.2-0"	NA	"R (>= 3.5.0), stats, utils, methods, Matrix, abind, tensor"	"spatstat.utils (>= 3.2-3)"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"spatstat.univar"	"spatstat.univar"	"/home/jinshengxi/Rlibrary/packages"	"3.2-0"	NA	"R (>= 3.5.0), stats"	"spatstat.utils (>= 3.2-3), graphics"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"spatstat.utils"	"spatstat.utils"	"/home/jinshengxi/Rlibrary/packages"	"3.2-3"	NA	"R (>= 3.5.0), stats, graphics, grDevices, utils, methods"	NA	NA	"spatstat.model"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"statmod"	"statmod"	"/home/jinshengxi/Rlibrary/packages"	"1.5.2"	NA	"R (>= 3.0.0)"	"stats, graphics"	NA	"MASS, tweedie"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"stringfish"	"stringfish"	"/home/jinshengxi/Rlibrary/packages"	"0.16.0"	NA	"R (>= 3.0.2)"	"Rcpp, RcppParallel"	"Rcpp (>= 0.12.18.3), RcppParallel (>= 5.1.4)"	"qs, knitr, rmarkdown, usethis, dplyr, stringr, rlang"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"stringi"	"stringi"	"/home/jinshengxi/Rlibrary/packages"	"1.8.7"	NA	"R (>= 3.4)"	"tools, utils, stats"	NA	NA	NA	"file LICENSE"	"yes"	NA	NA	NA	"yes"	"4.4.3"
+"stringr"	"stringr"	"/home/jinshengxi/Rlibrary/packages"	"1.6.0"	NA	"R (>= 4.1.0)"	"cli, glue (>= 1.6.1), lifecycle (>= 1.0.3), magrittr, rlang
+(>= 1.0.0), stringi (>= 1.5.3), vctrs (>= 0.4.0)"	NA	"covr, dplyr, gt, htmltools, htmlwidgets, knitr, rmarkdown,
+testthat (>= 3.0.0), tibble"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"styler"	"styler"	"/home/jinshengxi/Rlibrary/packages"	"1.11.0"	NA	"R (>= 4.0.0)"	"cli (>= 3.1.1), magrittr (>= 2.0.0), purrr (>= 1.0.2), R.cache
+(>= 0.15.0), rlang (>= 1.0.0), rprojroot (>= 1.1), tools, vctrs
+(>= 0.4.1), withr (>= 2.3.0),"	NA	"data.tree (>= 0.1.6), digest, here, knitr, prettycode,
+rmarkdown, roxygen2, rstudioapi (>= 0.7), tibble (>= 1.4.2),
+testthat (>= 3.2.1)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"SummarizedExperiment"	"SummarizedExperiment"	"/home/jinshengxi/Rlibrary/packages"	"1.36.0"	NA	"R (>= 4.0.0), methods, MatrixGenerics (>= 1.1.3),
+GenomicRanges (>= 1.55.2), Biobase"	"utils, stats, tools, Matrix, BiocGenerics (>= 0.51.3),
+S4Vectors (>= 0.33.7), IRanges (>= 2.23.9), GenomeInfoDb (>=
+1.13.1), S4Arrays (>= 1.1.1), DelayedArray (>= 0.31.12)"	NA	"jsonlite, rhdf5, HDF5Array (>= 1.7.5), annotate,
+AnnotationDbi, GenomicFeatures, SparseArray,
+SingleCellExperiment, TxDb.Hsapiens.UCSC.hg19.knownGene,
+hgu95av2.db, airway (>= 1.15.1), BiocStyle, knitr, rmarkdown,
+RUnit, testthat, digest"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"sva"	"sva"	"/home/jinshengxi/Rlibrary/packages"	"3.54.0"	NA	"R (>= 3.2), mgcv, genefilter, BiocParallel"	"matrixStats, stats, graphics, utils, limma, edgeR"	NA	"pamr, bladderbatch, BiocStyle, zebrafishRNASeq, testthat"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"sys"	"sys"	"/home/jinshengxi/Rlibrary/packages"	"3.4.3"	NA	NA	NA	NA	"unix (>= 1.4), spelling, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"systemfonts"	"systemfonts"	"/home/jinshengxi/Rlibrary/packages"	"1.3.2"	NA	"R (>= 3.2.0)"	"base64enc, grid, jsonlite, lifecycle, tools, utils"	"cpp11 (>= 0.2.1)"	"covr, farver, ggplot2, graphics, knitr, ragg, rmarkdown,
+svglite, testthat (>= 2.1.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"tensor"	"tensor"	"/home/jinshengxi/Rlibrary/packages"	"1.5.1"	NA	NA	NA	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"testthat"	"testthat"	"/home/jinshengxi/Rlibrary/packages"	"3.3.2"	NA	"R (>= 4.1.0)"	"brio (>= 1.1.5), callr (>= 3.7.6), cli (>= 3.6.5), desc (>=
+1.4.3), evaluate (>= 1.0.4), jsonlite (>= 2.0.0), lifecycle (>=
+1.0.4), magrittr (>= 2.0.3), methods, pkgload (>= 1.4.0),
+praise (>= 1.0.0), processx (>= 3.8.6), ps (>= 1.9.1), R6 (>=
+2.6.1), rlang (>= 1.1.6), utils, waldo (>= 0.6.2), withr (>=
+3.0.2)"	NA	"covr, curl (>= 0.9.5), diffviewer (>= 0.1.0), digest (>=
+0.6.33), gh, knitr, otel, otelsdk, rmarkdown, rstudioapi, S7,
+shiny, usethis, vctrs (>= 0.1.0), xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"textshaping"	"textshaping"	"/home/jinshengxi/Rlibrary/packages"	"1.0.5"	NA	"R (>= 3.2.0)"	"lifecycle, stats, stringi, systemfonts (>= 1.3.0), utils"	"cpp11 (>= 0.2.1), systemfonts (>= 1.0.0)"	"covr, grDevices, grid, knitr, rmarkdown, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"tibble"	"tibble"	"/home/jinshengxi/Rlibrary/packages"	"3.3.1"	NA	"R (>= 3.4.0)"	"cli, lifecycle (>= 1.0.0), magrittr, methods, pillar (>=
+1.8.1), pkgconfig, rlang (>= 1.0.2), utils, vctrs (>= 0.5.0)"	NA	"bench, bit64, blob, brio, callr, DiagrammeR, dplyr, evaluate,
+formattable, ggplot2, here, hms, htmltools, knitr, lubridate,
+nycflights13, pkgload, purrr, rmarkdown, stringi, testthat (>=
+3.0.2), tidyr, withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"tidygraph"	"tidygraph"	"/home/jinshengxi/Rlibrary/packages"	"1.3.1"	NA	NA	"cli, dplyr (>= 0.8.5), igraph (>= 2.0.0), lifecycle, magrittr,
+pillar, R6, rlang, stats, tibble, tidyr, tools, utils"	"cpp11"	"ape, covr, data.tree, graph, influenceR, methods, netrankr,
+NetSwan, network, seriation, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"tidyr"	"tidyr"	"/home/jinshengxi/Rlibrary/packages"	"1.3.2"	NA	"R (>= 4.1.0)"	"cli (>= 3.4.1), dplyr (>= 1.1.0), glue, lifecycle (>= 1.0.3),
+magrittr, purrr (>= 1.0.1), rlang (>= 1.1.1), stringr (>=
+1.5.0), tibble (>= 2.1.1), tidyselect (>= 1.2.1), utils, vctrs
+(>= 0.5.2)"	"cpp11 (>= 0.4.0)"	"covr, data.table, knitr, readr, repurrrsive (>= 1.1.0),
+rmarkdown, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"tidyselect"	"tidyselect"	"/home/jinshengxi/Rlibrary/packages"	"1.2.1"	NA	"R (>= 3.4)"	"cli (>= 3.3.0), glue (>= 1.3.0), lifecycle (>= 1.0.3), rlang
+(>= 1.0.4), vctrs (>= 0.5.2), withr"	NA	"covr, crayon, dplyr, knitr, magrittr, rmarkdown, stringr,
+testthat (>= 3.1.1), tibble (>= 2.1.3)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"tidytree"	"tidytree"	"/home/jinshengxi/Rlibrary/packages"	"0.4.8"	NA	"R (>= 3.4.0)"	"ape, dplyr, lazyeval, magrittr, methods, rlang, tibble, tidyr,
+tidyselect, yulab.utils (>= 0.1.5), pillar, cli"	NA	"testthat, utils"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"timechange"	"timechange"	"/home/jinshengxi/Rlibrary/packages"	"0.4.0"	NA	"R (>= 3.3)"	NA	"cpp11 (>= 0.2.7)"	"testthat (>= 0.7.1.99), knitr"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"timeDate"	"timeDate"	"/home/jinshengxi/Rlibrary/packages"	"4052.112"	NA	"R (>= 3.6.0), methods"	"graphics, utils, stats"	NA	"RUnit"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"tinytex"	"tinytex"	"/home/jinshengxi/Rlibrary/packages"	"0.60"	NA	NA	"xfun (>= 0.48)"	NA	"testit, rstudioapi"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"tm"	"tm"	"/home/jinshengxi/Rlibrary/packages"	"0.7-18"	NA	"R (>= 3.4.0), NLP (>= 0.2-0)"	"Rcpp, parallel, slam (>= 0.1-37), stats, tools, utils,
+graphics, xml2"	"BH, Rcpp"	"antiword, filehash, methods, pdftools, Rcampdf, Rgraphviz,
+Rpoppler, SnowballC, testthat, tm.lexicon.GeneralInquirer"	NA	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"TrajectoryUtils"	"TrajectoryUtils"	"/home/jinshengxi/Rlibrary/packages"	"1.14.0"	NA	"SingleCellExperiment"	"methods, stats, Matrix, igraph, S4Vectors,
+SummarizedExperiment"	NA	"BiocNeighbors, DelayedArray, DelayedMatrixStats,
+BiocParallel, testthat, knitr, BiocStyle, rmarkdown"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"treeio"	"treeio"	"/home/jinshengxi/Rlibrary/packages"	"1.30.0"	NA	"R (>= 3.6.0)"	"ape, dplyr, jsonlite, magrittr, methods, rlang, stats, tibble,
+tidytree (>= 0.4.5), utils, yulab.utils (>= 0.1.6)"	NA	"Biostrings, cli, ggplot2, ggtree, igraph, knitr, rmarkdown,
+phangorn, prettydoc, purrr, testthat, tidyr, vroom, xml2, yaml"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"triebeard"	"triebeard"	"/home/jinshengxi/Rlibrary/packages"	"0.4.1"	NA	NA	"Rcpp"	"Rcpp"	"knitr, rmarkdown, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"tweenr"	"tweenr"	"/home/jinshengxi/Rlibrary/packages"	"2.0.3"	NA	"R (>= 3.2.0)"	"farver, magrittr, rlang, vctrs"	"cpp11 (>= 0.4.2)"	"testthat, covr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"tzdb"	"tzdb"	"/home/jinshengxi/Rlibrary/packages"	"0.5.0"	NA	"R (>= 4.0.0)"	NA	"cpp11 (>= 0.5.2)"	"covr, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"UCell"	"UCell"	"/home/jinshengxi/Rlibrary/packages"	"2.10.1"	NA	"R(>= 4.3.0)"	"methods, data.table(>= 1.13.6), Matrix, stats, BiocParallel,
+BiocNeighbors, SingleCellExperiment, SummarizedExperiment"	NA	"scater, scRNAseq, reshape2, patchwork, ggplot2, BiocStyle,
+Seurat(>= 5.0.0), SeuratObject(>= 5.0.0), knitr, rmarkdown"	NA	"GPL-3 + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"UCSC.utils"	"UCSC.utils"	"/home/jinshengxi/Rlibrary/packages"	"1.2.0"	NA	NA	"methods, stats, httr, jsonlite, S4Vectors"	NA	"DBI, RMariaDB, GenomeInfoDb, testthat, knitr, rmarkdown,
+BiocStyle"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"umap"	"umap"	"/home/jinshengxi/Rlibrary/packages"	"0.2.10.0"	NA	"R (>= 3.6.0)"	"Matrix, methods, openssl, reticulate, Rcpp (>= 0.12.6),
+RSpectra, stats"	"Rcpp"	"knitr, rmarkdown, testthat"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"units"	"units"	"/home/jinshengxi/Rlibrary/packages"	"1.0-1"	NA	"R (>= 3.5.0)"	"Rcpp"	"Rcpp (>= 1.1.0)"	"NISTunits, measurements, xml2, magrittr, pillar (>= 1.3.0),
+dplyr (>= 1.0.0), vctrs (>= 0.3.1), ggplot2 (> 3.2.1), testthat
+(>= 3.0.0), vdiffr, knitr, rvest, rmarkdown"	NA	"GPL-2"	NA	NA	NA	NA	"yes"	"4.4.3"
+"urca"	"urca"	"/home/jinshengxi/Rlibrary/packages"	"1.3-4"	NA	"R (>= 2.0.0), methods"	"nlme, graphics, stats"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"urlchecker"	"urlchecker"	"/home/jinshengxi/Rlibrary/packages"	"2.0.0"	NA	"R (>= 4.1)"	"cli, curl, gitcreds, rlang (>= 1.1.0), tools, utils, xml2"	NA	"covr, testthat (>= 3.0.0), webfakes, withr"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"urltools"	"urltools"	"/home/jinshengxi/Rlibrary/packages"	"1.7.3.1"	NA	"R (>= 2.10)"	"Rcpp, methods, triebeard"	"Rcpp"	"testthat, knitr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"usethis"	"usethis"	"/home/jinshengxi/Rlibrary/packages"	"3.2.1"	NA	"R (>= 4.1)"	"cli (>= 3.0.1), clipr (>= 0.3.0), crayon, curl (>= 2.7), desc
+(>= 1.4.2), fs (>= 1.3.0), gert (>= 1.4.1), gh (>= 1.2.1), glue
+(>= 1.3.0), jsonlite, lifecycle (>= 1.0.0), purrr, rappdirs,
+rlang (>= 1.1.0), rprojroot (>= 2.1.1), rstudioapi, stats,
+tools, utils, whisker, withr (>= 2.3.0), yaml"	NA	"covr, knitr, magick, pkgload (>= 1.3.2.1), quarto (>= 1.5.1),
+rmarkdown, roxygen2 (>= 7.1.2), spelling (>= 1.2), testthat (>=
+3.1.8)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"utf8"	"utf8"	"/home/jinshengxi/Rlibrary/packages"	"1.2.6"	NA	"R (>= 2.10)"	NA	NA	"cli, covr, knitr, rlang, rmarkdown, testthat (>= 3.0.0),
+withr"	NA	"Apache License (== 2.0) | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"uuid"	"uuid"	"/home/jinshengxi/Rlibrary/packages"	"1.2-2"	NA	"R (>= 2.9.0)"	NA	NA	NA	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"uwot"	"uwot"	"/home/jinshengxi/Rlibrary/packages"	"0.2.4"	NA	"Matrix"	"FNN, irlba, methods, Rcpp, RcppAnnoy (>= 0.0.17), RSpectra"	"dqrng, Rcpp, RcppAnnoy, RcppProgress"	"bigstatsr, covr, knitr, RcppHNSW, rmarkdown, rnndescent,
+testthat"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"vcd"	"vcd"	"/home/jinshengxi/Rlibrary/packages"	"1.4-13"	NA	"R (>= 2.4.0), grid"	"stats, utils, MASS, grDevices, colorspace, lmtest"	NA	"KernSmooth, mvtnorm, kernlab, HSAUR3, coin"	NA	"GPL-2"	NA	NA	NA	NA	"no"	"4.4.3"
+"vctrs"	"vctrs"	"/home/jinshengxi/Rlibrary/packages"	"0.7.3"	NA	"R (>= 4.0.0)"	"cli (>= 3.4.0), glue, lifecycle (>= 1.0.3), rlang (>= 1.1.7)"	NA	"bit64, covr, crayon, dplyr (>= 0.8.5), generics, knitr,
+pillar (>= 1.4.4), pkgdown (>= 2.0.1), rmarkdown, testthat (>=
+3.0.0), tibble (>= 3.1.3), waldo (>= 0.2.0), withr, xml2,
+zeallot"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"venn"	"venn"	"/home/jinshengxi/Rlibrary/packages"	"1.13"	NA	"R (>= 3.5.0)"	"admisc (>= 0.33)"	NA	"QCA (>= 3.9), ggplot2, ggpolypath"	NA	"GPL (>= 3)"	NA	NA	NA	NA	"no"	"4.4.3"
+"VGAM"	"VGAM"	"/home/jinshengxi/Rlibrary/packages"	"1.1-14"	NA	"R (>= 4.1.0), methods, stats, stats4, splines"	NA	NA	"VGAMextra, MASS, mgcv"	"VGAMdata"	"GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"VIM"	"VIM"	"/home/jinshengxi/Rlibrary/packages"	"7.0.0"	NA	"R (>= 4.1.0),colorspace,grid"	"car, grDevices, robustbase, stats, sp, vcd, nnet, e1071,
+methods, Rcpp, utils, graphics, laeken, ranger, MASS, xgboost,
+data.table(>= 1.9.4), mlr3, mlr3pipelines, R6, paradox,
+mlr3tuning, mlr3learners, future"	"Rcpp"	"dplyr, tinytest, knitr, mgcv, rmarkdown, reactable, covr,
+withr, pdist, enetLTS, robmixglm, stringr, glmnet"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"vipor"	"vipor"	"/home/jinshengxi/Rlibrary/packages"	"0.4.7"	NA	"R (>= 3.5.0)"	"stats, graphics"	NA	"testthat, beeswarm, lattice, ggplot2, beanplot, vioplot,
+ggbeeswarm,"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"viridis"	"viridis"	"/home/jinshengxi/Rlibrary/packages"	"0.6.5"	NA	"R (>= 2.10), viridisLite (>= 0.4.0)"	"ggplot2 (>= 1.0.1), gridExtra"	NA	"hexbin (>= 1.27.0), scales, MASS, knitr, dichromat,
+colorspace, httr, mapproj, vdiffr, svglite (>= 1.2.0),
+testthat, covr, rmarkdown, maps, terra"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"viridisLite"	"viridisLite"	"/home/jinshengxi/Rlibrary/packages"	"0.4.3"	NA	"R (>= 2.10)"	NA	NA	"hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"vroom"	"vroom"	"/home/jinshengxi/Rlibrary/packages"	"1.7.1"	NA	"R (>= 4.1)"	"bit64, cli (>= 3.2.0), crayon, glue, hms, lifecycle (>=
+1.0.3), methods, rlang (>= 1.1.0), stats, tibble (>= 2.0.0),
+tidyselect, tzdb (>= 0.1.1), vctrs (>= 0.2.0), withr"	"cpp11 (>= 0.2.0), progress (>= 1.2.3), tzdb (>= 0.1.1)"	"archive, bench (>= 1.1.0), covr, curl, dplyr, forcats, fs,
+ggplot2, knitr, patchwork, prettyunits, purrr, rmarkdown,
+rstudioapi, scales, spelling, testthat (>= 2.1.0), tidyr,
+utils, waldo, xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"waldo"	"waldo"	"/home/jinshengxi/Rlibrary/packages"	"0.6.2"	NA	"R (>= 4.0)"	"cli, diffobj (>= 0.3.4), glue, methods, rlang (>= 1.1.0)"	NA	"bit64, R6, S7, testthat (>= 3.0.0), withr, xml2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"whisker"	"whisker"	"/home/jinshengxi/Rlibrary/packages"	"0.4.1"	NA	NA	NA	NA	"markdown"	NA	"GPL-3"	NA	NA	NA	NA	"no"	"4.4.3"
+"withr"	"withr"	"/home/jinshengxi/Rlibrary/packages"	"3.0.3"	NA	"R (>= 3.6.0)"	"graphics, grDevices"	NA	"callr, DBI, knitr, methods, rlang, rmarkdown (>= 2.12),
+RSQLite, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"wk"	"wk"	"/home/jinshengxi/Rlibrary/packages"	"0.9.5"	NA	"R (>= 2.10)"	NA	NA	"testthat (>= 3.0.0), vctrs (>= 0.3.0), sf, tibble, readr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"xfun"	"xfun"	"/home/jinshengxi/Rlibrary/packages"	"0.59"	NA	"R (>= 3.2.0)"	"grDevices, stats, tools"	NA	"testit, parallel, codetools, methods, rstudioapi, tinytex (>=
+0.30), mime, litedown (>= 0.6), commonmark, knitr (>= 1.50),
+remotes, pak, curl, xml2, jsonlite, magick, yaml, data.table,
+qs2"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"xgboost"	"xgboost"	"/home/jinshengxi/Rlibrary/packages"	"3.2.1.1"	NA	"R (>= 4.3.0)"	"Matrix (>= 1.1-0), methods, data.table (>= 1.9.6), jsonlite
+(>= 1.0)"	NA	"knitr, rmarkdown, ggplot2 (>= 1.0.1), DiagrammeR (>= 0.9.0),
+DiagrammeRsvg, rsvg, htmlwidgets, Ckmeans.1d.dp (>= 3.3.1), vcd
+(>= 1.3), testthat, igraph (>= 1.0.1), float, titanic,
+RhpcBLASctl, survival"	NA	"Apache License (== 2.0) | file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"XML"	"XML"	"/home/jinshengxi/Rlibrary/packages"	"3.99-0.23"	NA	"R (>= 4.0.0), methods, utils"	NA	NA	"bitops, RCurl"	NA	"BSD_3_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"xml2"	"xml2"	"/home/jinshengxi/Rlibrary/packages"	"1.6.0"	NA	"R (>= 3.6.0)"	"cli, methods, rlang (>= 1.1.0)"	NA	"covr, curl, httr, knitr, mockery, rmarkdown, testthat (>=
+3.2.0), xslt"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"xopen"	"xopen"	"/home/jinshengxi/Rlibrary/packages"	"1.0.1"	NA	"R (>= 3.1)"	"processx"	NA	"ps, testthat (>= 3.0.0)"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"no"	"4.4.3"
+"xtable"	"xtable"	"/home/jinshengxi/Rlibrary/packages"	"1.8-8"	NA	"R (>= 2.10.0)"	"stats, utils, methods"	NA	"knitr, zoo, survival, glue, tinytex"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"no"	"4.4.3"
+"XVector"	"XVector"	"/home/jinshengxi/Rlibrary/packages"	"0.46.0"	NA	"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.27.12), IRanges (>= 2.23.9)"	"methods, utils, tools, zlibbioc, BiocGenerics, S4Vectors,
+IRanges"	"S4Vectors, IRanges"	"Biostrings, drosophila2probe, RUnit"	NA	"Artistic-2.0"	NA	NA	NA	NA	"yes"	"4.4.3"
+"yaImpute"	"yaImpute"	"/home/jinshengxi/Rlibrary/packages"	"1.0-36"	NA	"R (>= 4.0.0)"	"grDevices, graphics, stats, utils"	NA	"vegan, ccaPP, randomForest, gam, fastICA, parallel, gower"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.3"
+"yaml"	"yaml"	"/home/jinshengxi/Rlibrary/packages"	"2.3.12"	NA	NA	NA	NA	"knitr, rmarkdown, testthat (>= 3.0.0)"	NA	"BSD_3_clause + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"yulab.utils"	"yulab.utils"	"/home/jinshengxi/Rlibrary/packages"	"0.2.4"	NA	"R (>= 4.2.0)"	"cli, digest, fs, methods, rappdirs, rlang, tools, utils"	NA	"httr2, jsonlite, openssl, R.utils, testthat (>= 3.0.0)"	NA	"Artistic-2.0"	NA	NA	NA	NA	"no"	"4.4.3"
+"zip"	"zip"	"/home/jinshengxi/Rlibrary/packages"	"3.0.0"	NA	NA	NA	"cli"	"callr, cli, curl, pillar, processx, R6, testthat, webfakes,
+withr"	NA	"MIT + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"zlibbioc"	"zlibbioc"	"/home/jinshengxi/Rlibrary/packages"	"1.48.2"	NA	NA	NA	NA	"BiocStyle, knitr"	NA	"Artistic-2.0 + file LICENSE"	NA	NA	NA	NA	"yes"	"4.4.3"
+"zoo"	"zoo"	"/home/jinshengxi/Rlibrary/packages"	"1.8-15"	NA	"R (>= 3.1.0), stats"	"utils, graphics, grDevices, lattice (>= 0.20-27)"	NA	"AER, coda, chron, ggplot2 (>= 3.5.0), mondate, scales,
+stinepack, strucchange, timeDate, timeSeries, tinyplot, tis,
+tseries, xts"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"base"	"base"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	NA	NA	"methods"	"chron, date, round"	"Part of R 4.4.3"	NA	NA	NA	NA	NA	"4.4.3"
+"boot"	"boot"	"/usr/lib/R/library"	"1.3-31"	"recommended"	"R (>= 3.0.0), graphics, stats"	NA	NA	"MASS, survival"	NA	"Unlimited"	NA	NA	NA	NA	"no"	"4.4.2"
+"class"	"class"	"/usr/lib/R/library"	"7.3-23"	"recommended"	"R (>= 3.0.0), stats, utils"	"MASS"	NA	NA	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.2"
+"cluster"	"cluster"	"/usr/lib/R/library"	"2.1.8"	"recommended"	"R (>= 3.5.0)"	"graphics, grDevices, stats, utils"	NA	"MASS, Matrix"	"mvoutlier, fpc, ellipse, sfsmisc"	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.2"
+"codetools"	"codetools"	"/usr/lib/R/library"	"0.2-19"	"recommended"	"R (>= 2.1)"	NA	NA	NA	NA	"GPL"	NA	NA	NA	NA	"no"	"4.2.2"
+"compiler"	"compiler"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	NA	NA	NA	NA	"Part of R 4.4.3"	NA	NA	NA	NA	NA	"4.4.3"
+"datasets"	"datasets"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	NA	NA	NA	NA	"Part of R 4.4.3"	NA	NA	NA	NA	NA	"4.4.3"
+"foreign"	"foreign"	"/usr/lib/R/library"	"0.8-88"	"recommended"	"R (>= 4.0.0)"	"methods, utils, stats"	NA	NA	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.2"
+"graphics"	"graphics"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	"grDevices"	NA	NA	"vcd"	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"grDevices"	"grDevices"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	NA	NA	"KernSmooth"	NA	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"grid"	"grid"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	"grDevices, utils"	NA	NA	NA	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"KernSmooth"	"KernSmooth"	"/usr/lib/R/library"	"2.23-26"	"recommended"	"R (>= 2.5.0), stats"	NA	NA	"MASS, carData"	NA	"Unlimited"	NA	NA	NA	NA	"yes"	"4.4.2"
+"lattice"	"lattice"	"/usr/lib/R/library"	"0.22-5"	"recommended"	"R (>= 4.0.0)"	"grid, grDevices, graphics, stats, utils"	NA	"KernSmooth, MASS, latticeExtra, colorspace"	"chron, zoo"	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.3.1"
+"MASS"	"MASS"	"/usr/lib/R/library"	"7.3-64"	"recommended"	"R (>= 4.4.0), grDevices, graphics, stats, utils"	"methods"	NA	"lattice, nlme, nnet, survival"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.2"
+"Matrix"	"Matrix"	"/usr/lib/R/library"	"1.7-2"	"recommended"	"R (>= 4.4), methods"	"grDevices, graphics, grid, lattice, stats, utils"	NA	"MASS, datasets, sfsmisc, tools"	"SparseM, graph"	"GPL (>= 2) | file LICENCE"	NA	NA	NA	NA	"yes"	"4.4.2"
+"methods"	"methods"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	"utils, stats"	NA	"codetools"	NA	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"mgcv"	"mgcv"	"/usr/lib/R/library"	"1.9-1"	"recommended"	"R (>= 3.6.0), nlme (>= 3.1-64)"	"methods, stats, graphics, Matrix, splines, utils"	NA	"parallel, survival, MASS"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.3.2"
+"nlme"	"nlme"	"/usr/lib/R/library"	"3.1-167"	"recommended"	"R (>= 3.6.0)"	"graphics, stats, utils, lattice"	NA	"MASS, SASmixed"	NA	"GPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.2"
+"nnet"	"nnet"	"/usr/lib/R/library"	"7.3-20"	"recommended"	"R (>= 3.0.0), stats, utils"	NA	NA	"MASS"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.2"
+"parallel"	"parallel"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	"tools, compiler"	NA	"methods"	"snow, Rmpi"	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"rpart"	"rpart"	"/usr/lib/R/library"	"4.1.24"	"recommended"	"R (>= 2.15.0), graphics, stats, grDevices"	NA	NA	"survival"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.4.2"
+"spatial"	"spatial"	"/usr/lib/R/library"	"7.3-15"	"recommended"	"R (>= 3.0.0), graphics, stats, utils"	NA	NA	"MASS"	NA	"GPL-2 | GPL-3"	NA	NA	NA	NA	"yes"	"4.2.0"
+"splines"	"splines"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	"graphics, stats"	NA	"Matrix, methods"	NA	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"stats"	"stats"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	"utils, grDevices, graphics"	NA	"MASS, Matrix, SuppDists, methods, stats4"	"Kendall, coin, multcomp, pcaPP, pspearman, robustbase"	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"stats4"	"stats4"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	"graphics, methods, stats"	NA	NA	NA	"Part of R 4.4.3"	NA	NA	NA	NA	NA	"4.4.3"
+"survival"	"survival"	"/usr/lib/R/library"	"3.8-3"	"recommended"	"R (>= 3.5.0)"	"graphics, Matrix, methods, splines, stats, utils"	NA	NA	NA	"LGPL (>= 2)"	NA	NA	NA	NA	"yes"	"4.4.2"
+"tcltk"	"tcltk"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	"utils"	NA	NA	NA	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"tools"	"tools"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	NA	NA	"codetools, methods, xml2, curl, commonmark, knitr, xfun, mathjaxr, V8"	NA	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"
+"utils"	"utils"	"/usr/lib/R/library"	"4.4.3"	"base"	NA	NA	NA	"methods, xml2, commonmark, knitr, jsonlite"	NA	"Part of R 4.4.3"	NA	NA	NA	NA	"yes"	"4.4.3"

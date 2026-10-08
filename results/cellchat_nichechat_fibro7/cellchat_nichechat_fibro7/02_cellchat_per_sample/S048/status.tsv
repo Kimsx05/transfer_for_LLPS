@@ -1,0 +1,3 @@
+sample	sample_id	patient_uid	dataset	status	error_message	runtime_seconds	cell_number	eligible_groups	object_path	warnings
+"T4091568"	"S048"	NA	"InhouseData"	"SUCCESS"	""	265.236620903015	6354	12	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S048/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"

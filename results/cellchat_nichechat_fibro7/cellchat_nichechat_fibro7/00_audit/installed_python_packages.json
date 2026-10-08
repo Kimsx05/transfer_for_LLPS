@@ -1,0 +1,342 @@
+[
+  {
+    "name": "colorama",
+    "version": "0.4.4",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "reportlab",
+    "version": "3.6.8",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "pycairo",
+    "version": "1.20.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "pip",
+    "version": "22.0.2",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "pexpect",
+    "version": "4.8.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "requests",
+    "version": "2.25.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "pyxdg",
+    "version": "0.27",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "ubuntu-drivers-common",
+    "version": "0.0.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "certifi",
+    "version": "2020.6.20",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "distro",
+    "version": "1.7.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "cryptography",
+    "version": "3.4.8",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "PyNaCl",
+    "version": "1.5.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "ufw",
+    "version": "0.36.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "macaroonbakery",
+    "version": "1.3.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "more-itertools",
+    "version": "8.10.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "pymacaroons",
+    "version": "0.13.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "pyRFC3339",
+    "version": "1.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "zipp",
+    "version": "1.0.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "SecretStorage",
+    "version": "3.3.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "six",
+    "version": "1.16.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "systemd-python",
+    "version": "234",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "PyYAML",
+    "version": "5.4.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "lazr.restfulclient",
+    "version": "0.14.4",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "PyGObject",
+    "version": "3.42.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "importlib-metadata",
+    "version": "4.6.4",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "pytz",
+    "version": "2022.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "GDAL",
+    "version": "3.8.4",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "PyJWT",
+    "version": "2.3.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "numpy",
+    "version": "1.21.5",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "PySocks",
+    "version": "1.7.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "jeepney",
+    "version": "0.7.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "olefile",
+    "version": "0.46",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "launchpadlib",
+    "version": "1.10.16",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "python-debian",
+    "version": "0.1.43ubuntu1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "ubuntu-advantage-tools",
+    "version": "8001",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "apturl",
+    "version": "0.5.2",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "Brlapi",
+    "version": "0.8.3",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "language-selector",
+    "version": "0.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "wadllib",
+    "version": "1.3.6",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "cupshelpers",
+    "version": "1.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "pycups",
+    "version": "2.0.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "keyring",
+    "version": "23.5.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "python-dateutil",
+    "version": "2.8.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "ptyprocess",
+    "version": "0.7.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "oauthlib",
+    "version": "3.2.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "protobuf",
+    "version": "3.12.4",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "python-apt",
+    "version": "2.4.0+ubuntu4.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "Pillow",
+    "version": "9.0.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "xdg",
+    "version": "5",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "idna",
+    "version": "3.3",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "netifaces",
+    "version": "0.11.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "wheel",
+    "version": "0.37.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "click",
+    "version": "8.0.3",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "louis",
+    "version": "3.20.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "pyparsing",
+    "version": "2.4.7",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "dbus-python",
+    "version": "1.2.18",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "setuptools",
+    "version": "68.1.2",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "unattended-upgrades",
+    "version": "0.1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "ssh-import-id",
+    "version": "5.11",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "distro-info",
+    "version": "1.1build1",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "defer",
+    "version": "1.0.6",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "xkit",
+    "version": "0.0.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "httplib2",
+    "version": "0.20.2",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "blinker",
+    "version": "1.4",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "command-not-found",
+    "version": "0.3",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "chardet",
+    "version": "4.0.0",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "lazr.uri",
+    "version": "1.0.6",
+    "path": "/usr/lib/python3/dist-packages"
+  },
+  {
+    "name": "urllib3",
+    "version": "1.26.5",
+    "path": "/usr/lib/python3/dist-packages"
+  }
+]

@@ -1,0 +1,20 @@
+metric	value
+installed	TRUE
+package_version	2.2.1.1
+official_repository	https://github.com/saeyslab/nichenetr
+source_commit	66f90d5eeafef280b2b2f339b3fd70ffec1781dd
+input_expression	Frozen RNA/data LogNormalize; expression matrices per biological sample
+sender	Fibro_C0;Fibro_C1;Fibro_C2;Fibro_C3;Fibro_C4;Fibro_C5;Fibro_C6
+candidate_receiver	Epithelial;Endothelial;Myeloid;T_NK;B;Plasma;Mast
+resource_record	https://zenodo.org/records/7074291
+ligand_target_dimensions	33354x1226
+LR_unique_pairs	4986
+weighted_network_components	lr_sig;gr
+matching_rule	Exact case-sensitive; source expression untouched
+spatial_information_required	NO
+per_sample_support	API can run on per-sample eligible ligand/background lists; no built-in cohort biological-replication model
+geneset_oi	UNDEFINED
+ligand_activity_run	FALSE
+expression_audit_cutoff	RNA/data>0 detection; pct>=0.10 is a diagnostic flag, not geneset_oi or inferred mechanism
+sample_group_min_cells	30
+seed	123

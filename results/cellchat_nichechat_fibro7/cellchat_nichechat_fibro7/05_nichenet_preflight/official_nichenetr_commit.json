@@ -1,0 +1,101 @@
+{
+  "sha": "66f90d5eeafef280b2b2f339b3fd70ffec1781dd",
+  "node_id": "C_kwDOByttN9oAKDY2ZjkwZDVlZWFmZWYyODBiMmIyZjMzOWIzZmQ3MGZmZWMxNzgxZGQ",
+  "commit": {
+    "author": {
+      "name": "Victor Medaerts",
+      "email": "101103586+vmedaert@users.noreply.github.com",
+      "date": "2026-06-01T13:46:08Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-06-01T13:46:08Z"
+    },
+    "message": "added reference to nichenetpy in README.md",
+    "tree": {
+      "sha": "d29b29ec5efbdd1842db381609c1225cb5835976",
+      "url": "https://api.github.com/repos/saeyslab/nichenetr/git/trees/d29b29ec5efbdd1842db381609c1225cb5835976"
+    },
+    "url": "https://api.github.com/repos/saeyslab/nichenetr/git/commits/66f90d5eeafef280b2b2f339b3fd70ffec1781dd",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHY0gCRC1aQ7uu5UhlAAAWZsQAKBGBSt1ERcvITFB3K8MEoiU\noE/tHybbfiO3GXIiNXC9I3VZMJi8XeB6uXAwkz1UdpFsMbdU5vcDfAy0Ch/8f8j2\nIBMBkevPVNMe7ZnJ3Vo5Bl5l5KCXweGFWMJuj3VhUfqDDmabZMNfCLPamOP6nYK+\n9T53fO5vlxZ5uQHoFGDS3QNp0cj/vWKRq4wANCoviVlEg3Yot8WDR6om58LSUlJL\nwrTO3eCwKPz6o69hn/NJ+LRvXrseA5VpF1BBUb71cZuAQs30OmmMaFniqQXodJcO\nrErEBfUeMPOjml4FZGg1h3aksOziZk/ra3M5daJ++fQFMu9jhmsxAeY9751gmlq2\ncdLpvoeWlCX5XiRgjIPG3rmpoDBI/ZEHNSD5g4xC+RzyNmLdasulBiGvBchRcbyR\nxfWJrqmUzMKdc4UjNjTb1DLGv2qOTn8wiYQfgo2XziMCSx+nVsI+NIBnC6jBmgtf\nYbjcqiFYAHZOuUGhp2PqFvM+CHm6/GrS4NwwCa0lP+iu4J5bBSw4gRkccsw2dnUP\nvesbxZqJHOXzj2fkn0uTmjjMHmW2E0rxqKncC8ryn1AbP8vVlkH7cWBeHWxIducz\nf4Z8KH4De2JhWT1D+kdzkJnBXQmlvbYDpIybVPMBgq1zPzIQkHUMI8r3wF+SrMtR\nnZs6gtIQ0OvpKtTKl6Zu\n=yAG7\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree d29b29ec5efbdd1842db381609c1225cb5835976\nparent 2d5c1ab5e135ebe6634d56c5ee13b8207ac178a1\nauthor Victor Medaerts <101103586+vmedaert@users.noreply.github.com> 1780321568 +0200\ncommitter GitHub <noreply@github.com> 1780321568 +0200\n\nadded reference to nichenetpy in README.md",
+      "verified_at": "2026-06-01T13:46:39Z"
+    }
+  },
+  "url": "https://api.github.com/repos/saeyslab/nichenetr/commits/66f90d5eeafef280b2b2f339b3fd70ffec1781dd",
+  "html_url": "https://github.com/saeyslab/nichenetr/commit/66f90d5eeafef280b2b2f339b3fd70ffec1781dd",
+  "comments_url": "https://api.github.com/repos/saeyslab/nichenetr/commits/66f90d5eeafef280b2b2f339b3fd70ffec1781dd/comments",
+  "author": {
+    "login": "vmedaert",
+    "id": 101103586,
+    "node_id": "U_kgDOBga34g",
+    "avatar_url": "https://avatars.githubusercontent.com/u/101103586?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vmedaert",
+    "html_url": "https://github.com/vmedaert",
+    "followers_url": "https://api.github.com/users/vmedaert/followers",
+    "following_url": "https://api.github.com/users/vmedaert/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vmedaert/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vmedaert/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vmedaert/subscriptions",
+    "organizations_url": "https://api.github.com/users/vmedaert/orgs",
+    "repos_url": "https://api.github.com/users/vmedaert/repos",
+    "events_url": "https://api.github.com/users/vmedaert/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vmedaert/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "2d5c1ab5e135ebe6634d56c5ee13b8207ac178a1",
+      "url": "https://api.github.com/repos/saeyslab/nichenetr/commits/2d5c1ab5e135ebe6634d56c5ee13b8207ac178a1",
+      "html_url": "https://github.com/saeyslab/nichenetr/commit/2d5c1ab5e135ebe6634d56c5ee13b8207ac178a1"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "additions": 1,
+    "deletions": 1
+  },
+  "files": [
+    {
+      "sha": "02cafdea086dbfb1a0e351005eb70b4315889460",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/saeyslab/nichenetr/blob/66f90d5eeafef280b2b2f339b3fd70ffec1781dd/README.md",
+      "raw_url": "https://github.com/saeyslab/nichenetr/raw/66f90d5eeafef280b2b2f339b3fd70ffec1781dd/README.md",
+      "contents_url": "https://api.github.com/repos/saeyslab/nichenetr/contents/README.md?ref=66f90d5eeafef280b2b2f339b3fd70ffec1781dd",
+      "patch": "@@ -16,7 +16,7 @@ Status](https://codecov.io/gh/saeyslab/nichenetr/branch/master/graph/badge.svg)]\n [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7074291.svg)](https://doi.org/10.5281/zenodo.7074291)\n <!-- badges: end -->\n \n-**nichenetr: the R implementation of the NicheNet method.** The goal of\n+**nichenetr: the R implementation of the NicheNet method.** (see [nichenetpy](https://github.com/saeyslab/nichenetpy) for the python implementation) The goal of\n NicheNet is to study intercellular communication from a computational\n perspective. NicheNet uses human or mouse gene expression data of\n interacting cells as input and combines this with a prior model that"
+    }
+  ]
+}

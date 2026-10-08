@@ -1,0 +1,119 @@
+sample	sample_id	patient_uid	dataset	status	error_message	runtime_seconds	cell_number	eligible_groups	object_path	warnings	export_repaired	original_inference_runtime_seconds	export_repair_runtime_seconds
+"HRA003620_BC-01"	"S001"	NA	"HRA003620"	"SUCCESS"	NA	223.241038560867	6390	6	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S001/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	223.241038560867	1.62180590629578
+"HRA003620_BC-04"	"S002"	NA	"HRA003620"	"SUCCESS"	NA	195.982604980469	3151	4	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S002/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	195.982604980469	0.739723205566406
+"HRA003620_BC-05"	"S003"	NA	"HRA003620"	"SUCCESS"	NA	174.366099357605	6261	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S003/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	174.366099357605	1.08210921287537
+"HRA003620_BC-11"	"S004"	NA	"HRA003620"	"SUCCESS"	NA	227.114054203033	6638	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S004/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	227.114054203033	0.685211420059204
+"HRA003620_BC-24"	"S005"	NA	"HRA003620"	"SUCCESS"	NA	178.771156072617	7720	3	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S005/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	178.771156072617	0.650806427001953
+"HRA003620_BC-27"	"S006"	NA	"HRA003620"	"SUCCESS"	NA	189.899732351303	4580	6	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S006/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	189.899732351303	0.674098014831543
+"HRA003620_BC-30"	"S007"	NA	"HRA003620"	"SUCCESS"	NA	228.896471500397	7781	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S007/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	228.896471500397	0.791086912155151
+"HRA003620_NC-01"	"S008"	NA	"HRA003620"	"SUCCESS"	NA	163.303731203079	1756	4	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S008/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	163.303731203079	0.497582912445068
+"HRA003620_NC-04"	"S009"	NA	"HRA003620"	"SUCCESS"	NA	198.050646543503	5475	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S009/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	198.050646543503	0.821071624755859
+"HRA003620_NC-05"	"S010"	NA	"HRA003620"	"SUCCESS"	NA	250.325030565262	5308	7	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S010/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	250.325030565262	0.797481298446655
+"HRA003620_NC-11"	"S011"	NA	"HRA003620"	"SUCCESS"	NA	225.710025548935	6113	6	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S011/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	225.710025548935	0.737595081329346
+"HRA003620_NC-24"	"S012"	NA	"HRA003620"	"SUCCESS"	NA	198.783562421799	4134	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S012/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	198.783562421799	0.770954132080078
+"HRA003620_NC-27"	"S013"	NA	"HRA003620"	"SUCCESS"	NA	230.877866506577	6860	7	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S013/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	230.877866506577	0.887530088424683
+"HRA003620_NC-30"	"S014"	NA	"HRA003620"	"SUCCESS"	NA	269.477128744125	9524	7	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S014/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	269.477128744125	0.930256128311157
+"GSM4006644_BC1"	"S015"	NA	"GSE135337"	"SUCCESS"	NA	91.2714736461639	2882	1	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S015/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	91.2714736461639	0.323743581771851
+"GSM4006645_BC2"	"S016"	NA	"GSE135337"	"SUCCESS"	NA	130.443425655365	4153	1	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S016/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	130.443425655365	0.449853181838989
+"GSM4006646_BC3"	"S017"	NA	"GSE135337"	"SUCCESS"	NA	72.1832573413849	2881	2	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S017/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	72.1832573413849	0.265319347381592
+"GSM4006647_BC4"	"S018"	NA	"GSE135337"	"SUCCESS"	NA	105.278744459152	4411	1	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S018/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"GSM4006648_BC5"	"S019"	NA	"GSE135337"	"SUCCESS"	NA	205.280291080475	6925	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S019/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	205.280291080475	0.744047164916992
+"GSM4751267_BC6"	"S020"	NA	"GSE135337"	"SUCCESS"	NA	156.295006036758	5410	1	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S020/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	156.295006036758	0.45751428604126
+"GSM4751268_BC7"	"S021"	NA	"GSE135337"	"SUCCESS"	NA	160.605104207993	5019	2	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S021/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	160.605104207993	0.407809734344482
+"GSM5329919_BCN"	"S022"	NA	"GSE135337"	"SUCCESS"	NA	123.287187814713	5026	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S022/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	123.287187814713	0.459988594055176
+"GSE222315_p1_BCa"	"S023"	NA	"GSE222315"	"SUCCESS"	NA	223.694178104401	6756	10	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S023/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	223.694178104401	2.16129612922668
+"GSE222315_p2_NAT"	"S024"	NA	"GSE222315"	"SUCCESS"	NA	197.646332502365	7753	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S024/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	197.646332502365	0.665154695510864
+"GSE222315_p2_BCa"	"S025"	NA	"GSE222315"	"SUCCESS"	NA	219.39328622818	9901	4	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S025/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	219.39328622818	1.12492704391479
+"GSE222315_p3_BCa"	"S026"	NA	"GSE222315"	"SUCCESS"	NA	195.396463871002	6367	6	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S026/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	195.396463871002	0.617157459259033
+"GSE222315_p4_NAT"	"S027"	NA	"GSE222315"	"SUCCESS"	NA	234.088515281677	5515	9	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S027/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	234.088515281677	0.980948925018311
+"GSE222315_p4_BCa"	"S028"	NA	"GSE222315"	"SUCCESS"	NA	219.562993526459	4604	8	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S028/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	219.562993526459	0.803288459777832
+"GSE222315_p5_NAT"	"S029"	NA	"GSE222315"	"SUCCESS"	NA	190.277808189392	4852	6	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S029/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	TRUE	190.277808189392	0.727855443954468
+"GSE222315_p5_BCa"	"S030"	NA	"GSE222315"	"SUCCESS"	NA	180.556686639786	5075	12	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S030/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"GSE222315_p6_BCa"	"S031"	NA	"GSE222315"	"SUCCESS"	NA	214.92321395874	3097	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S031/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"GSE222315_p7_BCa"	"S032"	NA	"GSE222315"	"SUCCESS"	NA	183.292916297913	3626	7	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S032/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"GSE222315_p8_BCa"	"S033"	NA	"GSE222315"	"SUCCESS"	NA	236.470182180405	4911	9	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S033/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"GSE222315_p9_BCa"	"S034"	NA	"GSE222315"	"SUCCESS"	NA	208.258373022079	4498	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S034/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P01N"	"S035"	NA	"CNP0000460"	"SUCCESS"	NA	277.376624822617	11419	6	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S035/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P02N"	"S036"	NA	"CNP0000460"	"SUCCESS"	NA	199.162994861603	3941	4	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S036/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P03N"	"S037"	NA	"CNP0000460"	"SUCCESS"	NA	223.543249368668	5320	6	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S037/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P05N"	"S038"	NA	"CNP0000460"	"SUCCESS"	NA	171.238655328751	3867	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S038/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P07N"	"S039"	NA	"CNP0000460"	"SUCCESS"	NA	218.219625473022	4318	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S039/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P01T"	"S040"	NA	"CNP0000460"	"SUCCESS"	NA	266.062272071838	8997	4	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S040/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P02T"	"S041"	NA	"CNP0000460"	"SUCCESS"	NA	239.77487206459	8553	6	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S041/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P03T"	"S042"	NA	"CNP0000460"	"SUCCESS"	NA	202.767375230789	4912	4	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S042/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P04T"	"S043"	NA	"CNP0000460"	"SUCCESS"	NA	287.240490674973	10712	7	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S043/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P05T"	"S044"	NA	"CNP0000460"	"SUCCESS"	NA	260.98800945282	8634	7	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S044/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P06T"	"S045"	NA	"CNP0000460"	"SUCCESS"	NA	246.168029069901	7974	7	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S045/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"CNP0000460_P07T"	"S046"	NA	"CNP0000460"	"SUCCESS"	NA	241.921472787857	4411	8	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S046/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4380845"	"S047"	NA	"InhouseData"	"SUCCESS"	NA	169.152594804764	2953	6	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S047/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4091568"	"S048"	NA	"InhouseData"	"SUCCESS"	NA	265.236620903015	6354	12	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S048/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4295396"	"S049"	NA	"InhouseData"	"SUCCESS"	NA	253.662916898727	5651	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S049/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4398343"	"S050"	NA	"InhouseData"	"SUCCESS"	NA	299.784738302231	8243	11	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S050/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4450398"	"S051"	NA	"InhouseData"	"SUCCESS"	NA	178.34121465683	6450	5	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S051/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4463209a"	"S052"	NA	"InhouseData"	"SUCCESS"	NA	270.33806848526	7241	8	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S052/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4463209b"	"S053"	NA	"InhouseData"	"SUCCESS"	NA	250.318665742874	4929	9	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S053/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4466585"	"S054"	NA	"InhouseData"	"SUCCESS"	NA	240.992187261581	3420	9	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S054/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4469479"	"S055"	NA	"InhouseData"	"SUCCESS"	NA	256.372816562653	4934	7	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S055/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4471438"	"S056"	NA	"InhouseData"	"SUCCESS"	NA	312.477300167084	8559	9	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S056/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T8009218"	"S057"	NA	"InhouseData"	"SUCCESS"	NA	232.287470817566	4127	11	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S057/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4465935"	"S058"	NA	"InhouseData"	"SUCCESS"	NA	241.431752681732	4191	7	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S058/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA
+"T4465219"	"S059"	NA	"InhouseData"	"SUCCESS"	NA	266.101585865021	8914	8	"/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/02_cellchat_per_sample/S059/CellChat_object.rds"	"The 'meta$samples' is not a factor. We now force it as a factor! 
+"	NA	NA	NA

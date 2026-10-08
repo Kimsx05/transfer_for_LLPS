@@ -1,0 +1,6 @@
+source	target	pathway_name	weight	eligible	sample	patient_uid	dataset
+"Epithelial"	"Epithelial"	"MK"	0.200775704050621	TRUE	"GSM4006645_BC2"	NA	"GSE135337"
+"Epithelial"	"Epithelial"	"PTN"	0.189931192610377	TRUE	"GSM4006645_BC2"	NA	"GSE135337"
+"Epithelial"	"Epithelial"	"CypA"	0.16416401813484	TRUE	"GSM4006645_BC2"	NA	"GSE135337"
+"Epithelial"	"Epithelial"	"APP"	0.0274360710039772	TRUE	"GSM4006645_BC2"	NA	"GSE135337"
+"Epithelial"	"Epithelial"	"CLDN"	0.000808745633786956	TRUE	"GSM4006645_BC2"	NA	"GSE135337"

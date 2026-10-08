@@ -1,0 +1,4 @@
+PASS: Added only cellchat_group to a new full-atlas copy.
+All original metadata, Idents, reductions, graphs and commands are identical.
+RNA assay content was read without mutation. Input source SHA256 values remain identical.
+New object: /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/01_metadata/major_frozen_with_cellchat_group.qs2

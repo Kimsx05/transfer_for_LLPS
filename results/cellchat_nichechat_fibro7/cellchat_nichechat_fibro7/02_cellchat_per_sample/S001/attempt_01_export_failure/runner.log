@@ -1,0 +1,5 @@
+FINISHED HRA003620_BC-01 FAILED seconds=222
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Warning message:
+In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1

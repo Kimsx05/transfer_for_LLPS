@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html>
+<head><title>R: Inference and analysis of cell-cell communication from
+single-cell and spatially resolved transcriptomics data</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body><div class="container">
+<h1> Inference and analysis of cell-cell communication from
+single-cell and spatially resolved transcriptomics data
+<img class="toplogo" src="../../../doc/html/Rlogo.svg" alt="[R logo]" />
+</h1>
+<hr/>
+<div style="text-align: center;">
+<a href="../../../doc/html/packages.html"><img class="arrow" src="../../../doc/html/left.jpg" alt="[Up]" /></a>
+<a href="../../../doc/html/index.html"><img class="arrow" src="../../../doc/html/up.jpg" alt="[Top]" /></a>
+</div><h2>Documentation for package &lsquo;CellChat&rsquo; version 2.1.2</h2>
+
+<ul><li><a href="../DESCRIPTION">DESCRIPTION file</a>.</li>
+<li><a href="../NEWS.md">Package NEWS</a>.</li>
+</ul>
+
+<h2>Help Pages</h2>
+
+
+<p style="text-align: center;">
+<a href="#A">A</a>
+<a href="#B">B</a>
+<a href="#C">C</a>
+<a href="#D">D</a>
+<a href="#E">E</a>
+<a href="#F">F</a>
+<a href="#G">G</a>
+<a href="#I">I</a>
+<a href="#L">L</a>
+<a href="#M">M</a>
+<a href="#N">N</a>
+<a href="#P">P</a>
+<a href="#R">R</a>
+<a href="#S">S</a>
+<a href="#T">T</a>
+<a href="#U">U</a>
+</p>
+
+
+<h2><a id="A">-- A --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="addMeta.html">addMeta</a></td>
+<td>Add the cell information into meta slot</td></tr>
+<tr><td style="width: 25%;"><a href="addReduction.html">addReduction</a></td>
+<td>Add a reduced space of the data into CellChat object</td></tr>
+<tr><td style="width: 25%;"><a href="aggregateNet.html">aggregateNet</a></td>
+<td>Calculate the aggregated network by counting the number of links or summarizing the communication probability</td></tr>
+<tr><td style="width: 25%;"><a href="alpha_centrality.html">alpha_centrality</a></td>
+<td>compute alpha centrality</td></tr>
+<tr><td style="width: 25%;"><a href="AnyMatrix-class.html">AnyMatrix-class</a></td>
+<td>The CellChat Class</td></tr>
+</table>
+
+<h2><a id="B">-- B --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="barPlot.html">barPlot</a></td>
+<td>Bar plot for average gene expression</td></tr>
+<tr><td style="width: 25%;"><a href="barplot_internal.html">barplot_internal</a></td>
+<td>Bar plot for dataframe</td></tr>
+<tr><td style="width: 25%;"><a href="buildSNN.html">buildSNN</a></td>
+<td>Build SNN matrix</td></tr>
+</table>
+
+<h2><a id="C">-- C --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="CellChat-class.html">CellChat</a></td>
+<td>The key slots used in the CellChat object are described below.</td></tr>
+<tr><td style="width: 25%;"><a href="CellChat-class.html">CellChat-class</a></td>
+<td>The key slots used in the CellChat object are described below.</td></tr>
+<tr><td style="width: 25%;"><a href="CellChatDB.human.html">CellChatDB.human</a></td>
+<td>Ligand-receptor interactions in CellChat database for human</td></tr>
+<tr><td style="width: 25%;"><a href="CellChatDB.mouse.html">CellChatDB.mouse</a></td>
+<td>Ligand-receptor interactions in CellChat database for mouse</td></tr>
+<tr><td style="width: 25%;"><a href="CellChatDB.zebrafish.html">CellChatDB.zebrafish</a></td>
+<td>Ligand-receptor interactions in CellChat database for Zebrafish</td></tr>
+<tr><td style="width: 25%;"><a href="CellChat_theme_opts.html">CellChat_theme_opts</a></td>
+<td>ggplot theme in CellChat</td></tr>
+<tr><td style="width: 25%;"><a href="checkGeneSymbol.html">checkGeneSymbol</a></td>
+<td>check the official Gene Symbol</td></tr>
+<tr><td style="width: 25%;"><a href="colorRamp3.html">colorRamp3</a></td>
+<td>Color interpolation</td></tr>
+<tr><td style="width: 25%;"><a href="compareInteractions.html">compareInteractions</a></td>
+<td>Comparing the number of inferred communication links between different datasets</td></tr>
+<tr><td style="width: 25%;"><a href="computeAveExpr.html">computeAveExpr</a></td>
+<td>Compute averaged expression values for each cell group</td></tr>
+<tr><td style="width: 25%;"><a href="computeCellDistance.html">computeCellDistance</a></td>
+<td>Compute cell-cell distance based on the spatial coordinates</td></tr>
+<tr><td style="width: 25%;"><a href="computeCentralityLocal.html">computeCentralityLocal</a></td>
+<td>Compute Centrality measures for a signaling network</td></tr>
+<tr><td style="width: 25%;"><a href="computeCommunProb.html">computeCommunProb</a></td>
+<td>Compute the communication probability/strength between any interacting cell groups</td></tr>
+<tr><td style="width: 25%;"><a href="computeCommunProbPathway.html">computeCommunProbPathway</a></td>
+<td>Compute the communication probability on signaling pathway level by summarizing all related ligands/receptors</td></tr>
+<tr><td style="width: 25%;"><a href="computeEigengap.html">computeEigengap</a></td>
+<td>Compute the eigengap of a given matrix for inferring the number of clusters</td></tr>
+<tr><td style="width: 25%;"><a href="computeEnrichmentScore.html">computeEnrichmentScore</a></td>
+<td>Compute and visualize the enrichment score of ligand-receptor pairs in one condition compared to another condition</td></tr>
+<tr><td style="width: 25%;"><a href="computeExprGroup_agonist.html">computeExprGroup_agonist</a></td>
+<td>Modeling the effect of agonist on the ligand-receptor interaction</td></tr>
+<tr><td style="width: 25%;"><a href="computeExprGroup_antagonist.html">computeExprGroup_antagonist</a></td>
+<td>Modeling the effect of antagonist on the ligand-receptor interaction</td></tr>
+<tr><td style="width: 25%;"><a href="computeExpr_agonist.html">computeExpr_agonist</a></td>
+<td>Modeling the effect of agonist on the ligand-receptor interaction</td></tr>
+<tr><td style="width: 25%;"><a href="computeExpr_antagonist.html">computeExpr_antagonist</a></td>
+<td>Modeling the effect of antagonist on the ligand-receptor interaction</td></tr>
+<tr><td style="width: 25%;"><a href="computeExpr_complex.html">computeExpr_complex</a></td>
+<td>Compute the expression of complex in individual cells using geometric mean</td></tr>
+<tr><td style="width: 25%;"><a href="computeExpr_coreceptor.html">computeExpr_coreceptor</a></td>
+<td>Modeling the effect of coreceptor on the ligand-receptor interaction</td></tr>
+<tr><td style="width: 25%;"><a href="computeExpr_LR.html">computeExpr_LR</a></td>
+<td>Compute the expression of ligands or receptors using geometric mean</td></tr>
+<tr><td style="width: 25%;"><a href="computeLaplacian.html">computeLaplacian</a></td>
+<td>Compute eigenvalues of associated Laplacian matrix of a given matrix</td></tr>
+<tr><td style="width: 25%;"><a href="computeNetD_structure.html">computeNetD_structure</a></td>
+<td>Compute the structural distance between two signaling networks</td></tr>
+<tr><td style="width: 25%;"><a href="computeNetSimilarity.html">computeNetSimilarity</a></td>
+<td>Compute signaling network similarity for any pair of signaling networks</td></tr>
+<tr><td style="width: 25%;"><a href="computeNetSimilarityPairwise.html">computeNetSimilarityPairwise</a></td>
+<td>Compute signaling network similarity for any pair of datasets</td></tr>
+<tr><td style="width: 25%;"><a href="computeRegionDistance.html">computeRegionDistance</a></td>
+<td>Compute the region distance based on the spatial locations of each splot/cell of the spatial transcriptomics</td></tr>
+<tr><td style="width: 25%;"><a href="createCellChat.html">createCellChat</a></td>
+<td>Create a new CellChat object from a data matrix, Seurat or SingleCellExperiment object</td></tr>
+</table>
+
+<h2><a id="D">-- D --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="dotPlot.html">dotPlot</a></td>
+<td>Dot plot</td></tr>
+</table>
+
+<h2><a id="E">-- E --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="entropia.html">entropia</a></td>
+<td>compute the Shannon entropy</td></tr>
+<tr><td style="width: 25%;"><a href="extractEnrichedLR.html">extractEnrichedLR</a></td>
+<td>Identify all the significant interactions (L-R pairs) and related signaling genes for a given signaling pathway</td></tr>
+<tr><td style="width: 25%;"><a href="extractEnrichedLR_internal.html">extractEnrichedLR_internal</a></td>
+<td>Identify all the significant interactions (L-R pairs) and related signaling genes for a given signaling pathway</td></tr>
+<tr><td style="width: 25%;"><a href="extractGene.html">extractGene</a></td>
+<td>Extract the genes involved in CellChatDB</td></tr>
+<tr><td style="width: 25%;"><a href="extractGeneSubset.html">extractGeneSubset</a></td>
+<td>Extract the gene name</td></tr>
+<tr><td style="width: 25%;"><a href="extractGeneSubsetFromPair.html">extractGeneSubsetFromPair</a></td>
+<td>Extract the signaling gene names from ligand-receptor pairs</td></tr>
+<tr><td style="width: 25%;"><a href="extractLRfromGenes.html">extractLRfromGenes</a></td>
+<td>Extract L-R pairs associated with a given gene set</td></tr>
+<tr><td style="width: 25%;"><a href="extract_max.html">extract_max</a></td>
+<td>extract the max value of the y axis</td></tr>
+</table>
+
+<h2><a id="F">-- F --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="filterCommunication.html">filterCommunication</a></td>
+<td>Filter cell-cell communication if there are only few number of cells in certain cell groups or inconsistent cell-cell communication across samples</td></tr>
+<tr><td style="width: 25%;"><a href="findEnrichedSignaling.html">findEnrichedSignaling</a></td>
+<td>Find the enriched signaling according to the genes (e.g.DEGs) and cell groups of interest</td></tr>
+</table>
+
+<h2><a id="G">-- G --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="geometricMean.html">geometricMean</a></td>
+<td>Compute the geometric mean</td></tr>
+<tr><td style="width: 25%;"><a href="getMaxWeight.html">getMaxWeight</a></td>
+<td>Compute the maximum value of certain measures in the inferred cell-cell communication networks</td></tr>
+<tr><td style="width: 25%;"><a href="ggPalette.html">ggPalette</a></td>
+<td>Generate ggplot2 colors</td></tr>
+</table>
+
+<h2><a id="I">-- I --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="identifyCommunicationPatterns.html">identifyCommunicationPatterns</a></td>
+<td>Identification of major signals for specific cell groups and general communication patterns</td></tr>
+<tr><td style="width: 25%;"><a href="identifyEnrichedInteractions.html">identifyEnrichedInteractions</a></td>
+<td>Identify all the significant interactions (L-R pairs) from some cell groups to other cell groups</td></tr>
+<tr><td style="width: 25%;"><a href="identifyOverExpressedGenes.html">identifyOverExpressedGenes</a></td>
+<td>Identify over-expressed signaling genes associated with each cell group</td></tr>
+<tr><td style="width: 25%;"><a href="identifyOverExpressedInteractions.html">identifyOverExpressedInteractions</a></td>
+<td>Identify over-expressed ligand-receptor interactions (pairs) within the used CellChatDB</td></tr>
+<tr><td style="width: 25%;"><a href="identifyOverExpressedLigandReceptor.html">identifyOverExpressedLigandReceptor</a></td>
+<td>Identify over-expressed ligands and (complex) receptors associated with each cell group</td></tr>
+</table>
+
+<h2><a id="L">-- L --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="liftCellChat.html">liftCellChat</a></td>
+<td>Update a CellChat object by lifting up the cell groups to the same cell labels across all datasets</td></tr>
+</table>
+
+<h2><a id="M">-- M --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="mergeCellChat.html">mergeCellChat</a></td>
+<td>Merge CellChat objects</td></tr>
+<tr><td style="width: 25%;"><a href="mergeInteractions.html">mergeInteractions</a></td>
+<td>Compute the number of interactions/interaction strength between cell types based on their associated cell subpopulations</td></tr>
+<tr><td style="width: 25%;"><a href="modify_vlnplot.html">modify_vlnplot</a></td>
+<td>modified vlnplot</td></tr>
+<tr><td style="width: 25%;"><a href="mycircle.html">mycircle</a></td>
+<td>generate circle symbol</td></tr>
+</table>
+
+<h2><a id="N">-- N --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="netAnalysis_computeCentrality.html">netAnalysis_computeCentrality</a></td>
+<td>Compute the network centrality scores allowing identification of dominant senders, receivers, mediators and influencers in all inferred communication networks</td></tr>
+<tr><td style="width: 25%;"><a href="netAnalysis_contribution.html">netAnalysis_contribution</a></td>
+<td>Compute and visualize the contribution of each ligand-receptor pair in the overall signaling pathways</td></tr>
+<tr><td style="width: 25%;"><a href="netAnalysis_diff_signalingRole_scatter.html">netAnalysis_diff_signalingRole_scatter</a></td>
+<td>2D visualization of differential signaling roles (dominant senders (sources) or receivers (targets) ) of each cell group when comparing mutiple datasets</td></tr>
+<tr><td style="width: 25%;"><a href="netAnalysis_dot.html">netAnalysis_dot</a></td>
+<td>Dot plots showing the associations of latent patterns with cell groups and ligand-receptor pairs or signaling pathways</td></tr>
+<tr><td style="width: 25%;"><a href="netAnalysis_river.html">netAnalysis_river</a></td>
+<td>River plot showing the associations of latent patterns with cell groups and ligand-receptor pairs or signaling pathways</td></tr>
+<tr><td style="width: 25%;"><a href="netAnalysis_signalingChanges_scatter.html">netAnalysis_signalingChanges_scatter</a></td>
+<td>2D visualization of differential outgoing and incoming signaling associated with one cell group</td></tr>
+<tr><td style="width: 25%;"><a href="netAnalysis_signalingRole_heatmap.html">netAnalysis_signalingRole_heatmap</a></td>
+<td>Heatmap showing the contribution of signals (signaling pathways or ligand-receptor pairs) to cell groups in terms of outgoing or incoming signaling</td></tr>
+<tr><td style="width: 25%;"><a href="netAnalysis_signalingRole_network.html">netAnalysis_signalingRole_network</a></td>
+<td>Heatmap showing the centrality scores/importance of cell groups as senders, receivers, mediators and influencers in a single intercellular communication network</td></tr>
+<tr><td style="width: 25%;"><a href="netAnalysis_signalingRole_scatter.html">netAnalysis_signalingRole_scatter</a></td>
+<td>2D visualization of dominant senders (sources) and receivers (targets)</td></tr>
+<tr><td style="width: 25%;"><a href="netClustering.html">netClustering</a></td>
+<td>Classification learning of the signaling networks</td></tr>
+<tr><td style="width: 25%;"><a href="netEmbedding.html">netEmbedding</a></td>
+<td>Manifold learning of the signaling networks based on their similarity</td></tr>
+<tr><td style="width: 25%;"><a href="netMappingDEG.html">netMappingDEG</a></td>
+<td>Mapping the differential expressed genes (DEG) information onto the inferred cell-cell communications</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual.html">netVisual</a></td>
+<td>Visualize the inferred cell-cell communication network</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_aggregate.html">netVisual_aggregate</a></td>
+<td>Visualize the inferred signaling network of signaling pathways by aggregating all L-R pairs</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_barplot.html">netVisual_barplot</a></td>
+<td>Visualization of (differential) number of interactions</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_bubble.html">netVisual_bubble</a></td>
+<td>Show all the significant interactions (L-R pairs) from some cell groups to other cell groups</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_chord_cell.html">netVisual_chord_cell</a></td>
+<td>Chord diagram for visualizing cell-cell communication for a signaling pathway</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_chord_cell_internal.html">netVisual_chord_cell_internal</a></td>
+<td>Chord diagram for visualizing cell-cell communication from a weighted adjacency matrix or a data frame</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_chord_gene.html">netVisual_chord_gene</a></td>
+<td>Chord diagram for visualizing cell-cell communication for a set of ligands/receptors or signaling pathways</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_circle.html">netVisual_circle</a></td>
+<td>Circle plot of cell-cell communication network</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_diffInteraction.html">netVisual_diffInteraction</a></td>
+<td>Circle plot showing differential cell-cell communication network between two datasets</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_embedding.html">netVisual_embedding</a></td>
+<td>2D visualization of the learned manifold of signaling networks</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_embeddingPairwise.html">netVisual_embeddingPairwise</a></td>
+<td>2D visualization of the joint manifold learning of signaling networks from two datasets</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_embeddingPairwiseZoomIn.html">netVisual_embeddingPairwiseZoomIn</a></td>
+<td>Zoom into the 2D visualization of the joint manifold learning of signaling networks from two datasets</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_embeddingZoomIn.html">netVisual_embeddingZoomIn</a></td>
+<td>Zoom into the 2D visualization of the learned manifold learning of the signaling networks</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_heatmap.html">netVisual_heatmap</a></td>
+<td>Visualization of network using heatmap</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_hierarchy1.html">netVisual_hierarchy1</a></td>
+<td>Hierarchy plot of cell-cell communications sending to cell groups in vertex.receiver</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_hierarchy2.html">netVisual_hierarchy2</a></td>
+<td>Hierarchy plot of cell-cell communication sending to cell groups not in vertex.receiver</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_individual.html">netVisual_individual</a></td>
+<td>Visualize the inferred signaling network of individual L-R pairs</td></tr>
+<tr><td style="width: 25%;"><a href="netVisual_spatial.html">netVisual_spatial</a></td>
+<td>Spatial plot of cell-cell communication network</td></tr>
+<tr><td style="width: 25%;"><a href="nnd.html">nnd</a></td>
+<td>compute nnd</td></tr>
+<tr><td style="width: 25%;"><a href="node_distance.html">node_distance</a></td>
+<td>compute the node distance matrix</td></tr>
+<tr><td style="width: 25%;"><a href="normalizeData.html">normalizeData</a></td>
+<td>Normalize data using a scaling factor</td></tr>
+</table>
+
+<h2><a id="P">-- P --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="pieChart.html">pieChart</a></td>
+<td>Plot pie chart</td></tr>
+<tr><td style="width: 25%;"><a href="plotGeneExpression.html">plotGeneExpression</a></td>
+<td>A Seurat wrapper function for plotting gene expression using violin plot, dot plot or bar plot</td></tr>
+<tr><td style="width: 25%;"><a href="PPI.human.html">PPI.human</a></td>
+<td>Human Protein-Protein interactions</td></tr>
+<tr><td style="width: 25%;"><a href="PPI.mouse.html">PPI.mouse</a></td>
+<td>Mouse Protein-Protein interactions</td></tr>
+</table>
+
+<h2><a id="R">-- R --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="rankNet.html">rankNet</a></td>
+<td>Rank signaling networks based on the information flow or the number of interactions</td></tr>
+<tr><td style="width: 25%;"><a href="rankNetPairwise.html">rankNetPairwise</a></td>
+<td>Rank ligand-receptor interactions for any pair of two cell groups</td></tr>
+<tr><td style="width: 25%;"><a href="rankSimilarity.html">rankSimilarity</a></td>
+<td>Rank the similarity of the shared signaling pathways based on their joint manifold learning</td></tr>
+<tr><td style="width: 25%;"><a href="runCellChatApp.html">runCellChatApp</a></td>
+<td>Generate a Shiny App for interactive exploration of CellChat's outputs</td></tr>
+<tr><td style="width: 25%;"><a href="runPCA.html">runPCA</a></td>
+<td>Dimension reduction using PCA</td></tr>
+<tr><td style="width: 25%;"><a href="runUMAP.html">runUMAP</a></td>
+<td>Run UMAP</td></tr>
+</table>
+
+<h2><a id="S">-- S --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="scaleData.html">scaleData</a></td>
+<td>Scale the data</td></tr>
+<tr><td style="width: 25%;"><a href="scaleMat.html">scaleMat</a></td>
+<td>Scale a data matrix</td></tr>
+<tr><td style="width: 25%;"><a href="scPalette.html">scPalette</a></td>
+<td>Generate colors from a customed color palette</td></tr>
+<tr><td style="width: 25%;"><a href="searchPair.html">searchPair</a></td>
+<td>Subset the ligand-receptor interactions for given specific signals in CellChatDB</td></tr>
+<tr><td style="width: 25%;"><a href="selectK.html">selectK</a></td>
+<td>Select the number of the patterns for running 'identifyCommunicationPatterns'</td></tr>
+<tr><td style="width: 25%;"><a href="setIdent.html">setIdent</a></td>
+<td>Set the default identity of cells</td></tr>
+<tr><td style="width: 25%;"><a href="show-CellChat-method.html">show-method</a></td>
+<td>show method for CellChat</td></tr>
+<tr><td style="width: 25%;"><a href="showDatabaseCategory.html">showDatabaseCategory</a></td>
+<td>Show the description of CellChatDB databse</td></tr>
+<tr><td style="width: 25%;"><a href="sketchData.html">sketchData</a></td>
+<td>Downsampling single cell data using geometric sketching algorithm</td></tr>
+<tr><td style="width: 25%;"><a href="smoothData.html">smoothData</a></td>
+<td>Smooth the gene expression data</td></tr>
+<tr><td style="width: 25%;"><a href="spatialDimPlot.html">spatialDimPlot</a></td>
+<td>Visualize spatial cell groups</td></tr>
+<tr><td style="width: 25%;"><a href="spatialFeaturePlot.html">spatialFeaturePlot</a></td>
+<td>A spatial feature plots</td></tr>
+<tr><td style="width: 25%;"><a href="StackedVlnPlot.html">StackedVlnPlot</a></td>
+<td>Stacked Violin plot</td></tr>
+<tr><td style="width: 25%;"><a href="subsetCellChat.html">subsetCellChat</a></td>
+<td>Subset CellChat object using a portion of cells</td></tr>
+<tr><td style="width: 25%;"><a href="subsetCommunication.html">subsetCommunication</a></td>
+<td>Subset the inferred cell-cell communications of interest</td></tr>
+<tr><td style="width: 25%;"><a href="subsetCommunication_internal.html">subsetCommunication_internal</a></td>
+<td>Subset the inferred cell-cell communications of interest</td></tr>
+<tr><td style="width: 25%;"><a href="subsetData.html">subsetData</a></td>
+<td>Subset the expression data of signaling genes for saving computation cost</td></tr>
+<tr><td style="width: 25%;"><a href="subsetDB.html">subsetDB</a></td>
+<td>Subset CellChatDB databse by only including interactions of interest</td></tr>
+</table>
+
+<h2><a id="T">-- T --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="thresholdedMean.html">thresholdedMean</a></td>
+<td>Compute the average expression per cell group when the percent of expressing cells per cell group larger than a threshold</td></tr>
+<tr><td style="width: 25%;"><a href="triMean.html">triMean</a></td>
+<td>Compute the Tukey's trimean</td></tr>
+</table>
+
+<h2><a id="U">-- U --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="updateCCC_score.html">updateCCC_score</a></td>
+<td>Update the cell-cell communication array from a customized cell-cell-communication scores between different cell groups</td></tr>
+<tr><td style="width: 25%;"><a href="updateCellChat.html">updateCellChat</a></td>
+<td>Update a single CellChat object</td></tr>
+<tr><td style="width: 25%;"><a href="updateCellChatDB.html">updateCellChatDB</a></td>
+<td>Update CellChatDB by integrating new L-R pairs from other resources or adding more information</td></tr>
+<tr><td style="width: 25%;"><a href="updateClusterLabels.html">updateClusterLabels</a></td>
+<td>Update and re-order the cell group names after running 'computeCommunProb'</td></tr>
+</table>
+</div></body></html>

@@ -1,0 +1,15 @@
+source('/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/scripts/common.R')
+source(file.path(ROOT,'scripts/consensus_functions.R'))
+# The same biological edge in five samples: one structural NA, three real zeros,
+# one detected. A detected-only median would incorrectly be 10 instead of zero.
+x<-edge_summary(c(TRUE,TRUE,TRUE,TRUE,FALSE),c(0,0,0,10,NA),rep('SUCCESS',5))
+stopifnot(x$n_eligible==4,x$n_detected==1,x$consensus_strength==0,x$prevalence==.25,!x$retained)
+y<-edge_summary(c(TRUE,TRUE,TRUE,FALSE),c(0,2,4,NA),rep('SUCCESS',4))
+stopifnot(y$n_eligible==3,y$consensus_strength==2,y$prevalence==2/3,y$retained)
+z<-edge_summary(c(TRUE,TRUE,TRUE),c(0,NA,4),c('SUCCESS','FAILED','SUCCESS'))
+stopifnot(z$n_eligible==3,z$n_missing_eligible==1,is.na(z$consensus_strength),is.na(z$prevalence),!z$retained,z$observed_median_weight==2)
+a<-edge_summary(c(FALSE,FALSE),c(NA,NA),rep('SUCCESS',2))
+stopifnot(a$n_eligible==0,is.na(a$consensus_strength),is.na(a$prevalence),!a$retained)
+b<-edge_summary(rep(TRUE,5),c(0,0,0,2,3),rep('SUCCESS',5))
+stopifnot(b$retained,b$consensus_strength==0,b$prevalence==.4)
+cat('PASS: structural NA; eligible zero-inclusive median; eligibility/prevalence filtering; failed-inference missingness; eligible retained edge with median=0.\n')

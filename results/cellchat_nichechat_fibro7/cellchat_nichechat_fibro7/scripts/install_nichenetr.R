@@ -1,0 +1,17 @@
+# User-authorized official NicheNet installation; independent from CellChat Rlib.
+source('/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/scripts/nichenet_common.R')
+dir.create(NN_LIB,showWarnings=FALSE);.libPaths(unique(c(NN_LIB,.libPaths())))
+options(repos=c(CRAN='https://cloud.r-project.org'),timeout=300)
+commit<-jsonlite::fromJSON(file.path(NN_OUT,'official_nichenetr_commit.json'))$sha
+src<-file.path(NN_OUT,paste0('nichenetr-',commit))
+desc<-read.dcf(file.path(src,'DESCRIPTION'))
+dependencies<-unique(trimws(gsub('\\s*\\(.*?\\)','',unlist(strsplit(paste(desc[1,c('Depends','Imports')],collapse=','),',')))))
+dependencies<-setdiff(dependencies,'R')
+before<-data.table(package=dependencies,installed=vapply(dependencies,requireNamespace,logical(1),quietly=TRUE))
+write_tsv(before,'05_nichenet_preflight/nichenetr_dependency_audit_before.tsv')
+if(!requireNamespace('nichenetr',quietly=TRUE))remotes::install_local(src,lib=NN_LIB,dependencies=NA,upgrade='never',build_vignettes=FALSE,force=FALSE)
+stopifnot(requireNamespace('nichenetr',quietly=TRUE),as.character(packageVersion('nichenetr'))==desc[1,'Version'])
+capture.output(packageDescription('nichenetr'),file=file.path(NN_OUT,'installed_nichenetr_DESCRIPTION.txt'))
+capture.output(sessionInfo(),file=file.path(NN_OUT,'sessionInfo_nichenetr_installed.txt'))
+write_tsv(data.table(package='nichenetr',version=as.character(packageVersion('nichenetr')),commit=commit,source_url='https://github.com/saeyslab/nichenetr',library=NN_LIB,installed=TRUE),'05_nichenet_preflight/nichenetr_installation_status.tsv')
+cat('NICHENETR INSTALLATION PASS: ',as.character(packageVersion('nichenetr')),'; commit=',commit,'\n',sep='')

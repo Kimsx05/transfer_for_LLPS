@@ -1,0 +1,3 @@
+Complete native inference object validated. Export-only data.table compatibility failure repaired.
+No createCellChat/computeCommunProb call, reseeding or recomputation was performed.
+Exact CellChat parameters, biological sample identity, DB categories and LR-to-net weight/count reconciliation passed.

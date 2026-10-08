@@ -1,0 +1,60 @@
+[[1]]
+[[1]]$function_name
+[1] "predict_ligand_activities"
+
+[[1]]$formals
+[[1]]$formals$geneset
+
+
+[[1]]$formals$background_expressed_genes
+
+
+[[1]]$formals$ligand_target_matrix
+
+
+[[1]]$formals$potential_ligands
+
+
+[[1]]$formals$single
+[1] TRUE
+
+[[1]]$formals$...
+
+
+
+
+[[2]]
+[[2]]$function_name
+[1] "get_weighted_ligand_target_links"
+
+[[2]]$formals
+[[2]]$formals$ligand
+
+
+[[2]]$formals$geneset
+
+
+[[2]]$formals$ligand_target_matrix
+
+
+[[2]]$formals$n
+[1] 250
+
+
+
+[[3]]
+[[3]]$function_name
+[1] "get_expressed_genes"
+
+[[3]]$formals
+[[3]]$formals$celltype_oi
+
+
+[[3]]$formals$object
+
+
+[[3]]$formals$...
+
+
+
+

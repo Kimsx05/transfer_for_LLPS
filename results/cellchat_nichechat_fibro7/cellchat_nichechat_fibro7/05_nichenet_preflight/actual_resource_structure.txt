@@ -1,0 +1,79 @@
+$ligand_target
+$ligand_target$dim
+[1] 33354  1226
+
+$ligand_target$class
+[1] "matrix" "array" 
+
+$ligand_target$range
+[1] 0.0000000 0.3370936
+
+$ligand_target$target_example
+[1] "A-GAMMA3'E" "A1BG"       "A1BG-AS1"   "A1CF"       "A2M"       
+[6] "A2M-AS1"   
+
+$ligand_target$ligand_example
+[1] "A2M"   "AANAT" "ABCA1" "ACE"   "ACE2"  "ACP4" 
+
+
+$ligand_receptor
+$ligand_receptor$dim
+[1] 4986    4
+
+$ligand_receptor$columns
+[1] "from"     "to"       "database" "source"  
+
+$ligand_receptor$unique_links
+[1] 4986
+
+$ligand_receptor$head
+     from     to             database               source
+   <char> <char>               <char>               <char>
+1:    A2M   MMP2             omnipath             omnipath
+2:    A2M   MMP9             omnipath             omnipath
+3:    A2M   LRP1             omnipath             omnipath
+4:    A2M   KLK3             omnipath             omnipath
+5:  AANAT MTNR1A nichenet_verschueren nichenet_verschueren
+6:  AANAT MTNR1B nichenet_verschueren nichenet_verschueren
+
+
+$weighted_networks
+$weighted_networks$lr_sig
+$weighted_networks$lr_sig$dim
+[1] 3923501       3
+
+$weighted_networks$lr_sig$columns
+[1] "from"   "to"     "weight"
+
+$weighted_networks$lr_sig$head
+# A tibble: 6 × 3
+  from       to         weight
+  <chr>      <chr>       <dbl>
+1 A-GAMMA3'E ACTG1P11   0.100 
+2 A-GAMMA3'E AXIN2      0.0869
+3 A-GAMMA3'E BUB1B-PAK6 0.0932
+4 A-GAMMA3'E CEACAM7    0.0793
+5 A-GAMMA3'E CHRNA1     0.0901
+6 A-GAMMA3'E DTX2P1     0.0976
+
+
+$weighted_networks$gr
+$weighted_networks$gr$dim
+[1] 4640268       3
+
+$weighted_networks$gr$columns
+[1] "from"   "to"     "weight"
+
+$weighted_networks$gr$head
+# A tibble: 6 × 3
+  from  to     weight
+  <chr> <chr>   <dbl>
+1 A1BG  A2M    0.165 
+2 AAAS  GFAP   0.0906
+3 AADAC CTAG1B 0.104 
+4 AADAC CYP3A4 0.177 
+5 AADAC DIRAS3 0.0936
+6 AADAC IRF8   0.0892
+
+
+

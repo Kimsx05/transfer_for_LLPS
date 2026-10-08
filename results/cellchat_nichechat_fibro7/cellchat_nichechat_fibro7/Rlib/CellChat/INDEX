@@ -1,0 +1,271 @@
+addMeta                 Add the cell information into meta slot
+addReduction            Add a reduced space of the data into CellChat
+                        object
+aggregateNet            Calculate the aggregated network by counting
+                        the number of links or summarizing the
+                        communication probability
+alpha_centrality        compute alpha centrality
+AnyMatrix-class         The CellChat Class
+barPlot                 Bar plot for average gene expression
+barplot_internal        Bar plot for dataframe
+buildSNN                Build SNN matrix
+CellChat_theme_opts     ggplot theme in CellChat
+CellChat-class          The key slots used in the CellChat object are
+                        described below.
+CellChatDB.human        Ligand-receptor interactions in CellChat
+                        database for human
+CellChatDB.mouse        Ligand-receptor interactions in CellChat
+                        database for mouse
+CellChatDB.zebrafish    Ligand-receptor interactions in CellChat
+                        database for Zebrafish
+checkGeneSymbol         check the official Gene Symbol
+colorRamp3              Color interpolation
+compareInteractions     Comparing the number of inferred communication
+                        links between different datasets
+computeAveExpr          Compute averaged expression values for each
+                        cell group
+computeCellDistance     Compute cell-cell distance based on the spatial
+                        coordinates
+computeCentralityLocal
+                        Compute Centrality measures for a signaling
+                        network
+computeCommunProb       Compute the communication probability/strength
+                        between any interacting cell groups
+computeCommunProbPathway
+                        Compute the communication probability on
+                        signaling pathway level by summarizing all
+                        related ligands/receptors
+computeEigengap         Compute the eigengap of a given matrix for
+                        inferring the number of clusters
+computeEnrichmentScore
+                        Compute and visualize the enrichment score of
+                        ligand-receptor pairs in one condition compared
+                        to another condition
+computeExpr_agonist     Modeling the effect of agonist on the
+                        ligand-receptor interaction
+computeExpr_antagonist
+                        Modeling the effect of antagonist on the
+                        ligand-receptor interaction
+computeExpr_complex     Compute the expression of complex in individual
+                        cells using geometric mean
+computeExpr_coreceptor
+                        Modeling the effect of coreceptor on the
+                        ligand-receptor interaction
+computeExpr_LR          Compute the expression of ligands or receptors
+                        using geometric mean
+computeExprGroup_agonist
+                        Modeling the effect of agonist on the
+                        ligand-receptor interaction
+computeExprGroup_antagonist
+                        Modeling the effect of antagonist on the
+                        ligand-receptor interaction
+computeLaplacian        Compute eigenvalues of associated Laplacian
+                        matrix of a given matrix
+computeNetD_structure   Compute the structural distance between two
+                        signaling networks
+computeNetSimilarity    Compute signaling network similarity for any
+                        pair of signaling networks
+computeNetSimilarityPairwise
+                        Compute signaling network similarity for any
+                        pair of datasets
+computeRegionDistance   Compute the region distance based on the
+                        spatial locations of each splot/cell of the
+                        spatial transcriptomics
+createCellChat          Create a new CellChat object from a data
+                        matrix, Seurat or SingleCellExperiment object
+dotPlot                 Dot plot
+entropia                compute the Shannon entropy
+extract_max             extract the max value of the y axis
+extractEnrichedLR       Identify all the significant interactions (L-R
+                        pairs) and related signaling genes for a given
+                        signaling pathway
+extractEnrichedLR_internal
+                        Identify all the significant interactions (L-R
+                        pairs) and related signaling genes for a given
+                        signaling pathway
+extractGene             Extract the genes involved in CellChatDB
+extractGeneSubset       Extract the gene name
+extractGeneSubsetFromPair
+                        Extract the signaling gene names from
+                        ligand-receptor pairs
+extractLRfromGenes      Extract L-R pairs associated with a given gene
+                        set
+filterCommunication     Filter cell-cell communication if there are
+                        only few number of cells in certain cell groups
+                        or inconsistent cell-cell communication across
+                        samples
+findEnrichedSignaling   Find the enriched signaling according to the
+                        genes (e.g.DEGs) and cell groups of interest
+geometricMean           Compute the geometric mean
+getMaxWeight            Compute the maximum value of certain measures
+                        in the inferred cell-cell communication
+                        networks
+ggPalette               Generate ggplot2 colors
+identifyCommunicationPatterns
+                        Identification of major signals for specific
+                        cell groups and general communication patterns
+identifyEnrichedInteractions
+                        Identify all the significant interactions (L-R
+                        pairs) from some cell groups to other cell
+                        groups
+identifyOverExpressedGenes
+                        Identify over-expressed signaling genes
+                        associated with each cell group
+identifyOverExpressedInteractions
+                        Identify over-expressed ligand-receptor
+                        interactions (pairs) within the used CellChatDB
+identifyOverExpressedLigandReceptor
+                        Identify over-expressed ligands and (complex)
+                        receptors associated with each cell group
+liftCellChat            Update a CellChat object by lifting up the cell
+                        groups to the same cell labels across all
+                        datasets
+mergeCellChat           Merge CellChat objects
+mergeInteractions       Compute the number of interactions/interaction
+                        strength between cell types based on their
+                        associated cell subpopulations
+modify_vlnplot          modified vlnplot
+mycircle                generate circle symbol
+netAnalysis_computeCentrality
+                        Compute the network centrality scores allowing
+                        identification of dominant senders, receivers,
+                        mediators and influencers in all inferred
+                        communication networks
+netAnalysis_contribution
+                        Compute and visualize the contribution of each
+                        ligand-receptor pair in the overall signaling
+                        pathways
+netAnalysis_diff_signalingRole_scatter
+                        2D visualization of differential signaling
+                        roles (dominant senders (sources) or receivers
+                        (targets) ) of each cell group when comparing
+                        mutiple datasets
+netAnalysis_dot         Dot plots showing the associations of latent
+                        patterns with cell groups and ligand-receptor
+                        pairs or signaling pathways
+netAnalysis_river       River plot showing the associations of latent
+                        patterns with cell groups and ligand-receptor
+                        pairs or signaling pathways
+netAnalysis_signalingChanges_scatter
+                        2D visualization of differential outgoing and
+                        incoming signaling associated with one cell
+                        group
+netAnalysis_signalingRole_heatmap
+                        Heatmap showing the contribution of signals
+                        (signaling pathways or ligand-receptor pairs)
+                        to cell groups in terms of outgoing or incoming
+                        signaling
+netAnalysis_signalingRole_network
+                        Heatmap showing the centrality
+                        scores/importance of cell groups as senders,
+                        receivers, mediators and influencers in a
+                        single intercellular communication network
+netAnalysis_signalingRole_scatter
+                        2D visualization of dominant senders (sources)
+                        and receivers (targets)
+netClustering           Classification learning of the signaling
+                        networks
+netEmbedding            Manifold learning of the signaling networks
+                        based on their similarity
+netMappingDEG           Mapping the differential expressed genes (DEG)
+                        information onto the inferred cell-cell
+                        communications
+netVisual               Visualize the inferred cell-cell communication
+                        network
+netVisual_aggregate     Visualize the inferred signaling network of
+                        signaling pathways by aggregating all L-R pairs
+netVisual_barplot       Visualization of (differential) number of
+                        interactions
+netVisual_bubble        Show all the significant interactions (L-R
+                        pairs) from some cell groups to other cell
+                        groups
+netVisual_chord_cell    Chord diagram for visualizing cell-cell
+                        communication for a signaling pathway
+netVisual_chord_cell_internal
+                        Chord diagram for visualizing cell-cell
+                        communication from a weighted adjacency matrix
+                        or a data frame
+netVisual_chord_gene    Chord diagram for visualizing cell-cell
+                        communication for a set of ligands/receptors or
+                        signaling pathways
+netVisual_circle        Circle plot of cell-cell communication network
+netVisual_diffInteraction
+                        Circle plot showing differential cell-cell
+                        communication network between two datasets
+netVisual_embedding     2D visualization of the learned manifold of
+                        signaling networks
+netVisual_embeddingPairwise
+                        2D visualization of the joint manifold learning
+                        of signaling networks from two datasets
+netVisual_embeddingPairwiseZoomIn
+                        Zoom into the 2D visualization of the joint
+                        manifold learning of signaling networks from
+                        two datasets
+netVisual_embeddingZoomIn
+                        Zoom into the 2D visualization of the learned
+                        manifold learning of the signaling networks
+netVisual_heatmap       Visualization of network using heatmap
+netVisual_hierarchy1    Hierarchy plot of cell-cell communications
+                        sending to cell groups in vertex.receiver
+netVisual_hierarchy2    Hierarchy plot of cell-cell communication
+                        sending to cell groups not in vertex.receiver
+netVisual_individual    Visualize the inferred signaling network of
+                        individual L-R pairs
+netVisual_spatial       Spatial plot of cell-cell communication network
+nnd                     compute nnd
+node_distance           compute the node distance matrix
+normalizeData           Normalize data using a scaling factor
+pieChart                Plot pie chart
+plotGeneExpression      A Seurat wrapper function for plotting gene
+                        expression using violin plot, dot plot or bar
+                        plot
+PPI.human               Human Protein-Protein interactions
+PPI.mouse               Mouse Protein-Protein interactions
+rankNet                 Rank signaling networks based on the
+                        information flow or the number of interactions
+rankNetPairwise         Rank ligand-receptor interactions for any pair
+                        of two cell groups
+rankSimilarity          Rank the similarity of the shared signaling
+                        pathways based on their joint manifold learning
+runCellChatApp          Generate a Shiny App for interactive
+                        exploration of CellChat's outputs
+runPCA                  Dimension reduction using PCA
+runUMAP                 Run UMAP
+scaleData               Scale the data
+scaleMat                Scale a data matrix
+scPalette               Generate colors from a customed color palette
+searchPair              Subset the ligand-receptor interactions for
+                        given specific signals in CellChatDB
+selectK                 Select the number of the patterns for running
+                        'identifyCommunicationPatterns'
+setIdent                Set the default identity of cells
+show,CellChat-method    show method for CellChat
+showDatabaseCategory    Show the description of CellChatDB databse
+sketchData              Downsampling single cell data using geometric
+                        sketching algorithm
+smoothData              Smooth the gene expression data
+spatialDimPlot          Visualize spatial cell groups
+spatialFeaturePlot      A spatial feature plots
+StackedVlnPlot          Stacked Violin plot
+subsetCellChat          Subset CellChat object using a portion of cells
+subsetCommunication     Subset the inferred cell-cell communications of
+                        interest
+subsetCommunication_internal
+                        Subset the inferred cell-cell communications of
+                        interest
+subsetData              Subset the expression data of signaling genes
+                        for saving computation cost
+subsetDB                Subset CellChatDB databse by only including
+                        interactions of interest
+thresholdedMean         Compute the average expression per cell group
+                        when the percent of expressing cells per cell
+                        group larger than a threshold
+triMean                 Compute the Tukey's trimean
+updateCCC_score         Update the cell-cell communication array from a
+                        customized cell-cell-communication scores
+                        between different cell groups
+updateCellChat          Update a single CellChat object
+updateCellChatDB        Update CellChatDB by integrating new L-R pairs
+                        from other resources or adding more information
+updateClusterLabels     Update and re-order the cell group names after
+                        running 'computeCommunProb'

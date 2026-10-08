@@ -1,0 +1,7 @@
+resource_component	n_resource_symbols	n_exact_RNA_matches	n_unmatched	resource_match_fraction	n_RNA_genes	RNA_match_fraction	matching_rule
+ligand_target_targets	33354	23248	10106	0.69700785512982	71683	0.324316783616757	exact case-sensitive; no remapping
+ligand_target_ligands	1226	1181	45	0.963295269168026	71683	0.0164753149282257	exact case-sensitive; no remapping
+LR_ligands	1226	1181	45	0.963295269168026	71683	0.0164753149282257	exact case-sensitive; no remapping
+LR_receptors	1067	1043	24	0.977507029053421	71683	0.0145501722863161	exact case-sensitive; no remapping
+weighted_lr_sig_nodes	24825	19237	5588	0.774904330312185	71683	0.268362094220387	exact case-sensitive; no remapping
+weighted_gr_nodes	30066	22780	7286	0.757666467105701	71683	0.317788039005064	exact case-sensitive; no remapping

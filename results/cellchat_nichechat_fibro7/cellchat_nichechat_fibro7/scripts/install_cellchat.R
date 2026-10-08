@@ -1,0 +1,16 @@
+# Isolated installation authorized by the user's 2026-10-08 environment-installation request.
+source('/home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/scripts/common.R')
+lib<-file.path(ROOT,'Rlib');dir.create(lib,showWarnings=FALSE)
+.libPaths(c(lib,.libPaths()))
+options(repos=c(CRAN='https://cloud.r-project.org'),timeout=300)
+src<-file.path(ROOT,'00_audit/CellChat-2.1.2')
+stopifnot(file.exists(file.path(src,'DESCRIPTION')),read.dcf(file.path(src,'DESCRIPTION'))[1,'Version']=='2.1.2')
+if('CellChat'%in%rownames(installed.packages(lib.loc=lib)))stop('CellChat already installed; refusing unreviewed replacement')
+deps<-c('ggalluvial','svglite','sna','ggnetwork')
+missing<-deps[!vapply(deps,requireNamespace,logical(1),quietly=TRUE)]
+if(length(missing))install.packages(missing,lib=lib,dependencies=NA,Ncpus=2)
+remotes::install_local(src,lib=lib,dependencies=NA,upgrade='never',build_vignettes=FALSE,force=FALSE)
+stopifnot(requireNamespace('CellChat',quietly=TRUE),packageVersion('CellChat')=='2.1.2')
+capture.output(sessionInfo(),file=file.path(ROOT,'00_audit/sessionInfo_CellChat_installed.txt'))
+capture.output(packageDescription('CellChat'),file=file.path(ROOT,'00_audit/CellChat_installed_DESCRIPTION.txt'))
+cat('CellChat installation PASS: ',as.character(packageVersion('CellChat')),'\n')

@@ -1,0 +1,652 @@
+also installing the dependencies ‘coda’, ‘statnet.common’, ‘network’
+
+trying URL 'https://cloud.r-project.org/src/contrib/coda_0.19-4.1.tar.gz'
+Content type 'application/x-gzip' length 74301 bytes (72 KB)
+==================================================
+downloaded 72 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/statnet.common_4.13.0.tar.gz'
+Content type 'application/x-gzip' length 94569 bytes (92 KB)
+==================================================
+downloaded 92 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/network_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 515766 bytes (503 KB)
+==================================================
+downloaded 503 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/ggalluvial_0.12.6.tar.gz'
+Content type 'application/x-gzip' length 2883375 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/svglite_2.2.2.tar.gz'
+Content type 'application/x-gzip' length 125651 bytes (122 KB)
+==================================================
+downloaded 122 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/sna_2.8.tar.gz'
+Content type 'application/x-gzip' length 305540 bytes (298 KB)
+==================================================
+downloaded 298 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/ggnetwork_0.5.14.tar.gz'
+Content type 'application/x-gzip' length 1889616 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+begin installing package ‘coda’
+begin installing package ‘ggalluvial’
+* installing *source* package ‘coda’ ...
+** package ‘coda’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (coda)
+begin installing package ‘svglite’
+* installing *source* package ‘ggalluvial’ ...
+** package ‘ggalluvial’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ggalluvial)
+begin installing package ‘statnet.common’
+* installing *source* package ‘statnet.common’ ...
+** package ‘statnet.common’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+make[1]: Entering directory '/tmp/Rtmp8x5x8I/R.INSTALL120b5f3661e8e1/statnet.common/src'
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c logspace_utils.c -o logspace_utils.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o statnet.common.so init.o logspace_utils.o -L/usr/lib/R/lib -lR
+make[1]: Leaving directory '/tmp/Rtmp8x5x8I/R.INSTALL120b5f3661e8e1/statnet.common/src'
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib/00LOCK-statnet.common/00new/statnet.common/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (statnet.common)
+begin installing package ‘network’
+* installing *source* package ‘svglite’ ...
+** package ‘svglite’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+make[1]: Entering directory '/tmp/RtmpNuKRg7/R.INSTALL120a2613f5a039/svglite/src'
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/systemfonts/include' -I'/home/jinshengxi/Rlibrary/packages/textshaping/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c SvgStream.cpp -o SvgStream.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/systemfonts/include' -I'/home/jinshengxi/Rlibrary/packages/textshaping/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/cpp11/include' -I'/home/jinshengxi/Rlibrary/packages/systemfonts/include' -I'/home/jinshengxi/Rlibrary/packages/textshaping/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c devSVG.cpp -o devSVG.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o svglite.so SvgStream.o cpp11.o devSVG.o -lpng -lz -L/usr/lib/R/lib -lR
+make[1]: Leaving directory '/tmp/RtmpNuKRg7/R.INSTALL120a2613f5a039/svglite/src'
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib/00LOCK-svglite/00new/svglite/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (svglite)
+* installing *source* package ‘network’ ...
+** package ‘network’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+make[1]: Entering directory '/tmp/Rtmp019Wgb/R.INSTALL120cf496d7c46/network/src'
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c Rinit.c -o Rinit.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c access.c -o access.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c constructors.c -o constructors.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c layout.c -o layout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c utils.c -o utils.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o network.so Rinit.o access.o constructors.o layout.o utils.o -L/usr/lib/R/lib -lR
+make[1]: Leaving directory '/tmp/Rtmp019Wgb/R.INSTALL120cf496d7c46/network/src'
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib/00LOCK-network/00new/network/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (network)
+begin installing package ‘sna’
+* installing *source* package ‘sna’ ...
+** package ‘sna’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+make[1]: Entering directory '/tmp/RtmpHz2B35/R.INSTALL120fd07a737859/sna/src'
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c Rinit.c -o Rinit.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cohesion.c -o cohesion.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c components.c -o components.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c geodist.c -o geodist.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gli.c -o gli.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c layout.c -o layout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c likelihood.c -o likelihood.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nli.c -o nli.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c paths.c -o paths.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c randomgraph.c -o randomgraph.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c triads.c -o triads.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c utils.c -o utils.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o sna.so Rinit.o cohesion.o components.o geodist.o gli.o layout.o likelihood.o nli.o paths.o randomgraph.o triads.o utils.o -L/usr/lib/R/lib -lR
+make[1]: Leaving directory '/tmp/RtmpHz2B35/R.INSTALL120fd07a737859/sna/src'
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib/00LOCK-sna/00new/sna/libs
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (sna)
+begin installing package ‘ggnetwork’
+* installing *source* package ‘ggnetwork’ ...
+** package ‘ggnetwork’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ggnetwork)
+
+The downloaded source packages are in
+	‘/tmp/RtmpydOff6/downloaded_packages’
+── R CMD build ─────────────────────────────────────────────────────────────────
+* checking for file ‘/tmp/RtmpydOff6/file1207b69bd1082/CellChat-2.1.2/DESCRIPTION’ ... OK
+* preparing ‘CellChat’:
+* checking DESCRIPTION meta-information ... OK
+* cleaning src
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘CellChat_2.1.2.tar.gz’
+
+* installing *source* package ‘CellChat’ ...
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppEigen/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c CellChat_Rcpp.cpp -o CellChat_Rcpp.o
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:205,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:46:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   46 | typedef eigen_packet_wrapper<__m128i, 0> Packet4i;
+      |                                        ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:47:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   47 | typedef eigen_packet_wrapper<__m128i, 1> Packet16b;
+      |                                        ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:49:39: warning: ignoring attributes on template argument ‘__m128’ [-Wignored-attributes]
+   49 | template<> struct is_arithmetic<__m128>  { enum { value = true }; };
+      |                                       ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:50:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   50 | template<> struct is_arithmetic<__m128i> { enum { value = true }; };
+      |                                        ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:51:40: warning: ignoring attributes on template argument ‘__m128d’ [-Wignored-attributes]
+   51 | template<> struct is_arithmetic<__m128d> { enum { value = true }; };
+      |                                        ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:222:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+  222 | template<> struct unpacket_traits<Packet4f> {
+      |                                           ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:228:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+  228 | template<> struct unpacket_traits<Packet2d> {
+      |                                           ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:1124:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+ 1124 | ptranspose(PacketBlock<Packet4f,4>& kernel) {
+      |                                  ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:1129:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+ 1129 | ptranspose(PacketBlock<Packet2d,2>& kernel) {
+      |                                  ^
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:174,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:165,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<float, 4>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<float, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:266:49:   required from ‘struct Eigen::internal::traits<Eigen::Quaternion<float> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/arch/Geometry_SIMD.h:24:46:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(4) float>::half’ {aka ‘__m128’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:271,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 0>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Matrix<float, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/MatrixBase.h:48:34:   required from ‘class Eigen::MatrixBase<Eigen::Matrix<float, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Matrix<float, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:178:7:   required from ‘class Eigen::Matrix<float, 4, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:46:50:   required from ‘class Eigen::QuaternionBase<Eigen::Quaternion<float> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:273:7:   required from ‘class Eigen::Quaternion<float>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/arch/Geometry_SIMD.h:27:3:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:165,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<double, 4>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<double, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:266:49:   required from ‘struct Eigen::internal::traits<Eigen::Quaternion<double> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/arch/Geometry_SIMD.h:98:47:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(2) double>::half’ {aka ‘__m128d’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:271,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 0>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Matrix<double, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/MatrixBase.h:48:34:   required from ‘class Eigen::MatrixBase<Eigen::Matrix<double, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Matrix<double, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:178:7:   required from ‘class Eigen::Matrix<double, 4, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:46:50:   required from ‘class Eigen::QuaternionBase<Eigen::Quaternion<double> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:273:7:   required from ‘class Eigen::Quaternion<double>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/arch/Geometry_SIMD.h:102:3:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/SparseCore:37,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Sparse:26,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:29,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h: In instantiation of ‘class Eigen::SparseMatrixBase<Eigen::SparseMatrix<double, 0, int> >’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseCompressedBase.h:36:7:   required from ‘class Eigen::SparseCompressedBase<Eigen::SparseMatrix<double, 0, int> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:96:7:   required from ‘class Eigen::SparseMatrix<double, 0, int>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/unsupported/Eigen/src/IterativeSolvers/ConstrainedConjGrad.h:61:25:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h:47:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   47 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:165,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<double, -1>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:178:7:   required from ‘class Eigen::Matrix<double, -1, -1>’
+CellChat_Rcpp.cpp:9:79:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(2) double>::half’ {aka ‘__m128d’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:271,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, -1, -1>, 0>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, -1, -1>, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, -1, -1>, 3>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/MatrixBase.h:48:34:   required from ‘class Eigen::MatrixBase<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:178:7:   required from ‘class Eigen::Matrix<double, -1, -1>’
+CellChat_Rcpp.cpp:9:79:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/SparseCore:37,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Sparse:26,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:29,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h: In instantiation of ‘class Eigen::SparseMatrixBase<Eigen::Transpose<Eigen::SparseMatrix<double, 0, int> > >’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseCompressedBase.h:36:7:   required from ‘class Eigen::SparseCompressedBase<Eigen::Transpose<Eigen::SparseMatrix<double, 0, int> > >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseTranspose.h:22:9:   required from ‘class Eigen::internal::SparseTransposeImpl<Eigen::SparseMatrix<double, 0, int>, 1024>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseTranspose.h:45:37:   required from ‘class Eigen::TransposeImpl<Eigen::SparseMatrix<double, 0, int>, Eigen::Sparse>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Transpose.h:52:37:   required from ‘class Eigen::Transpose<Eigen::SparseMatrix<double, 0, int> >’
+CellChat_Rcpp.cpp:20:29:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h:47:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   47 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h: In instantiation of ‘class Eigen::SparseMatrixBase<Eigen::Product<Eigen::SparseMatrix<double, 0, int>, Eigen::Transpose<Eigen::SparseMatrix<double, 0, int> >, 2> >’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Product.h:145:7:   required from ‘class Eigen::ProductImpl<Eigen::SparseMatrix<double, 0, int>, Eigen::Transpose<Eigen::SparseMatrix<double, 0, int> >, 2, Eigen::Sparse>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Product.h:71:7:   required from ‘class Eigen::Product<Eigen::SparseMatrix<double, 0, int>, Eigen::Transpose<Eigen::SparseMatrix<double, 0, int> >, 2>’
+CellChat_Rcpp.cpp:20:31:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h:47:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h: In instantiation of ‘class Eigen::SparseMatrixBase<Eigen::SparseMatrix<double, 1, int> >’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseCompressedBase.h:36:7:   required from ‘class Eigen::SparseCompressedBase<Eigen::SparseMatrix<double, 1, int> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:96:7:   required from ‘class Eigen::SparseMatrix<double, 1, int>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:1040:66:   required from ‘void Eigen::internal::set_from_triplets(const InputIterator&, const InputIterator&, SparseMatrixType&, DupFunctor) [with InputIterator = __gnu_cxx::__normal_iterator<Eigen::Triplet<double>*, std::vector<Eigen::Triplet<double> > >; SparseMatrixType = Eigen::SparseMatrix<double, 0, int>; DupFunctor = Eigen::internal::scalar_sum_op<double, double>]’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:1110:92:   required from ‘void Eigen::SparseMatrix<_Scalar, _Flags, _StorageIndex>::setFromTriplets(const InputIterators&, const InputIterators&) [with InputIterators = __gnu_cxx::__normal_iterator<Eigen::Triplet<double>*, std::vector<Eigen::Triplet<double> > >; _Scalar = double; int _Options = 0; _StorageIndex = int]’
+CellChat_Rcpp.cpp:19:22:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h:47:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:271,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from CellChat_Rcpp.cpp:1:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::SparseMatrix<double, 1, int>, 0>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseCompressedBase.h:336:80:   required from ‘struct Eigen::internal::evaluator<Eigen::SparseCompressedBase<Eigen::SparseMatrix<double, 1, int> > >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:1505:8:   required from ‘struct Eigen::internal::evaluator<Eigen::SparseMatrix<double, 1, int> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:1181:93:   required from ‘Eigen::SparseMatrix<_Scalar, _Options, _StorageIndex>& Eigen::SparseMatrix<_Scalar, _Flags, _StorageIndex>::operator=(const Eigen::SparseMatrixBase<OtherDerived>&) [with OtherDerived = Eigen::SparseMatrix<double, 1, int>; _Scalar = double; int _Options = 0; _StorageIndex = int]’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:1063:7:   required from ‘void Eigen::internal::set_from_triplets(const InputIterator&, const InputIterator&, SparseMatrixType&, DupFunctor) [with InputIterator = __gnu_cxx::__normal_iterator<Eigen::Triplet<double>*, std::vector<Eigen::Triplet<double> > >; SparseMatrixType = Eigen::SparseMatrix<double, 0, int>; DupFunctor = Eigen::internal::scalar_sum_op<double, double>]’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:1110:92:   required from ‘void Eigen::SparseMatrix<_Scalar, _Flags, _StorageIndex>::setFromTriplets(const InputIterators&, const InputIterators&) [with InputIterators = __gnu_cxx::__normal_iterator<Eigen::Triplet<double>*, std::vector<Eigen::Triplet<double> > >; _Scalar = double; int _Options = 0; _StorageIndex = int]’
+CellChat_Rcpp.cpp:19:22:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::SparseMatrix<double, 0, int>, 0>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseCompressedBase.h:336:80:   required from ‘struct Eigen::internal::evaluator<Eigen::SparseCompressedBase<Eigen::SparseMatrix<double, 0, int> > >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:1505:8:   required from ‘struct Eigen::internal::evaluator<Eigen::SparseMatrix<double, 0, int> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseUtil.h:121:8:   required from ‘struct Eigen::internal::plain_object_eval<Eigen::SparseMatrix<double, 0, int>, Eigen::Sparse>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseProduct.h:71:53:   required from ‘static void Eigen::internal::generic_product_impl<Lhs, Rhs, Eigen::SparseShape, Eigen::SparseShape, ProductType>::evalTo(Dest&, const Lhs&, const Rhs&, Eigen::SparseShape) [with Dest = Eigen::SparseMatrix<double, 0, int>; Lhs = Eigen::SparseMatrix<double, 0, int>; Rhs = Eigen::Transpose<Eigen::SparseMatrix<double, 0, int> >; int ProductType = 8]’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseProduct.h:43:11:   required from ‘static void Eigen::internal::generic_product_impl<Lhs, Rhs, Eigen::SparseShape, Eigen::SparseShape, ProductType>::evalTo(Dest&, const Lhs&, const Rhs&) [with Dest = Eigen::SparseMatrix<double, 0, int>; Lhs = Eigen::SparseMatrix<double, 0, int>; Rhs = Eigen::Transpose<Eigen::SparseMatrix<double, 0, int> >; int ProductType = 8]’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseProduct.h:174:51:   required from ‘Eigen::SparseMatrix<_Scalar, _Options, _StorageIndex>& Eigen::SparseMatrix<_Scalar, _Flags, _StorageIndex>::operator=(const Eigen::Product<Lhs, Rhs, 2>&) [with Lhs = Eigen::SparseMatrix<double, 0, int>; Rhs = Eigen::Transpose<Eigen::SparseMatrix<double, 0, int> >; _Scalar = double; int _Options = 0; _StorageIndex = int]’
+CellChat_Rcpp.cpp:20:31:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/jinshengxi/Rlibrary/packages/Rcpp/include' -I'/home/jinshengxi/Rlibrary/packages/RcppEigen/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:205,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from RcppExports.cpp:4:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:46:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   46 | typedef eigen_packet_wrapper<__m128i, 0> Packet4i;
+      |                                        ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:47:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   47 | typedef eigen_packet_wrapper<__m128i, 1> Packet16b;
+      |                                        ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:49:39: warning: ignoring attributes on template argument ‘__m128’ [-Wignored-attributes]
+   49 | template<> struct is_arithmetic<__m128>  { enum { value = true }; };
+      |                                       ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:50:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   50 | template<> struct is_arithmetic<__m128i> { enum { value = true }; };
+      |                                        ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:51:40: warning: ignoring attributes on template argument ‘__m128d’ [-Wignored-attributes]
+   51 | template<> struct is_arithmetic<__m128d> { enum { value = true }; };
+      |                                        ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:222:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+  222 | template<> struct unpacket_traits<Packet4f> {
+      |                                           ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:228:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+  228 | template<> struct unpacket_traits<Packet2d> {
+      |                                           ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:1124:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+ 1124 | ptranspose(PacketBlock<Packet4f,4>& kernel) {
+      |                                  ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/PacketMath.h:1129:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+ 1129 | ptranspose(PacketBlock<Packet2d,2>& kernel) {
+      |                                  ^
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:174,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from RcppExports.cpp:4:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:165,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from RcppExports.cpp:4:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<float, 4>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<float, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:266:49:   required from ‘struct Eigen::internal::traits<Eigen::Quaternion<float> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/arch/Geometry_SIMD.h:24:46:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(4) float>::half’ {aka ‘__m128’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:271,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from RcppExports.cpp:4:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 0>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Matrix<float, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/MatrixBase.h:48:34:   required from ‘class Eigen::MatrixBase<Eigen::Matrix<float, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Matrix<float, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:178:7:   required from ‘class Eigen::Matrix<float, 4, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:46:50:   required from ‘class Eigen::QuaternionBase<Eigen::Quaternion<float> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:273:7:   required from ‘class Eigen::Quaternion<float>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/arch/Geometry_SIMD.h:27:3:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<float>::type’ {aka ‘__m128’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:165,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from RcppExports.cpp:4:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<double, 4>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<double, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:266:49:   required from ‘struct Eigen::internal::traits<Eigen::Quaternion<double> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/arch/Geometry_SIMD.h:98:47:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(2) double>::half’ {aka ‘__m128d’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:271,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from RcppExports.cpp:4:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 0>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Matrix<double, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/MatrixBase.h:48:34:   required from ‘class Eigen::MatrixBase<Eigen::Matrix<double, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Matrix<double, 4, 1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:178:7:   required from ‘class Eigen::Matrix<double, 4, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:46:50:   required from ‘class Eigen::QuaternionBase<Eigen::Quaternion<double> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/Quaternion.h:273:7:   required from ‘class Eigen::Quaternion<double>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Geometry/arch/Geometry_SIMD.h:102:3:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/SparseCore:37,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Sparse:26,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:29,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from RcppExports.cpp:4:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h: In instantiation of ‘class Eigen::SparseMatrixBase<Eigen::SparseMatrix<double, 0, int> >’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseCompressedBase.h:36:7:   required from ‘class Eigen::SparseCompressedBase<Eigen::SparseMatrix<double, 0, int> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrix.h:96:7:   required from ‘class Eigen::SparseMatrix<double, 0, int>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/unsupported/Eigen/src/IterativeSolvers/ConstrainedConjGrad.h:61:25:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/SparseCore/SparseMatrixBase.h:47:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   47 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:165,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from RcppExports.cpp:4:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<double, -1>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:178:7:   required from ‘class Eigen::Matrix<double, -1, -1>’
+RcppExports.cpp:22:61:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(2) double>::half’ {aka ‘__m128d’} [-Wignored-attributes]
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Core:271,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/Dense:1,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigenForward.h:28,
+                 from /home/jinshengxi/Rlibrary/packages/RcppEigen/include/RcppEigen.h:25,
+                 from RcppExports.cpp:4:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, -1, -1>, 0>’:
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, -1, -1>, 1>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Matrix<double, -1, -1>, 3>’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/MatrixBase.h:48:34:   required from ‘class Eigen::MatrixBase<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Matrix<double, -1, -1> >’
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/Matrix.h:178:7:   required from ‘class Eigen::Matrix<double, -1, -1>’
+RcppExports.cpp:22:61:   required from here
+/home/jinshengxi/Rlibrary/packages/RcppEigen/include/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o CellChat.so CellChat_Rcpp.o RcppExports.o -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/Rlib/00LOCK-CellChat/00new/CellChat/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (CellChat)
+CellChat installation PASS:  2.1.2 
+Error: unexpected ')' in "n('CellChat'))"
+Execution halted

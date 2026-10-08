@@ -1,0 +1,35 @@
+    final_cellchat_group total_cells n_samples_present n_samples_eligible
+                  <char>       <int>             <int>              <int>
+ 1:             Fibro_C0       10717                43                 20
+ 2:             Fibro_C1        5280                39                 22
+ 3:             Fibro_C2        1305                47                 10
+ 4:             Fibro_C3         913                39                  7
+ 5:             Fibro_C4         811                39                  7
+ 6:             Fibro_C5         716                37                 10
+ 7:             Fibro_C6         404                25                  3
+ 8:           Epithelial      130804                57                 49
+ 9:          Endothelial        8163                54                 33
+10:              Myeloid       34536                59                 55
+11:                 T_NK      121222                55                 50
+12:                    B       18622                51                 39
+13:               Plasma        8374                57                 30
+14:                 Mast        2510                51                 20
+    max_sample_cells
+               <int>
+ 1:             2774
+ 2:             1715
+ 3:              443
+ 4:              380
+ 5:              159
+ 6:              109
+ 7:              168
+ 8:             9601
+ 9:             1497
+10:             2398
+11:             6149
+12:             4610
+13:             1884
+14:              670
+   biological_samples total_cells included_cells
+                <int>       <int>          <int>
+1:                 59      353623         344377

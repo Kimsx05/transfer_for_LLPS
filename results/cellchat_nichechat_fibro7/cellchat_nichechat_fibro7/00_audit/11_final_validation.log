@@ -1,0 +1,2 @@
+Error: all(file.exists(sts$object_path)) is not TRUE
+Execution halted

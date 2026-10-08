@@ -1,0 +1,25 @@
+metric	value
+authoritative_major_object	/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/results/objects/major_annotated_with_LLPS77_AUC.qs
+authoritative_fibro7_object	/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/global_res012_object.qs
+Seurat_version	5.5.1
+SeuratObject_version	5.4.0
+CellChat_version	2.1.2
+total_cells	353623
+biological_samples	59
+patient_number	UNKNOWN: no patient field
+biological_sample_field	orig.ident
+patient_uid_field	ABSENT
+dataset_field	dataset
+major_field	major_celltype
+fibro_subtype_field	subcluster in frozen fibro object
+RNA_assay_structure	Assay5; counts/data dgCMatrix 71683x353623; scale.data matrix 3000x353623
+normalized_layer	RNA/data
+normalization	LogNormalize
+scale_factor	10000
+primary_included_cells	344377
+excluded_unresolved_cycling	7324
+excluded_previous_fibro_decisions	1922
+frozen_fibro_cells	20146
+frozen_subtype_barcode_match	PASS
+frozen_score_match	PASS
+seed	123
