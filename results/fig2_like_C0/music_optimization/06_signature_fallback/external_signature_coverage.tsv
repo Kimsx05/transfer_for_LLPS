@@ -1,0 +1,5 @@
+cohort	n_primary	n_unique_patients	signature_genes_present	universe_genes	missing_signature_genes	score_min	score_max	method
+"TCGA"	407	407	20	13659	0	-0.318097001246426	-0.0333877117090696	"fixed-universe normalized mean rank; expression score, not abundance"
+"GSE31684"	93	93	20	13659	0	-0.324012024341961	-0.208966933059608	"fixed-universe normalized mean rank; expression score, not abundance"
+"GSE48075"	142	142	20	13659	0	-0.300494904318498	0.0593133660825574	"fixed-universe normalized mean rank; expression score, not abundance"
+"GSE13507"	165	165	20	13659	0	-0.345054622772931	-0.0407012977491019	"fixed-universe normalized mean rank; expression score, not abundance"

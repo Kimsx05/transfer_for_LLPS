@@ -1,0 +1,2 @@
+cohort	n	events	n_low	n_high	cutoff	cutoff_rule	time_unit	logrank_p	HR_high_vs_low	lower95	upper95
+"GSE31684"	93	65	47	46	-0.288303761272821	"median valid OS cases; Low<=median, High>median"	"months"	0.115582468235249	1.4935491430191	0.903403768877329	2.46920493301152

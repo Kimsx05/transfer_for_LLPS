@@ -1,0 +1,34 @@
+A	Reading frozen object and validating labels, scores and palette 
+A	Reading frozen object and validating labels, scores and palette 
+A	COMPLETE 
+B1	COMPLETE 
+B2	COMPLETE 
+C	COMPLETE 
+PSEUDOBULK_INPUT	COMPLETE 
+G_DEG	C0 versus pooled C1-C6; raw-count pseudobulk 
+G_DEG	COMPLETE: 9455 tested; 1145 upregulated 
+G_GO	Mapping tested genes and using the tested-gene background 
+A	Reading frozen object and validating labels, scores and palette 
+G_GO	COMPLETE 
+H_KEGG	Using the same foreground and tested-gene background as GO 
+H_KEGG	COMPLETE 
+I_GSEA	Hallmark v2025.1.Hs; signed sqrt(QL F); all tested genes 
+I_GSEA	COMPLETE: 21 significant Hallmarks; 5 individual plots 
+A	COMPLETE 
+B1	COMPLETE 
+B2	COMPLETE 
+C	COMPLETE 
+PSEUDOBULK_INPUT	COMPLETE 
+G_GO	Mapping tested genes and using the tested-gene background 
+G_GO	COMPLETE 
+H_KEGG	Using the same foreground and tested-gene background as GO 
+H_KEGG	COMPLETE 
+I_GSEA	Hallmark v2025.1.Hs; signed sqrt(QL F); all tested genes 
+I_GSEA	COMPLETE: 21 significant Hallmarks; 5 individual plots 
+G_GO	Mapping tested genes and using the tested-gene background 
+G_GO	COMPLETE 
+H_KEGG	Using the same foreground and tested-gene background as GO 
+H_KEGG	COMPLETE 
+I_GSEA	Hallmark v2025.1.Hs; signed sqrt(QL F); all tested genes 
+I_GSEA	COMPLETE: 21 significant Hallmarks; 5 individual plots 
+VALIDATION	PASS: 39 checks 

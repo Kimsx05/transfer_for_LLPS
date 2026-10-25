@@ -1,0 +1,14 @@
+     cohort                          model time_months     n events        HR
+     <char>                         <char>       <num> <int>  <num>     <num>
+1:     TCGA time_varying_score_sensitivity          12   403    176 1.0586910
+2:     TCGA time_varying_score_sensitivity          36   403    176 1.3296067
+3:     TCGA time_varying_score_sensitivity          60   403    176 1.5191742
+4: GSE31684   stage_stratified_sensitivity          NA    93     65 1.0853025
+5: GSE13507   stage_stratified_sensitivity          NA   165     69 0.9954547
+     lower95  upper95     p_value
+       <num>    <num>       <num>
+1: 0.9137312 1.226648 0.447768058
+2: 1.0823264 1.633384 0.006656387
+3: 1.1174516 2.065316 0.007614080
+4: 0.8456732 1.392833 0.520162120
+5: 0.7346646 1.348820 0.976551539

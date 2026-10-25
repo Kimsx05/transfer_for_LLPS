@@ -1,0 +1,2 @@
+cohort	estimand	stage_definition	n	n_groups	KW_chisq	KW_p	trend_n	trend_rho	trend_p	trend_note
+"TCGA"	"C0-like signature score"	"Pathological AJCC stage"	405	4	41.4597825391088	5.22391570463523e-09	405	0.289549973379672	2.90786821930867e-09	"Tis excluded from ordinal trend; T is not overall stage"

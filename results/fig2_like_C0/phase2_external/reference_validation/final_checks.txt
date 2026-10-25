@@ -1,0 +1,7 @@
+PASS: frozen proportion definition; zero denominators remain NA.
+PASS: 13 unique verified patient pairs.
+PASS: pseudobulk comparisons use distinct patients.
+PASS: all reference estimates nonnegative, sum to 1, identical-scale stromal denominator.
+PASS: natural-mixture truth agrees with actual cell counts.
+PASS: legacy C0–C6 colors unchanged.
+PASS: failed validation gate honored; no downstream abundance clinical figures.

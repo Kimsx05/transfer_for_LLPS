@@ -1,0 +1,2 @@
+cohort	estimand	stage_definition	n	n_groups	KW_chisq	KW_p	trend_n	trend_rho	trend_p	trend_note
+"GSE31684"	"C0-like signature score"	"Pathological T at cystectomy"	93	5	8.11813531972769	0.0873453523975351	93	0.150281108657792	0.15048022800637	"Tis excluded from ordinal trend; T is not overall stage"

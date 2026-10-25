@@ -1,0 +1,5 @@
+cohort	estimand	stage_definition	n	n_groups	KW_chisq	KW_p	trend_n	trend_rho	trend_p	trend_note	KW_FDR_across_cohorts	trend_FDR_across_cohorts
+"TCGA"	"C0-like signature score"	"Pathological AJCC stage"	405	4	41.4597825391088	5.22391570463523e-09	405	0.289549973379672	2.90786821930867e-09	"Tis excluded from ordinal trend; T is not overall stage"	2.08956628185409e-08	1.16314728772347e-08
+"GSE31684"	"C0-like signature score"	"Pathological T at cystectomy"	93	5	8.11813531972769	0.0873453523975351	93	0.150281108657792	0.15048022800637	"Tis excluded from ordinal trend; T is not overall stage"	0.11646046986338	0.200551977645195
+"GSE48075"	"C0-like signature score"	"Clinical T"	137	6	22.4422463355366	0.000431341700061123	135	0.248247945349331	0.00369433285119478	"Tis excluded from ordinal trend; T is not overall stage"	0.000862683400122246	0.00738866570238957
+"GSE13507"	"C0-like signature score"	"Reported TNM T component"	165	5	7.2857970808318	0.121534186698147	165	0.100157014136422	0.200551977645195	"Tis excluded from ordinal trend; T is not overall stage"	0.121534186698147	0.200551977645195

@@ -1,0 +1,40 @@
+check	pass
+"Frozen 20146 cells and 10717 C0 cells"	TRUE
+"One row per cell"	TRUE
+"Exact inherited cluster palette"	TRUE
+"All seven frozen clusters"	TRUE
+"Every sample count agrees with cells"	TRUE
+"Only C0 / all Fibro+Pericyte denominator"	TRUE
+"Zero denominator is NA, not zero"	TRUE
+"All 59 samples accounted for"	TRUE
+"Known paired and alternate specimens excluded from independent test"	TRUE
+"Original sample labels and counts preserved"	TRUE
+"DEG FDR is BH adjustment of primary p values"	TRUE
+"UP foreground uses declared FDR and effect threshold"	TRUE
+"Ranks cover all and only tested genes"	TRUE
+"Only negligible negative QL F with P=1 is floored for ranking"	TRUE
+"Signed ranks and descending order"	TRUE
+"No known patient repeated in primary DEG"	TRUE
+"16 paired sample aggregates with at least 20 cells per arm"	TRUE
+"Identifiable paired designs"	TRUE
+"All 50 Hallmarks retained in results"	TRUE
+"All GSEA plot selections pass FDR"	TRUE
+"Enrichment curve ES matches fgsea EMT"	TRUE
+"Enrichment curve ES matches fgsea HYPOXIA"	TRUE
+"Enrichment curve ES matches fgsea INFLAMMATORY_RESPONSE"	TRUE
+"Enrichment curve ES matches fgsea TGFB"	TRUE
+"Enrichment curve ES matches fgsea TNFA_SIGNALING_VIA_NFKB"	TRUE
+"All seven fixed figures exist"	TRUE
+"Exactly 12 independent PDF+PNG figure pairs"	TRUE
+"Single page PDF Fig2A_fibro_pericyte_umap.pdf"	TRUE
+"Single page PDF Fig2B1_LLPSscore_umap_continuous.pdf"	TRUE
+"Single page PDF Fig2B2_LLPSscore_by_cluster_violin.pdf"	TRUE
+"Single page PDF Fig2C_C0_fraction_tumor_vs_normal_paired.pdf"	TRUE
+"Single page PDF Fig2C_C0_fraction_tumor_vs_normal.pdf"	TRUE
+"Single page PDF Fig2G_C0_GO_barplot.pdf"	TRUE
+"Single page PDF Fig2H_C0_KEGG_barplot.pdf"	TRUE
+"Single page PDF Fig2I_GSEA_EMT.pdf"	TRUE
+"Single page PDF Fig2I_GSEA_HYPOXIA.pdf"	TRUE
+"Single page PDF Fig2I_GSEA_INFLAMMATORY_RESPONSE.pdf"	TRUE
+"Single page PDF Fig2I_GSEA_TGFB.pdf"	TRUE
+"Single page PDF Fig2I_GSEA_TNFA_SIGNALING_VIA_NFKB.pdf"	TRUE

@@ -1,0 +1,5 @@
+cohort	platform	n_expression_samples	n_features	expression_min	expression_max	n_primary_tumor	n_distinct_patient_labels	patient_identity_note	n_valid_T	n_valid_overall_stage	n_valid_OS	OS_events	time_unit	n_mapped_genes	expression_type
+GSE31684	GPL570	93	54675	2.231162366	16.35184126	93	93	study specimen identifiers; no duplicate labels; explicit cross-specimen patient links absent	93	0	93	65	months	20848	
+GSE48075	GPL6947	142	48803	5.054414272	15.35396385	142	142	study specimen identifiers; no duplicate labels; explicit cross-specimen patient links absent	138	0	73	45	months	19593	
+GSE13507	GPL6102	256	43148	6.25	15.84	165	165	study specimen identifiers; no duplicate labels; explicit cross-specimen patient links absent	165	0	165	69	months	19188	
+TCGA-BLCA	Illumina HiSeq RNASeqV2	426				407	407	TCGA 12-character participant barcode		405	405	177	days; months=days/30.4375		log2(RSEM normalized counts+1)

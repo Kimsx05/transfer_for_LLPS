@@ -1,0 +1,8 @@
+Primary: C0 versus pooled C1-C6, within the same sample.
+At least 20 cells in each arm; retain one specimen per known patient by largest minimum arm size, tie by sample name.
+Honor existing primary_replication_allowed flag for the user-confirmed T4463209a/b relationship.
+edgeR TMM, filterByExpr(group), robust estimateDisp and robust glmQLFit; design ~sample + group, Others reference.
+BH FDR < 0.05 AND log2FC > 0.25 defines C0 upregulated genes for BOTH GO and KEGG.
+Sample effects absorb sample-level dataset/tissue intercepts; pooled effects need not be identical in tumors and normal tissue.
+Sensitivity: >=50 cells per arm and tumor-only; same sample-independent gene filtering. These do not replace primary p values.
+Ranks = sign(logFC)*sqrt(QL F), all expressed/tested genes; no arbitrary top-N gene cutoff.

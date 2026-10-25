@@ -1,0 +1,7 @@
+PASS: reserved 20 never used in new references/signature selection (runtime assertions).
+PASS: every original evaluation patient retained, failures explicit.
+PASS: cluster-fraction predictions are same-fit numerator/denominator.
+PASS: four cohorts use a fixed median among valid OS cases.
+PASS: risk table counts recomputed from raw follow-up at each plotted time.
+PASS: patient IDs unique within each clinical cohort; positive OS times; binary events.
+PASS: all clinical outputs explicitly use C0-like signature score, not abundance.

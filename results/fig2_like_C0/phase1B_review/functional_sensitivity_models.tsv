@@ -1,0 +1,4 @@
+model	comparator	n_samples	n_Tumor	n_Normal	tested	up
+"C0_vs_fibro45"	"C4+C5"	11	8	3	6208	240
+"C0_vs_fibro245"	"C2+C4+C5"	13	8	5	8441	565
+"C0_vs_all_matched_fibro45"	"C1+C2+C3+C4+C5+C6"	11	8	3	9656	737

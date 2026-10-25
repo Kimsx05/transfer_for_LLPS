@@ -1,0 +1,2 @@
+PASS: all original Phase 1 hashes and all 154 prior Phase1B/Phase2 indexed artifacts unchanged.
+PASS: 18 one-page PDFs and 18 PNGs at 350 dpi.

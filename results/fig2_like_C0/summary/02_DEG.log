@@ -1,0 +1,6 @@
+2026-10-25 10:15:36 G_DEG C0 versus pooled C1-C6; raw-count pseudobulk 
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Warning message:
+In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+2026-10-25 10:15:56 G_DEG COMPLETE: 9455 tested; 1145 upregulated 

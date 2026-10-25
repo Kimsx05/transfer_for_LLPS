@@ -1,0 +1,10 @@
+dataset	tissue_origin	n_source	n_with_stroma	n_included
+"HRA003620"	"Tumor"	7	5	5
+"HRA003620"	"Normal"	7	7	7
+"GSE135337"	"Tumor"	7	4	4
+"GSE135337"	"Normal"	1	1	1
+"GSE222315"	"Tumor"	9	9	9
+"GSE222315"	"Normal"	3	3	3
+"CNP0000460"	"Normal"	5	5	5
+"CNP0000460"	"Tumor"	7	7	7
+"InhouseData"	"Tumor"	13	13	12

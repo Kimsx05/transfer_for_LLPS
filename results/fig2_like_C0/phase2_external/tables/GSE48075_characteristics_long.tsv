@@ -1,0 +1,796 @@
+sample	field	value
+GSM1167333	cstage	cT1
+GSM1167334	fgfr3 mutation (1;yes, 0;no)	NA
+GSM1167335	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167336	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167337	cstage	cTa
+GSM1167338	cstage	cT1N0M0
+GSM1167339	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167340	cstage	cT1
+GSM1167341	cstage	cT1N0M0
+GSM1167342	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167343	cstage	cT1N0M0
+GSM1167344	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167345	cstage	cT1N0M0
+GSM1167346	fgfr3 mutation (1;yes, 0;no)	NA
+GSM1167347	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167348	cstage	cT1
+GSM1167349	cstage	cT1
+GSM1167350	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167351	cstage	cTa
+GSM1167352	cstage	cTaN0M0
+GSM1167353	cstage	cTaN0M0
+GSM1167354	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167355	cstage	cTaN0M0
+GSM1167356	cstage	cTaN0M0
+GSM1167357	cstage	cTa/isN0M0
+GSM1167358	cstage	cTaN0M0
+GSM1167359	cstage	cTaN0M0
+GSM1167360	fgfr3 mutation (1;yes, 0;no)	NA
+GSM1167361	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167362	cstage	cTaN0M0
+GSM1167363	fgfr3 mutation (1;yes, 0;no)	NA
+GSM1167364	cstage	cTaN0M0
+GSM1167365	cstage	cTaN0M0
+GSM1167366	cstage	cT1N0M0
+GSM1167367	cstage	cTaN0M0
+GSM1167368	cstage	cTa/isN0M0
+GSM1167369	cstage	cTaN0M0
+GSM1167370	cstage	cTaN0M0
+GSM1167371	cstage	cTa
+GSM1167372	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167373	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167374	cstage	cT1N0M0
+GSM1167375	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167376	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167377	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167378	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167379	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167380	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167381	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167382	cstage	cT1N0
+GSM1167383	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167384	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167385	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167386	cstage	cT1N0
+GSM1167387	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167388	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167389	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167390	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167391	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167392	cstage	cT1N0M0
+GSM1167393	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167394	cstage	cT1N0M0
+GSM1167395	cstage	cT1N0M0
+GSM1167396	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167397	cstage	cT1N0
+GSM1167398	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167399	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167400	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167401	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167402	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167403	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167404	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167405	cstage	cTaN0
+GSM1167406	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167407	cstage	cT1N0M0
+GSM1167408	cstage	cTa-T1N0
+GSM1167409	cstage	cTaN0
+GSM1167410	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167411	cstage	cTaN0
+GSM1167412	cstage	cTaN0
+GSM1167413	cstage	cTaN0M0
+GSM1167414	fgfr3 mutation (1;yes, 0;no)	NA
+GSM1167415	cstage	cT1N0M0
+GSM1167416	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167417	cstage	cT1N0M0
+GSM1167418	cstage	cT1N0M0
+GSM1167419	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167420	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167421	cstage	cT1N0M0
+GSM1167422	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167423	cstage	cTisN0M0
+GSM1167424	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167425	cstage	cT1N0M0
+GSM1167426	cstage	cT1N0M0
+GSM1167427	cstage	cT1N0M0
+GSM1167428	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167429	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167430	cstage	cTaN0M0
+GSM1167431	cstage	cT1N0M0
+GSM1167432	cstage	cTaN0M0
+GSM1167433	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167434	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167435	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167436	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167437	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167438	cstage	cT1N0M0
+GSM1167439	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167440	cstage	cT1N0M0
+GSM1167441	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167442	cstage	cTaN0M0
+GSM1167443	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167444	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167445	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167446	cstage	cTaN0M0
+GSM1167447	cstage	cTaN0M0
+GSM1167448	cstage	cTaN0M0
+GSM1167449	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167450	cstage	cTaN0M0
+GSM1167451	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167452	cstage	cTaN0M0
+GSM1167453	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167454	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167455	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167456	cstage	cTaN0M0
+GSM1167457	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167458	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167459	cstage	CT1N+M+
+GSM1167460	cstage	cT1N0M0
+GSM1167461	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167462	fgfr3 mutation (1;yes, 0;no)	1
+GSM1167463	cstage	cTaN0M0
+GSM1167464	cstage	cT1N0M0
+GSM1167465	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167466	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167467	cstage	cT1N0M0
+GSM1167468	fgfr3 mutation (1;yes, 0;no)	0
+GSM1167469	fgfr3 mutation (1;yes, 0;no)	NA
+GSM1167470	cstage	cT1N0M0
+GSM1167471	cstage	cTisN0M0
+GSM1167472	cstage	cTaN0M0
+GSM1167473	fgfr3 mutation (1;yes, 0;no)	NA
+GSM1167474	cstage	cT1N0M0
+GSM1167333	gender	Male
+GSM1167334	ras mutation (1;yes, 0;no)	NA
+GSM1167335	ras mutation (1;yes, 0;no)	0
+GSM1167336	ras mutation (1;yes, 0;no)	0
+GSM1167337	gender	Female
+GSM1167338	gender	male
+GSM1167339	ras mutation (1;yes, 0;no)	0
+GSM1167340	gender	Male
+GSM1167341	gender	male
+GSM1167342	ras mutation (1;yes, 0;no)	0
+GSM1167343	gender	male
+GSM1167344	ras mutation (1;yes, 0;no)	0
+GSM1167345	gender	male
+GSM1167346	ras mutation (1;yes, 0;no)	NA
+GSM1167347	ras mutation (1;yes, 0;no)	0
+GSM1167348	gender	Male
+GSM1167349	gender	Male
+GSM1167350	ras mutation (1;yes, 0;no)	0
+GSM1167351	gender	Male
+GSM1167352	gender	male
+GSM1167353	gender	Female
+GSM1167354	ras mutation (1;yes, 0;no)	0
+GSM1167355	gender	male
+GSM1167356	gender	male
+GSM1167357	gender	female
+GSM1167358	gender	male
+GSM1167359	gender	male
+GSM1167360	ras mutation (1;yes, 0;no)	NA
+GSM1167361	ras mutation (1;yes, 0;no)	0
+GSM1167362	gender	male
+GSM1167363	ras mutation (1;yes, 0;no)	NA
+GSM1167364	gender	male
+GSM1167365	gender	male
+GSM1167366	gender	male
+GSM1167367	gender	Female
+GSM1167368	gender	male
+GSM1167369	gender	Female
+GSM1167370	gender	Female
+GSM1167371	gender	Female
+GSM1167372	ras mutation (1;yes, 0;no)	0
+GSM1167373	ras mutation (1;yes, 0;no)	1
+GSM1167374	gender	male
+GSM1167375	ras mutation (1;yes, 0;no)	0
+GSM1167376	ras mutation (1;yes, 0;no)	0
+GSM1167377	ras mutation (1;yes, 0;no)	0
+GSM1167378	ras mutation (1;yes, 0;no)	0
+GSM1167379	ras mutation (1;yes, 0;no)	0
+GSM1167380	ras mutation (1;yes, 0;no)	0
+GSM1167381	ras mutation (1;yes, 0;no)	0
+GSM1167382	gender	Male
+GSM1167383	ras mutation (1;yes, 0;no)	0
+GSM1167384	ras mutation (1;yes, 0;no)	0
+GSM1167385	ras mutation (1;yes, 0;no)	0
+GSM1167386	gender	Female
+GSM1167387	ras mutation (1;yes, 0;no)	0
+GSM1167388	ras mutation (1;yes, 0;no)	0
+GSM1167389	ras mutation (1;yes, 0;no)	0
+GSM1167390	ras mutation (1;yes, 0;no)	0
+GSM1167391	ras mutation (1;yes, 0;no)	0
+GSM1167392	gender	Male
+GSM1167393	ras mutation (1;yes, 0;no)	0
+GSM1167394	gender	Female
+GSM1167395	gender	Male
+GSM1167396	ras mutation (1;yes, 0;no)	0
+GSM1167397	gender	Female
+GSM1167398	ras mutation (1;yes, 0;no)	1
+GSM1167399	ras mutation (1;yes, 0;no)	0
+GSM1167400	ras mutation (1;yes, 0;no)	0
+GSM1167401	ras mutation (1;yes, 0;no)	0
+GSM1167402	ras mutation (1;yes, 0;no)	0
+GSM1167403	ras mutation (1;yes, 0;no)	0
+GSM1167404	ras mutation (1;yes, 0;no)	0
+GSM1167405	gender	Female
+GSM1167406	ras mutation (1;yes, 0;no)	0
+GSM1167407	gender	male
+GSM1167408	gender	Male
+GSM1167409	gender	Female
+GSM1167410	ras mutation (1;yes, 0;no)	0
+GSM1167411	gender	Male
+GSM1167412	gender	Male
+GSM1167413	gender	male
+GSM1167414	ras mutation (1;yes, 0;no)	NA
+GSM1167415	gender	male
+GSM1167416	ras mutation (1;yes, 0;no)	0
+GSM1167417	gender	male
+GSM1167418	gender	male
+GSM1167419	ras mutation (1;yes, 0;no)	0
+GSM1167420	ras mutation (1;yes, 0;no)	0
+GSM1167421	gender	male
+GSM1167422	ras mutation (1;yes, 0;no)	0
+GSM1167423	gender	male
+GSM1167424	ras mutation (1;yes, 0;no)	0
+GSM1167425	gender	female
+GSM1167426	gender	male
+GSM1167427	gender	male
+GSM1167428	ras mutation (1;yes, 0;no)	0
+GSM1167429	ras mutation (1;yes, 0;no)	0
+GSM1167430	gender	male
+GSM1167431	gender	Female
+GSM1167432	gender	Male
+GSM1167433	ras mutation (1;yes, 0;no)	0
+GSM1167434	ras mutation (1;yes, 0;no)	0
+GSM1167435	ras mutation (1;yes, 0;no)	0
+GSM1167436	ras mutation (1;yes, 0;no)	0
+GSM1167437	ras mutation (1;yes, 0;no)	0
+GSM1167438	gender	male
+GSM1167439	ras mutation (1;yes, 0;no)	0
+GSM1167440	gender	male
+GSM1167441	ras mutation (1;yes, 0;no)	0
+GSM1167442	gender	male
+GSM1167443	ras mutation (1;yes, 0;no)	0
+GSM1167444	ras mutation (1;yes, 0;no)	0
+GSM1167445	ras mutation (1;yes, 0;no)	0
+GSM1167446	gender	Male
+GSM1167447	gender	Male
+GSM1167448	gender	Female
+GSM1167449	ras mutation (1;yes, 0;no)	0
+GSM1167450	gender	Male
+GSM1167451	ras mutation (1;yes, 0;no)	0
+GSM1167452	gender	male
+GSM1167453	ras mutation (1;yes, 0;no)	0
+GSM1167454	ras mutation (1;yes, 0;no)	1
+GSM1167455	ras mutation (1;yes, 0;no)	0
+GSM1167456	gender	Male
+GSM1167457	ras mutation (1;yes, 0;no)	0
+GSM1167458	ras mutation (1;yes, 0;no)	0
+GSM1167459	gender	Male
+GSM1167460	gender	Male
+GSM1167461	ras mutation (1;yes, 0;no)	0
+GSM1167462	ras mutation (1;yes, 0;no)	0
+GSM1167463	gender	Male
+GSM1167464	gender	Male
+GSM1167465	ras mutation (1;yes, 0;no)	0
+GSM1167466	ras mutation (1;yes, 0;no)	0
+GSM1167467	gender	male
+GSM1167468	ras mutation (1;yes, 0;no)	0
+GSM1167469	ras mutation (1;yes, 0;no)	NA
+GSM1167470	gender	female
+GSM1167471	gender	male
+GSM1167472	gender	male
+GSM1167473	ras mutation (1;yes, 0;no)	NA
+GSM1167474	gender	female
+GSM1167334	rb1 mutation (1;yes, 0;no)	NA
+GSM1167335	rb1 mutation (1;yes, 0;no)	0
+GSM1167336	rb1 mutation (1;yes, 0;no)	0
+GSM1167339	rb1 mutation (1;yes, 0;no)	0
+GSM1167342	rb1 mutation (1;yes, 0;no)	0
+GSM1167344	rb1 mutation (1;yes, 0;no)	0
+GSM1167346	rb1 mutation (1;yes, 0;no)	NA
+GSM1167347	rb1 mutation (1;yes, 0;no)	1
+GSM1167350	rb1 mutation (1;yes, 0;no)	1
+GSM1167354	rb1 mutation (1;yes, 0;no)	0
+GSM1167360	rb1 mutation (1;yes, 0;no)	NA
+GSM1167361	rb1 mutation (1;yes, 0;no)	0
+GSM1167363	rb1 mutation (1;yes, 0;no)	NA
+GSM1167372	rb1 mutation (1;yes, 0;no)	0
+GSM1167373	rb1 mutation (1;yes, 0;no)	0
+GSM1167375	rb1 mutation (1;yes, 0;no)	0
+GSM1167376	rb1 mutation (1;yes, 0;no)	0
+GSM1167377	rb1 mutation (1;yes, 0;no)	0
+GSM1167378	rb1 mutation (1;yes, 0;no)	0
+GSM1167379	rb1 mutation (1;yes, 0;no)	0
+GSM1167380	rb1 mutation (1;yes, 0;no)	0
+GSM1167381	rb1 mutation (1;yes, 0;no)	0
+GSM1167383	rb1 mutation (1;yes, 0;no)	0
+GSM1167384	rb1 mutation (1;yes, 0;no)	0
+GSM1167385	rb1 mutation (1;yes, 0;no)	0
+GSM1167387	rb1 mutation (1;yes, 0;no)	0
+GSM1167388	rb1 mutation (1;yes, 0;no)	0
+GSM1167389	rb1 mutation (1;yes, 0;no)	0
+GSM1167390	rb1 mutation (1;yes, 0;no)	0
+GSM1167391	rb1 mutation (1;yes, 0;no)	0
+GSM1167393	rb1 mutation (1;yes, 0;no)	0
+GSM1167396	rb1 mutation (1;yes, 0;no)	0
+GSM1167398	rb1 mutation (1;yes, 0;no)	0
+GSM1167399	rb1 mutation (1;yes, 0;no)	0
+GSM1167400	rb1 mutation (1;yes, 0;no)	0
+GSM1167401	rb1 mutation (1;yes, 0;no)	0
+GSM1167402	rb1 mutation (1;yes, 0;no)	0
+GSM1167403	rb1 mutation (1;yes, 0;no)	0
+GSM1167404	rb1 mutation (1;yes, 0;no)	0
+GSM1167406	rb1 mutation (1;yes, 0;no)	0
+GSM1167410	rb1 mutation (1;yes, 0;no)	0
+GSM1167414	rb1 mutation (1;yes, 0;no)	NA
+GSM1167416	rb1 mutation (1;yes, 0;no)	1
+GSM1167419	rb1 mutation (1;yes, 0;no)	0
+GSM1167420	rb1 mutation (1;yes, 0;no)	0
+GSM1167422	rb1 mutation (1;yes, 0;no)	1
+GSM1167424	rb1 mutation (1;yes, 0;no)	0
+GSM1167428	rb1 mutation (1;yes, 0;no)	0
+GSM1167429	rb1 mutation (1;yes, 0;no)	0
+GSM1167433	rb1 mutation (1;yes, 0;no)	0
+GSM1167434	rb1 mutation (1;yes, 0;no)	0
+GSM1167435	rb1 mutation (1;yes, 0;no)	1
+GSM1167436	rb1 mutation (1;yes, 0;no)	0
+GSM1167437	rb1 mutation (1;yes, 0;no)	0
+GSM1167439	rb1 mutation (1;yes, 0;no)	0
+GSM1167441	rb1 mutation (1;yes, 0;no)	0
+GSM1167443	rb1 mutation (1;yes, 0;no)	0
+GSM1167444	rb1 mutation (1;yes, 0;no)	0
+GSM1167445	rb1 mutation (1;yes, 0;no)	0
+GSM1167449	rb1 mutation (1;yes, 0;no)	0
+GSM1167451	rb1 mutation (1;yes, 0;no)	0
+GSM1167453	rb1 mutation (1;yes, 0;no)	0
+GSM1167454	rb1 mutation (1;yes, 0;no)	0
+GSM1167455	rb1 mutation (1;yes, 0;no)	1
+GSM1167457	rb1 mutation (1;yes, 0;no)	0
+GSM1167458	rb1 mutation (1;yes, 0;no)	1
+GSM1167461	rb1 mutation (1;yes, 0;no)	0
+GSM1167462	rb1 mutation (1;yes, 0;no)	0
+GSM1167465	rb1 mutation (1;yes, 0;no)	0
+GSM1167466	rb1 mutation (1;yes, 0;no)	0
+GSM1167468	rb1 mutation (1;yes, 0;no)	0
+GSM1167469	rb1 mutation (1;yes, 0;no)	NA
+GSM1167473	rb1 mutation (1;yes, 0;no)	NA
+GSM1167334	p53 mutation (1;yes, 0;no)	NA
+GSM1167335	p53 mutation (1;yes, 0;no)	1
+GSM1167336	p53 mutation (1;yes, 0;no)	1
+GSM1167339	p53 mutation (1;yes, 0;no)	0
+GSM1167342	p53 mutation (1;yes, 0;no)	0
+GSM1167344	p53 mutation (1;yes, 0;no)	1
+GSM1167346	p53 mutation (1;yes, 0;no)	NA
+GSM1167347	p53 mutation (1;yes, 0;no)	0
+GSM1167350	p53 mutation (1;yes, 0;no)	1
+GSM1167354	p53 mutation (1;yes, 0;no)	1
+GSM1167360	p53 mutation (1;yes, 0;no)	NA
+GSM1167361	p53 mutation (1;yes, 0;no)	0
+GSM1167363	p53 mutation (1;yes, 0;no)	NA
+GSM1167372	p53 mutation (1;yes, 0;no)	0
+GSM1167373	p53 mutation (1;yes, 0;no)	0
+GSM1167375	p53 mutation (1;yes, 0;no)	0
+GSM1167376	p53 mutation (1;yes, 0;no)	1
+GSM1167377	p53 mutation (1;yes, 0;no)	0
+GSM1167378	p53 mutation (1;yes, 0;no)	0
+GSM1167379	p53 mutation (1;yes, 0;no)	1
+GSM1167380	p53 mutation (1;yes, 0;no)	0
+GSM1167381	p53 mutation (1;yes, 0;no)	0
+GSM1167383	p53 mutation (1;yes, 0;no)	0
+GSM1167384	p53 mutation (1;yes, 0;no)	0
+GSM1167385	p53 mutation (1;yes, 0;no)	0
+GSM1167387	p53 mutation (1;yes, 0;no)	0
+GSM1167388	p53 mutation (1;yes, 0;no)	1
+GSM1167389	p53 mutation (1;yes, 0;no)	0
+GSM1167390	p53 mutation (1;yes, 0;no)	0
+GSM1167391	p53 mutation (1;yes, 0;no)	1
+GSM1167393	p53 mutation (1;yes, 0;no)	0
+GSM1167396	p53 mutation (1;yes, 0;no)	0
+GSM1167398	p53 mutation (1;yes, 0;no)	0
+GSM1167399	p53 mutation (1;yes, 0;no)	0
+GSM1167400	p53 mutation (1;yes, 0;no)	0
+GSM1167401	p53 mutation (1;yes, 0;no)	0
+GSM1167402	p53 mutation (1;yes, 0;no)	1
+GSM1167403	p53 mutation (1;yes, 0;no)	0
+GSM1167404	p53 mutation (1;yes, 0;no)	0
+GSM1167406	p53 mutation (1;yes, 0;no)	1
+GSM1167410	p53 mutation (1;yes, 0;no)	0
+GSM1167414	p53 mutation (1;yes, 0;no)	NA
+GSM1167416	p53 mutation (1;yes, 0;no)	1
+GSM1167419	p53 mutation (1;yes, 0;no)	1
+GSM1167420	p53 mutation (1;yes, 0;no)	0
+GSM1167422	p53 mutation (1;yes, 0;no)	0
+GSM1167424	p53 mutation (1;yes, 0;no)	0
+GSM1167428	p53 mutation (1;yes, 0;no)	1
+GSM1167429	p53 mutation (1;yes, 0;no)	1
+GSM1167433	p53 mutation (1;yes, 0;no)	0
+GSM1167434	p53 mutation (1;yes, 0;no)	0
+GSM1167435	p53 mutation (1;yes, 0;no)	0
+GSM1167436	p53 mutation (1;yes, 0;no)	1
+GSM1167437	p53 mutation (1;yes, 0;no)	0
+GSM1167439	p53 mutation (1;yes, 0;no)	1
+GSM1167441	p53 mutation (1;yes, 0;no)	1
+GSM1167443	p53 mutation (1;yes, 0;no)	0
+GSM1167444	p53 mutation (1;yes, 0;no)	1
+GSM1167445	p53 mutation (1;yes, 0;no)	1
+GSM1167449	p53 mutation (1;yes, 0;no)	0
+GSM1167451	p53 mutation (1;yes, 0;no)	0
+GSM1167453	p53 mutation (1;yes, 0;no)	0
+GSM1167454	p53 mutation (1;yes, 0;no)	1
+GSM1167455	p53 mutation (1;yes, 0;no)	1
+GSM1167457	p53 mutation (1;yes, 0;no)	0
+GSM1167458	p53 mutation (1;yes, 0;no)	0
+GSM1167461	p53 mutation (1;yes, 0;no)	1
+GSM1167462	p53 mutation (1;yes, 0;no)	0
+GSM1167465	p53 mutation (1;yes, 0;no)	0
+GSM1167466	p53 mutation (1;yes, 0;no)	0
+GSM1167468	p53 mutation (1;yes, 0;no)	0
+GSM1167469	p53 mutation (1;yes, 0;no)	NA
+GSM1167473	p53 mutation (1;yes, 0;no)	NA
+GSM1167334	cstage	cT2N0M0
+GSM1167335	cstage	cT3bN0M0
+GSM1167336	cstage	cT3bN+M+
+GSM1167339	cstage	cT3bN0M0
+GSM1167342	cstage	pT3bN0M0
+GSM1167344	cstage	cT2N0M0
+GSM1167346	cstage	cT2N0M0
+GSM1167347	cstage	cT4bN0M+
+GSM1167350	cstage	cT2N0M0
+GSM1167354	cstage	cT2N0M0
+GSM1167360	cstage	cT4bN0M0
+GSM1167361	cstage	cT3bN0M0
+GSM1167363	cstage	cT3bN0M0
+GSM1167372	cstage	cT2N0M0
+GSM1167373	cstage	cT2N0M0
+GSM1167375	cstage	cT2N0M0
+GSM1167376	cstage	cT3bN0M0
+GSM1167377	cstage	cT4aN0M0
+GSM1167378	cstage	cT2N0M0
+GSM1167379	cstage	cT4bN0M0
+GSM1167380	cstage	cT3bN+M0
+GSM1167381	cstage	cT2N0M0
+GSM1167383	cstage	cT2N0M+
+GSM1167384	cstage	cT3bN+M0
+GSM1167385	cstage	cT3bN0M0
+GSM1167387	cstage	cT2N+M0
+GSM1167388	cstage	cT3aN0M0
+GSM1167389	cstage	cT3bN+M+
+GSM1167390	cstage	cT3bN0M0
+GSM1167391	cstage	cT2N+M0
+GSM1167393	cstage	cT3bN+M0
+GSM1167396	cstage	cT3bN+M0
+GSM1167398	cstage	cT2N+M+
+GSM1167399	cstage	cT2N0M0
+GSM1167400	cstage	cT2N0M0
+GSM1167401	cstage	cT2N0M0
+GSM1167402	cstage	cT3bN0M0
+GSM1167403	cstage	cT2N0M0
+GSM1167404	cstage	cT3aN0M0
+GSM1167406	cstage	cT3bN0M0
+GSM1167410	cstage	cT2N0M0
+GSM1167414	cstage	cT2N0M0
+GSM1167416	cstage	cT3bN0M0
+GSM1167419	cstage	cT2N0M0
+GSM1167420	cstage	cT2N0M0
+GSM1167422	cstage	cT2N0M0
+GSM1167424	cstage	cT2N0M0
+GSM1167428	cstage	cT2N0M0
+GSM1167429	cstage	cT3bN0M0
+GSM1167433	cstage	cT4aN0M0
+GSM1167434	cstage	cT2N0M0
+GSM1167435	cstage	cT3bN0M0
+GSM1167436	cstage	cT2N0M0
+GSM1167437	cstage	cT2N0M0
+GSM1167439	cstage	cT2N0M0
+GSM1167441	cstage	cT3aN0M0
+GSM1167443	cstage	cT2N0M0
+GSM1167444	cstage	cT2N0M0
+GSM1167445	cstage	cT2N0M0
+GSM1167449	cstage	cT4aN0M0
+GSM1167451	cstage	cT2N0M0
+GSM1167453	cstage	cT4bN0M0
+GSM1167454	cstage	cT2N0M0
+GSM1167455	cstage	cT2N0M0
+GSM1167457	cstage	cT4aN+M+
+GSM1167458	cstage	cT2N0M0
+GSM1167461	cstage	cT3bN0M+
+GSM1167462	cstage	cT2N+M0
+GSM1167465	cstage	cTis/cT2N0M0
+GSM1167466	cstage	cT2N0M0
+GSM1167468	cstage	cT2N0M0
+GSM1167469	cstage	cT2N0M0
+GSM1167473	cstage	cT2N0M0
+GSM1167334	age (at specimen collection)	74.6
+GSM1167335	age (at specimen collection)	44.2
+GSM1167336	age (at specimen collection)	76.8
+GSM1167339	age (at specimen collection)	83.1
+GSM1167342	age (at specimen collection)	78.9
+GSM1167344	age (at specimen collection)	54.8
+GSM1167346	age (at specimen collection)	76.7
+GSM1167347	age (at specimen collection)	53.0
+GSM1167350	age (at specimen collection)	80.8
+GSM1167354	age (at specimen collection)	66.9
+GSM1167360	age (at specimen collection)	70.9
+GSM1167361	age (at specimen collection)	63.1
+GSM1167363	age (at specimen collection)	73.3
+GSM1167372	age (at specimen collection)	69.1
+GSM1167373	age (at specimen collection)	65.4
+GSM1167375	age (at specimen collection)	52.5
+GSM1167376	age (at specimen collection)	73.6
+GSM1167377	age (at specimen collection)	55.6
+GSM1167378	age (at specimen collection)	72.1
+GSM1167379	age (at specimen collection)	89.0
+GSM1167380	age (at specimen collection)	71.7
+GSM1167381	age (at specimen collection)	84.3
+GSM1167383	age (at specimen collection)	63.3
+GSM1167384	age (at specimen collection)	68.0
+GSM1167385	age (at specimen collection)	76.5
+GSM1167387	age (at specimen collection)	67.7
+GSM1167388	age (at specimen collection)	66.0
+GSM1167389	age (at specimen collection)	64.1
+GSM1167390	age (at specimen collection)	66.3
+GSM1167391	age (at specimen collection)	70.2
+GSM1167393	age (at specimen collection)	78.6
+GSM1167396	age (at specimen collection)	80.4
+GSM1167398	age (at specimen collection)	58.9
+GSM1167399	age (at specimen collection)	62.8
+GSM1167400	age (at specimen collection)	60.2
+GSM1167401	age (at specimen collection)	67.6
+GSM1167402	age (at specimen collection)	77.4
+GSM1167403	age (at specimen collection)	54.0
+GSM1167404	age (at specimen collection)	73.7
+GSM1167406	age (at specimen collection)	88.9
+GSM1167410	age (at specimen collection)	83.1
+GSM1167414	age (at specimen collection)	79.1
+GSM1167416	age (at specimen collection)	85.8
+GSM1167419	age (at specimen collection)	57.5
+GSM1167420	age (at specimen collection)	71.4
+GSM1167422	age (at specimen collection)	67.7
+GSM1167424	age (at specimen collection)	71.4
+GSM1167428	age (at specimen collection)	65.0
+GSM1167429	age (at specimen collection)	65.7
+GSM1167433	age (at specimen collection)	67.9
+GSM1167434	age (at specimen collection)	60.7
+GSM1167435	age (at specimen collection)	86.2
+GSM1167436	age (at specimen collection)	83.2
+GSM1167437	age (at specimen collection)	52.4
+GSM1167439	age (at specimen collection)	68.8
+GSM1167441	age (at specimen collection)	68.6
+GSM1167443	age (at specimen collection)	68.9
+GSM1167444	age (at specimen collection)	69.1
+GSM1167445	age (at specimen collection)	69.2
+GSM1167449	age (at specimen collection)	53.6
+GSM1167451	age (at specimen collection)	51.3
+GSM1167453	age (at specimen collection)	65.6
+GSM1167454	age (at specimen collection)	72.4
+GSM1167455	age (at specimen collection)	42.7
+GSM1167457	age (at specimen collection)	63.3
+GSM1167458	age (at specimen collection)	65.4
+GSM1167461	age (at specimen collection)	82.1
+GSM1167462	age (at specimen collection)	64.8
+GSM1167465	age (at specimen collection)	72.1
+GSM1167466	age (at specimen collection)	62.4
+GSM1167468	age (at specimen collection)	73.5
+GSM1167469	age (at specimen collection)	57.5
+GSM1167473	age (at specimen collection)	75.8
+GSM1167334	os censor	uncensored
+GSM1167335	os censor	censored
+GSM1167336	os censor	uncensored
+GSM1167339	os censor	uncensored
+GSM1167342	os censor	uncensored
+GSM1167344	os censor	uncensored
+GSM1167346	os censor	uncensored
+GSM1167347	os censor	uncensored
+GSM1167350	os censor	uncensored
+GSM1167354	os censor	uncensored
+GSM1167360	os censor	uncensored
+GSM1167361	os censor	censored
+GSM1167363	os censor	uncensored
+GSM1167372	os censor	censored
+GSM1167373	os censor	censored
+GSM1167375	os censor	uncensored
+GSM1167376	os censor	uncensored
+GSM1167377	os censor	censored
+GSM1167378	os censor	censored
+GSM1167379	os censor	uncensored
+GSM1167380	os censor	uncensored
+GSM1167381	os censor	uncensored
+GSM1167383	os censor	uncensored
+GSM1167384	os censor	uncensored
+GSM1167385	os censor	uncensored
+GSM1167387	os censor	uncensored
+GSM1167388	os censor	uncensored
+GSM1167389	os censor	censored
+GSM1167390	os censor	uncensored
+GSM1167391	os censor	uncensored
+GSM1167393	os censor	uncensored
+GSM1167396	os censor	uncensored
+GSM1167398	os censor	uncensored
+GSM1167399	os censor	censored
+GSM1167400	os censor	uncensored
+GSM1167401	os censor	uncensored
+GSM1167402	os censor	uncensored
+GSM1167403	os censor	uncensored
+GSM1167404	os censor	uncensored
+GSM1167406	os censor	uncensored
+GSM1167410	os censor	uncensored
+GSM1167414	os censor	censored
+GSM1167416	os censor	censored
+GSM1167419	os censor	censored
+GSM1167420	os censor	censored
+GSM1167422	os censor	censored
+GSM1167424	os censor	censored
+GSM1167428	os censor	uncensored
+GSM1167429	os censor	censored
+GSM1167433	os censor	censored
+GSM1167434	os censor	uncensored
+GSM1167435	os censor	uncensored
+GSM1167436	os censor	censored
+GSM1167437	os censor	censored
+GSM1167439	os censor	uncensored
+GSM1167441	os censor	uncensored
+GSM1167443	os censor	uncensored
+GSM1167444	os censor	censored
+GSM1167445	os censor	uncensored
+GSM1167449	os censor	censored
+GSM1167451	os censor	censored
+GSM1167453	os censor	uncensored
+GSM1167454	os censor	censored
+GSM1167455	os censor	censored
+GSM1167457	os censor	censored
+GSM1167458	os censor	censored
+GSM1167461	os censor	uncensored
+GSM1167462	os censor	uncensored
+GSM1167465	os censor	uncensored
+GSM1167466	os censor	censored
+GSM1167468	os censor	censored
+GSM1167469	os censor	censored
+GSM1167473	os censor	uncensored
+GSM1167334	dss censor	uncensored
+GSM1167335	dss censor	censored
+GSM1167336	dss censor	uncensored
+GSM1167339	dss censor	uncensored
+GSM1167342	dss censor	uncensored
+GSM1167344	dss censor	censored
+GSM1167346	dss censor	uncensored
+GSM1167347	dss censor	uncensored
+GSM1167350	dss censor	uncensored
+GSM1167354	dss censor	censored
+GSM1167360	dss censor	censored
+GSM1167361	dss censor	censored
+GSM1167363	dss censor	uncensored
+GSM1167372	dss censor	censored
+GSM1167373	dss censor	censored
+GSM1167375	dss censor	uncensored
+GSM1167376	dss censor	uncensored
+GSM1167377	dss censor	censored
+GSM1167378	dss censor	censored
+GSM1167379	dss censor	uncensored
+GSM1167380	dss censor	uncensored
+GSM1167381	dss censor	uncensored
+GSM1167383	dss censor	uncensored
+GSM1167384	dss censor	uncensored
+GSM1167385	dss censor	uncensored
+GSM1167387	dss censor	uncensored
+GSM1167388	dss censor	uncensored
+GSM1167389	dss censor	censored
+GSM1167390	dss censor	uncensored
+GSM1167391	dss censor	uncensored
+GSM1167393	dss censor	uncensored
+GSM1167396	dss censor	uncensored
+GSM1167398	dss censor	uncensored
+GSM1167399	dss censor	censored
+GSM1167400	dss censor	censored
+GSM1167401	dss censor	uncensored
+GSM1167402	dss censor	censored
+GSM1167403	dss censor	censored
+GSM1167404	dss censor	censored
+GSM1167406	dss censor	censored
+GSM1167410	dss censor	censored
+GSM1167414	dss censor	censored
+GSM1167416	dss censor	censored
+GSM1167419	dss censor	censored
+GSM1167420	dss censor	censored
+GSM1167422	dss censor	censored
+GSM1167424	dss censor	censored
+GSM1167428	dss censor	uncensored
+GSM1167429	dss censor	censored
+GSM1167433	dss censor	censored
+GSM1167434	dss censor	uncensored
+GSM1167435	dss censor	uncensored
+GSM1167436	dss censor	censored
+GSM1167437	dss censor	censored
+GSM1167439	dss censor	uncensored
+GSM1167441	dss censor	uncensored
+GSM1167443	dss censor	censored
+GSM1167444	dss censor	censored
+GSM1167445	dss censor	uncensored
+GSM1167449	dss censor	censored
+GSM1167451	dss censor	censored
+GSM1167453	dss censor	uncensored
+GSM1167454	dss censor	censored
+GSM1167455	dss censor	censored
+GSM1167457	dss censor	censored
+GSM1167458	dss censor	censored
+GSM1167461	dss censor	uncensored
+GSM1167462	dss censor	uncensored
+GSM1167465	dss censor	uncensored
+GSM1167466	dss censor	censored
+GSM1167468	dss censor	censored
+GSM1167469	dss censor	censored
+GSM1167473	dss censor	uncensored
+GSM1167334	survival (mo)	37.2
+GSM1167335	survival (mo)	60.0
+GSM1167336	survival (mo)	2.9
+GSM1167339	survival (mo)	7.6
+GSM1167342	survival (mo)	20.4
+GSM1167344	survival (mo)	68.1
+GSM1167346	survival (mo)	7.9
+GSM1167347	survival (mo)	3.4
+GSM1167350	survival (mo)	23.0
+GSM1167354	survival (mo)	105.9
+GSM1167360	survival (mo)	10.5
+GSM1167361	survival (mo)	53.1
+GSM1167363	survival (mo)	14.2
+GSM1167372	survival (mo)	42.0
+GSM1167373	survival (mo)	47.8
+GSM1167375	survival (mo)	42.8
+GSM1167376	survival (mo)	46.3
+GSM1167377	survival (mo)	51.5
+GSM1167378	survival (mo)	41.1
+GSM1167379	survival (mo)	4.7
+GSM1167380	survival (mo)	36.3
+GSM1167381	survival (mo)	8.0
+GSM1167383	survival (mo)	9.3
+GSM1167384	survival (mo)	11.8
+GSM1167385	survival (mo)	16.0
+GSM1167387	survival (mo)	5.9
+GSM1167388	survival (mo)	8.1
+GSM1167389	survival (mo)	1.7
+GSM1167390	survival (mo)	25.3
+GSM1167391	survival (mo)	17.4
+GSM1167393	survival (mo)	3.4
+GSM1167396	survival (mo)	4.6
+GSM1167398	survival (mo)	6.5
+GSM1167399	survival (mo)	179.2
+GSM1167400	survival (mo)	86.7
+GSM1167401	survival (mo)	8.0
+GSM1167402	survival (mo)	110.2
+GSM1167403	survival (mo)	61.0
+GSM1167404	survival (mo)	82.4
+GSM1167406	survival (mo)	4.9
+GSM1167410	survival (mo)	28.7
+GSM1167414	survival (mo)	109.3
+GSM1167416	survival (mo)	9.0
+GSM1167419	survival (mo)	66.5
+GSM1167420	survival (mo)	64.2
+GSM1167422	survival (mo)	57.3
+GSM1167424	survival (mo)	39.5
+GSM1167428	survival (mo)	65.6
+GSM1167429	survival (mo)	37.7
+GSM1167433	survival (mo)	72.4
+GSM1167434	survival (mo)	14.9
+GSM1167435	survival (mo)	18.2
+GSM1167436	survival (mo)	47.7
+GSM1167437	survival (mo)	52.2
+GSM1167439	survival (mo)	34.6
+GSM1167441	survival (mo)	4.3
+GSM1167443	survival (mo)	7.4
+GSM1167444	survival (mo)	71.4
+GSM1167445	survival (mo)	6.2
+GSM1167449	survival (mo)	36.2
+GSM1167451	survival (mo)	27.8
+GSM1167453	survival (mo)	18.7
+GSM1167454	survival (mo)	43.2
+GSM1167455	survival (mo)	140.7
+GSM1167457	survival (mo)	44.6
+GSM1167458	survival (mo)	38.7
+GSM1167461	survival (mo)	1.5
+GSM1167462	survival (mo)	1.6
+GSM1167465	survival (mo)	8.7
+GSM1167466	survival (mo)	30.4
+GSM1167468	survival (mo)	61.1
+GSM1167469	survival (mo)	39.0
+GSM1167473	survival (mo)	16.9

@@ -1,0 +1,2 @@
+cohort	estimand	stage_definition	n	n_groups	KW_chisq	KW_p	trend_n	trend_rho	trend_p	trend_note
+"GSE13507"	"C0-like signature score"	"Reported TNM T component"	165	5	7.2857970808318	0.121534186698147	165	0.100157014136422	0.200551977645195	"Tis excluded from ordinal trend; T is not overall stage"

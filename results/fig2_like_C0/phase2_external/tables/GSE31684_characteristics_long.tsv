@@ -1,0 +1,1971 @@
+sample	field	value
+GSM786491	gender	male
+GSM786492	gender	male
+GSM786493	gender	female
+GSM786494	gender	male
+GSM786495	gender	female
+GSM786496	gender	male
+GSM786497	gender	male
+GSM786498	gender	male
+GSM786499	gender	male
+GSM786500	gender	female
+GSM786501	gender	male
+GSM786502	gender	male
+GSM786503	gender	male
+GSM786504	gender	male
+GSM786505	gender	female
+GSM786506	gender	male
+GSM786507	gender	female
+GSM786508	gender	male
+GSM786509	gender	male
+GSM786510	gender	male
+GSM786511	gender	male
+GSM786512	gender	male
+GSM786513	gender	male
+GSM786514	gender	male
+GSM786515	gender	female
+GSM786516	gender	female
+GSM786517	gender	male
+GSM786518	gender	male
+GSM786519	gender	male
+GSM786520	gender	female
+GSM786521	gender	male
+GSM786522	gender	male
+GSM786523	gender	male
+GSM786524	gender	male
+GSM786525	gender	female
+GSM786526	gender	male
+GSM786527	gender	female
+GSM786528	gender	female
+GSM786529	gender	male
+GSM786530	gender	female
+GSM786531	gender	male
+GSM786532	gender	female
+GSM786533	gender	male
+GSM786534	gender	male
+GSM786535	gender	male
+GSM786536	gender	male
+GSM786537	gender	female
+GSM786538	gender	male
+GSM786539	gender	female
+GSM786540	gender	male
+GSM786541	gender	male
+GSM786542	gender	female
+GSM786543	gender	male
+GSM786544	gender	female
+GSM786545	gender	female
+GSM786546	gender	male
+GSM786547	gender	male
+GSM786548	gender	male
+GSM786549	gender	male
+GSM786550	gender	male
+GSM786551	gender	female
+GSM786552	gender	male
+GSM786553	gender	male
+GSM786554	gender	male
+GSM786555	gender	male
+GSM786556	gender	male
+GSM786557	gender	male
+GSM786558	gender	female
+GSM786559	gender	female
+GSM786560	gender	male
+GSM786561	gender	male
+GSM786562	gender	male
+GSM786563	gender	male
+GSM786564	gender	male
+GSM786565	gender	male
+GSM786566	gender	male
+GSM786567	gender	male
+GSM786568	gender	male
+GSM786569	gender	female
+GSM786570	gender	male
+GSM786571	gender	female
+GSM786572	gender	male
+GSM786573	gender	male
+GSM786574	gender	male
+GSM786575	gender	male
+GSM786576	gender	male
+GSM786577	gender	female
+GSM786578	gender	male
+GSM786579	gender	male
+GSM786580	gender	male
+GSM786581	gender	female
+GSM786582	gender	male
+GSM786583	gender	male
+GSM786491	preopclinstage	T3
+GSM786492	preopclinstage	T2
+GSM786493	preopclinstage	T2
+GSM786494	preopclinstage	T2
+GSM786495	preopclinstage	T3
+GSM786496	preopclinstage	T2
+GSM786497	preopclinstage	T2
+GSM786498	preopclinstage	T1
+GSM786499	preopclinstage	T2
+GSM786500	preopclinstage	T2
+GSM786501	preopclinstage	T1
+GSM786502	preopclinstage	T1
+GSM786503	preopclinstage	T2
+GSM786504	preopclinstage	T2
+GSM786505	preopclinstage	T1
+GSM786506	preopclinstage	T2
+GSM786507	preopclinstage	T1
+GSM786508	preopclinstage	T2
+GSM786509	preopclinstage	T2
+GSM786510	preopclinstage	T3
+GSM786511	preopclinstage	T2
+GSM786512	preopclinstage	T2
+GSM786513	preopclinstage	T2
+GSM786514	preopclinstage	T3
+GSM786515	preopclinstage	T2
+GSM786516	preopclinstage	T2
+GSM786517	preopclinstage	T1
+GSM786518	preopclinstage	T3
+GSM786519	preopclinstage	T2
+GSM786520	preopclinstage	T2
+GSM786521	preopclinstage	T2
+GSM786522	preopclinstage	T2
+GSM786523	preopclinstage	T2
+GSM786524	preopclinstage	T1
+GSM786525	preopclinstage	Ta
+GSM786526	preopclinstage	T2
+GSM786527	preopclinstage	T1
+GSM786528	preopclinstage	T2
+GSM786529	preopclinstage	T1
+GSM786530	preopclinstage	T2
+GSM786531	preopclinstage	T2
+GSM786532	preopclinstage	T2
+GSM786533	preopclinstage	T2
+GSM786534	preopclinstage	T1
+GSM786535	preopclinstage	T2
+GSM786536	preopclinstage	T3
+GSM786537	preopclinstage	T2
+GSM786538	preopclinstage	T1
+GSM786539	preopclinstage	T2
+GSM786540	preopclinstage	T3
+GSM786541	preopclinstage	Ta
+GSM786542	preopclinstage	T2
+GSM786543	preopclinstage	T2
+GSM786544	preopclinstage	T2
+GSM786545	preopclinstage	T2
+GSM786546	preopclinstage	T2
+GSM786547	preopclinstage	T2
+GSM786548	preopclinstage	T1
+GSM786549	preopclinstage	T2
+GSM786550	preopclinstage	T2
+GSM786551	preopclinstage	T2
+GSM786552	preopclinstage	T2
+GSM786553	preopclinstage	T2
+GSM786554	preopclinstage	T2
+GSM786555	preopclinstage	T1
+GSM786556	preopclinstage	Ta
+GSM786557	preopclinstage	T2
+GSM786558	preopclinstage	Ta
+GSM786559	preopclinstage	Ta
+GSM786560	preopclinstage	T2
+GSM786561	preopclinstage	T3
+GSM786562	preopclinstage	T2
+GSM786563	preopclinstage	T2
+GSM786564	preopclinstage	T2
+GSM786565	preopclinstage	Ta
+GSM786566	preopclinstage	T1
+GSM786567	preopclinstage	T1
+GSM786568	preopclinstage	T3
+GSM786569	preopclinstage	T1
+GSM786570	preopclinstage	T2
+GSM786571	preopclinstage	T2
+GSM786572	preopclinstage	Ta
+GSM786573	preopclinstage	Ta
+GSM786574	preopclinstage	T1
+GSM786575	preopclinstage	T1
+GSM786576	preopclinstage	T2
+GSM786577	preopclinstage	T3
+GSM786578	preopclinstage	T1
+GSM786579	preopclinstage	T2
+GSM786580	preopclinstage	T2
+GSM786581	preopclinstage	T4
+GSM786582	preopclinstage	T2
+GSM786583	preopclinstage	T2
+GSM786491	age at rc	64.06
+GSM786492	age at rc	62.14
+GSM786493	age at rc	65.96
+GSM786494	age at rc	56.1
+GSM786495	age at rc	68
+GSM786496	age at rc	69.93
+GSM786497	age at rc	65
+GSM786498	age at rc	69.44
+GSM786499	age at rc	47.47
+GSM786500	age at rc	77.9
+GSM786501	age at rc	66.56
+GSM786502	age at rc	65.11
+GSM786503	age at rc	76.93
+GSM786504	age at rc	68.04
+GSM786505	age at rc	68.03
+GSM786506	age at rc	72.77
+GSM786507	age at rc	59.65
+GSM786508	age at rc	51.33
+GSM786509	age at rc	73.32
+GSM786510	age at rc	56.61
+GSM786511	age at rc	78.08
+GSM786512	age at rc	68.75
+GSM786513	age at rc	69.49
+GSM786514	age at rc	62.08
+GSM786515	age at rc	72.72
+GSM786516	age at rc	72.4
+GSM786517	age at rc	59.39
+GSM786518	age at rc	74.61
+GSM786519	age at rc	58.15
+GSM786520	age at rc	52.99
+GSM786521	age at rc	64.53
+GSM786522	age at rc	56.47
+GSM786523	age at rc	73.42
+GSM786524	age at rc	68.35
+GSM786525	age at rc	68.72
+GSM786526	age at rc	84.48
+GSM786527	age at rc	75.32
+GSM786528	age at rc	91.08
+GSM786529	age at rc	57.33
+GSM786530	age at rc	77
+GSM786531	age at rc	80.66
+GSM786532	age at rc	74.92
+GSM786533	age at rc	75.2
+GSM786534	age at rc	88.5
+GSM786535	age at rc	69.75
+GSM786536	age at rc	89.46
+GSM786537	age at rc	53
+GSM786538	age at rc	80.4
+GSM786539	age at rc	66.03
+GSM786540	age at rc	55.56
+GSM786541	age at rc	78.05
+GSM786542	age at rc	68.7
+GSM786543	age at rc	61.14
+GSM786544	age at rc	79.39
+GSM786545	age at rc	84.11
+GSM786546	age at rc	83.63
+GSM786547	age at rc	71.91
+GSM786548	age at rc	74.68
+GSM786549	age at rc	60.47
+GSM786550	age at rc	81.49
+GSM786551	age at rc	67.33
+GSM786552	age at rc	84.02
+GSM786553	age at rc	69.17
+GSM786554	age at rc	72.87
+GSM786555	age at rc	62.44
+GSM786556	age at rc	57.37
+GSM786557	age at rc	81.5
+GSM786558	age at rc	72.61
+GSM786559	age at rc	85.09
+GSM786560	age at rc	74.09
+GSM786561	age at rc	78.82
+GSM786562	age at rc	67.15
+GSM786563	age at rc	74.75
+GSM786564	age at rc	66.19
+GSM786565	age at rc	57.72
+GSM786566	age at rc	78.51
+GSM786567	age at rc	61.87
+GSM786568	age at rc	69.63
+GSM786569	age at rc	72.75
+GSM786570	age at rc	80.46
+GSM786571	age at rc	41.73
+GSM786572	age at rc	74.82
+GSM786573	age at rc	58.21
+GSM786574	age at rc	51.33
+GSM786575	age at rc	50.67
+GSM786576	age at rc	47.85
+GSM786577	age at rc	68.14
+GSM786578	age at rc	82.72
+GSM786579	age at rc	69.1
+GSM786580	age at rc	73.75
+GSM786581	age at rc	67.38
+GSM786582	age at rc	64.83
+GSM786583	age at rc	78.3
+GSM786491	survival.months	103.7864
+GSM786492	survival.months	13.17454
+GSM786493	survival.months	19.77823
+GSM786494	survival.months	16.4271
+GSM786495	survival.months	13.14168
+GSM786496	survival.months	4.435318
+GSM786497	survival.months	87.85216
+GSM786498	survival.months	173.4045
+GSM786499	survival.months	108.4517
+GSM786500	survival.months	175.5072
+GSM786501	survival.months	167.655
+GSM786502	survival.months	102.7023
+GSM786503	survival.months	0.3942505
+GSM786504	survival.months	10.84189
+GSM786505	survival.months	3.12115
+GSM786506	survival.months	3.351129
+GSM786507	survival.months	0.6570842
+GSM786508	survival.months	11.72895
+GSM786509	survival.months	31.31006
+GSM786510	survival.months	8.213552
+GSM786511	survival.months	24.67351
+GSM786512	survival.months	13.30595
+GSM786513	survival.months	1.084189
+GSM786514	survival.months	7.326489
+GSM786515	survival.months	3.285421
+GSM786516	survival.months	14.423
+GSM786517	survival.months	56.93634
+GSM786518	survival.months	58.31622
+GSM786519	survival.months	4.960986
+GSM786520	survival.months	9.297741
+GSM786521	survival.months	12.64887
+GSM786522	survival.months	72.54209
+GSM786523	survival.months	90.1191
+GSM786524	survival.months	19.58111
+GSM786525	survival.months	5.322382
+GSM786526	survival.months	3.383984
+GSM786527	survival.months	91.17043
+GSM786528	survival.months	2.825462
+GSM786529	survival.months	27.59754
+GSM786530	survival.months	9.921971
+GSM786531	survival.months	102.6366
+GSM786532	survival.months	3.318275
+GSM786533	survival.months	110.1273
+GSM786534	survival.months	105.7906
+GSM786535	survival.months	5.585216
+GSM786536	survival.months	7.655031
+GSM786537	survival.months	17.01848
+GSM786538	survival.months	64.39425
+GSM786539	survival.months	120.7721
+GSM786540	survival.months	44.68172
+GSM786541	survival.months	91.66324
+GSM786542	survival.months	4.435318
+GSM786543	survival.months	79.44148
+GSM786544	survival.months	13.66735
+GSM786545	survival.months	65.28131
+GSM786546	survival.months	0.788501
+GSM786547	survival.months	13.47023
+GSM786548	survival.months	109.3717
+GSM786549	survival.months	111.4415
+GSM786550	survival.months	9.823409
+GSM786551	survival.months	102.5708
+GSM786552	survival.months	7.786448
+GSM786553	survival.months	101.8809
+GSM786554	survival.months	32.62423
+GSM786555	survival.months	3.449692
+GSM786556	survival.months	79.6386
+GSM786557	survival.months	103.8522
+GSM786558	survival.months	100.9938
+GSM786559	survival.months	91.46612
+GSM786560	survival.months	98.16838
+GSM786561	survival.months	15.08008
+GSM786562	survival.months	6.63655
+GSM786563	survival.months	12.71458
+GSM786564	survival.months	67.25257
+GSM786565	survival.months	42.87474
+GSM786566	survival.months	51.94251
+GSM786567	survival.months	15.01437
+GSM786568	survival.months	84.73101
+GSM786569	survival.months	84.56674
+GSM786570	survival.months	17.60986
+GSM786571	survival.months	85.94661
+GSM786572	survival.months	89.10062
+GSM786573	survival.months	81.11704
+GSM786574	survival.months	42.71047
+GSM786575	survival.months	33.60986
+GSM786576	survival.months	11.66324
+GSM786577	survival.months	32.85421
+GSM786578	survival.months	11.82752
+GSM786579	survival.months	51.5154
+GSM786580	survival.months	46.22587
+GSM786581	survival.months	71.85216
+GSM786582	survival.months	5.716632
+GSM786583	survival.months	64.55852
+GSM786491	rc_stage	pT2
+GSM786492	rc_stage	pT2
+GSM786493	rc_stage	pT2
+GSM786494	rc_stage	pT4
+GSM786495	rc_stage	pT4
+GSM786496	rc_stage	pT3
+GSM786497	rc_stage	pT1
+GSM786498	rc_stage	pT3
+GSM786499	rc_stage	pT2
+GSM786500	rc_stage	pT3
+GSM786501	rc_stage	pT1
+GSM786502	rc_stage	pT2
+GSM786503	rc_stage	pT3
+GSM786504	rc_stage	pT4
+GSM786505	rc_stage	pT4
+GSM786506	rc_stage	pT3
+GSM786507	rc_stage	pT3
+GSM786508	rc_stage	pT3
+GSM786509	rc_stage	pT2
+GSM786510	rc_stage	pT4
+GSM786511	rc_stage	pT4
+GSM786512	rc_stage	pT3
+GSM786513	rc_stage	pT4
+GSM786514	rc_stage	pT4
+GSM786515	rc_stage	pT3
+GSM786516	rc_stage	pT4
+GSM786517	rc_stage	pT1
+GSM786518	rc_stage	pT3
+GSM786519	rc_stage	pT3
+GSM786520	rc_stage	pT4
+GSM786521	rc_stage	pT4
+GSM786522	rc_stage	pT3
+GSM786523	rc_stage	pTa
+GSM786524	rc_stage	pT3
+GSM786525	rc_stage	pT4
+GSM786526	rc_stage	pT3
+GSM786527	rc_stage	pTa
+GSM786528	rc_stage	pT3
+GSM786529	rc_stage	pT3
+GSM786530	rc_stage	pT3
+GSM786531	rc_stage	pT3
+GSM786532	rc_stage	pT3
+GSM786533	rc_stage	pT3
+GSM786534	rc_stage	pT1
+GSM786535	rc_stage	pT3
+GSM786536	rc_stage	pT4
+GSM786537	rc_stage	pT2
+GSM786538	rc_stage	pT2
+GSM786539	rc_stage	pTa
+GSM786540	rc_stage	pT4
+GSM786541	rc_stage	pTa
+GSM786542	rc_stage	pT4
+GSM786543	rc_stage	pT3
+GSM786544	rc_stage	pT3
+GSM786545	rc_stage	pT3
+GSM786546	rc_stage	pT4
+GSM786547	rc_stage	pT3
+GSM786548	rc_stage	pT2
+GSM786549	rc_stage	pT3
+GSM786550	rc_stage	pT3
+GSM786551	rc_stage	pT3
+GSM786552	rc_stage	pT3
+GSM786553	rc_stage	pT4
+GSM786554	rc_stage	pT3
+GSM786555	rc_stage	pT1
+GSM786556	rc_stage	pTa
+GSM786557	rc_stage	pT3
+GSM786558	rc_stage	pT1
+GSM786559	rc_stage	pT1
+GSM786560	rc_stage	pT3
+GSM786561	rc_stage	pT4
+GSM786562	rc_stage	pT2
+GSM786563	rc_stage	pT3
+GSM786564	rc_stage	pT3
+GSM786565	rc_stage	pT1
+GSM786566	rc_stage	pT2
+GSM786567	rc_stage	pT2
+GSM786568	rc_stage	pT3
+GSM786569	rc_stage	pT3
+GSM786570	rc_stage	pT3
+GSM786571	rc_stage	pT3
+GSM786572	rc_stage	pT1
+GSM786573	rc_stage	pT2
+GSM786574	rc_stage	pT2
+GSM786575	rc_stage	pT4
+GSM786576	rc_stage	pT3
+GSM786577	rc_stage	pT3
+GSM786578	rc_stage	pT3
+GSM786579	rc_stage	pT1
+GSM786580	rc_stage	pT2
+GSM786581	rc_stage	pT2
+GSM786582	rc_stage	pT3
+GSM786583	rc_stage	pT2
+GSM786491	rc_histology	TCC
+GSM786492	rc_histology	TCC
+GSM786493	rc_histology	TCC
+GSM786494	rc_histology	TCC
+GSM786495	rc_histology	TCC/CIS
+GSM786496	rc_histology	TCC
+GSM786497	rc_histology	TCC
+GSM786498	rc_histology	TCC/CIS
+GSM786499	rc_histology	TCC
+GSM786500	rc_histology	TCC
+GSM786501	rc_histology	TCC
+GSM786502	rc_histology	TCC
+GSM786503	rc_histology	TCC/Squamous
+GSM786504	rc_histology	TCC
+GSM786505	rc_histology	TCC/Squamous
+GSM786506	rc_histology	TCC
+GSM786507	rc_histology	TCC
+GSM786508	rc_histology	TCC
+GSM786509	rc_histology	TCC
+GSM786510	rc_histology	TCC
+GSM786511	rc_histology	TCC
+GSM786512	rc_histology	TCC
+GSM786513	rc_histology	TCC
+GSM786514	rc_histology	TCC
+GSM786515	rc_histology	TCC
+GSM786516	rc_histology	TCC
+GSM786517	rc_histology	TCC
+GSM786518	rc_histology	TCC
+GSM786519	rc_histology	TCC
+GSM786520	rc_histology	TCC/Squamous
+GSM786521	rc_histology	TCC
+GSM786522	rc_histology	TCC/Squamous
+GSM786523	rc_histology	TCC
+GSM786524	rc_histology	TCC
+GSM786525	rc_histology	TCC
+GSM786526	rc_histology	TCC
+GSM786527	rc_histology	TCC
+GSM786528	rc_histology	TCC
+GSM786529	rc_histology	TCC
+GSM786530	rc_histology	TCC
+GSM786531	rc_histology	TCC
+GSM786532	rc_histology	TCC
+GSM786533	rc_histology	TCC
+GSM786534	rc_histology	TCC
+GSM786535	rc_histology	TCC
+GSM786536	rc_histology	TCC
+GSM786537	rc_histology	TCC
+GSM786538	rc_histology	TCC
+GSM786539	rc_histology	TCC
+GSM786540	rc_histology	TCC
+GSM786541	rc_histology	TCC
+GSM786542	rc_histology	TCC
+GSM786543	rc_histology	TCC/Squamous
+GSM786544	rc_histology	TCC
+GSM786545	rc_histology	TCC
+GSM786546	rc_histology	TCC
+GSM786547	rc_histology	TCC
+GSM786548	rc_histology	TCC
+GSM786549	rc_histology	TCC
+GSM786550	rc_histology	TCC
+GSM786551	rc_histology	TCC
+GSM786552	rc_histology	TCC
+GSM786553	rc_histology	TCC
+GSM786554	rc_histology	TCC
+GSM786555	rc_histology	TCC
+GSM786556	rc_histology	TCC
+GSM786557	rc_histology	TCC
+GSM786558	rc_histology	TCC
+GSM786559	rc_histology	TCC
+GSM786560	rc_histology	TCC
+GSM786561	rc_histology	TCC
+GSM786562	rc_histology	TCC
+GSM786563	rc_histology	TCC
+GSM786564	rc_histology	TCC
+GSM786565	rc_histology	TCC
+GSM786566	rc_histology	TCC
+GSM786567	rc_histology	TCC
+GSM786568	rc_histology	TCC
+GSM786569	rc_histology	TCC
+GSM786570	rc_histology	TCC
+GSM786571	rc_histology	TCC
+GSM786572	rc_histology	TCC
+GSM786573	rc_histology	TCC
+GSM786574	rc_histology	TCC
+GSM786575	rc_histology	TCC
+GSM786576	rc_histology	TCC
+GSM786577	rc_histology	TCC
+GSM786578	rc_histology	TCC
+GSM786579	rc_histology	TCC
+GSM786580	rc_histology	TCC
+GSM786581	rc_histology	TCC
+GSM786582	rc_histology	TCC
+GSM786583	rc_histology	TCC
+GSM786491	plnd result	Negative
+GSM786492	plnd result	Negative
+GSM786493	plnd result	Negative
+GSM786494	plnd result	Positive
+GSM786495	plnd result	Negative
+GSM786496	plnd result	Nx
+GSM786497	plnd result	Positive
+GSM786498	plnd result	Negative
+GSM786499	plnd result	Negative
+GSM786500	plnd result	Nx
+GSM786501	plnd result	Negative
+GSM786502	plnd result	Negative
+GSM786503	plnd result	Negative
+GSM786504	plnd result	Positive
+GSM786505	plnd result	Negative
+GSM786506	plnd result	Positive
+GSM786507	plnd result	Positive
+GSM786508	plnd result	Negative
+GSM786509	plnd result	Nx
+GSM786510	plnd result	Positive
+GSM786511	plnd result	Positive
+GSM786512	plnd result	Positive
+GSM786513	plnd result	Nx
+GSM786514	plnd result	Positive
+GSM786515	plnd result	Negative
+GSM786516	plnd result	Nx
+GSM786517	plnd result	Negative
+GSM786518	plnd result	Positive
+GSM786519	plnd result	Positive
+GSM786520	plnd result	Negative
+GSM786521	plnd result	Positive
+GSM786522	plnd result	Negative
+GSM786523	plnd result	Negative
+GSM786524	plnd result	Negative
+GSM786525	plnd result	Positive
+GSM786526	plnd result	Nx
+GSM786527	plnd result	Negative
+GSM786528	plnd result	Nx
+GSM786529	plnd result	Positive
+GSM786530	plnd result	NX
+GSM786531	plnd result	Negative
+GSM786532	plnd result	Positive
+GSM786533	plnd result	Negative
+GSM786534	plnd result	Nx
+GSM786535	plnd result	Positive
+GSM786536	plnd result	Nx
+GSM786537	plnd result	Negative
+GSM786538	plnd result	Negative
+GSM786539	plnd result	Negative
+GSM786540	plnd result	Positive
+GSM786541	plnd result	Negative
+GSM786542	plnd result	Positive
+GSM786543	plnd result	Negative
+GSM786544	plnd result	Positive
+GSM786545	plnd result	Nx
+GSM786546	plnd result	Nx
+GSM786547	plnd result	Positive
+GSM786548	plnd result	Negative
+GSM786549	plnd result	Negative
+GSM786550	plnd result	Negative
+GSM786551	plnd result	Negative
+GSM786552	plnd result	Negative
+GSM786553	plnd result	Positive
+GSM786554	plnd result	Negative
+GSM786555	plnd result	Negative
+GSM786556	plnd result	Negative
+GSM786557	plnd result	Negative
+GSM786558	plnd result	NX
+GSM786559	plnd result	Negative
+GSM786560	plnd result	Negative
+GSM786561	plnd result	Negative
+GSM786562	plnd result	Negative
+GSM786563	plnd result	Negative
+GSM786564	plnd result	Negative
+GSM786565	plnd result	Negative
+GSM786566	plnd result	Nx
+GSM786567	plnd result	Negative
+GSM786568	plnd result	Positive
+GSM786569	plnd result	Positive
+GSM786570	plnd result	Nx
+GSM786571	plnd result	Negative
+GSM786572	plnd result	Negative
+GSM786573	plnd result	Negative
+GSM786574	plnd result	Negative
+GSM786575	plnd result	Positive
+GSM786576	plnd result	Negative
+GSM786577	plnd result	Negative
+GSM786578	plnd result	Positive
+GSM786579	plnd result	Positive
+GSM786580	plnd result	Positive
+GSM786581	plnd result	Negative
+GSM786582	plnd result	Positive
+GSM786583	plnd result	Nx
+GSM786491	rc grade	High
+GSM786492	rc grade	High
+GSM786493	rc grade	High
+GSM786494	rc grade	High
+GSM786495	rc grade	High
+GSM786496	rc grade	High
+GSM786497	rc grade	High
+GSM786498	rc grade	High
+GSM786499	rc grade	High
+GSM786500	rc grade	High
+GSM786501	rc grade	Low
+GSM786502	rc grade	High
+GSM786503	rc grade	High
+GSM786504	rc grade	High
+GSM786505	rc grade	High
+GSM786506	rc grade	High
+GSM786507	rc grade	High
+GSM786508	rc grade	High
+GSM786509	rc grade	High
+GSM786510	rc grade	High
+GSM786511	rc grade	High
+GSM786512	rc grade	High
+GSM786513	rc grade	High
+GSM786514	rc grade	High
+GSM786515	rc grade	High
+GSM786516	rc grade	High
+GSM786517	rc grade	High
+GSM786518	rc grade	High
+GSM786519	rc grade	High
+GSM786520	rc grade	High
+GSM786521	rc grade	High
+GSM786522	rc grade	High
+GSM786523	rc grade	Low
+GSM786524	rc grade	High
+GSM786525	rc grade	High
+GSM786526	rc grade	High
+GSM786527	rc grade	High
+GSM786528	rc grade	High
+GSM786529	rc grade	High
+GSM786530	rc grade	High
+GSM786531	rc grade	High
+GSM786532	rc grade	High
+GSM786533	rc grade	High
+GSM786534	rc grade	High
+GSM786535	rc grade	High
+GSM786536	rc grade	High
+GSM786537	rc grade	High
+GSM786538	rc grade	High
+GSM786539	rc grade	High
+GSM786540	rc grade	High
+GSM786541	rc grade	High
+GSM786542	rc grade	High
+GSM786543	rc grade	High
+GSM786544	rc grade	High
+GSM786545	rc grade	High
+GSM786546	rc grade	High
+GSM786547	rc grade	High
+GSM786548	rc grade	High
+GSM786549	rc grade	High
+GSM786550	rc grade	High
+GSM786551	rc grade	High
+GSM786552	rc grade	High
+GSM786553	rc grade	High
+GSM786554	rc grade	High
+GSM786555	rc grade	Low
+GSM786556	rc grade	Low
+GSM786557	rc grade	High
+GSM786558	rc grade	Low
+GSM786559	rc grade	High
+GSM786560	rc grade	High
+GSM786561	rc grade	high
+GSM786562	rc grade	High
+GSM786563	rc grade	High
+GSM786564	rc grade	High
+GSM786565	rc grade	Low
+GSM786566	rc grade	High
+GSM786567	rc grade	High
+GSM786568	rc grade	High
+GSM786569	rc grade	High
+GSM786570	rc grade	High
+GSM786571	rc grade	High
+GSM786572	rc grade	High
+GSM786573	rc grade	High
+GSM786574	rc grade	High
+GSM786575	rc grade	High
+GSM786576	rc grade	High
+GSM786577	rc grade	High
+GSM786578	rc grade	High
+GSM786579	rc grade	High
+GSM786580	rc grade	High
+GSM786581	rc grade	High
+GSM786582	rc grade	High
+GSM786583	rc grade	High
+GSM786491	nomogram score	81.44001734
+GSM786492	nomogram score	81.71198473
+GSM786493	nomogram score	79.95740897
+GSM786494	nomogram score	11.08510015
+GSM786495	nomogram score	49.06355452
+GSM786496	nomogram score	41.39963921
+GSM786497	nomogram score	50.12822813
+GSM786498	nomogram score	64.48725601
+GSM786499	nomogram score	76.49581054
+GSM786500	nomogram score	52.61069907
+GSM786501	nomogram score	90.1987881
+GSM786502	nomogram score	40.62923558
+GSM786503	nomogram score	61.80483246
+GSM786504	nomogram score	1
+GSM786505	nomogram score	47.79618735
+GSM786506	nomogram score	21.52250158
+GSM786507	nomogram score	28.61319836
+GSM786508	nomogram score	69.75442714
+GSM786509	nomogram score	25.40171907
+GSM786510	nomogram score	8.270066426
+GSM786511	nomogram score	4.925223883
+GSM786512	nomogram score	1
+GSM786513	nomogram score	36.09372092
+GSM786514	nomogram score	9.672482387
+GSM786515	nomogram score	60.78974289
+GSM786516	nomogram score	34.37579285
+GSM786517	nomogram score	81.96959756
+GSM786518	nomogram score	21.96386456
+GSM786519	nomogram score	17.30881569
+GSM786520	nomogram score	46.67259699
+GSM786521	nomogram score	9.39539484
+GSM786522	nomogram score	67.59430251
+GSM786523	nomogram score	89.88210291
+GSM786524	nomogram score	64.33773142
+GSM786525	nomogram score	1
+GSM786526	nomogram score	38.24540238
+GSM786527	nomogram score	76.02888814
+GSM786528	nomogram score	31.81022665
+GSM786529	nomogram score	22.16502989
+GSM786530	nomogram score	46.44766646
+GSM786531	nomogram score	43.10781602
+GSM786532	nomogram score	23.81320156
+GSM786533	nomogram score	59.59072639
+GSM786534	nomogram score	69.0645029
+GSM786535	nomogram score	20.65263972
+GSM786536	nomogram score	15.38748125
+GSM786537	nomogram score	82.51542593
+GSM786538	nomogram score	68.97142268
+GSM786539	nomogram score	54.14254844
+GSM786540	nomogram score	12.38708981
+GSM786541	nomogram score	82.52366144
+GSM786542	nomogram score	6.797760997
+GSM786543	nomogram score	68.60720905
+GSM786544	nomogram score	20.63742433
+GSM786545	nomogram score	4.814475736
+GSM786546	nomogram score	23.17374223
+GSM786547	nomogram score	22.55107049
+GSM786548	nomogram score	76.89741603
+GSM786549	nomogram score	67.28948158
+GSM786550	nomogram score	57.4680497
+GSM786551	nomogram score	66.05294322
+GSM786552	nomogram score	46.60077495
+GSM786553	nomogram score	1
+GSM786554	nomogram score	14.52217463
+GSM786555	nomogram score	90.70677037
+GSM786556	nomogram score	92.15448049
+GSM786557	nomogram score	10.62897531
+GSM786558	nomogram score	54.02532403
+GSM786559	nomogram score	79.17928416
+GSM786560	nomogram score	62.55822553
+GSM786561	nomogram score	27.19682582
+GSM786562	nomogram score	39.56057988
+GSM786563	nomogram score	60.56478669
+GSM786564	nomogram score	17.62653309
+GSM786565	nomogram score	67.08968299
+GSM786566	nomogram score	61.38268162
+GSM786567	nomogram score	42.10907773
+GSM786568	nomogram score	21.11155867
+GSM786569	nomogram score	10.61219835
+GSM786570	nomogram score	38.72907066
+GSM786571	nomogram score	71.59866128
+GSM786572	nomogram score	81.6631288
+GSM786573	nomogram score	43.42879365
+GSM786574	nomogram score	82.3851487
+GSM786575	nomogram score	11.91711954
+GSM786576	nomogram score	61.61975413
+GSM786577	nomogram score	65.92170237
+GSM786578	nomogram score	9.757349648
+GSM786579	nomogram score	55.49867656
+GSM786580	nomogram score	3.652001993
+GSM786581	nomogram score	78.0425585
+GSM786582	nomogram score	25.7632407
+GSM786583	nomogram score	64.19728557
+GSM786491	distant mets	0
+GSM786492	distant mets	1
+GSM786493	distant mets	0
+GSM786494	distant mets	1
+GSM786495	distant mets	0
+GSM786496	distant mets	1
+GSM786497	distant mets	0
+GSM786498	distant mets	0
+GSM786499	distant mets	1
+GSM786500	distant mets	0
+GSM786501	distant mets	0
+GSM786502	distant mets	1
+GSM786503	distant mets	0
+GSM786504	distant mets	1
+GSM786505	distant mets	0
+GSM786506	distant mets	1
+GSM786507	distant mets	0
+GSM786508	distant mets	1
+GSM786509	distant mets	0
+GSM786510	distant mets	1
+GSM786511	distant mets	0
+GSM786512	distant mets	1
+GSM786513	distant mets	0
+GSM786514	distant mets	1
+GSM786515	distant mets	0
+GSM786516	distant mets	1
+GSM786517	distant mets	0
+GSM786518	distant mets	1
+GSM786519	distant mets	1
+GSM786520	distant mets	1
+GSM786521	distant mets	1
+GSM786522	distant mets	0
+GSM786523	distant mets	0
+GSM786524	distant mets	1
+GSM786525	distant mets	0
+GSM786526	distant mets	0
+GSM786527	distant mets	0
+GSM786528	distant mets	0
+GSM786529	distant mets	1
+GSM786530	distant mets	1
+GSM786531	distant mets	0
+GSM786532	distant mets	1
+GSM786533	distant mets	0
+GSM786534	distant mets	0
+GSM786535	distant mets	0
+GSM786536	distant mets	1
+GSM786537	distant mets	1
+GSM786538	distant mets	0
+GSM786539	distant mets	0
+GSM786540	distant mets	0
+GSM786541	distant mets	0
+GSM786542	distant mets	1
+GSM786543	distant mets	0
+GSM786544	distant mets	1
+GSM786545	distant mets	0
+GSM786546	distant mets	0
+GSM786547	distant mets	1
+GSM786548	distant mets	0
+GSM786549	distant mets	1
+GSM786550	distant mets	1
+GSM786551	distant mets	0
+GSM786552	distant mets	0
+GSM786553	distant mets	0
+GSM786554	distant mets	0
+GSM786555	distant mets	0
+GSM786556	distant mets	0
+GSM786557	distant mets	0
+GSM786558	distant mets	0
+GSM786559	distant mets	0
+GSM786560	distant mets	0
+GSM786561	distant mets	0
+GSM786562	distant mets	0
+GSM786563	distant mets	1
+GSM786564	distant mets	0
+GSM786565	distant mets	0
+GSM786566	distant mets	0
+GSM786567	distant mets	1
+GSM786568	distant mets	0
+GSM786569	distant mets	0
+GSM786570	distant mets	0
+GSM786571	distant mets	0
+GSM786572	distant mets	0
+GSM786573	distant mets	0
+GSM786574	distant mets	0
+GSM786575	distant mets	0
+GSM786576	distant mets	1
+GSM786577	distant mets	1
+GSM786578	distant mets	1
+GSM786579	distant mets	1
+GSM786580	distant mets	0
+GSM786581	distant mets	0
+GSM786582	distant mets	1
+GSM786583	distant mets	0
+GSM786491	local recurrence	0
+GSM786492	local recurrence	0
+GSM786493	local recurrence	0
+GSM786494	local recurrence	0
+GSM786495	local recurrence	0
+GSM786496	local recurrence	0
+GSM786497	local recurrence	0
+GSM786498	local recurrence	0
+GSM786499	local recurrence	0
+GSM786500	local recurrence	0
+GSM786501	local recurrence	0
+GSM786502	local recurrence	0
+GSM786503	local recurrence	0
+GSM786504	local recurrence	1
+GSM786505	local recurrence	0
+GSM786506	local recurrence	1
+GSM786507	local recurrence	0
+GSM786508	local recurrence	1
+GSM786509	local recurrence	0
+GSM786510	local recurrence	0
+GSM786511	local recurrence	0
+GSM786512	local recurrence	1
+GSM786513	local recurrence	0
+GSM786514	local recurrence	0
+GSM786515	local recurrence	0
+GSM786516	local recurrence	1
+GSM786517	local recurrence	0
+GSM786518	local recurrence	1
+GSM786519	local recurrence	1
+GSM786520	local recurrence	1
+GSM786521	local recurrence	0
+GSM786522	local recurrence	0
+GSM786523	local recurrence	0
+GSM786524	local recurrence	1
+GSM786525	local recurrence	0
+GSM786526	local recurrence	0
+GSM786527	local recurrence	0
+GSM786528	local recurrence	0
+GSM786529	local recurrence	0
+GSM786530	local recurrence	1
+GSM786531	local recurrence	0
+GSM786532	local recurrence	1
+GSM786533	local recurrence	1
+GSM786534	local recurrence	0
+GSM786535	local recurrence	0
+GSM786536	local recurrence	1
+GSM786537	local recurrence	0
+GSM786538	local recurrence	0
+GSM786539	local recurrence	0
+GSM786540	local recurrence	0
+GSM786541	local recurrence	0
+GSM786542	local recurrence	0
+GSM786543	local recurrence	0
+GSM786544	local recurrence	1
+GSM786545	local recurrence	0
+GSM786546	local recurrence	0
+GSM786547	local recurrence	0
+GSM786548	local recurrence	0
+GSM786549	local recurrence	1
+GSM786550	local recurrence	0
+GSM786551	local recurrence	0
+GSM786552	local recurrence	0
+GSM786553	local recurrence	0
+GSM786554	local recurrence	0
+GSM786555	local recurrence	0
+GSM786556	local recurrence	0
+GSM786557	local recurrence	0
+GSM786558	local recurrence	0
+GSM786559	local recurrence	0
+GSM786560	local recurrence	0
+GSM786561	local recurrence	0
+GSM786562	local recurrence	0
+GSM786563	local recurrence	1
+GSM786564	local recurrence	0
+GSM786565	local recurrence	0
+GSM786566	local recurrence	0
+GSM786567	local recurrence	1
+GSM786568	local recurrence	0
+GSM786569	local recurrence	0
+GSM786570	local recurrence	1
+GSM786571	local recurrence	0
+GSM786572	local recurrence	0
+GSM786573	local recurrence	0
+GSM786574	local recurrence	0
+GSM786575	local recurrence	0
+GSM786576	local recurrence	1
+GSM786577	local recurrence	0
+GSM786578	local recurrence	1
+GSM786579	local recurrence	0
+GSM786580	local recurrence	0
+GSM786581	local recurrence	0
+GSM786582	local recurrence	0
+GSM786583	local recurrence	0
+GSM786491	urothelial recurrence	1
+GSM786492	urothelial recurrence	0
+GSM786493	urothelial recurrence	1
+GSM786494	urothelial recurrence	0
+GSM786495	urothelial recurrence	0
+GSM786496	urothelial recurrence	0
+GSM786497	urothelial recurrence	0
+GSM786498	urothelial recurrence	0
+GSM786499	urothelial recurrence	0
+GSM786500	urothelial recurrence	0
+GSM786501	urothelial recurrence	0
+GSM786502	urothelial recurrence	1
+GSM786503	urothelial recurrence	0
+GSM786504	urothelial recurrence	0
+GSM786505	urothelial recurrence	0
+GSM786506	urothelial recurrence	0
+GSM786507	urothelial recurrence	0
+GSM786508	urothelial recurrence	0
+GSM786509	urothelial recurrence	0
+GSM786510	urothelial recurrence	0
+GSM786511	urothelial recurrence	0
+GSM786512	urothelial recurrence	0
+GSM786513	urothelial recurrence	0
+GSM786514	urothelial recurrence	0
+GSM786515	urothelial recurrence	0
+GSM786516	urothelial recurrence	0
+GSM786517	urothelial recurrence	0
+GSM786518	urothelial recurrence	1
+GSM786519	urothelial recurrence	0
+GSM786520	urothelial recurrence	0
+GSM786521	urothelial recurrence	0
+GSM786522	urothelial recurrence	0
+GSM786523	urothelial recurrence	1
+GSM786524	urothelial recurrence	0
+GSM786525	urothelial recurrence	0
+GSM786526	urothelial recurrence	0
+GSM786527	urothelial recurrence	0
+GSM786528	urothelial recurrence	0
+GSM786529	urothelial recurrence	0
+GSM786530	urothelial recurrence	0
+GSM786531	urothelial recurrence	0
+GSM786532	urothelial recurrence	0
+GSM786533	urothelial recurrence	1
+GSM786534	urothelial recurrence	0
+GSM786535	urothelial recurrence	0
+GSM786536	urothelial recurrence	0
+GSM786537	urothelial recurrence	0
+GSM786538	urothelial recurrence	0
+GSM786539	urothelial recurrence	0
+GSM786540	urothelial recurrence	0
+GSM786541	urothelial recurrence	0
+GSM786542	urothelial recurrence	0
+GSM786543	urothelial recurrence	0
+GSM786544	urothelial recurrence	0
+GSM786545	urothelial recurrence	0
+GSM786546	urothelial recurrence	0
+GSM786547	urothelial recurrence	0
+GSM786548	urothelial recurrence	0
+GSM786549	urothelial recurrence	0
+GSM786550	urothelial recurrence	0
+GSM786551	urothelial recurrence	0
+GSM786552	urothelial recurrence	0
+GSM786553	urothelial recurrence	1
+GSM786554	urothelial recurrence	0
+GSM786555	urothelial recurrence	0
+GSM786556	urothelial recurrence	0
+GSM786557	urothelial recurrence	0
+GSM786558	urothelial recurrence	0
+GSM786559	urothelial recurrence	0
+GSM786560	urothelial recurrence	0
+GSM786561	urothelial recurrence	0
+GSM786562	urothelial recurrence	0
+GSM786563	urothelial recurrence	0
+GSM786564	urothelial recurrence	0
+GSM786565	urothelial recurrence	0
+GSM786566	urothelial recurrence	0
+GSM786567	urothelial recurrence	1
+GSM786568	urothelial recurrence	0
+GSM786569	urothelial recurrence	0
+GSM786570	urothelial recurrence	0
+GSM786571	urothelial recurrence	0
+GSM786572	urothelial recurrence	0
+GSM786573	urothelial recurrence	0
+GSM786574	urothelial recurrence	0
+GSM786575	urothelial recurrence	0
+GSM786576	urothelial recurrence	0
+GSM786577	urothelial recurrence	0
+GSM786578	urothelial recurrence	0
+GSM786579	urothelial recurrence	0
+GSM786580	urothelial recurrence	0
+GSM786581	urothelial recurrence	0
+GSM786582	urothelial recurrence	0
+GSM786583	urothelial recurrence	1
+GSM786491	metastasis	0
+GSM786492	metastasis	1
+GSM786493	metastasis	0
+GSM786494	metastasis	1
+GSM786495	metastasis	0
+GSM786496	metastasis	1
+GSM786497	metastasis	0
+GSM786498	metastasis	0
+GSM786499	metastasis	1
+GSM786500	metastasis	0
+GSM786501	metastasis	0
+GSM786502	metastasis	1
+GSM786503	metastasis	0
+GSM786504	metastasis	1
+GSM786505	metastasis	0
+GSM786506	metastasis	1
+GSM786507	metastasis	0
+GSM786508	metastasis	1
+GSM786509	metastasis	0
+GSM786510	metastasis	1
+GSM786511	metastasis	0
+GSM786512	metastasis	1
+GSM786513	metastasis	0
+GSM786514	metastasis	1
+GSM786515	metastasis	0
+GSM786516	metastasis	1
+GSM786517	metastasis	0
+GSM786518	metastasis	1
+GSM786519	metastasis	1
+GSM786520	metastasis	1
+GSM786521	metastasis	1
+GSM786522	metastasis	0
+GSM786523	metastasis	0
+GSM786524	metastasis	1
+GSM786525	metastasis	0
+GSM786526	metastasis	0
+GSM786527	metastasis	0
+GSM786528	metastasis	0
+GSM786529	metastasis	1
+GSM786530	metastasis	1
+GSM786531	metastasis	0
+GSM786532	metastasis	1
+GSM786533	metastasis	1
+GSM786534	metastasis	0
+GSM786535	metastasis	0
+GSM786536	metastasis	1
+GSM786537	metastasis	1
+GSM786538	metastasis	0
+GSM786539	metastasis	0
+GSM786540	metastasis	0
+GSM786541	metastasis	0
+GSM786542	metastasis	1
+GSM786543	metastasis	0
+GSM786544	metastasis	1
+GSM786545	metastasis	0
+GSM786546	metastasis	0
+GSM786547	metastasis	1
+GSM786548	metastasis	0
+GSM786549	metastasis	1
+GSM786550	metastasis	1
+GSM786551	metastasis	0
+GSM786552	metastasis	0
+GSM786553	metastasis	0
+GSM786554	metastasis	0
+GSM786555	metastasis	0
+GSM786556	metastasis	0
+GSM786557	metastasis	0
+GSM786558	metastasis	0
+GSM786559	metastasis	0
+GSM786560	metastasis	0
+GSM786561	metastasis	0
+GSM786562	metastasis	0
+GSM786563	metastasis	1
+GSM786564	metastasis	0
+GSM786565	metastasis	0
+GSM786566	metastasis	0
+GSM786567	metastasis	1
+GSM786568	metastasis	0
+GSM786569	metastasis	0
+GSM786570	metastasis	1
+GSM786571	metastasis	0
+GSM786572	metastasis	0
+GSM786573	metastasis	0
+GSM786574	metastasis	0
+GSM786575	metastasis	0
+GSM786576	metastasis	1
+GSM786577	metastasis	1
+GSM786578	metastasis	1
+GSM786579	metastasis	1
+GSM786580	metastasis	0
+GSM786581	metastasis	0
+GSM786582	metastasis	1
+GSM786583	metastasis	0
+GSM786491	last known status	DOC
+GSM786492	last known status	DOD
+GSM786493	last known status	DOD
+GSM786494	last known status	DOD
+GSM786495	last known status	DOC
+GSM786496	last known status	DOD
+GSM786497	last known status	DOC
+GSM786498	last known status	NED
+GSM786499	last known status	DOD
+GSM786500	last known status	DOC
+GSM786501	last known status	NED
+GSM786502	last known status	DOD
+GSM786503	last known status	DOC
+GSM786504	last known status	DOD
+GSM786505	last known status	DOC
+GSM786506	last known status	DOD
+GSM786507	last known status	NED
+GSM786508	last known status	DOD
+GSM786509	last known status	NED
+GSM786510	last known status	DOD
+GSM786511	last known status	DOC
+GSM786512	last known status	DOD
+GSM786513	last known status	DOC
+GSM786514	last known status	DOD
+GSM786515	last known status	DOC
+GSM786516	last known status	DOD
+GSM786517	last known status	NED
+GSM786518	last known status	DOD
+GSM786519	last known status	DOD
+GSM786520	last known status	DOD
+GSM786521	last known status	DOD
+GSM786522	last known status	NED
+GSM786523	last known status	DOD
+GSM786524	last known status	DOD
+GSM786525	last known status	DOC
+GSM786526	last known status	NED
+GSM786527	last known status	DOC
+GSM786528	last known status	DOC
+GSM786529	last known status	DOD
+GSM786530	last known status	DOD
+GSM786531	last known status	DOC
+GSM786532	last known status	DOD
+GSM786533	last known status	DOD
+GSM786534	last known status	NED
+GSM786535	last known status	DOC
+GSM786536	last known status	DOD
+GSM786537	last known status	DOD
+GSM786538	last known status	DOC
+GSM786539	last known status	NED
+GSM786540	last known status	NED
+GSM786541	last known status	DOC
+GSM786542	last known status	DOD
+GSM786543	last known status	DOC
+GSM786544	last known status	DOD
+GSM786545	last known status	DOC
+GSM786546	last known status	DOD
+GSM786547	last known status	DOD
+GSM786548	last known status	DOC
+GSM786549	last known status	NED
+GSM786550	last known status	DOD
+GSM786551	last known status	NED
+GSM786552	last known status	DOC
+GSM786553	last known status	NED
+GSM786554	last known status	DOC
+GSM786555	last known status	DOC
+GSM786556	last known status	NED
+GSM786557	last known status	DOC
+GSM786558	last known status	NED
+GSM786559	last known status	NED
+GSM786560	last known status	NED
+GSM786561	last known status	DOC
+GSM786562	last known status	DOC
+GSM786563	last known status	DOD
+GSM786564	last known status	DOC
+GSM786565	last known status	NED
+GSM786566	last known status	DOC
+GSM786567	last known status	DOD
+GSM786568	last known status	NED
+GSM786569	last known status	NED
+GSM786570	last known status	DOD
+GSM786571	last known status	NED
+GSM786572	last known status	NED
+GSM786573	last known status	NED
+GSM786574	last known status	NED
+GSM786575	last known status	NED
+GSM786576	last known status	DOD
+GSM786577	last known status	DOD
+GSM786578	last known status	DOD
+GSM786579	last known status	DOD
+GSM786580	last known status	NED
+GSM786581	last known status	NED
+GSM786582	last known status	DOD
+GSM786583	last known status	NED
+GSM786491	prerc_chemo	No
+GSM786492	prerc_chemo	No
+GSM786493	prerc_chemo	No
+GSM786494	prerc_chemo	No
+GSM786495	prerc_chemo	No
+GSM786496	prerc_chemo	No
+GSM786497	prerc_chemo	No
+GSM786498	prerc_chemo	No
+GSM786499	prerc_chemo	No
+GSM786500	prerc_chemo	No
+GSM786501	prerc_chemo	No
+GSM786502	prerc_chemo	No
+GSM786503	prerc_chemo	No
+GSM786504	prerc_chemo	No
+GSM786505	prerc_chemo	No
+GSM786506	prerc_chemo	No
+GSM786507	prerc_chemo	No
+GSM786508	prerc_chemo	No
+GSM786509	prerc_chemo	No
+GSM786510	prerc_chemo	Yes
+GSM786511	prerc_chemo	No
+GSM786512	prerc_chemo	No
+GSM786513	prerc_chemo	No
+GSM786514	prerc_chemo	No
+GSM786515	prerc_chemo	No
+GSM786516	prerc_chemo	No
+GSM786517	prerc_chemo	No
+GSM786518	prerc_chemo	No
+GSM786519	prerc_chemo	No
+GSM786520	prerc_chemo	No
+GSM786521	prerc_chemo	No
+GSM786522	prerc_chemo	No
+GSM786523	prerc_chemo	No
+GSM786524	prerc_chemo	No
+GSM786525	prerc_chemo	No
+GSM786526	prerc_chemo	No
+GSM786527	prerc_chemo	No
+GSM786528	prerc_chemo	No
+GSM786529	prerc_chemo	No
+GSM786530	prerc_chemo	No
+GSM786531	prerc_chemo	No
+GSM786532	prerc_chemo	No
+GSM786533	prerc_chemo	No
+GSM786534	prerc_chemo	No
+GSM786535	prerc_chemo	No
+GSM786536	prerc_chemo	No
+GSM786537	prerc_chemo	No
+GSM786538	prerc_chemo	No
+GSM786539	prerc_chemo	No
+GSM786540	prerc_chemo	No
+GSM786541	prerc_chemo	No
+GSM786542	prerc_chemo	No
+GSM786543	prerc_chemo	No
+GSM786544	prerc_chemo	No
+GSM786545	prerc_chemo	No
+GSM786546	prerc_chemo	No
+GSM786547	prerc_chemo	No
+GSM786548	prerc_chemo	No
+GSM786549	prerc_chemo	No
+GSM786550	prerc_chemo	No
+GSM786551	prerc_chemo	No
+GSM786552	prerc_chemo	No
+GSM786553	prerc_chemo	No
+GSM786554	prerc_chemo	No
+GSM786555	prerc_chemo	No
+GSM786556	prerc_chemo	No
+GSM786557	prerc_chemo	No
+GSM786558	prerc_chemo	No
+GSM786559	prerc_chemo	No
+GSM786560	prerc_chemo	No
+GSM786561	prerc_chemo	No
+GSM786562	prerc_chemo	No
+GSM786563	prerc_chemo	No
+GSM786564	prerc_chemo	No
+GSM786565	prerc_chemo	No
+GSM786566	prerc_chemo	No
+GSM786567	prerc_chemo	no
+GSM786568	prerc_chemo	No
+GSM786569	prerc_chemo	No
+GSM786570	prerc_chemo	No
+GSM786571	prerc_chemo	No
+GSM786572	prerc_chemo	No
+GSM786573	prerc_chemo	No
+GSM786574	prerc_chemo	No
+GSM786575	prerc_chemo	No
+GSM786576	prerc_chemo	Yes
+GSM786577	prerc_chemo	No
+GSM786578	prerc_chemo	No
+GSM786579	prerc_chemo	No
+GSM786580	prerc_chemo	No
+GSM786581	prerc_chemo	Yes
+GSM786582	prerc_chemo	No
+GSM786583	prerc_chemo	No
+GSM786491	post rc_chemo	No
+GSM786492	post rc_chemo	Yes
+GSM786493	post rc_chemo	No
+GSM786494	post rc_chemo	No
+GSM786495	post rc_chemo	No
+GSM786496	post rc_chemo	No
+GSM786497	post rc_chemo	No
+GSM786498	post rc_chemo	No
+GSM786499	post rc_chemo	Yes
+GSM786500	post rc_chemo	No
+GSM786501	post rc_chemo	No
+GSM786502	post rc_chemo	No
+GSM786503	post rc_chemo	No
+GSM786504	post rc_chemo	Yes
+GSM786505	post rc_chemo	No
+GSM786506	post rc_chemo	No
+GSM786507	post rc_chemo	No
+GSM786508	post rc_chemo	Yes
+GSM786509	post rc_chemo	No
+GSM786510	post rc_chemo	Yes
+GSM786511	post rc_chemo	No
+GSM786512	post rc_chemo	Yes
+GSM786513	post rc_chemo	No
+GSM786514	post rc_chemo	Yes
+GSM786515	post rc_chemo	No
+GSM786516	post rc_chemo	Yes
+GSM786517	post rc_chemo	No
+GSM786518	post rc_chemo	Yes
+GSM786519	post rc_chemo	No
+GSM786520	post rc_chemo	Yes
+GSM786521	post rc_chemo	Yes
+GSM786522	post rc_chemo	Yes
+GSM786523	post rc_chemo	No
+GSM786524	post rc_chemo	Yes
+GSM786525	post rc_chemo	No
+GSM786526	post rc_chemo	No
+GSM786527	post rc_chemo	No
+GSM786528	post rc_chemo	No
+GSM786529	post rc_chemo	Yes
+GSM786530	post rc_chemo	Yes
+GSM786531	post rc_chemo	No
+GSM786532	post rc_chemo	Yes
+GSM786533	post rc_chemo	Yes
+GSM786534	post rc_chemo	No
+GSM786535	post rc_chemo	No
+GSM786536	post rc_chemo	No
+GSM786537	post rc_chemo	No
+GSM786538	post rc_chemo	No
+GSM786539	post rc_chemo	No
+GSM786540	post rc_chemo	Yes
+GSM786541	post rc_chemo	No
+GSM786542	post rc_chemo	Yes
+GSM786543	post rc_chemo	No
+GSM786544	post rc_chemo	Yes
+GSM786545	post rc_chemo	No
+GSM786546	post rc_chemo	No
+GSM786547	post rc_chemo	Yes
+GSM786548	post rc_chemo	No
+GSM786549	post rc_chemo	Yes
+GSM786550	post rc_chemo	No
+GSM786551	post rc_chemo	Yes
+GSM786552	post rc_chemo	No
+GSM786553	post rc_chemo	Yes
+GSM786554	post rc_chemo	No
+GSM786555	post rc_chemo	No
+GSM786556	post rc_chemo	No
+GSM786557	post rc_chemo	No
+GSM786558	post rc_chemo	No
+GSM786559	post rc_chemo	No
+GSM786560	post rc_chemo	Yes
+GSM786561	post rc_chemo	No
+GSM786562	post rc_chemo	No
+GSM786563	post rc_chemo	Yes
+GSM786564	post rc_chemo	No
+GSM786565	post rc_chemo	No
+GSM786566	post rc_chemo	No
+GSM786567	post rc_chemo	Yes
+GSM786568	post rc_chemo	No
+GSM786569	post rc_chemo	Yes
+GSM786570	post rc_chemo	No
+GSM786571	post rc_chemo	Yes
+GSM786572	post rc_chemo	No
+GSM786573	post rc_chemo	No
+GSM786574	post rc_chemo	No
+GSM786575	post rc_chemo	Yes
+GSM786576	post rc_chemo	Yes
+GSM786577	post rc_chemo	Yes
+GSM786578	post rc_chemo	Yes
+GSM786579	post rc_chemo	Yes
+GSM786580	post rc_chemo	Yes
+GSM786581	post rc_chemo	No
+GSM786582	post rc_chemo	No
+GSM786583	post rc_chemo	No
+GSM786491	smoking	Former
+GSM786492	postchemo type	salvage
+GSM786493	smoking	Current
+GSM786494	smoking	Former
+GSM786495	smoking	Former
+GSM786496	smoking	Former
+GSM786497	smoking	Current
+GSM786498	smoking	Never
+GSM786499	postchemo type	salvage
+GSM786500	smoking	Former
+GSM786501	smoking	Never
+GSM786502	smoking	Never
+GSM786503	smoking	Former
+GSM786504	postchemo type	adjuvant
+GSM786505	smoking	Current
+GSM786506	smoking	Current
+GSM786507	smoking	Former
+GSM786508	postchemo type	adjuvant
+GSM786509	smoking	Current
+GSM786510	postchemo type	salvage
+GSM786511	smoking	Former
+GSM786512	postchemo type	salvage
+GSM786513	smoking	Former
+GSM786514	postchemo type	adjuvant
+GSM786515	smoking	Never
+GSM786516	postchemo type	salvage
+GSM786517	smoking	Never
+GSM786518	postchemo type	salvage
+GSM786519	smoking	Former
+GSM786520	postchemo type	salvage
+GSM786521	postchemo type	adjuvant
+GSM786522	postchemo type	adjuvant
+GSM786523	smoking	Former
+GSM786524	postchemo type	adjuvant
+GSM786525	smoking	Current
+GSM786526	smoking	Former
+GSM786527	smoking	Current
+GSM786528	smoking	Former
+GSM786529	postchemo type	adjuvant
+GSM786530	postchemo type	salvage
+GSM786531	smoking	Former
+GSM786532	postchemo type	salvage
+GSM786533	postchemo type	salvage
+GSM786534	smoking	Never
+GSM786535	smoking	Former
+GSM786536	smoking	Former
+GSM786537	smoking	Former
+GSM786538	smoking	Never
+GSM786539	smoking	Current
+GSM786540	postchemo type	adjuvant
+GSM786541	smoking	Former
+GSM786542	postchemo type	salvage
+GSM786543	smoking	Never
+GSM786544	postchemo type	salvage
+GSM786545	smoking	Former
+GSM786546	smoking	Former
+GSM786547	postchemo type	salvage
+GSM786548	smoking	Former
+GSM786549	postchemo type	salvage
+GSM786550	smoking	Former
+GSM786551	postchemo type	adjuvant
+GSM786552	smoking	Former
+GSM786553	postchemo type	adjuvant
+GSM786554	smoking	Current
+GSM786555	smoking	Former
+GSM786556	smoking	Former
+GSM786557	smoking	Current
+GSM786558	smoking	Former
+GSM786559	smoking	Former
+GSM786560	postchemo type	adjuvant
+GSM786561	smoking	Former
+GSM786562	smoking	Former
+GSM786563	postchemo type	salvage
+GSM786564	smoking	Former
+GSM786565	smoking	Current
+GSM786566	smoking	Former
+GSM786567	postchemo type	salvage
+GSM786568	smoking	Current
+GSM786569	postchemo type	adjuvant
+GSM786570	smoking	Former
+GSM786571	postchemo type	adjuvant
+GSM786572	smoking	Former
+GSM786573	smoking	Former
+GSM786574	smoking	Never
+GSM786575	postchemo type	adjuvant
+GSM786576	postchemo type	salvage
+GSM786577	postchemo type	salvage
+GSM786578	postchemo type	salvage
+GSM786579	postchemo type	adjuvant
+GSM786580	postchemo type	adjuvant
+GSM786581	smoking	Never
+GSM786582	smoking	Former
+GSM786583	smoking	Former
+GSM786491	smokingpack-years	20
+GSM786492	smoking	Never
+GSM786493	smokingpack-years	80
+GSM786494	smokingpack-years	35
+GSM786495	smokingpack-years	20
+GSM786496	smokingpack-years	50
+GSM786497	smokingpack-years	50
+GSM786498	recurrence free survival months (distant and local)	173.4045
+GSM786499	smoking	Former
+GSM786500	smokingpack-years	20
+GSM786501	recurrence free survival months (distant and local)	167.655
+GSM786502	recurrence free survival months (distant and local)	99.97536
+GSM786503	smokingpack-years	45
+GSM786504	smoking	Former
+GSM786505	smokingpack-years	40
+GSM786506	smokingpack-years	120
+GSM786507	smokingpack-years	20
+GSM786508	smoking	Former
+GSM786509	smokingpack-years	10
+GSM786510	smoking	Former
+GSM786511	smokingpack-years	120
+GSM786512	smoking	Former
+GSM786513	smokingpack-years	unk
+GSM786514	smoking	Former
+GSM786515	recurrence free survival months (distant and local)	3.285421
+GSM786516	smoking	Former
+GSM786517	recurrence free survival months (distant and local)	56.93634
+GSM786518	smoking	Current
+GSM786519	smokingpack-years	70
+GSM786520	smoking	Former
+GSM786521	smoking	Former
+GSM786522	smoking	Current
+GSM786523	smokingpack-years	10
+GSM786524	smoking	Former
+GSM786525	smokingpack-years	90
+GSM786526	smokingpack-years	40
+GSM786527	smokingpack-years	60
+GSM786528	smokingpack-years	50
+GSM786529	smoking	Never
+GSM786530	smoking	Former
+GSM786531	smokingpack-years	60
+GSM786532	smoking	Former
+GSM786533	smoking	Former
+GSM786534	recurrence free survival months (distant and local)	105.7906
+GSM786535	smokingpack-years	40
+GSM786536	smokingpack-years	10
+GSM786537	smokingpack-years	unk
+GSM786538	recurrence free survival months (distant and local)	64.39425
+GSM786539	smokingpack-years	25
+GSM786540	smoking	Current
+GSM786541	smokingpack-years	10
+GSM786542	smoking	Never
+GSM786543	recurrence free survival months (distant and local)	79.44148
+GSM786544	smoking	Former
+GSM786545	smokingpack-years	50
+GSM786546	smokingpack-years	30
+GSM786547	smoking	Former
+GSM786548	smokingpack-years	100
+GSM786549	smoking	Never
+GSM786550	smokingpack-years	60
+GSM786551	smoking	Never
+GSM786552	smokingpack-years	40
+GSM786553	smoking	Former
+GSM786554	smokingpack-years	120
+GSM786555	smokingpack-years	30
+GSM786556	smokingpack-years	unk
+GSM786557	smokingpack-years	25
+GSM786558	smokingpack-years	15
+GSM786559	smokingpack-years	5
+GSM786560	smoking	Former
+GSM786561	smokingpack-years	30
+GSM786562	smokingpack-years	10
+GSM786563	smoking	Never
+GSM786564	smokingpack-years	40
+GSM786565	smokingpack-years	30
+GSM786566	smokingpack-years	80
+GSM786567	smoking	Never
+GSM786568	smokingpack-years	30
+GSM786569	smoking	Current
+GSM786570	smokingpack-years	90
+GSM786571	smoking	Current
+GSM786572	smokingpack-years	55
+GSM786573	smokingpack-years	60
+GSM786574	recurrence free survival months (distant and local)	42.71047
+GSM786575	smoking	Former
+GSM786576	smoking	Current
+GSM786577	smoking	Never
+GSM786578	smoking	Current
+GSM786579	smoking	Former
+GSM786580	smoking	Former
+GSM786581	recurrence free survival months (distant and local)	71.85216
+GSM786582	smokingpack-years	75
+GSM786583	smokingpack-years	30
+GSM786491	recurrence free survival months (distant and local)	103.7864
+GSM786492	recurrence free survival months (distant and local)	7.129363
+GSM786493	recurrence free survival months (distant and local)	10.38193
+GSM786494	recurrence free survival months (distant and local)	15.54004
+GSM786495	recurrence free survival months (distant and local)	13.14168
+GSM786496	recurrence free survival months (distant and local)	2.726899
+GSM786497	recurrence free survival months (distant and local)	87.85216
+GSM786498	recurrence/dod	No
+GSM786499	smokingpack-years	30
+GSM786500	recurrence free survival months (distant and local)	175.5072
+GSM786501	recurrence/dod	No
+GSM786502	recurrence/dod	Yes
+GSM786503	recurrence free survival months (distant and local)	0.3942505
+GSM786504	smokingpack-years	80
+GSM786505	recurrence free survival months (distant and local)	3.12115
+GSM786506	recurrence free survival months (distant and local)	1.741273
+GSM786507	recurrence free survival months (distant and local)	0.6570842
+GSM786508	smokingpack-years	10
+GSM786509	recurrence free survival months (distant and local)	31.31006
+GSM786510	smokingpack-years	35
+GSM786511	recurrence free survival months (distant and local)	24.67351
+GSM786512	smokingpack-years	5
+GSM786513	recurrence free survival months (distant and local)	1.084189
+GSM786514	smokingpack-years	10
+GSM786515	recurrence/dod	No
+GSM786516	smokingpack-years	60
+GSM786517	recurrence/dod	No
+GSM786518	smokingpack-years	60
+GSM786519	recurrence free survival months (distant and local)	2.89117
+GSM786520	smokingpack-years	unk
+GSM786521	smokingpack-years	5
+GSM786522	smokingpack-years	60
+GSM786523	recurrence free survival months (distant and local)	90.1191
+GSM786524	smokingpack-years	60
+GSM786525	recurrence free survival months (distant and local)	5.322382
+GSM786526	recurrence free survival months (distant and local)	3.383984
+GSM786527	recurrence free survival months (distant and local)	91.17043
+GSM786528	recurrence free survival months (distant and local)	2.825462
+GSM786529	recurrence free survival months (distant and local)	22.37372
+GSM786530	smokingpack-years	40
+GSM786531	recurrence free survival months (distant and local)	102.6366
+GSM786532	smokingpack-years	58
+GSM786533	smokingpack-years	30
+GSM786534	recurrence/dod	No
+GSM786535	recurrence free survival months (distant and local)	5.585216
+GSM786536	recurrence free survival months (distant and local)	6.045175
+GSM786537	recurrence free survival months (distant and local)	16.29569
+GSM786538	recurrence/dod	No
+GSM786539	recurrence free survival months (distant and local)	120.7721
+GSM786540	smokingpack-years	30
+GSM786541	recurrence free survival months (distant and local)	91.66324
+GSM786542	recurrence free survival months (distant and local)	3.909651
+GSM786543	recurrence/dod	No
+GSM786544	smokingpack-years	5
+GSM786545	recurrence free survival months (distant and local)	65.28131
+GSM786546	recurrence free survival months (distant and local)	0.788501
+GSM786547	smokingpack-years	40
+GSM786548	recurrence free survival months (distant and local)	109.3717
+GSM786549	recurrence free survival months (distant and local)	15.34292
+GSM786550	recurrence free survival months (distant and local)	9.002053
+GSM786551	recurrence free survival months (distant and local)	102.5708
+GSM786552	recurrence free survival months (distant and local)	7.786448
+GSM786553	smokingpack-years	55
+GSM786554	recurrence free survival months (distant and local)	32.62423
+GSM786555	recurrence free survival months (distant and local)	3.449692
+GSM786556	recurrence free survival months (distant and local)	79.6386
+GSM786557	recurrence free survival months (distant and local)	103.8522
+GSM786558	recurrence free survival months (distant and local)	100.9938
+GSM786559	recurrence free survival months (distant and local)	91.46612
+GSM786560	smokingpack-years	20
+GSM786561	recurrence free survival months (distant and local)	15.08008
+GSM786562	recurrence free survival months (distant and local)	6.63655
+GSM786563	recurrence free survival months (distant and local)	6.702259
+GSM786564	recurrence free survival months (distant and local)	67.25257
+GSM786565	recurrence free survival months (distant and local)	42.87474
+GSM786566	recurrence free survival months (distant and local)	51.94251
+GSM786567	recurrence free survival months (distant and local)	4.862423
+GSM786568	recurrence free survival months (distant and local)	84.73101
+GSM786569	smokingpack-years	80
+GSM786570	recurrence free survival months (distant and local)	16.26283
+GSM786571	smokingpack-years	30
+GSM786572	recurrence free survival months (distant and local)	89.10062
+GSM786573	recurrence free survival months (distant and local)	81.11704
+GSM786574	recurrence/dod	No
+GSM786575	smokingpack-years	40
+GSM786576	smokingpack-years	80
+GSM786577	recurrence free survival months (distant and local)	11.53183
+GSM786578	smokingpack-years	40
+GSM786579	smokingpack-years	10
+GSM786580	smokingpack-years	60
+GSM786581	recurrence/dod	No
+GSM786582	recurrence free survival months (distant and local)	2.431211
+GSM786583	recurrence free survival months (distant and local)	64.55852
+GSM786491	recurrence/dod	No
+GSM786492	recurrence/dod	Yes
+GSM786493	recurrence/dod	Yes
+GSM786494	recurrence/dod	Yes
+GSM786495	recurrence/dod	No
+GSM786496	recurrence/dod	Yes
+GSM786497	recurrence/dod	No
+GSM786498	cluster	2
+GSM786499	recurrence free survival months (distant and local)	96.16427
+GSM786500	recurrence/dod	No
+GSM786501	cluster	1
+GSM786502	cluster	2
+GSM786503	recurrence/dod	No
+GSM786504	recurrence free survival months (distant and local)	7.326489
+GSM786505	recurrence/dod	No
+GSM786506	recurrence/dod	Yes
+GSM786507	recurrence/dod	No
+GSM786508	recurrence free survival months (distant and local)	8.312115
+GSM786509	recurrence/dod	No
+GSM786510	recurrence free survival months (distant and local)	3.351129
+GSM786511	recurrence/dod	No
+GSM786512	recurrence free survival months (distant and local)	8.11499
+GSM786513	recurrence/dod	No
+GSM786514	recurrence free survival months (distant and local)	4.468172
+GSM786515	cluster	1
+GSM786516	recurrence free survival months (distant and local)	8.246407
+GSM786517	cluster	1
+GSM786518	recurrence free survival months (distant and local)	8.344969
+GSM786519	recurrence/dod	Yes
+GSM786520	recurrence free survival months (distant and local)	2.004107
+GSM786521	recurrence free survival months (distant and local)	11.03901
+GSM786522	recurrence free survival months (distant and local)	72.54209
+GSM786523	recurrence/dod	Yes
+GSM786524	recurrence free survival months (distant and local)	12.9117
+GSM786525	recurrence/dod	No
+GSM786526	recurrence/dod	No
+GSM786527	recurrence/dod	No
+GSM786528	recurrence/dod	No
+GSM786529	recurrence/dod	Yes
+GSM786530	recurrence free survival months (distant and local)	6.899384
+GSM786531	recurrence/dod	No
+GSM786532	recurrence free survival months (distant and local)	1.544148
+GSM786533	recurrence free survival months (distant and local)	6.767967
+GSM786534	cluster	1
+GSM786535	recurrence/dod	No
+GSM786536	recurrence/dod	Yes
+GSM786537	recurrence/dod	Yes
+GSM786538	cluster	2
+GSM786539	recurrence/dod	No
+GSM786540	recurrence free survival months (distant and local)	44.68172
+GSM786541	recurrence/dod	No
+GSM786542	recurrence/dod	Yes
+GSM786543	cluster	2
+GSM786544	recurrence free survival months (distant and local)	2.529774
+GSM786545	recurrence/dod	No
+GSM786546	recurrence/dod	Yes
+GSM786547	recurrence free survival months (distant and local)	1.379877
+GSM786548	recurrence/dod	No
+GSM786549	recurrence/dod	Yes
+GSM786550	recurrence/dod	Yes
+GSM786551	recurrence/dod	No
+GSM786552	recurrence/dod	No
+GSM786553	recurrence free survival months (distant and local)	101.8809
+GSM786554	recurrence/dod	No
+GSM786555	recurrence/dod	No
+GSM786556	recurrence/dod	No
+GSM786557	recurrence/dod	No
+GSM786558	recurrence/dod	No
+GSM786559	recurrence/dod	No
+GSM786560	recurrence free survival months (distant and local)	98.16838
+GSM786561	recurrence/dod	No
+GSM786562	recurrence/dod	No
+GSM786563	recurrence/dod	Yes
+GSM786564	recurrence/dod	No
+GSM786565	recurrence/dod	No
+GSM786566	recurrence/dod	No
+GSM786567	recurrence/dod	Yes
+GSM786568	recurrence/dod	No
+GSM786569	recurrence free survival months (distant and local)	84.56674
+GSM786570	recurrence/dod	Yes
+GSM786571	recurrence free survival months (distant and local)	85.94661
+GSM786572	recurrence/dod	No
+GSM786573	recurrence/dod	No
+GSM786574	cluster	1
+GSM786575	recurrence free survival months (distant and local)	33.60986
+GSM786576	recurrence free survival months (distant and local)	6.340862
+GSM786577	recurrence/dod	Yes
+GSM786578	recurrence free survival months (distant and local)	3.383984
+GSM786579	recurrence free survival months (distant and local)	51.25257
+GSM786580	recurrence free survival months (distant and local)	46.22587
+GSM786581	cluster	1
+GSM786582	recurrence/dod	Yes
+GSM786583	recurrence/dod	No
+GSM786491	cluster	2
+GSM786492	cluster	2
+GSM786493	cluster	1
+GSM786494	cluster	2
+GSM786495	cluster	1
+GSM786496	cluster	1
+GSM786497	cluster	2
+GSM786499	recurrence/dod	Yes
+GSM786500	cluster	2
+GSM786503	cluster	2
+GSM786504	recurrence/dod	Yes
+GSM786505	cluster	2
+GSM786506	cluster	2
+GSM786507	cluster	1
+GSM786508	recurrence/dod	Yes
+GSM786509	cluster	2
+GSM786510	recurrence/dod	Yes
+GSM786511	cluster	2
+GSM786512	recurrence/dod	Yes
+GSM786513	cluster	2
+GSM786514	recurrence/dod	Yes
+GSM786516	recurrence/dod	Yes
+GSM786518	recurrence/dod	Yes
+GSM786519	cluster	2
+GSM786520	recurrence/dod	Yes
+GSM786521	recurrence/dod	Yes
+GSM786522	recurrence/dod	No
+GSM786523	cluster	1
+GSM786524	recurrence/dod	Yes
+GSM786525	cluster	2
+GSM786526	cluster	2
+GSM786527	cluster	1
+GSM786528	cluster	2
+GSM786529	cluster	1
+GSM786530	recurrence/dod	Yes
+GSM786531	cluster	1
+GSM786532	recurrence/dod	Yes
+GSM786533	recurrence/dod	Yes
+GSM786535	cluster	1
+GSM786536	cluster	2
+GSM786537	cluster	2
+GSM786539	cluster	1
+GSM786540	recurrence/dod	No
+GSM786541	cluster	1
+GSM786542	cluster	1
+GSM786544	recurrence/dod	Yes
+GSM786545	cluster	1
+GSM786546	cluster	1
+GSM786547	recurrence/dod	Yes
+GSM786548	cluster	1
+GSM786549	cluster	1
+GSM786550	cluster	NA
+GSM786551	cluster	2
+GSM786552	cluster	1
+GSM786553	recurrence/dod	No
+GSM786554	cluster	1
+GSM786555	cluster	1
+GSM786556	cluster	1
+GSM786557	cluster	2
+GSM786558	cluster	1
+GSM786559	cluster	1
+GSM786560	recurrence/dod	No
+GSM786561	cluster	2
+GSM786562	cluster	2
+GSM786563	cluster	1
+GSM786564	cluster	1
+GSM786565	cluster	1
+GSM786566	cluster	2
+GSM786567	cluster	1
+GSM786568	cluster	1
+GSM786569	recurrence/dod	No
+GSM786570	cluster	1
+GSM786571	recurrence/dod	No
+GSM786572	cluster	1
+GSM786573	cluster	1
+GSM786575	recurrence/dod	No
+GSM786576	recurrence/dod	Yes
+GSM786577	cluster	2
+GSM786578	recurrence/dod	Yes
+GSM786579	recurrence/dod	Yes
+GSM786580	recurrence/dod	No
+GSM786582	cluster	2
+GSM786583	cluster	1
+GSM786499	cluster	1
+GSM786504	cluster	2
+GSM786508	cluster	2
+GSM786510	cluster	1
+GSM786512	cluster	2
+GSM786514	cluster	2
+GSM786516	cluster	1
+GSM786518	cluster	2
+GSM786520	cluster	2
+GSM786521	cluster	NA
+GSM786522	cluster	2
+GSM786524	cluster	2
+GSM786530	cluster	2
+GSM786532	cluster	2
+GSM786533	cluster	1
+GSM786540	cluster	1
+GSM786544	cluster	1
+GSM786547	cluster	1
+GSM786553	cluster	2
+GSM786560	cluster	2
+GSM786569	cluster	2
+GSM786571	cluster	1
+GSM786575	cluster	2
+GSM786576	cluster	1
+GSM786578	cluster	1
+GSM786579	cluster	1
+GSM786580	cluster	NA

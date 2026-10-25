@@ -1,0 +1,2 @@
+cohort	sample	issue
+GSE13507	GSM340542	source/organism inconsistent with bladder cohort; exclude from clinical primary-tumor set

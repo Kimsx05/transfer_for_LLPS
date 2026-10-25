@@ -1,0 +1,10 @@
+2026-10-25 10:17:28 A Reading frozen object and validating labels, scores and palette 
+2026-10-25 10:17:35 A COMPLETE 
+2026-10-25 10:17:38 B1 COMPLETE 
+2026-10-25 10:17:38 B2 COMPLETE 
+2026-10-25 10:17:39 C COMPLETE 
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Warning message:
+In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+2026-10-25 10:17:42 PSEUDOBULK_INPUT COMPLETE 

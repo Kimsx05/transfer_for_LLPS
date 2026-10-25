@@ -1,0 +1,8 @@
+criterion	pass
+"complete_dataset_validation"	FALSE
+"overall_spearman_ge_0.70"	TRUE
+"overall_MAE_le_0.15"	FALSE
+"overall_RMSE_le_0.20"	FALSE
+"overall_abs_bias_le_0.10"	TRUE
+"dataset_MAE_le_0.20"	FALSE
+"C0_C5_identity_discrimination"	FALSE

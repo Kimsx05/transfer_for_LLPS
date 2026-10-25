@@ -1,0 +1,56 @@
+source('results/fig2_like_C0/scripts/common.R')
+checks <- list()
+check <- function(label,value) {checks[[length(checks)+1]]<<-data.table(check=label,pass=isTRUE(value));if(!isTRUE(value))stop(label)}
+d <- fread(file.path(CORE,'cell_metadata_umap_LLPSscore.tsv.gz'))
+m <- fread(file.path(CORE,'C0_fraction_per_sample.tsv'))
+col <- fread(file.path(CORE,'cluster_color_mapping.tsv'))
+check('Frozen 20146 cells and 10717 C0 cells',nrow(d)==20146 && sum(d$cluster=='C0')==10717)
+check('One row per cell',!anyDuplicated(d$cell))
+check('Exact inherited cluster palette',identical(col$hex,unname(COLORS)) && identical(col$cluster,CLUSTERS))
+check('All seven frozen clusters',setequal(d$cluster,CLUSTERS))
+ct <- d[,.(n_C0=sum(cluster=='C0'),n_all=.N),by=sample]
+join <- merge(ct,m,by='sample')
+check('Every sample count agrees with cells',all(join$n_C0.x==join$n_C0.y)&all(join$n_all==join$n_all_Fibro_Pericyte))
+check('Only C0 / all Fibro+Pericyte denominator',all(abs(m[n_all_Fibro_Pericyte>0,C0_proportion-n_C0/n_all_Fibro_Pericyte])<1e-14))
+check('Zero denominator is NA, not zero',all(is.na(m[n_all_Fibro_Pericyte==0,C0_proportion])))
+check('All 59 samples accounted for',nrow(m)==59 && sum(m$n_all_Fibro_Pericyte)==nrow(d))
+check('Known paired and alternate specimens excluded from independent test',!any(m[main_independent_included==TRUE,known_TN_pair]) && all(m[main_independent_included==TRUE,primary_replication_allowed]))
+old <- fread(MANIFEST)
+idx <- match(m$sample,old$sample)
+check('Original sample labels and counts preserved',all(m$n_C0==old$n_C0[idx])&&all(m$n_all_Fibro_Pericyte==old$n_total_fibro[idx])&&identical(m$tissue_origin,old$tissue_origin[idx]))
+a <- fread(file.path(CORE,'C0_vs_others_DEG.tsv'));up <- fread(file.path(CORE,'C0_upregulated_genes.tsv'))
+check('DEG FDR is BH adjustment of primary p values',max(abs(p.adjust(a$PValue,'BH')-a$FDR))<1e-12)
+check('UP foreground uses declared FDR and effect threshold',setequal(up$gene,a[FDR<.05 & logFC>.25,gene]))
+r <- fread(file.path(CORE,'C0_preranked_gene_list.tsv'))
+check('Ranks cover all and only tested genes',setequal(r$gene,a$gene)&&nrow(r)==nrow(a)&&!anyDuplicated(r$gene))
+write_tsv(r[F<0,.(gene,F,PValue,FDR,rank_statistic)],'QL_F_numerical_roundoff_audit.tsv')
+check('Only negligible negative QL F with P=1 is floored for ranking',all(r$F>=-1e-6) && all(r[F<0,PValue]==1))
+check('Signed ranks and descending order',max(abs(r$rank_statistic-sign(r$logFC)*sqrt(pmax(r$F,0))))<1e-12 && all(diff(r$rank_statistic)<=0))
+elig <- fread(file.path(CORE,'pseudobulk_sample_eligibility.tsv'))[included==TRUE]
+check('No known patient repeated in primary DEG',!anyDuplicated(elig$patient_key))
+check('16 paired sample aggregates with at least 20 cells per arm',nrow(elig)==16&&all(elig$min_cells>=20)&all(elig$n_groups==2))
+model <- fread(file.path(CORE,'pseudobulk_model_summary.tsv'))
+check('Identifiable paired designs',all(model$n_libraries==2*model$n_samples)&all(model$residual_df>=3))
+gs <- fread(file.path(CORE,'C0_GSEA_results.tsv'))
+selection <- fread(file.path(CORE,'GSEA_pathway_plot_selection.tsv'))
+check('All 50 Hallmarks retained in results',nrow(gs)==50)
+check('All GSEA plot selections pass FDR',all(selection[exported==TRUE,padj]<.05))
+for(path in selection[exported==TRUE,pathway]) {
+ short <- sub('HALLMARK_','',path,fixed=TRUE)
+ if(short=='EPITHELIAL_MESENCHYMAL_TRANSITION')short<-'EMT'
+ if(short=='TGF_BETA_SIGNALING')short<-'TGFB'
+ curve <- fread(file.path(CORE,paste0('GSEA_',short,'_curve_data.tsv.gz')))
+ es <- if(abs(max(curve$running_ES))>abs(min(curve$running_ES)))max(curve$running_ES)else min(curve$running_ES)
+ check(paste('Enrichment curve ES matches fgsea',short),abs(es-gs[pathway==path,ES])<1e-10)
+}
+stems <- c('Fig2A_fibro_pericyte_umap','Fig2B1_LLPSscore_umap_continuous','Fig2B2_LLPSscore_by_cluster_violin',
+ 'Fig2C_C0_fraction_tumor_vs_normal','Fig2C_C0_fraction_tumor_vs_normal_paired','Fig2G_C0_GO_barplot','Fig2H_C0_KEGG_barplot')
+pdfs <- list.files(CORE,pattern='^Fig2.*\\.pdf$',full.names=TRUE)
+check('All seven fixed figures exist',all(file.exists(file.path(CORE,paste0(stems,'.pdf')))))
+check('Exactly 12 independent PDF+PNG figure pairs',length(pdfs)==12 && all(file.exists(sub('\\.pdf$','.png',pdfs))))
+for(f in pdfs){
+ info <- system2('pdfinfo',shQuote(f),stdout=TRUE)
+ check(paste('Single page PDF',basename(f)),any(grepl('^Pages: *1$',info)))
+}
+write_tsv(rbindlist(checks),'validation_checks.tsv')
+status('VALIDATION',sprintf('PASS: %d checks',length(checks)))

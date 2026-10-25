@@ -1,0 +1,12 @@
+2026-10-25 10:23:44 G_GO Mapping tested genes and using the tested-gene background 
+'select()' returned 1:1 mapping between keys and columns
+2026-10-25 10:24:10 G_GO COMPLETE 
+2026-10-25 10:24:10 H_KEGG Using the same foreground and tested-gene background as GO 
+2026-10-25 10:24:11 H_KEGG COMPLETE 
+2026-10-25 10:24:11 I_GSEA Hallmark v2025.1.Hs; signed sqrt(QL F); all tested genes 
+[1] TRUE
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Warning message:
+In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+2026-10-25 10:24:14 I_GSEA COMPLETE: 21 significant Hallmarks; 5 individual plots 

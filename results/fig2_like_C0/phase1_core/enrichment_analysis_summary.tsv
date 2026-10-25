@@ -1,0 +1,3 @@
+database	n_mapped_tested	n_mapped_up	n_annotated_background	n_result_terms	n_FDR05
+"GO_BP"	9434	1145	8661	4519	1109
+"KEGG"	9434	1145	4476	323	49

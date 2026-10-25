@@ -1,0 +1,4 @@
+analysis	test	n_Normal	n_Tumor	n_pairs	median_Normal	median_Tumor	p_value
+"independent_main"	"two-sided Wilcoxon rank-sum; asymptotic, continuity corrected"	8	29	NA	0.973875521786033	0.0967741935483871	2.65236099505375e-05
+"independent_min50_sensitivity"	"two-sided Wilcoxon rank-sum; asymptotic, continuity corrected"	8	18	NA	0.973875521786033	0.101018675721562	7.10024428104881e-05
+"verified_paired"	"two-sided paired Wilcoxon; asymptotic, continuity corrected"	8	8	8	0.732308348520687	0.101136363636364	0.0224942712224497

@@ -1,0 +1,11 @@
+'select()' returned 1:1 mapping between keys and columns
+Fibro45 complete
+'select()' returned 1:1 mapping between keys and columns
+Fibro245 complete
+'select()' returned 1:1 mapping between keys and columns
+'select()' returned 1:many mapping between keys and columns
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Warning message:
+In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+Functional specificity review complete

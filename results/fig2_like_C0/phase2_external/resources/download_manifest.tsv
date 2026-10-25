@@ -1,0 +1,12 @@
+file	source_url	bytes	sha256	status
+GSE31684_series_matrix.txt.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE31nnn/GSE31684/matrix/GSE31684_series_matrix.txt.gz	14500809	9ebabd29752ac934f959fd359142e9eb89822db8ba3933ca8c8b75530930b7f9	OK
+GSE48075_series_matrix.txt.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48075/matrix/GSE48075_series_matrix.txt.gz	30828558	5521268edc106599c939e875510090e2657cd007ca873e56e15c4d3caabed255	OK
+GSE13507_series_matrix.txt.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13507/matrix/GSE13507_series_matrix.txt.gz	15408223	33b54a62899e76705ae847334e468d8e5fe4814e5e5edc7536b5fb5242b5c213	OK
+TCGA_BLCA_HiSeqV2.gz	https://tcga.xenahubs.net/download/TCGA.BLCA.sampleMap/HiSeqV2.gz	22827197	33738e9d9e4fd5317495e61d884944319a2f83a38339d0e7fdec0de913cfc183	OK
+TCGA_BLCA_clinicalMatrix.gz	https://tcga.xenahubs.net/download/TCGA.BLCA.sampleMap/BLCA_clinicalMatrix.gz	0		HTTP Error 403: Forbidden
+TCGA_BLCA_survival.txt.gz	https://tcga.xenahubs.net/download/survival/BLCA_survival.txt.gz	0		HTTP Error 403: Forbidden
+TCGA_BLCA_HiSeqV2.json	https://tcga.xenahubs.net/download/TCGA.BLCA.sampleMap/HiSeqV2.json	2581	90f8ffad34dfc25498dc0754fd8a46ebd7730f24f63a6b8078bccad069b5f543	OK
+MuSiC_construct.R	https://raw.githubusercontent.com/xuranw/MuSiC/master/R/construct.R	17223	99be5a7af680571cb631bcb091f68f0ebe8949447de0321fbe0e0a4b903ee39b	OK
+MuSiC_utils.R	https://raw.githubusercontent.com/xuranw/MuSiC/master/R/utils.R	18910	8d6465e6c3cbb8ad05f4058f45b197de4918219c9a4b67e87a4f5903dc954736	OK
+MuSiC_LICENSE	https://raw.githubusercontent.com/xuranw/MuSiC/master/LICENSE	35147	8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903	OK
+MuSiC_commit.json	https://api.github.com/repos/xuranw/MuSiC/commits/master	338471	c3e195ecdbace5f089cb123f2045ea13cfbd32889f260ba9de3f176eaafc6848	OK

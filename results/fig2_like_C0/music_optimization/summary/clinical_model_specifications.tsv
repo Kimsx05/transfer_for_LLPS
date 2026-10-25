@@ -1,0 +1,5 @@
+cohort	n_OS	events_OS	n_multivariable	events_multivariable	covariates	purity	grade_decision	score_SD
+"TCGA"	405	177	403	176	"age+stage_num"	"unavailable; not imputed"	"excluded: sparse/missing/correlated"	0.0494328642910533
+"GSE31684"	93	65	93	65	"age+stage_num"	"unavailable; not imputed"	"excluded: sparse/missing/correlated"	0.0213349792363817
+"GSE48075"	73	45	71	43	"age+stage_num"	"unavailable; not imputed"	"excluded: sparse/missing/correlated"	0.0607396481092171
+"GSE13507"	165	69	165	69	"age+stage_num+grade"	"unavailable; not imputed"	"included"	0.0559670218150457

@@ -1,0 +1,6 @@
+file	source_url	bytes	sha256	status
+TCGA_BLCA_clinicalMatrix.tsv	https://tcga.xenahubs.net/download/TCGA.BLCA.sampleMap/BLCA_clinicalMatrix	485735	ba5af7b8fafcbb32b5a512f726fb74179c8195236c534552bb77e0e0ecda13ba	OK
+TCGA_BLCA_survival.tsv	https://tcga.xenahubs.net/download/survival/BLCA_survival.txt	22857	d4ad55bc31fa3937b9caa7b30d46549f731df40a069cd1497aac3664d4c4aeba	OK
+GPL570.annot.gz	https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL570/annot/GPL570.annot.gz	8471521	d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394	OK
+GPL6947.annot.gz	https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6947/annot/GPL6947.annot.gz	6956785	244c4ef6394abd8c87309318f3f27e9e63c45d2d1c3e89303818f1f63a290824	OK
+GPL6102.annot.gz	https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6102/annot/GPL6102.annot.gz	6577510	a1aaaf1816810958070caff047a496ac5bb03622c44e261d59d0b07f8aeb421c	OK

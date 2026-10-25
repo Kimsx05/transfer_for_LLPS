@@ -1,0 +1,91 @@
+Validation fold: CNP0000460 
+Validation fold: GSE135337 
+Validation fold: GSE222315 
+Fold not estimable under prespecified patient coverage: C6:1 patients 
+Validation fold: HRA003620 
+Validation fold: InhouseData 
+Warning messages:
+1: In cor(d$true_C0, d$pred_C0) : the standard deviation is zero
+2: In cor(d$true_C0, d$pred_C0, method = "spearman") :
+  the standard deviation is zero
+3: In cor(d$true_C0, d$pred_C0) : the standard deviation is zero
+4: In cor(d$true_C0, d$pred_C0, method = "spearman") :
+  the standard deviation is zero
+5: In cor(d$true_C0, d$pred_C0) : the standard deviation is zero
+6: In cor(d$true_C0, d$pred_C0, method = "spearman") :
+  the standard deviation is zero
+7: In cor(d$true_C0, d$pred_C0) : the standard deviation is zero
+8: In cor(d$true_C0, d$pred_C0, method = "spearman") :
+  the standard deviation is zero
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Warning message:
+In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+Index: <scenario__dataset>
+                         scenario     dataset n_patients    pearson   spearman
+                           <char>      <char>      <int>      <num>      <num>
+ 1:                      Full_RNA     OVERALL         20  0.7962164  0.8513251
+ 2:                        GPL570     OVERALL         20  0.8547406  0.8456824
+ 3:                       GPL6947     OVERALL         20  0.8310692  0.8488403
+ 4:                       GPL6102     OVERALL         20  0.8265406  0.8513251
+ 5: GPL6947_gene_efficiency_SD0.5     OVERALL         20  0.7819870  0.8310726
+ 6:                      Full_RNA  CNP0000460          5  0.7123977  0.6668859
+ 7:                        GPL570  CNP0000460          5  0.8856352  0.6668859
+ 8:                       GPL6947  CNP0000460          5  0.8050618  0.6668859
+ 9:                       GPL6102  CNP0000460          5  0.8003732  0.6668859
+10: GPL6947_gene_efficiency_SD0.5  CNP0000460          5  0.6767354  0.4472136
+11:                      Full_RNA   GSE135337          2         NA         NA
+12:                        GPL570   GSE135337          2         NA         NA
+13:                       GPL6947   GSE135337          2         NA         NA
+14:                       GPL6102   GSE135337          2         NA         NA
+15: GPL6947_gene_efficiency_SD0.5   GSE135337          2         NA         NA
+16:                      Full_RNA   HRA003620          3         NA         NA
+17:                        GPL570   HRA003620          3         NA         NA
+18:                       GPL6947   HRA003620          3 -0.9773269 -0.8660254
+19:                       GPL6102   HRA003620          3         NA         NA
+20: GPL6947_gene_efficiency_SD0.5   HRA003620          3         NA         NA
+21:                      Full_RNA InhouseData         10  0.8910735  0.8693049
+22:                        GPL570 InhouseData         10  0.9029285  0.8936211
+23:                       GPL6947 InhouseData         10  0.9175828  0.8936211
+24:                       GPL6102 InhouseData         10  0.9074599  0.8936211
+25: GPL6947_gene_efficiency_SD0.5 InhouseData         10  0.9129961  0.9179374
+                         scenario     dataset n_patients    pearson   spearman
+                           <char>      <char>      <int>      <num>      <num>
+           MAE       RMSE         bias
+         <num>      <num>        <num>
+ 1: 0.17350588 0.25148264  0.045401558
+ 2: 0.15432792 0.20852672  0.014416005
+ 3: 0.16099562 0.22780499  0.026278928
+ 4: 0.16644556 0.23198689  0.032329069
+ 5: 0.17482635 0.26125273  0.029589115
+ 6: 0.31165603 0.39114021  0.295336541
+ 7: 0.24839860 0.25936048  0.176603726
+ 8: 0.28677013 0.32068610  0.220455698
+ 9: 0.29165111 0.32321451  0.221520394
+10: 0.31924956 0.41670025  0.319249556
+11: 0.25434876 0.34874575 -0.254348756
+12: 0.29099006 0.40054137 -0.290990057
+13: 0.28736307 0.39541404 -0.287363072
+14: 0.28587647 0.39331251 -0.285876472
+15: 0.26869410 0.36902335 -0.268694098
+16: 0.02911204 0.03533208  0.029112044
+17: 0.02911204 0.03533208  0.029112044
+18: 0.02866049 0.03532233  0.028660493
+19: 0.02911204 0.03533208  0.029112044
+20: 0.02911204 0.03533208  0.029112044
+21: 0.13158038 0.15903610 -0.014729017
+22: 0.11752492 0.14447031 -0.010005454
+23: 0.11253542 0.14396419 -0.008795527
+24: 0.12115665 0.15520492  0.002339623
+25: 0.12755548 0.14858086 -0.055441342
+           MAE       RMSE         bias
+         <num>      <num>        <num>
+                       criterion   pass
+                          <char> <lgcl>
+1:   complete_dataset_validation  FALSE
+2:      overall_spearman_ge_0.70   TRUE
+3:           overall_MAE_le_0.15  FALSE
+4:          overall_RMSE_le_0.20  FALSE
+5:      overall_abs_bias_le_0.10   TRUE
+6:           dataset_MAE_le_0.20  FALSE
+7: C0_C5_identity_discrimination  FALSE

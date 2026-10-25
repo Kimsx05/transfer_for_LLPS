@@ -1,0 +1,7 @@
+# Method decision before external outcome analysis
+
+The optimized reference is the best deconvolution candidate in this development comparison: 20/20 original reserved patients predicted, rho=0.908, MAE=0.166, RMSE=0.226, bias=-0.156. Hierarchical residual fitting offers no improvement (rho=0.886, MAE=0.170). The globally reserved-patient refitted baseline is much worse, emphasizing how training representation matters. The cached historical baseline is only a benchmark with a different training pool.
+
+Ranking is useful in the adequately populated CNP/Inhouse groups; this is NOT complete loss of C0 recognition. However bias is not a proven constant offset (dataset biases range approximately -0.315 to -0.014), and the entire additional GSE222315 extrapolation set (9 patients) lacks sufficient C5/C6 training coverage after protecting the original 20. No RNA-seq-to-microarray calibration has been established. The old evaluation set has already been seen; it is not independent confirmation of the chosen model's clinical transfer.
+
+Do not run abundance-based clinical inference from these coefficients. Proceed with the user-authorized identity-signature route, with explicit training-only selection and held-out evaluation. If its identity screen also fails, report failure and omit dependent clinical results. No clinical stage/survival values have been used in this decision. No extra algorithms or post-hoc calibration will be searched.

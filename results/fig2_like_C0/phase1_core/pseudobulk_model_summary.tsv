@@ -1,0 +1,4 @@
+model	n_samples	n_libraries	n_Normal	n_Tumor	n_datasets	n_genes	n_UP	rank	residual_df
+"primary"	16	32	8	8	5	9455	1145	17	15
+"min50"	8	16	3	5	3	10642	699	9	7
+"tumor_only"	8	16	0	8	3	10382	718	9	7

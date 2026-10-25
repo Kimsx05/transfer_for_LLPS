@@ -1,0 +1,27 @@
+# C0 本轮图形索引
+
+临床图均为 **C0-like signature score**，不是细胞丰度。每张独立 PDF + 350 dpi PNG。
+
+## 正式临床图（9 张）
+
+- Fig2E_signature_GSE13507_stage_C0：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/04_stage/Fig2E_signature_GSE13507_stage_C0.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/04_stage/Fig2E_signature_GSE13507_stage_C0.png)
+- Fig2E_signature_GSE31684_stage_C0：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/04_stage/Fig2E_signature_GSE31684_stage_C0.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/04_stage/Fig2E_signature_GSE31684_stage_C0.png)
+- Fig2E_signature_GSE48075_stage_C0：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/04_stage/Fig2E_signature_GSE48075_stage_C0.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/04_stage/Fig2E_signature_GSE48075_stage_C0.png)
+- Fig2E_signature_TCGA_stage_C0：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/04_stage/Fig2E_signature_TCGA_stage_C0.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/04_stage/Fig2E_signature_TCGA_stage_C0.png)
+- Fig2F_signature_GSE13507_survival_C0：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/Fig2F_signature_GSE13507_survival_C0.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/Fig2F_signature_GSE13507_survival_C0.png)
+- Fig2F_signature_GSE31684_survival_C0：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/Fig2F_signature_GSE31684_survival_C0.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/Fig2F_signature_GSE31684_survival_C0.png)
+- Fig2F_signature_GSE48075_survival_C0：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/Fig2F_signature_GSE48075_survival_C0.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/Fig2F_signature_GSE48075_survival_C0.png)
+- Fig2F_signature_TCGA_survival_C0：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/Fig2F_signature_TCGA_survival_C0.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/Fig2F_signature_TCGA_survival_C0.png)
+- FigS_signature_Cox_forest：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/FigS_signature_Cox_forest.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/05_survival/FigS_signature_Cox_forest.png)
+
+## 诊断、模型和 signature 验证（9 张）
+
+- FigD1_C0_true_pred_by_dataset：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD1_C0_true_pred_by_dataset.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD1_C0_true_pred_by_dataset.png)
+- FigD2_C0_error_by_dataset：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD2_C0_error_by_dataset.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD2_C0_error_by_dataset.png)
+- FigD3_C0_C6_errors：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD3_C0_C6_errors.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD3_C0_C6_errors.png)
+- FigD4_reference_similarity：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD4_reference_similarity.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD4_reference_similarity.png)
+- FigD5_error_correlation：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD5_error_correlation.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/01_diagnostics/FigD5_error_correlation.png)
+- FigM1_model_error_comparison：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/02_model_comparison/FigM1_model_error_comparison.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/02_model_comparison/FigM1_model_error_comparison.png)
+- FigS_signature_celltype_specificity：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/06_signature_fallback/FigS_signature_celltype_specificity.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/06_signature_fallback/FigS_signature_celltype_specificity.png)
+- FigS_signature_mixture_validation：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/06_signature_fallback/FigS_signature_mixture_validation.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/06_signature_fallback/FigS_signature_mixture_validation.png)
+- FigS_signature_singlecell_patient_medians：[PDF](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/06_signature_fallback/FigS_signature_singlecell_patient_medians.pdf) · [PNG](/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/music_optimization/06_signature_fallback/FigS_signature_singlecell_patient_medians.png)

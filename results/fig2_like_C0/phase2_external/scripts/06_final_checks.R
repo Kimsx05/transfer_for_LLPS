@@ -1,0 +1,22 @@
+source('results/fig2_like_C0/phase1B_review/scripts/common.R')
+P2<-file.path(OUT,'phase2_external');RV<-file.path(P2,'reference_validation')
+p<-fread(file.path(RV,'natural_mixture_predictions.tsv'))
+a<-as.matrix(p[,paste0('estimate_',c(CLUSTERS,'Epithelial','Endothelial','Myeloid','T_NK','B','Plasma','Mast')),with=FALSE])
+stopifnot(all(is.finite(a)),all(a>=0),max(abs(rowSums(a)-1))<1e-8)
+den<-rowSums(a[,paste0('estimate_',CLUSTERS),drop=FALSE])
+stopifnot(max(abs(den-p$pred_stromal))<1e-10,max(abs(a[,'estimate_C0']/den-p$pred_C0),na.rm=TRUE)<1e-10)
+stopifnot(max(abs(p$n_C0/p$n_stromal-p$true_C0),na.rm=TRUE)<1e-10)
+m<-fread(file.path(CORE,'sample_metadata_reviewed.tsv'))
+stopifnot(all(is.na(m$C0_proportion[m$n_all_Fibro_Pericyte==0])),max(abs(m$n_C0/m$n_all_Fibro_Pericyte-m$C0_proportion),na.rm=TRUE)<1e-10)
+pa<-fread(file.path(CORE,'C0_fraction_verified_pairs_updated.tsv'));stopifnot(nrow(pa)==13,!anyDuplicated(pa$patient_uid))
+for(f in Sys.glob(file.path(CORE,'*_samples.tsv'))){d<-fread(f);s<-unique(d$sample);stopifnot(!anyDuplicated(m$patient_key[match(s,m$sample)]))}
+# Reconstruct complete composition with explicit zero cells, never a fibro-only denominator.
+c<-fread(file.path(CORE,'all_cluster_composition_per_specimen.tsv'))
+z<-merge(CJ(sample=m[analysis_included==TRUE,sample],cluster=CLUSTERS),c[,.(sample,cluster,N)],all.x=TRUE)
+z[is.na(N),N:=0L];z<-merge(z,m[,.(sample,dataset,tissue_origin,n_all_Fibro_Pericyte)],by='sample')
+z[,fraction:=N/n_all_Fibro_Pericyte];stopifnot(max(abs(z[,sum(fraction),by=sample]$V1-1))<1e-10)
+fwrite(z[,.(n_samples=.N,mean_fraction=mean(fraction),median_fraction=median(fraction)),by=.(dataset,tissue_origin,cluster)],file.path(CORE,'all_cluster_composition_dataset_summary.tsv'),sep='\t')
+# Exact legacy palette still matches the saved original mapping.
+col<-fread(COLOR_SOURCE);stopifnot(all(COLORS==c(C0='#A6CEE3',C1='#1F78B4',C2='#B2DF8A',C3='#33A02C',C4='#FDBF6F',C5='#FF7F00',C6='#FB9A99')))
+stopifnot(readLines(file.path(RV,'VALIDATION_STATUS.txt'))=='STOP_ABUNDANCE_CLINICAL_ANALYSIS',!length(Sys.glob(file.path(P2,'stage','*.pdf'))),!length(Sys.glob(file.path(P2,'survival','*.pdf'))))
+writeLines(c('PASS: frozen proportion definition; zero denominators remain NA.','PASS: 13 unique verified patient pairs.','PASS: pseudobulk comparisons use distinct patients.','PASS: all reference estimates nonnegative, sum to 1, identical-scale stromal denominator.','PASS: natural-mixture truth agrees with actual cell counts.','PASS: legacy C0–C6 colors unchanged.','PASS: failed validation gate honored; no downstream abundance clinical figures.'),file.path(RV,'final_checks.txt'))

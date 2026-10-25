@@ -1,0 +1,11 @@
+item	value
+native_function	music_prop.cluster in existing phase2_external/resources/MuSiC_utils.R
+native_documentation	https://xuranw.github.io/MuSiC/reference/music_prop.cluster.html
+fine_reference_columns	14
+coarse_reference_coefficients	8
+layout_issue	Saved implementation constructs D1.sub from fine D1, then multiplies its 14 columns by 8 coarse coefficients in the Y.sub expression
+implementation_used	Custom two-level MuSiC numeric fits; not labelled native recursive MuSiC
+level1_scale	music.iter fits 100*relative_bulk using mean_relative_expression*UMI_per_cell
+level2_scale	Subtract nonstromal D*q on that same scale; clip negative residual genes; fit 7 stromal columns with music.basic
+final_coefficients	Parent stromal cell fraction times within-stromal fractions; other parent cell fractions retained; all 14 sum to 1
+limitation	Negative residual clipping and coarse stromal profile variability may bias estimates; clipping fractions saved
