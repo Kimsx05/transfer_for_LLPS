@@ -1,0 +1,15 @@
+dataset	stage	N
+"CNP0000460"	"T2"	3
+"CNP0000460"	"T1"	3
+"CNP0000460"	"T3"	1
+"GSE222315"	"T1"	9
+"GSE135337"	"T1"	1
+"GSE135337"	"T3"	1
+"GSE135337"	"Ta"	2
+"HRA003620"	"T3"	2
+"HRA003620"	"T4"	1
+"HRA003620"	"Ta"	1
+"HRA003620"	"T1"	1
+"InhouseData"	"T4"	3
+"InhouseData"	"T2"	8
+"InhouseData"	"T3"	1

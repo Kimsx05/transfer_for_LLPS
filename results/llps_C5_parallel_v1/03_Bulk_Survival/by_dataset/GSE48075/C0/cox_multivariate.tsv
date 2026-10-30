@@ -1,0 +1,2 @@
+endpoint	model	N	Event_N	HR	lower95	upper95	p_value	PH_C0_p	PH_global_p	covariates	n_parameters	status	reason	warning	C0_SD	unit	BH_q
+OS	Multivariable	72	44	1.07573712181712	0.814678054499772	1.42045112037039	0.606714806944464	0.801435579192774	0.706263990352031	stage_fine + age	4	OK			0.0235859590195759	per cohort-wide SD of C0	0.606714806944464

@@ -1,0 +1,2 @@
+group	n_cells	n_patients	datasets	frozen_identity	focused
+Fibro_C5	150	7	GSE222315	All exact barcode matches C5	Other_Fibro; no independent C5

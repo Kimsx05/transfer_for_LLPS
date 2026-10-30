@@ -1,0 +1,2 @@
+total_expression_rows	returned_full_comparison	ranked_symbols	duplicate_symbol_rows	nonexpressed_rows	tied_rank_rows	ranking	markers_candidate	significant_up
+51959	51959	46274	5685	0	2189	"avg_log2FC descending; exact ties ordered by symbol; no numerical jitter"	567	564

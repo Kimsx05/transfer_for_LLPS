@@ -1,0 +1,5 @@
+endpoint	candidate	selected	N_complete	events	parameters	reason
+OS	stage_fine	TRUE	72	44	3	Prespecified clinical priority; adequate events
+OS	age	TRUE	72	44	4	Prespecified clinical priority; adequate events
+OS	sex	FALSE	0	0	NA	Fewer than 70% complete cases retained
+OS	grade	FALSE	0	0	NA	Fewer than 70% complete cases retained

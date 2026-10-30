@@ -1,0 +1,5 @@
+endpoint	candidate	selected	N_complete	events	parameters	reason
+OS	stage_fine	TRUE	93	65	4	Prespecified clinical priority; adequate events
+OS	age	TRUE	93	65	5	Prespecified clinical priority; adequate events
+OS	sex	TRUE	93	65	6	Prespecified clinical priority; adequate events
+OS	grade	FALSE	93	65	7	Fewer than 10 events per model parameter

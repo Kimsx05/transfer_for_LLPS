@@ -1,0 +1,2 @@
+dataset	endpoint	cutoff	cutoff_population	rule	cohort_N	cohort_low	cohort_high	ties_at_cutoff	N	events	low_n	high_n	low_events	high_events	logrank_p	status	reason	BH_q
+TCGA_BLCA	OS	0.0345593525103525	All original deconvolution samples in this dataset	High > dataset median; Low <= median; no tie splitting or optimal cutoff	405	203	202	1	403	176	202	201	69	107	0.0130128877689636	OK		0.0130128877689636

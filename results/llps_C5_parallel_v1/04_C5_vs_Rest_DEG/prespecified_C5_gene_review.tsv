@@ -1,0 +1,4 @@
+gene	p_val	avg_log2FC	pct.1	pct.2	p_val_adj	expression_layer	min_pct_threshold	logFC_prefilter
+"POSTN"	0	3.59137648619052	0.751	0.191	0	"RNA/data"	0	0
+"COL11A1"	0	6.24077101144847	0.381	0.01	0	"RNA/data"	0	0
+"COL10A1"	0	6.50960735077172	0.323	0.007	0	"RNA/data"	0	0

@@ -1,0 +1,14 @@
+dataset	endpoint	definition	time_unit	timing	note
+UROMOL	PFS_T2plus	Progression to T2+; baseline Ta/T1/CIS only, excludes baseline T2-4; not OS	months	submitted months	Progression to T2+; baseline Ta/T1/CIS only, excludes baseline T2-4; not OS
+TCGA_BLCA	OS	All-cause death	months	TCGA original days divided by 30.4375	All-cause death
+TCGA_BLCA	DSS	Disease-specific death; other-cause deaths censored	months	TCGA original days divided by 30.4375	Disease-specific death; other-cause deaths censored
+TCGA_BLCA	PFI	Xena curated progression-free interval, NOT OS	months	TCGA original days divided by 30.4375	Xena curated progression-free interval, NOT OS
+TCGA_BLCA	DFI	Xena curated disease-free interval, NOT OS	months	TCGA original days divided by 30.4375	Xena curated disease-free interval, NOT OS
+GSE31684	OS	All-cause death	months	submitted months	All-cause death
+GSE31684	DSS	Disease-specific death; other-cause deaths censored	months	submitted months	GEO shared follow-up time used with endpoint-specific event; endpoint-specific time not separately supplied
+GSE31684	RFS_DOD	Submitted recurrence/DOD composite (distant/local recurrence or disease death), not pure recurrence-only	months	submitted months	Submitted recurrence/DOD composite (distant/local recurrence or disease death), not pure recurrence-only
+GSE13507	OS	All-cause death	months	submitted months	All-cause death
+GSE13507	DSS	Disease-specific death; other-cause deaths censored	months	submitted months	GEO shared follow-up time used with endpoint-specific event; endpoint-specific time not separately supplied
+GSE48075	OS	All-cause death	months	submitted months	All-cause death
+GSE48075	DSS	Disease-specific death; other-cause deaths censored	months	submitted months	GEO shared follow-up time used with endpoint-specific event; endpoint-specific time not separately supplied
+GSE32894	DSS	Disease-specific death; other-cause deaths censored	months	submitted months	Disease-specific death; other-cause deaths censored

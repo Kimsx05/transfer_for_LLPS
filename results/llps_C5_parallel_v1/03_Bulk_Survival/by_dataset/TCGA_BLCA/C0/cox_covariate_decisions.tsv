@@ -1,0 +1,5 @@
+endpoint	candidate	selected	N_complete	events	parameters	reason
+OS	stage_fine	TRUE	401	175	3	Prespecified clinical priority; adequate events
+OS	age	TRUE	401	175	4	Prespecified clinical priority; adequate events
+OS	sex	TRUE	401	175	5	Prespecified clinical priority; adequate events
+OS	grade	TRUE	399	175	6	Prespecified clinical priority; adequate events

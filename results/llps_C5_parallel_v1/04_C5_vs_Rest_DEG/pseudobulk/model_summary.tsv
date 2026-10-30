@@ -1,0 +1,4 @@
+model	n_samples	n_libraries	n_Normal	n_Tumor	n_datasets	n_genes	n_UP	rank	residual_df	status	reason
+"primary"	13	26	0	13	2	7377	676	14	12	"FIT"	""
+"min50"	3	NA	NA	NA	NA	NA	NA	NA	NA	"NOT_FIT"	"Fewer than four independent samples with required cells per arm"
+"tumor_only"	13	26	0	13	2	7377	676	14	12	"FIT"	""

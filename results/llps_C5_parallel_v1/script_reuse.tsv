@@ -1,0 +1,8 @@
+模块	原始实际代码	本轮代码	必要改动
+1 Normal/Tumor	results/fig2_like_C0/phase1B_review/scripts/common.R、02_sample_statistics.R；scripts/01_core_plots_and_pseudobulk.R	scripts/01_composition.R	C0→C5；采用reviewed配对；新输出路径；仅截取丰度区段；补100%堆叠图和全atlas分母；300dpi透明背景
+2 分期	results/fig2_like_C0/music_optimization/scripts/06_clinical.R；既有工作簿解析结果及样本映射	scripts/02_stage.R	复用stage色表、box+jitter、KW/Spearman/Wilcoxon逻辑；将已映射工作簿T成分与C5比例连接；加均值柱图；稀疏组不做成对推断
+3 Bulk OS	results/cibersortx_phase2_clinical_v1/scripts/01_integrate.py、02_analyze.R	scripts/03_bulk_inputs.py、03_bulk_survival.R、03b_reference_comparison.R	直接复用临床整合表，不重跑整合下载；动态提取fit_cox、choose_covars、KM和forest代码；目标C0/C5；仅OS；增加PNG和横向比较表
+4 DEG	results/llps_C0_functional_signature_v2/scripts/01_markers.R、common.R；Fig2 scripts/02_pseudobulk_DEG.R；llps_C0_functional_state_v1/scripts/04_DEG_LLPS.R火山图段	scripts/04_markers.R、04b_pseudobulk.R、04c_volcano.R	C5 vs setdiff(C0–C6,C5)；焦点基因换POSTN/COL11A1/COL10A1；对称down标准；原pseudobulk函数及过滤；不足4样本记录NOT_FIT；火山图沿用几何但按v2阈值与Bonferroni轴名
+5 ORA	results/llps_C0_functional_signature_v2/scripts/02_ORA.R；v3/scripts/01_curated_ORA.R绘图表达式	scripts/05_ORA.R、05b_ORA_figures.R	新C5前景及背景；up/down输出；保留实际enrichGO/enrichKEGG/简化；用新显著ID替换C0固定10条；10条GO、实际4条KEGG
+6 GSEA	results/llps_C0_functional_signature_v3/scripts/02_GSEA.R、common.R	scripts/06_GSEA.R	指向C5排名；保留C0 v2同版Hallmark资源；去掉不适用的C0 v2 NES对照；曲线由C5真实结果选择；阈值/重复symbol/fgsea/布局不变
+资源与图检	results/llps_C0_functional_signature_v3/scripts/run_limited.sh、08_figure_QC.py	scripts/run_limited.sh、08_figure_QC.py	运行限制原样复用；图检仅去掉C0专用的固定17张断言，动态列出本轮38张

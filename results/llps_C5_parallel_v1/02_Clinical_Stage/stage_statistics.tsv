@@ -1,0 +1,3 @@
+comparison	N	n_patients	test	P	trend_rho	trend_P	note
+"NMIBC_MIBC"	37	37	"Wilcoxon rank-sum"	0.0643201261352432	NA	NA	"Exploratory sample-level comparison; dataset composition may confound"
+"T_stage"	37	37	"Kruskal-Wallis"	0.062841636735769	0.331681392725365	0.0449133372356171	"Exploratory sample-level comparison; dataset composition may confound"

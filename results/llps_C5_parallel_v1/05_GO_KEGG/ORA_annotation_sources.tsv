@@ -1,0 +1,3 @@
+database	source	source_file	snapshot_mtime
+"GO_BP"	"org.Hs.eg.db 3.20.0"	"/home/jinshengxi/Rlibrary/packages/org.Hs.eg.db"	NA
+"KEGG"	"Project KEGG REST human snapshot"	"/home/jinshengxi/bladder_metabolism/results/fig2_like_C0/resources/KEGG_hsa_gene_pathway.tsv"	"2026-10-25 10:15:45.410081"

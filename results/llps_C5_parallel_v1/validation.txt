@@ -1,0 +1,5 @@
+PASS: C5=716; frozen Fibro/Pericyte=20146; zero samples preserved.
+PASS: full DEG rows 51959 up 564 down 405
+PASS: displayed ORA IDs/FDR/Count/GeneRatio exactly match complete tables.
+PASS: GSEA new C5 rankings, unique symbols, correct thresholds and within-threshold BH.
+PASS: all eight reused C0 Full14 Cox results match previous results (HR and N).

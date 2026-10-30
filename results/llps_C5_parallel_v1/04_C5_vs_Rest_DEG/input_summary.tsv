@@ -1,0 +1,2 @@
+input	n_genes	n_cells	n_C5	n_Rest	expression	normalization	scale_factor	max_norm_check_error
+"/home/jinshengxi/LLPS/2.1 LLPS atlas/LLPS_77_genes/fibro_pericyte_subcluster_clean_v4_global_noC5/global_resolution_0.12_numeric_order/global_res012_object.qs"	51959	20146	716	19430	"RNA/data"	"LogNormalize"	10000	0

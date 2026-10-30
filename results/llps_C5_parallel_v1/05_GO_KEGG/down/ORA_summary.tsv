@@ -1,0 +1,3 @@
+database	detectable_original_features	detectable_unique_symbols	symbol_to_Entrez_success	unmapped_or_ambiguous_symbols	mapped_unique_Entrez	effective_background	input_marker_features	input_unique_marker_symbols	mapped_marker_Entrez	effective_foreground	reported_terms	significant_terms
+"GO_BP"	4481	4481	4461	20	4461	4210	405	405	390	372	3067	39
+"KEGG"	4481	4481	4461	20	4461	2402	405	405	390	236	248	3

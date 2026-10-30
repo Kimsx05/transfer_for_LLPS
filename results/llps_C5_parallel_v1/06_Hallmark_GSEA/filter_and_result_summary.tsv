@@ -1,0 +1,4 @@
+threshold	n_ranks	n_pathways_tested	nonfinite	duplicate_symbols	n_rows_in_ties	min_logFC	max_logFC	head100_median_detection	n_positive	n_negative
+0.1	8855	50	0	0	0	-7.96467735797445	6.50960735077172	0.1885	2	3
+0.05	11262	50	0	0	0	-7.96467735797445	7.09079955926958	0.1115	2	2
+0.25	4481	49	0	0	0	-7.51900330850894	6.50960735077172	0.431	1	1

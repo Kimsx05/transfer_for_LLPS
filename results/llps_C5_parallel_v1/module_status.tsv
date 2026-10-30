@@ -1,0 +1,7 @@
+module	status	limitation
+1	COMPLETE	Sparse denominators and dataset sensitivity
+2	COMPLETE	Sparse Ta/T4; exploratory unadjusted trend
+3	COMPLETE	Four OS cohorts; focused C5 unavailable; adjusted associations not significant
+4	COMPLETE	min50 pseudobulk NOT_FIT (3 samples); COL10A1 not tested by pseudobulk filter
+5	COMPLETE	4 significant KEGG up pathways only
+6	COMPLETE	25% threshold: one set not tested by size

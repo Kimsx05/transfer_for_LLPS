@@ -1,0 +1,4 @@
+gene	p_val	avg_log2FC	pct.1	pct.2	p_val_adj	expression_layer	min_pct_threshold	logFC_prefilter	P	adjusted_P	FDR_BH	adjustment_used	status	logFC	logCPM	F	PValue	FDR	rank_statistic	C5_up	pseudobulk_status
+"COL10A1"	0	6.50960735077172	0.323	0.007	0	"RNA/data"	0	0	0	0	0	"Bonferroni; Seurat total RNA feature count"	"C5-up"	NA	NA	NA	NA	NA	NA	NA	"NOT_TESTED: excluded by original edgeR filterByExpr"
+"COL11A1"	0	6.24077101144847	0.381	0.01	0	"RNA/data"	0	0	0	0	0	"Bonferroni; Seurat total RNA feature count"	"C5-up"	4.36666199422632	7.76936586940097	53.3736591213321	5.23263466180722e-07	5.07909814475683e-05	7.30572782967803	TRUE	"TESTED"
+"POSTN"	0	3.59137648619052	0.751	0.191	0	"RNA/data"	0	0	0	0	0	"Bonferroni; Seurat total RNA feature count"	"C5-up"	2.60942082326877	10.7953734099559	67.3389163745839	1.53478302163971e-07	2.33768921338331e-05	8.2060292696641	TRUE	"TESTED"

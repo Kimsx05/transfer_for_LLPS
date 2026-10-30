@@ -1,0 +1,3 @@
+tissue_origin	N	median	n_zero	p_value
+"Tumor"	24	0.0714338512484662	4	0.0329168185493363
+"Normal"	3	0	2	0.0329168185493363
