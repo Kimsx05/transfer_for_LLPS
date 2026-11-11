@@ -1,0 +1,16 @@
+function (object, min.cells = 10) 
+{
+    net <- object@net
+    cell.excludes <- which(as.numeric(table(object@idents)) <= 
+        min.cells)
+    if (length(cell.excludes) > 0) {
+        cat("The cell-cell communication related with the following cell groups are excluded due to the few number of cells: ", 
+            levels(object@idents)[cell.excludes], "\n")
+        net$prob[cell.excludes, , ] <- 0
+        net$prob[, cell.excludes, ] <- 0
+        object@net <- net
+    }
+    return(object)
+}
+<bytecode: 0x5ab094b47dc8>
+<environment: namespace:CellChat>

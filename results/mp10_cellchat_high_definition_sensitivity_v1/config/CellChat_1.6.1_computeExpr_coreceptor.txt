@@ -1,0 +1,50 @@
+function (cofactor_input, data.use, pairLRsig, type = c("A", 
+    "I")) 
+{
+    type <- match.arg(type)
+    if (type == "A") {
+        coreceptor.all = pairLRsig$co_A_receptor
+    }
+    else if (type == "I") {
+        coreceptor.all = pairLRsig$co_I_receptor
+    }
+    index.coreceptor <- which(!is.na(coreceptor.all) & coreceptor.all != 
+        "")
+    if (length(index.coreceptor) > 0) {
+        my.sapply <- ifelse(test = future::nbrOfWorkers() == 
+            1, yes = sapply, no = future.apply::future_sapply)
+        coreceptor <- coreceptor.all[index.coreceptor]
+        coreceptor.ind <- cofactor_input[coreceptor, grepl("cofactor", 
+            colnames(cofactor_input))]
+        data.coreceptor.ind = my.sapply(X = 1:nrow(coreceptor.ind), 
+            FUN = function(x) {
+                coreceptor.indV <- unlist(coreceptor.ind[x, ], 
+                  use.names = F)
+                coreceptor.indV <- coreceptor.indV[coreceptor.indV != 
+                  ""]
+                coreceptor.indV <- intersect(coreceptor.indV, 
+                  rownames(data.use))
+                if (length(coreceptor.indV) == 1) {
+                  return(1 + data.use[coreceptor.indV, ])
+                }
+                else if (length(coreceptor.indV) > 1) {
+                  return(apply(1 + data.use[coreceptor.indV, 
+                    ], 2, prod))
+                }
+                else {
+                  return(matrix(1, nrow = 1, ncol = ncol(data.use)))
+                }
+            })
+        data.coreceptor.ind <- t(data.coreceptor.ind)
+        data.coreceptor <- matrix(1, nrow = length(coreceptor.all), 
+            ncol = ncol(data.use))
+        data.coreceptor[index.coreceptor, ] <- data.coreceptor.ind
+    }
+    else {
+        data.coreceptor <- matrix(1, nrow = length(coreceptor.all), 
+            ncol = ncol(data.use))
+    }
+    return(data.coreceptor)
+}
+<bytecode: 0x5ab094ab1bb0>
+<environment: namespace:CellChat>

@@ -1,0 +1,25 @@
+function (data.use, pairLRsig, cofactor_input, index.antagonist, 
+    Kh, n) 
+{
+    antagonist <- pairLRsig$antagonist[index.antagonist]
+    antagonist.ind <- cofactor_input[antagonist, grepl("cofactor", 
+        colnames(cofactor_input))]
+    antagonist.indV <- unlist(antagonist.ind, use.names = F)
+    antagonist.indV <- antagonist.indV[antagonist.indV != ""]
+    antagonist.indV <- intersect(antagonist.indV, rownames(data.use))
+    if (length(antagonist.indV) == 1) {
+        data.avg <- data.use[antagonist.indV, , drop = FALSE]
+        data.antagonist <- Kh^n/(Kh^n + data.avg^n)
+    }
+    else if (length(antagonist.indV) > 1) {
+        data.avg <- data.use[antagonist.indV, , drop = FALSE]
+        data.antagonist <- apply(Kh^n/(Kh^n + data.avg^n), 2, 
+            prod)
+    }
+    else {
+        data.antagonist = matrix(1, nrow = 1, ncol = ncol(data.use))
+    }
+    return(data.antagonist)
+}
+<bytecode: 0x5ab09433b618>
+<environment: namespace:CellChat>

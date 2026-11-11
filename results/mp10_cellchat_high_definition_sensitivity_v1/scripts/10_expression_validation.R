@@ -1,0 +1,7 @@
+source('mp10_cellchat_high_definition_sensitivity_v1/scripts/common.R')
+suppressPackageStartupMessages(library(Seurat))
+cfg<-fromJSON(file.path(root,'config/run_config.json'));prov<-fromJSON(file.path(root,'config/domain_provenance.json'));x<-qread(cfg$expression,nthreads=1);add<-qread(file.path(root,'objects/supplemental_two_genes.qs'),nthreads=1)
+obj<-qread(file.path(project,'subtype/v2/final_annotation_pre_reference/final_annotation_v2_pre_reference.qs'),nthreads=1)
+ids<-colnames(x)[unique(round(seq(1,ncol(x),length.out=101)))];v<-LayerData(obj,assay='RNA',layer='data',features=rownames(x),cells=ids);err<-max(abs(v[rownames(x),ids,drop=FALSE]-x[,ids,drop=FALSE]));stopifnot(err<1e-12)
+a<-LayerData(obj,assay='RNA',layer='data',features=rownames(add));erradd<-max(abs(a[rownames(add),colnames(add),drop=FALSE]-add));stopifnot(erradd<1e-12)
+put(data.table(check=c('all_cached_features_on_101_spaced_barcodes_match_original_RNA_data','supplemented_two_genes_all_barcodes_match_original_RNA_data'),max_abs_error=c(err,erradd),pass=TRUE),'expression_normalization_validation.tsv');cat('EXPRESSION NORMALIZATION VALIDATED',err,erradd,'\n')

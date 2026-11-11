@@ -1,0 +1,16 @@
+dataset	cohort	n_specimens	n_recorded_patient_ids	n_epi	sampled_per_epi_state
+"CNP0000460"	"original"	7	7	39404	685
+"GSE326225"	"original"	6	6	6864	270
+"HRA003620"	"original"	7	7	15090	529
+"InhouseData"	"original"	12	11	17998	525
+"PRJNA662018"	"original"	8	8	37092	657
+"CNP0000460"	"C10"	7	7	39404	685
+"GSE326225"	"C10"	4	4	6588	255
+"HRA003620"	"C10"	7	7	15090	529
+"InhouseData"	"C10"	12	11	17998	525
+"PRJNA662018"	"C10"	8	8	37092	657
+"CNP0000460"	"C30"	7	7	39404	685
+"GSE326225"	"C30"	3	3	6366	243
+"HRA003620"	"C30"	5	5	14359	491
+"InhouseData"	"C30"	7	7	15609	403
+"PRJNA662018"	"C30"	8	8	37092	657

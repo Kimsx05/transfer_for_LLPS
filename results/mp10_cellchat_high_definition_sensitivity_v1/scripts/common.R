@@ -1,0 +1,7 @@
+.libPaths(unique(c('/home/data/t070721/R/x86_64-pc-linux-gnu-library/4.5','/home/data/t070721/R/x86_64-pc-linux-gnu-library/4.4',.libPaths())))
+suppressPackageStartupMessages({library(data.table);library(qs);library(Matrix);library(jsonlite);library(digest)})
+setDTthreads(1)
+root<-normalizePath('mp10_cellchat_high_definition_sensitivity_v1'); project<-dirname(root); baseline<-file.path(project,'mp10_sc_c2l_final_annotation_v1')
+tb<-function(x)file.path(root,'tables',x); put<-function(d,n)fwrite(d,tb(n),sep='\t',na='NA',compress=if(grepl('gz$',n))'gzip'else'none')
+sha<-function(x)digest(x,algo='sha256',serialize=FALSE)
+seqhash<-function(x)sha(paste0(paste(x,collapse='\n'),'\n'))

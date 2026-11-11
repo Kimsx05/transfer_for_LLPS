@@ -1,0 +1,12 @@
+{
+  "font": "Arial",
+  "size_pt": 12,
+  "dpi": 300,
+  "line_mm": 0.4,
+  "high_colors": ["#fdae61", "#f46d43", "#d73027"],
+  "quantile_colors": ["#4575b4", "#f46d43", "#d73027"],
+  "heatmap_log2_RR_limits": [-1.5, 1.5],
+  "saturated_endpoints": false,
+  "NE_colour": "#d9d9d9",
+  "no_pseudocount": true
+}

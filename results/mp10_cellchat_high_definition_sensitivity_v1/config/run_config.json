@@ -1,0 +1,26 @@
+{
+  "baseline_run_id": "c2lfinal_20261108T123140Z_0b5fd64f",
+  "CellChat_version": "1.6.1",
+  "expression": "/home/data/t070721/codex_workspace/Bladder Metabolism/mp10_subtype_screen_round1/objects/signaling_RNA_data.qs",
+  "type": "triMean",
+  "raw.use": true,
+  "population.size": false,
+  "nboot": 100,
+  "seed.use": 123,
+  "workers": 3,
+  "BLAS_OMP_MKL_threads": 1,
+  "quantile_type": 7,
+  "high_definitions": {
+    "H50": ">Q50",
+    "H10": ">Q90",
+    "H05": ">Q95"
+  },
+  "low": "<=Q50",
+  "C10": "n_H05>10 & n_L50>10",
+  "C30": "n_H05>30 & n_L50>30",
+  "model_nodes": "N>10",
+  "postfilter": [10, 30],
+  "supported": "probability>0 & internal_P<0.05",
+  "sampling": "R Mersenne-Twister/Inversion/Rejection seed=123; runif assigned once to all original Epi sorted sample_uid,barcode; ascending priority within each pool; same priorities across pools; tie barcode; cap=min(100,n_H05,n_L50); TME baseline ALL fine frozen order; C30 subset",
+  "membership_hash": "854bea68078a9c049d96c572422a0c1a48f25d5a32cff4e89cdc1bb872a1f6a8"
+}

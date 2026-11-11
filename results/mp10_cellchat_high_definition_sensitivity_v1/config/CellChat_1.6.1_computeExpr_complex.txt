@@ -1,0 +1,15 @@
+function (complex_input, data.use, complex) 
+{
+    Rsubunits <- complex_input[complex, ] %>% dplyr::select(starts_with("subunit"))
+    my.sapply <- ifelse(test = future::nbrOfWorkers() == 1, yes = sapply, 
+        no = future.apply::future_sapply)
+    data.complex = my.sapply(X = 1:nrow(Rsubunits), FUN = function(x) {
+        RsubunitsV <- unlist(Rsubunits[x, ], use.names = F)
+        RsubunitsV <- RsubunitsV[RsubunitsV != ""]
+        return(geometricMean(data.use[RsubunitsV, ]))
+    })
+    data.complex <- t(data.complex)
+    return(data.complex)
+}
+<bytecode: 0x5ab094ac3fa0>
+<environment: namespace:CellChat>

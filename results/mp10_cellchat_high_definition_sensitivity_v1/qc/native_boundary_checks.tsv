@@ -1,0 +1,4 @@
+check	pass	details
+native_min_cells_10	TRUE	removed N10
+native_min_cells_30	TRUE	removed N10,N11,N30
+P_005_pathway_inclusive_aggregate_strict	TRUE	native pathway includes P=0.05; native aggregate excludes; custom derived pathway uses probability>0 & P<0.05

@@ -1,0 +1,1625 @@
+cohort	scope	min_cells	lr_domain	direction	target	max_difference	n_values	pass
+"C10"	"ALL"	10	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"rCAF"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"rCAF"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"rCAF"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"rCAF"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"vCAF"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"vCAF"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"vCAF"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"vCAF"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"rCAF"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"rCAF"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"rCAF"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"rCAF"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"vCAF"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"vCAF"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"vCAF"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"vCAF"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"ALL"	10	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"ALL"	30	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"ALL"	10	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"ALL"	30	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"rCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"rCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"vCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"vCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"rCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"rCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"vCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"vCAF"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"CNP0000460"	10	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"CNP0000460"	30	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"CNP0000460"	10	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"CNP0000460"	30	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"LAMP3 DC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"LAMP3 DC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"LAMP3 DC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"LAMP3 DC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"cDC1"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"cDC1"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"cDC1"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"cDC1"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"cDC2"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"cDC2"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"pDC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"pDC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"pDC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"pDC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"SMC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"SMC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"SMC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"SMC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Arterial EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Arterial EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Arterial EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Arterial EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Capillary EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Capillary EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Venous EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Venous EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Venous EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Venous EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"GC B"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"GC B"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"GC B"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"GC B"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"LAMP3 DC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"LAMP3 DC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"LAMP3 DC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"LAMP3 DC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"cDC1"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"cDC1"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"cDC1"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"cDC1"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"cDC2"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"cDC2"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"pDC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"pDC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"pDC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"pDC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"SMC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"SMC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"SMC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"SMC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Arterial EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Arterial EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Arterial EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Arterial EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Capillary EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Capillary EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Venous EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Venous EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Venous EC"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Venous EC"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"GC B"	NA	0	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"GC B"	NA	0	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"GC B"	NA	0	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"GC B"	NA	0	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"GSE326225"	10	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"GSE326225"	30	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"GSE326225"	10	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"GSE326225"	30	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Neutrophil"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"rCAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"vCAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Pericyte"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Pericyte"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Pericyte"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Pericyte"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"SMC"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"SMC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"SMC"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"SMC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Arterial EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Arterial EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Capillary EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Capillary EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Neutrophil"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Matrix_CAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"rCAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"vCAF"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Pericyte"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Pericyte"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Pericyte"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Pericyte"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"SMC"	NA	0	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"SMC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"SMC"	NA	0	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"SMC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Arterial EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Arterial EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Capillary EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Capillary EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Lymphatic EC"	NA	0	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"HRA003620"	10	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"HRA003620"	30	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"HRA003620"	10	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"HRA003620"	30	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"rCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"rCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"rCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"rCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"vCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"vCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"vCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"vCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Venous EC"	NA	0	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Venous EC"	NA	0	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"GC B"	NA	0	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"GC B"	NA	0	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Naive/Memory B"	NA	0	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Naive/Memory B"	NA	0	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Naive/Memory B"	NA	0	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Naive/Memory B"	NA	0	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"rCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"rCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"rCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"rCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"vCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"vCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"vCAF"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"vCAF"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Venous EC"	NA	0	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Venous EC"	NA	0	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"GC B"	NA	0	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"GC B"	NA	0	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Naive/Memory B"	NA	0	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Naive/Memory B"	NA	0	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Naive/Memory B"	NA	0	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Naive/Memory B"	NA	0	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"InhouseData"	10	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"InhouseData"	30	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"InhouseData"	10	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"InhouseData"	30	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Neutrophil"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"pDC"	NA	0	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"pDC"	NA	0	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"rCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"rCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"rCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"rCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"vCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"vCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"vCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"vCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Lymphatic EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Neutrophil"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"pDC"	NA	0	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"pDC"	NA	0	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"rCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"rCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"rCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"rCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"vCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"vCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"vCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"vCAF"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Lymphatic EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C10"	"PRJNA662018"	10	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C10"	"PRJNA662018"	30	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"CD4 Helper/Conventional"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"CD8 Exhausted"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"NK"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"NK"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Tfh/CXCL13-like"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Treg"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Treg"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"C1QC TAM"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"C1QC TAM"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Classical Mono"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Classical Mono"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"LAMP3 DC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"LAMP3 DC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Neutrophil"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Neutrophil"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Neutrophil"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Neutrophil"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"SPP1 TAM"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"SPP1 TAM"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"cDC1"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"cDC1"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"cDC2"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"cDC2"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"pDC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"pDC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Matrix_CAF"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Matrix_CAF"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"iCAF"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"iCAF"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"rCAF"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"rCAF"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"rCAF"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"rCAF"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"vCAF"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"vCAF"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"vCAF"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"vCAF"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Pericyte"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Pericyte"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"SMC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"SMC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Arterial EC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Arterial EC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Capillary EC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Capillary EC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Lymphatic EC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Lymphatic EC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Lymphatic EC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Lymphatic EC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Venous EC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Venous EC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"GC B"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"GC B"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Naive/Memory B"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Naive/Memory B"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Plasma"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Plasma"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"output"	"Mast"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"output"	"Mast"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"CD4 Helper/Conventional"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"CD4 Naive/Memory-like"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"CD8 Exhausted"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"CD8 GZMK/Effector-memory-like"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"NK"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"NK"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Tfh/CXCL13-like"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Treg"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Treg"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"C1QC TAM"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"C1QC TAM"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Classical Mono"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Classical Mono"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"LAMP3 DC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"LAMP3 DC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Neutrophil"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Neutrophil"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Neutrophil"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Neutrophil"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"SPP1 TAM"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"SPP1 TAM"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"cDC1"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"cDC1"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"cDC2"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"cDC2"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"pDC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"pDC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Matrix_CAF"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Matrix_CAF"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"iCAF"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"iCAF"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"rCAF"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"rCAF"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"rCAF"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"rCAF"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"vCAF"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"vCAF"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"vCAF"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"vCAF"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Pericyte"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Pericyte"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"SMC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"SMC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Arterial EC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Arterial EC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Capillary EC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Capillary EC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Lymphatic EC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Lymphatic EC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Lymphatic EC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Lymphatic EC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Venous EC"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Venous EC"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"GC B"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"GC B"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Naive/Memory B"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Naive/Memory B"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Plasma"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Plasma"	0	3	TRUE
+"C30"	"ALL"	10	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C30"	"ALL"	30	"fixed_full"	"input"	"Mast"	0	3	TRUE
+"C30"	"ALL"	10	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE
+"C30"	"ALL"	30	"legacy_1875_intersection"	"input"	"Mast"	0	3	TRUE

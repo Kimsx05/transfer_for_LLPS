@@ -1,0 +1,19 @@
+function (geneLR, data.use, complex_input) 
+{
+    nLR <- length(geneLR)
+    numCluster <- ncol(data.use)
+    index.singleL <- which(geneLR %in% rownames(data.use))
+    dataL1avg <- data.use[geneLR[index.singleL], ]
+    dataLavg <- matrix(nrow = nLR, ncol = numCluster)
+    dataLavg[index.singleL, ] <- dataL1avg
+    index.complexL <- setdiff(1:nLR, index.singleL)
+    if (length(index.complexL) > 0) {
+        complex <- geneLR[index.complexL]
+        data.complex <- computeExpr_complex(complex_input, data.use, 
+            complex)
+        dataLavg[index.complexL, ] <- data.complex
+    }
+    return(dataLavg)
+}
+<bytecode: 0x5ab094ae0690>
+<environment: namespace:CellChat>

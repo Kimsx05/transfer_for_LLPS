@@ -1,0 +1,2 @@
+network_id	cohort	scope	high	n_specimens	n_recorded_patient_ids	n_input	n_modeled	n_nodes	input_hash	modeled_hash	low_tme_hash	membership_file	status	reason	cache_key	data_max	n_LR
+"C10__ALL__H10"	"C10"	"ALL"	"H10"	38	37	45519	45519	31	"3a251f40a89cb3b284f7ed796e424b45ed201f9ed0b2b9f159405101e8668962"	"3a251f40a89cb3b284f7ed796e424b45ed201f9ed0b2b9f159405101e8668962"	"cafd45de7f784be551f7bd9471de6807d555f0a63114a9c76f9e89d8b83116c8"	"membership/C10__ALL__H10.tsv.gz"	"completed"	NA	"4b662aaf015a55d9d0074d9a03aaf28a69bebf065689f6f38b0c2da296b8ab8c"	7.92028297309958	1933

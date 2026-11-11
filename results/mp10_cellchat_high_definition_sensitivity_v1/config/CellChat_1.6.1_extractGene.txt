@@ -1,0 +1,29 @@
+function (CellChatDB) 
+{
+    interaction_input <- CellChatDB$interaction
+    complex_input <- CellChatDB$complex
+    cofactor_input <- CellChatDB$cofactor
+    geneIfo <- CellChatDB$geneInfo
+    checkGeneSymbol(geneSet = unlist(complex_input), geneIfo)
+    checkGeneSymbol(geneSet = unlist(cofactor_input), geneIfo)
+    geneL <- unique(interaction_input$ligand)
+    geneR <- unique(interaction_input$receptor)
+    geneLR <- c(geneL, geneR)
+    checkGeneSymbol(geneSet = geneLR[geneLR %in% rownames(complex_input) == 
+        "FALSE"], geneIfo)
+    geneL <- extractGeneSubset(geneL, complex_input, geneIfo)
+    geneR <- extractGeneSubset(geneR, complex_input, geneIfo)
+    geneLR <- c(geneL, geneR)
+    cofactor <- c(interaction_input$agonist, interaction_input$antagonist, 
+        interaction_input$co_A_receptor, interaction_input$co_I_receptor)
+    cofactor <- unique(cofactor[cofactor != ""])
+    cofactorsubunits <- select(cofactor_input[match(cofactor, 
+        rownames(cofactor_input), nomatch = 0), ], starts_with("cofactor"))
+    cofactorsubunitsV <- unlist(cofactorsubunits)
+    geneCofactor <- unique(cofactorsubunitsV[cofactorsubunitsV != 
+        ""])
+    gene.use <- unique(c(geneLR, geneCofactor))
+    return(gene.use)
+}
+<bytecode: 0x5ab09432b570>
+<environment: namespace:CellChat>

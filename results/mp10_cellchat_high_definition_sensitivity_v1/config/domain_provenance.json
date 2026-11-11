@@ -1,0 +1,17 @@
+{
+  "db_hash": "7de59af95e383f0b113b4aaf11c5e61fd1280de8751e876aa0e6123d9c9aacf1",
+  "LR_hash": "ed5f7666de6cbb4233af6e9f7960cbacbe2a27a1d5f1ae1042eff277116d20a3",
+  "gene_order_hash": "a5e8321ac7aafeb79c07c2199f5fd42f8da19b80378b19fd9347c542c930cc68",
+  "actual_expression_content_sha256": "8ce6a6b728e6bb969108cda25abcb979998ae928738fe8f7418e66a3ef481206",
+  "supplemented_expression_sha256": "0c9fc6aca2bee4533fcab4b9d2fe1ace14e09f27b0e7905e977566842d64043c",
+  "original_RNA_file_sha256": "9246a9210d3c709f77dbb7ca374c5112976548f46c397fb7dcc6cbb9faaebeff",
+  "source_expression_file_sha256": "da907346915c18cb8cd2094cee7072e1919d68fb3ee07a42e59d62e20e0205fb",
+  "full_feature_hash": "098685e27cc333547e9ad63f9d26215cdc5e3c554c39928ececdf95408c76abc",
+  "n_features": 1017,
+  "n_DB": 1939,
+  "n_computable": 1933,
+  "n_legacy_intersection": 1875,
+  "supplemented_genes": ["IFNLR1", "IL2RA"],
+  "expression": "existing nonnegative LogNormalize RNA:data; no normalization on signaling subset",
+  "auxiliary_handling": "CellChat 1.6.1 native intersect with features; absent co-receptors default 1; missing required complex subunits excluded; zero expression retained"
+}

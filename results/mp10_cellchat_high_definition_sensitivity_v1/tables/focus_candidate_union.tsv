@@ -1,0 +1,14 @@
+target	predeclared
+"Naive/Memory B"	TRUE
+"Treg"	TRUE
+"cDC1"	TRUE
+"Plasma"	TRUE
+"Capillary EC"	TRUE
+"Arterial EC"	TRUE
+"Mast"	FALSE
+"Neutrophil"	FALSE
+"pDC"	FALSE
+"Tfh/CXCL13-like"	FALSE
+"vCAF"	FALSE
+"CD4 Helper/Conventional"	FALSE
+"SPP1 TAM"	FALSE

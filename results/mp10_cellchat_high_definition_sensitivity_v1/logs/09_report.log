@@ -1,0 +1,28 @@
+/home/data/t070721/codex_workspace/Bladder Metabolism/mp10_cellchat_high_definition_sensitivity_v1/scripts/09_report.py:38: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  p=pa[(pa.cohort=='C10')&(pa.scope=='ALL')&(pa.high=='H05')&(pa.min_cells==10)&(pa.lr_domain=='fixed_full')&(pa.metric=='W')&pa.background_contexts.str.contains(r'(^|\|)native(\||$)')&(pa.E_path>0)]
+| 方向 | 目标 | W_H50 | W_H10 | W_H05 | R_H50 | R_H10 | R_H05 | C30_H05_W | dataset_H05_W>1 | C30_H05_R | dataset_H05_R>1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| output | Mast | 1.46 | 1.45 | 1.43 | 1.03 | 1.03 | 1.02 | 1.11 | 2/5 | 1.04 | 2/5 |
+| output | Arterial EC | 1.06 | 1.13 | 1.16 | 1.08 | 1.15 | 1.18 | 1.14 | 4/4 | 1.15 | 4/4 |
+| output | vCAF | 1.11 | 1.14 | 1.16 | 1.13 | 1.16 | 1.18 | 1.08 | 2/3 | 1.09 | 2/3 |
+| output | Capillary EC | 1.1 | 1.11 | 1.14 | 1.06 | 1.11 | 1.14 | 1.17 | 4/5 | 1.13 | 4/5 |
+| output | Plasma | 0.957 | 0.958 | 0.957 | 0.948 | 0.927 | 0.915 | 0.934 | 3/5 | 0.918 | 2/5 |
+| output | Treg | 1.01 | 1 | 0.991 | 1.02 | 1.02 | 1.01 | 1.01 | 2/5 | 1.02 | 1/5 |
+| output | Tfh/CXCL13-like | 1.01 | 1.02 | 1.02 | 1.03 | 1.03 | 1.03 | 1.02 | 2/5 | 1.04 | 2/5 |
+| output | cDC1 | 0.917 | 0.89 | 0.889 | 0.938 | 0.912 | 0.903 | 0.896 | 2/4 | 0.908 | 2/4 |
+| output | Naive/Memory B | 0.923 | 0.902 | 0.887 | 0.944 | 0.915 | 0.901 | 0.893 | 0/4 | 0.909 | 0/4 |
+| output | Neutrophil | 1.14 | 1.13 | 1.11 | 1.09 | 1.07 | 1.05 | 1.1 | 0/2 | 1.03 | 0/2 |
+| output | pDC | 1.12 | 1.11 | 1.09 | 0.967 | 0.948 | 0.936 | 1.1 | 1/4 | 0.938 | 1/4 |
+| input | Mast | 0.916 | 0.974 | 1.05 | 0.99 | 1.02 | 1.07 | 0.996 | 3/5 | 1.03 | 3/5 |
+| input | Arterial EC | 1.03 | 1.04 | 1.05 | 1.03 | 1.04 | 1.05 | 1.04 | 2/4 | 1.04 | 3/4 |
+| input | vCAF | 1.01 | 0.999 | 0.988 | 0.999 | 0.989 | 0.98 | 0.995 | 1/3 | 0.987 | 2/3 |
+| input | Capillary EC | 1 | 0.998 | 0.991 | 0.999 | 0.998 | 0.993 | 0.994 | 1/5 | 0.995 | 3/5 |
+| input | Plasma | 1.04 | 1.98 | 2.21 | 1.25 | 1.17 | 1.15 | 1.83 | 3/5 | 1.13 | 1/5 |
+| input | Treg | 1.21 | 1.34 | 1.48 | 1.25 | 1.3 | 1.39 | 1.49 | 4/5 | 1.43 | 4/5 |
+| input | Tfh/CXCL13-like | 1.22 | 1.37 | 1.46 | 1.24 | 1.34 | 1.39 | 1.37 | 4/5 | 1.33 | 4/5 |
+| input | cDC1 | 1.07 | 1.12 | 1.27 | 1.18 | 1.16 | 1.22 | 1.21 | 4/4 | 1.2 | 3/4 |
+| input | Naive/Memory B | 0.931 | 0.998 | 1.12 | 1.04 | 1.06 | 1.13 | 1.07 | 3/4 | 1.1 | 3/4 |
+| input | Neutrophil | 0.719 | 0.721 | 1.06 | 0.811 | 0.794 | 1.08 | 1.07 | 0/2 | 1.09 | 0/2 |
+| input | pDC | 1.05 | 1.08 | 1.12 | 1.08 | 1.1 | 1.12 | 1.09 | 2/4 | 1.1 | 2/4 |
+
+REPORT WRITTEN

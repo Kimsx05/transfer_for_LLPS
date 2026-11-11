@@ -1,0 +1,11 @@
+{
+  "status": "complete",
+  "n_networks": 21,
+  "n_figures": 61,
+  "n_figure_files": 244,
+  "n_analysis_checks": 2476,
+  "n_figure_consistency_checks": 61,
+  "all_checks_pass": true,
+  "heatmap_clipped_finite_values": 0,
+  "expression_normalization_max_abs_error": 0
+}

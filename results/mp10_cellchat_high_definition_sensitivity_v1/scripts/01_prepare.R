@@ -1,0 +1,35 @@
+source('mp10_cellchat_high_definition_sensitivity_v1/scripts/common.R')
+s<-fread(file.path(baseline,'tables/sample_metadata.tsv')); s<-s[tolower(as.character(epi_state_eligible))=='true'];stopifnot(all(s$tissue_status=='Tumor'))
+m<-fread(file.path(baseline,'tables/analysis_cells.tsv.gz')); dict<-fread(tb('final_label_dictionary.tsv'));stopifnot(!anyDuplicated(m$barcode),all(m$analysis_celltype_c2l_final%in%dict$celltype),nrow(m)==300033)
+e<-m[sample_uid%in%s$sample_uid & analysis_major_c2l_final=='Epithelial'];stopifnot(all(is.finite(e$MP10_cell)))
+setorder(e,sample_uid,barcode);RNGkind('Mersenne-Twister','Inversion','Rejection');set.seed(123);e[,random_priority:=runif(.N)]
+d<-e[, {v<-MP10_cell;q<-quantile(v,c(.5,.75,.9,.95,.99),type=7);mu<-mean(v);sd0<-sqrt(mean((v-mu)^2));list(n_epi=.N,n_scored=sum(is.finite(v)),score_completeness=mean(is.finite(v)),n_zero=sum(v==0),zero_fraction=mean(v==0),mean=mu,sd=sd(v),skewness_moment=if(sd0>0)mean((v-mu)^3)/sd0^3 else NA_real_,min=min(v),max=max(v),Q50=q[1],Q75=q[2],Q90=q[3],Q95=q[4],Q99=q[5],n_L50=sum(v<=q[1]),n_H50=sum(v>q[1]),n_H10=sum(v>q[3]),n_H05=sum(v>q[4]))},by=.(sample_uid,dataset,patient_uid_recorded)]
+for(g in c('L50','H50','H10','H05'))d[,(paste0('fraction_',g)):=get(paste0('n_',g))/n_epi]
+d[,`:=`(C10=n_H05>10 & n_L50>10,C30=n_H05>30 & n_L50>30,k_s=pmin(100L,n_H05,n_L50))]
+for(c in c('C10','C30')){t<-if(c=='C10')10 else 30;d[,(paste0(c,'_reason')):=ifelse(get(c),'included',paste0('H05=',n_H05,';L50=',n_L50,';requires both >',t))]}
+d<-merge(d,s[,.(sample_uid,specimen_id,patient_id_status,patient_id_source,patient_unit_note)],by='sample_uid',sort=FALSE);put(d,'specimen_quantiles_coverage.tsv');put(s,'original_sample_metadata.tsv')
+e<-merge(e,d[,.(sample_uid,Q50,Q90,Q95,C10,C30,k_s)],by='sample_uid',sort=FALSE);setorder(e,sample_uid,barcode)
+e[,`:=`(L50=MP10_cell<=Q50,H50=MP10_cell>Q50,H10=MP10_cell>Q90,H05=MP10_cell>Q95)]
+put(e[,.(barcode,sample_uid,dataset,patient_uid_recorded,MP10_cell,random_priority,L50,H50,H10,H05)],'epi_full_scores_pools.tsv.gz')
+# Uniform grid ECDF retains point mass at zero and identical score axes. Each specimen gets equal weight in dataset ECDF.
+grid<-sort(unique(c(0,seq(min(e$MP10_cell),max(e$MP10_cell),length.out=401))))
+ec<-e[,.(score=grid,cdf=ecdf(MP10_cell)(grid)),by=.(sample_uid,dataset)];put(ec,'specimen_ecdf.tsv.gz');put(ec[,.(cdf=mean(cdf),n_specimens=uniqueN(sample_uid)),by=.(dataset,score)],'dataset_equal_specimen_ecdf.tsv')
+# Baseline TME membership includes pre-inference capped cells, including nodes excluded by old keep>=30.
+b<-fread(file.path(baseline,'tables/network_parts/ALL__fine__sampling.tsv.gz'));tme<-b[!node%in%c('Epi_MP10_high','Epi_MP10_low') & sample_uid%in%d[C10==TRUE,sample_uid]]
+stopifnot(all(tme$barcode%in%m$barcode),all(tme$node%in%dict[parent!='Epithelial',celltype]),!anyDuplicated(tme$barcode),max(tme[,.N,by=.(sample_uid,node)]$N)<=100)
+tme<-tme[,.(barcode,dataset,sample_uid,patient_uid_recorded,node)];tme[,`:=`(candidate_pool='shared_TME',random_priority=NA_real_,selection_rank=seq_len(.N))]
+selected<-list();for(g in c('L50','H50','H10','H05')){v<-e[C10==TRUE & get(g)==TRUE];setorder(v,sample_uid,random_priority,barcode);v[,selection_rank:=seq_len(.N),by=sample_uid];v<-v[selection_rank<=k_s];v[,`:=`(node=if(g=='L50')'Epi Low'else'Epi High',candidate_pool=g)];selected[[g]]<-v[,.(barcode,dataset,sample_uid,patient_uid_recorded,node,candidate_pool,random_priority,selection_rank)]}
+plans<-list();qc<-list();for(co in c('C10','C30'))for(sc in if(co=='C10')c('ALL',sort(unique(d$dataset)))else'ALL')for(hi in c('H50','H10','H05')){
+ ids<-d[get(co)==TRUE & (sc=='ALL'|dataset==sc),sample_uid]
+ md<-rbindlist(list(selected[[hi]],selected[['L50']],tme))[sample_uid%in%ids];md[,input_order:=seq_len(.N)]
+ cnt<-merge(data.table(node=c('Epi High','Epi Low',dict[parent!='Epithelial',celltype])),md[,.N,by=node],all.x=TRUE,sort=FALSE);cnt[is.na(N),N:=0L];md[,modeled:=node%in%cnt[N>10,node]];md[,modeled_order:=NA_integer_];md[modeled==TRUE,modeled_order:=seq_len(.N)]
+ id<-paste(co,sc,hi,sep='__');put(md,paste0('membership/',id,'.tsv.gz'));cnt[,`:=`(cohort=co,scope=sc,high=hi,network_id=id)];qc[[id]]<-cnt
+ ep<-md[node%in%c('Epi High','Epi Low'),.N,by=.(sample_uid,node)];ep<-dcast(ep,sample_uid~node,value.var='N');stopifnot(all(ep[['Epi High']]==ep[['Epi Low']]))
+ plans[[id]]<-data.table(network_id=id,cohort=co,scope=sc,high=hi,n_specimens=length(ids),n_recorded_patient_ids=uniqueN(d[sample_uid%in%ids & !is.na(patient_uid_recorded),patient_uid_recorded]),n_input=nrow(md),n_modeled=sum(md$modeled),n_nodes=sum(cnt$N>10),input_hash=seqhash(md$barcode),modeled_hash=seqhash(md[modeled==TRUE,barcode]),low_tme_hash=seqhash(md[node!='Epi High',barcode]),membership_file=paste0('membership/',id,'.tsv.gz'),status=if(all(c('Epi High','Epi Low')%in%cnt[N>10,node]) & sum(cnt$N>10)>=3)'planned'else'NE',reason=if(length(ids))''else'no_eligible_specimens')
+}
+p<-rbindlist(plans);stopifnot(all(p[,uniqueN(low_tme_hash),by=.(cohort,scope)]$V1==1),all(p[,uniqueN(n_input),by=.(cohort,scope)]$V1==1));put(p,'network_plan.tsv');put(rbindlist(qc),'node_counts.tsv')
+cov<-rbindlist(lapply(c('original','C10','C30'),function(co){v<-if(co=='original')d else d[get(co)==TRUE];v[,.(cohort=co,n_specimens=.N,n_recorded_patient_ids=uniqueN(patient_uid_recorded[!is.na(patient_uid_recorded)]),n_epi=sum(n_epi),sampled_per_epi_state=sum(k_s)),by=dataset]}));put(cov,'dataset_specimen_coverage.tsv')
+inputs<-c(file.path(baseline,'tables',c('analysis_cells.tsv.gz','sample_metadata.tsv','network_parts/ALL__fine__sampling.tsv.gz','cellchat_node_coverage.tsv','cellchat_lr_domain.tsv','cellchat_LR_definitions.tsv','cellchat_object_index.tsv','final_label_dictionary.tsv')),file.path(baseline,'config/run_config.json'),file.path(baseline,'scripts',c('01_build_annotation.py','02_run_cellchat.R')),file.path(project,'neighborhood_mp10_calibration_v5/01_score_fidelity/top20.txt'))
+put(data.table(path=inputs,sha256=vapply(inputs,function(f)digest(file=f,algo='sha256'),character(1))),'input_manifest.tsv')
+cfg<-list(baseline_run_id='c2lfinal_20261108T123140Z_0b5fd64f',CellChat_version='1.6.1',expression=file.path(project,'mp10_subtype_screen_round1/objects/signaling_RNA_data.qs'),type='triMean',raw.use=TRUE,population.size=FALSE,nboot=100,seed.use=123,workers=3,BLAS_OMP_MKL_threads=1,quantile_type=7,high_definitions=list(H50='>Q50',H10='>Q90',H05='>Q95'),low='<=Q50',C10='n_H05>10 & n_L50>10',C30='n_H05>30 & n_L50>30',model_nodes='N>10',postfilter=c(10,30),supported='probability>0 & internal_P<0.05',sampling='R Mersenne-Twister/Inversion/Rejection seed=123; runif assigned once to all original Epi sorted sample_uid,barcode; ascending priority within each pool; same priorities across pools; tie barcode; cap=min(100,n_H05,n_L50); TME baseline ALL fine frozen order; C30 subset',membership_hash=seqhash(p$input_hash))
+write_json(cfg,file.path(root,'config/run_config.json'),pretty=TRUE,auto_unbox=TRUE);print(d[,.(n_specimens=.N,n_epi=sum(n_epi),C10=sum(C10),C30=sum(C30),C10_k=sum(k_s[C10]),C30_k=sum(k_s[C30]))]);print(d[C10==FALSE,.(sample_uid,n_H05,n_L50)]);cat('PREPARE DONE\n')

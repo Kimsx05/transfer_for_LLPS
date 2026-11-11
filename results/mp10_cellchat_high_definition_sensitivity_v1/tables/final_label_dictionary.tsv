@@ -1,0 +1,31 @@
+celltype	parent	parent_order	order	color	source_labels	color_source
+Epithelial	Epithelial	0	1	#c7c7c7	Epithelial	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+CD4 Helper/Conventional	T/NK	1	2	#72b7b2	CD4 Helper/Conventional	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+CD4 Naive/Memory-like	T/NK	1	3	#54a24b	CD4 Naive/Memory-like	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+CD8 Exhausted	T/NK	1	4	#8c6bb1	CD8 Exhausted	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+CD8 GZMK/Effector-memory-like	T/NK	1	5	#b279a2	CD8 GZMK/Effector-memory-like	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+NK	T/NK	1	6	#59a14f	NK	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Tfh/CXCL13-like	T/NK	1	7	#8cd17d	Tfh/CXCL13-like	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Treg	T/NK	1	8	#499894	Treg	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+C1QC TAM	Myeloid	2	9	#9c755f	C1QC TAM;FOLR2 TAM	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Classical Mono	Myeloid	2	10	#e6ab02	Classical Mono	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+LAMP3 DC	Myeloid	2	11	#d4a6c8	LAMP3 DC	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Neutrophil	Myeloid	2	12	#e15759	Neutrophil	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+SPP1 TAM	Myeloid	2	13	#b55239	SPP1 TAM	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+cDC1	Myeloid	2	14	#ff9da7	cDC1	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+cDC2	Myeloid	2	15	#c797c3	cDC2	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+pDC	Myeloid	2	16	#e68a2e	pDC	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Matrix_CAF	Fibroblast	3	17	#637939	Matrix_CAF	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+iCAF	Fibroblast	3	18	#86bc86	iCAF	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+rCAF	Fibroblast	3	19	#39756b	rCAF	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+vCAF	Fibroblast	3	20	#76a7a5	vCAF	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Pericyte	Mural	4	21	#b07c50	Pericyte	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+SMC	Mural	4	22	#b5a36a	SMC	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Arterial EC	Endothelial	5	23	#4c78a8	Arterial EC	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Capillary EC	Endothelial	5	24	#6baed6	Capillary EC	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Lymphatic EC	Endothelial	5	25	#9ecae1	Lymphatic EC	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Venous EC	Endothelial	5	26	#2878a0	Venous EC	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+GC B	B	6	27	#af7aa1	GC B	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Naive/Memory B	B	6	28	#8c6d9f	Memory B;Naive B	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Plasma	Plasma	7	29	#d45087	Plasma	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv
+Mast	Mast	8	30	#d9a441	Mast	spatial_ecology_top20_v2/figure_review_weekly_report_v1/tables/subtype_color_dictionary.tsv

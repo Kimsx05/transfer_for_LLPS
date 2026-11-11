@@ -1,0 +1,8 @@
+   n_specimens  n_epi   C10   C30 C10_k C30_k
+         <int>  <int> <int> <int> <int> <int>
+1:          40 116448    38    30  2651  2479
+                 sample_uid n_H05 n_L50
+                     <char> <int> <int>
+1: GSE326225::GSE326225_BC6     8    74
+2: GSE326225::GSE326225_BC8     7    64
+PREPARE DONE

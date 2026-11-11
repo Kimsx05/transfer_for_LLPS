@@ -1,0 +1,7 @@
+source('mp10_cellchat_high_definition_sensitivity_v1/scripts/common.R')
+suppressPackageStartupMessages(library(CellChat));future::plan('sequential')
+o<-new('CellChat');o@idents<-factor(rep(c('N10','N11','N30','N31'),c(10,11,30,31)),levels=c('N10','N11','N30','N31'));lr<-CellChatDB.human$interaction[c(1,which(CellChatDB.human$interaction$pathway_name!=CellChatDB.human$interaction$pathway_name[1])[1]),,drop=FALSE];o@LR$LRsig<-lr
+pr<-array(1,c(4,4,2),dimnames=list(levels(o@idents),levels(o@idents),rownames(lr)));pv<-pr;pv[,,1]<-.05;pv[,,2]<-.04;o@net<-list(prob=pr,pval=pv)
+checks<-list();for(th in c(10,30)){f<-filterCommunication(o,min.cells=th);small<-which(table(o@idents)<=th);expected<-pr;expected[small,,]<-0;expected[,small,]<-0;stopifnot(identical(expected,f@net$prob),identical(o@net$prob,pr));checks[[as.character(th)]]<-data.table(check=paste0('native_min_cells_',th),pass=TRUE,details=paste('removed',paste(names(table(o@idents))[small],collapse=',')))}
+np<-computeCommunProbPathway(o);ng<-aggregateNet(o);stopifnot(sum(np@netP$prob)==sum(pr),sum(ng@net$weight)==sum(pr[,,2]));mask<-pr>0 & pv<.05;strict<-pr;strict[!mask]<-0;stopifnot(sum(strict)==sum(ng@net$weight));checks[['P_boundary']]<-data.table(check='P_005_pathway_inclusive_aggregate_strict',pass=TRUE,details='native pathway includes P=0.05; native aggregate excludes; custom derived pathway uses probability>0 & P<0.05')
+fwrite(rbindlist(checks),file.path(root,'qc/native_boundary_checks.tsv'),sep='\t');cat('BOUNDARY CHECKS PASSED\n')
