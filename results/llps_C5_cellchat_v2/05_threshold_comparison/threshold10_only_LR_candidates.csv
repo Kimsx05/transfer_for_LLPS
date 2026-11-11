@@ -1,0 +1,963 @@
+sender,receiver,feature,stratum,eligible_specimens,eligible_patients,positive_specimens,positive_patients,specimen_median,positive_datasets,eligible_datasets,patient_condition_units,patient_condition_median,patient_condition_q25,patient_condition_q75,patient_condition_min,patient_condition_max,patient_prevalence,stratification,min_cells,kind,ligand,receptor,pathway,annotation,positive_patients_t20
+"B","Fibro_C5","COL4A6_CD44","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.00627020906855607,0.0833333333333333,"tumor_only",10,"LR","COL4A6","CD44","COLLAGEN","ECM-Receptor",0
+"B","Fibro_C5","COL4A6_ITGA11_ITGB1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0135954003063351,0.0833333333333333,"tumor_only",10,"LR","COL4A6","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"B","Fibro_C5","COL4A6_ITGA1_ITGB1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0142890316996825,0.0833333333333333,"tumor_only",10,"LR","COL4A6","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"B","Fibro_C5","COL4A6_ITGAV_ITGB8","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.00129990306964141,0.0833333333333333,"tumor_only",10,"LR","COL4A6","ITGAV_ITGB8","COLLAGEN","ECM-Receptor",0
+"B","Fibro_C5","EFNA5_EPHA3","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.00330554678433123,0.0833333333333333,"tumor_only",10,"LR","EFNA5","EPHA3","EPHA","Cell-Cell Contact",0
+"B","Fibro_C5","GJA1_GJA1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0088241648273623,0.0833333333333333,"tumor_only",10,"LR","GJA1","GJA1","GAP","Cell-Cell Contact",0
+"B","Fibro_C5","GZMA_F2R","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.00224713746655388,0.0833333333333333,"tumor_only",10,"LR","GZMA","F2R","PARs","Secreted Signaling",0
+"B","Fibro_C5","SDC1_ADGRA2","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.00637761339432853,0.0833333333333333,"tumor_only",10,"LR","SDC1","ADGRA2","ADGRA","Cell-Cell Contact",0
+"B","Fibro_C5","TGFA_EGFR","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.00301113532008136,0.0833333333333333,"tumor_only",10,"LR","TGFA","EGFR","EGF","Secreted Signaling",0
+"Endothelial","Fibro_C5","ANXA1_FPR3","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00193960383498896,0.0666666666666667,"tumor_only",10,"LR","ANXA1","FPR3","ANNEXIN","Secreted Signaling",0
+"Endothelial","Fibro_C5","FN1_ITGAV_ITGB6","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000507088843145487,0.0666666666666667,"tumor_only",10,"LR","FN1","ITGAV_ITGB6","FN1","ECM-Receptor",0
+"Endothelial","Fibro_C5","ITGAV_ITGB1_ADGRE5","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00363012476654029,0.0666666666666667,"tumor_only",10,"LR","ITGAV_ITGB1","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Endothelial","Fibro_C5","LAMB3_ITGA1_ITGB1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.0028302179682102,0.0666666666666667,"tumor_only",10,"LR","LAMB3","ITGA1_ITGB1","LAMININ","ECM-Receptor",0
+"Endothelial","Fibro_C5","MIF_CD74_CXCR4","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.0104223121059619,0.0666666666666667,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Endothelial","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",15,15,2,2,0,2,3,15,0,0,0,0,0.00494777703345708,0.133333333333333,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Endothelial","Fibro_C5","RetinoicAcid-RA-ALDH1A1_RORB","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.0014079482063557,0.0666666666666667,"tumor_only",10,"LR","RA-ALDH1A1","RORB","RA","Non-protein Signaling",0
+"Endothelial","Fibro_C5","SPP1_ITGAV_ITGB6","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00160659532176687,0.0666666666666667,"tumor_only",10,"LR","SPP1","ITGAV_ITGB6","SPP1","Secreted Signaling",0
+"Endothelial","Fibro_C5","TGFB3_ACVR1B_TGFBR2","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000113232365934907,0.0666666666666667,"tumor_only",10,"LR","TGFB3","ACVR1B_TGFbR2","TGFb","Secreted Signaling",0
+"Endothelial","Fibro_C5","TGFB3_ACVR1_TGFBR1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00112031556694515,0.0666666666666667,"tumor_only",10,"LR","TGFB3","ACVR1_TGFbR","TGFb","Secreted Signaling",0
+"Endothelial","Fibro_C5","TGFB3_TGFBR1_TGFBR2","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000291936602541019,0.0666666666666667,"tumor_only",10,"LR","TGFB3","TGFbR1_R2","TGFb","Secreted Signaling",0
+"Endothelial","Fibro_C5","TNC_SDC1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000402779406741252,0.0666666666666667,"tumor_only",10,"LR","TNC","SDC1","TENASCIN","ECM-Receptor",0
+"Epithelial","Fibro_C5","BMP8B_ACVR1_BMPR2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000186658393478027,0.0769230769230769,"tumor_only",10,"LR","BMP8B","ACVR1_BMPR2","BMP","Secreted Signaling",0
+"Epithelial","Fibro_C5","CCL28_CCR10","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000128415293535958,0.0769230769230769,"tumor_only",10,"LR","CCL28","CCR10","CCL","Secreted Signaling",0
+"Epithelial","Fibro_C5","CD55_ADGRE5","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00105563104622708,0.0769230769230769,"tumor_only",10,"LR","CD55","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","COL4A4_ITGA2_ITGB1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000710653628417423,0.0769230769230769,"tumor_only",10,"LR","COL4A4","ITGA2_ITGB1","COLLAGEN","ECM-Receptor",0
+"Epithelial","Fibro_C5","COL4A4_ITGA3_ITGB1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000348090138647857,0.0769230769230769,"tumor_only",10,"LR","COL4A4","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Epithelial","Fibro_C5","CXCL11_ACKR3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000324434954021229,0.0769230769230769,"tumor_only",10,"LR","CXCL11","ACKR3","CXCL","Secreted Signaling",0
+"Epithelial","Fibro_C5","EDN2_EDNRA","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000622684628614899,0.0769230769230769,"tumor_only",10,"LR","EDN2","EDNRA","EDN","Secreted Signaling",0
+"Epithelial","Fibro_C5","EFNB1_EPHB2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000158532380375306,0.0769230769230769,"tumor_only",10,"LR","EFNB1","EPHB2","EPHB","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","EFNB2_EPHB2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000908865054581785,0.0769230769230769,"tumor_only",10,"LR","EFNB2","EPHB2","EPHB","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","FLRT3_ADGRL3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00611360063380295,0.0769230769230769,"tumor_only",10,"LR","FLRT3","ADGRL3","ADGRL","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","GABA-B-GAD1_SLC6A6_GABBR1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,3.42658198790852e-05,0.0769230769230769,"tumor_only",10,"LR","GABA-GAD1_SLC6A6","GABBR1","GABA-B","Non-protein Signaling",0
+"Epithelial","Fibro_C5","GABA-B-GAD1_SLC6A8_GABBR1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00020314927419479,0.0769230769230769,"tumor_only",10,"LR","GABA-GAD1_SLC6A8","GABBR1","GABA-B","Non-protein Signaling",0
+"Epithelial","Fibro_C5","GZMA_F2RL1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,1.63325655410778e-05,0.0769230769230769,"tumor_only",10,"LR","GZMA","F2RL1","PARs","Secreted Signaling",0
+"Epithelial","Fibro_C5","GZMA_PARD3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000120513286042927,0.0769230769230769,"tumor_only",10,"LR","GZMA","PARD3","PARs","Secreted Signaling",0
+"Epithelial","Fibro_C5","HLA-DMB_CD4","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00263643406993221,0.0769230769230769,"tumor_only",10,"LR","HLA-DMB","CD4","MHC-II","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","HLA-DQB1_CD4","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00427527529654964,0.0769230769230769,"tumor_only",10,"LR","HLA-DQB1","CD4","MHC-II","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","HLA-DRA_CD4","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.020968951716859,0.0769230769230769,"tumor_only",10,"LR","HLA-DRA","CD4","MHC-II","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","HLA-DRB5_CD4","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00501617391816143,0.0769230769230769,"tumor_only",10,"LR","HLA-DRB5","CD4","MHC-II","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","IGF2_ITGAV_ITGB3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000509455590387819,0.0769230769230769,"tumor_only",10,"LR","IGF2","ITGAV_ITGB3","IGF","Secreted Signaling",0
+"Epithelial","Fibro_C5","ITGAV_ITGB1_ADGRE5","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00234116334628541,0.0769230769230769,"tumor_only",10,"LR","ITGAV_ITGB1","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","LAMA4_SV2A","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00043512303455367,0.0769230769230769,"tumor_only",10,"LR","LAMA4","SV2A","LAMININ","ECM-Receptor",0
+"Epithelial","Fibro_C5","MIF_CD74_CXCR4","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.0115521220166759,0.0769230769230769,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Epithelial","Fibro_C5","NECTIN3_NECTIN2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,6.35654183100925e-05,0.0769230769230769,"tumor_only",10,"LR","NECTIN3","NECTIN2","NECTIN","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","PDGFB_PDGFRA","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000180273191589488,0.0769230769230769,"tumor_only",10,"LR","PDGFB","PDGFRA","PDGF","Secreted Signaling",0
+"Epithelial","Fibro_C5","PGE2-PTGES2_PTGER1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000604760745188669,0.0769230769230769,"tumor_only",10,"LR","PGE2-PTGES2","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Epithelial","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",13,13,2,2,0,2,3,13,0,0,0,0,0.0069534031766884,0.153846153846154,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Epithelial","Fibro_C5","PGE2-PTGES_PTGER1","Tumor",13,13,2,2,0,2,3,13,0,0,0,0,0.000742686642054155,0.153846153846154,"tumor_only",10,"LR","PGE2-PTGES","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Epithelial","Fibro_C5","PGF2a-AKR1C3_PTGFR","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000469521626581874,0.0769230769230769,"tumor_only",10,"LR","PGD2-AKR1C3","PTGFR","Prostaglandin","Non-protein Signaling",0
+"Epithelial","Fibro_C5","SELL_MADCAM1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,7.15372153754105e-05,0.0769230769230769,"tumor_only",10,"LR","SELL","MADCAM1","SELL","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","SPP1_CD44","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.0194118367907198,0.0769230769230769,"tumor_only",10,"LR","SPP1","CD44","SPP1","Secreted Signaling",0
+"Epithelial","Fibro_C5","TAX1BP3_ADGRB2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000537863185588597,0.0769230769230769,"tumor_only",10,"LR","TAX1BP3","ADGRB2","ADGRB","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","TENM1_ADGRL3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00372179399186096,0.0769230769230769,"tumor_only",10,"LR","TENM1","ADGRL3","ADGRL","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","TENM2_ADGRL1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00017058019736333,0.0769230769230769,"tumor_only",10,"LR","TENM2","ADGRL1","ADGRL","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","TENM2_ADGRL2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000728121375336307,0.0769230769230769,"tumor_only",10,"LR","TENM2","ADGRL2","ADGRL","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","TENM4_ADGRL3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00468067440383213,0.0769230769230769,"tumor_only",10,"LR","TENM4","ADGRL3","ADGRL","Cell-Cell Contact",0
+"Epithelial","Fibro_C5","THBS3_SDC1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000484076616113192,0.0769230769230769,"tumor_only",10,"LR","THBS3","SDC1","THBS","ECM-Receptor",0
+"Epithelial","Fibro_C5","WNT10A_FZD3_LRP6","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,1.32057545628739e-06,0.0769230769230769,"tumor_only",10,"LR","WNT10A","FZD3_LRP6","WNT","Secreted Signaling",0
+"Epithelial","Fibro_C5","WNT5A_FZD3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000156437436301309,0.0769230769230769,"tumor_only",10,"LR","WNT5A","FZD3","ncWNT","Secreted Signaling",0
+"Epithelial","Fibro_C5","WNT5A_FZD4","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,9.62813656579566e-05,0.0769230769230769,"tumor_only",10,"LR","WNT5A","FZD4","ncWNT","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","ANGPT2_ITGA5_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00996159977910119,0.125,"tumor_only",10,"LR","ANGPT2","ITGA5_ITGB1","ANGPT","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP4_BMPR1A_ACVR2B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000725351763879232,0.125,"tumor_only",10,"LR","BMP4","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP4_BMPR1B_ACVR2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000239554058789217,0.125,"tumor_only",10,"LR","BMP4","BMPR1B_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP4_BMPR1B_ACVR2B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00024599587623993,0.125,"tumor_only",10,"LR","BMP4","BMPR1B_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP4_BMPR1B_BMPR2","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00130394799066753,0.125,"tumor_only",10,"LR","BMP4","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP7_ACVR1_ACVR2B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000136876486987322,0.125,"tumor_only",10,"LR","BMP7","ACVR1_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP7_BMPR1A_ACVR2B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000195323069292935,0.125,"tumor_only",10,"LR","BMP7","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP7_BMPR1B_ACVR2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,6.44685874273024e-05,0.125,"tumor_only",10,"LR","BMP7","BMPR1B_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP7_BMPR1B_ACVR2B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,6.62027298357791e-05,0.125,"tumor_only",10,"LR","BMP7","BMPR1B_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP7_BMPR1B_BMPR2","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000351378595635147,0.125,"tumor_only",10,"LR","BMP7","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP8A_ACVR1_ACVR2B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000295554027567741,0.125,"tumor_only",10,"LR","BMP8A","ACVR1_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP8A_BMPR1A_ACVR2B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00042170809275494,0.125,"tumor_only",10,"LR","BMP8A","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP8A_BMPR1B_ACVR2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000139225147686217,0.125,"tumor_only",10,"LR","BMP8A","BMPR1B_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP8A_BMPR1B_ACVR2B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000142969684061411,0.125,"tumor_only",10,"LR","BMP8A","BMPR1B_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","BMP8A_BMPR1B_BMPR2","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000758405011019569,0.125,"tumor_only",10,"LR","BMP8A","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","COL4A5_ITGA9_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00309710841586356,0.125,"tumor_only",10,"LR","COL4A5","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C0","Fibro_C5","COL4A6_CD44","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0112213559970017,0.125,"tumor_only",10,"LR","COL4A6","CD44","COLLAGEN","ECM-Receptor",0
+"Fibro_C0","Fibro_C5","COL4A6_ITGA11_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0241899379033431,0.125,"tumor_only",10,"LR","COL4A6","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C0","Fibro_C5","COL4A6_ITGA1_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0254101737501998,0.125,"tumor_only",10,"LR","COL4A6","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C0","Fibro_C5","COL4A6_ITGAV_ITGB8","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00233557015139097,0.125,"tumor_only",10,"LR","COL4A6","ITGAV_ITGB8","COLLAGEN","ECM-Receptor",0
+"Fibro_C0","Fibro_C5","COL9A1_ITGA9_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00220927121442154,0.125,"tumor_only",10,"LR","COL9A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C0","Fibro_C5","COL9A1_SDC1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00100046740642376,0.125,"tumor_only",10,"LR","COL9A1","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C0","Fibro_C5","EFNB2_EPHB3","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000106257062920892,0.125,"tumor_only",10,"LR","EFNB2","EPHB3","EPHB","Cell-Cell Contact",0
+"Fibro_C0","Fibro_C5","FGF1_FGFR1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0113073789910926,0.125,"tumor_only",10,"LR","FGF1","FGFR1","FGF","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","FGF9_FGFR1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0035133348768117,0.125,"tumor_only",10,"LR","FGF9","FGFR1","FGF","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","GDF11_TGFBR1_ACVR2B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000932337276862429,0.125,"tumor_only",10,"LR","GDF11","TGFBR1_ACVR2B","GDF","Secreted Signaling",0
+"Fibro_C0","Fibro_C5","LAMA2_ITGA6_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0137410392594032,0.125,"tumor_only",10,"LR","LAMA2","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C0","Fibro_C5","LAMA4_ITGA6_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00739717217031907,0.125,"tumor_only",10,"LR","LAMA4","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C0","Fibro_C5","NCAM1_NCAM1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000310346664022733,0.125,"tumor_only",10,"LR","NCAM1","NCAM1","NCAM","Cell-Cell Contact",0
+"Fibro_C0","Fibro_C5","PGE2-PTGES3_PTGER4","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0122891292034256,0.125,"tumor_only",10,"LR","PGE2-PTGES3","PTGER4","Prostaglandin","Non-protein Signaling",0
+"Fibro_C0","Fibro_C5","SEMA5B_PLXNA1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000963907524409757,0.125,"tumor_only",10,"LR","SEMA5B","PLXNA1","SEMA5","Cell-Cell Contact",0
+"Fibro_C0","Fibro_C5","SEMA6D_PLXNA1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000719707670978728,0.125,"tumor_only",10,"LR","SEMA6D","PLXNA1","SEMA6","Cell-Cell Contact",0
+"Fibro_C0","Fibro_C5","SPP1_ITGA9_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000487397803915471,0.125,"tumor_only",10,"LR","SPP1","ITGA9_ITGB1","SPP1","Secreted Signaling",0
+"Fibro_C1","Fibro_C5","ANXA1_FPR3","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00314790649927404,0.0666666666666667,"tumor_only",10,"LR","ANXA1","FPR3","ANNEXIN","Secreted Signaling",0
+"Fibro_C1","Fibro_C5","FN1_ITGAV_ITGB6","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.0108714286003736,0.0666666666666667,"tumor_only",10,"LR","FN1","ITGAV_ITGB6","FN1","ECM-Receptor",0
+"Fibro_C1","Fibro_C5","MIF_CD74_CXCR4","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.013492263009618,0.0666666666666667,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Fibro_C1","Fibro_C5","NEGR1_NEGR1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00587056591702904,0.0666666666666667,"tumor_only",10,"LR","NEGR1","NEGR1","NEGR","Cell-Cell Contact",0
+"Fibro_C1","Fibro_C5","PGE2-PTGES2_PTGER1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,8.39271535634254e-05,0.0666666666666667,"tumor_only",10,"LR","PGE2-PTGES2","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C1","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",15,15,2,2,0,2,3,15,0,0,0,0,0.00630884069398705,0.133333333333333,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C1","Fibro_C5","TGFB1_TGFBR1_TGFBR2","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00109819404057809,0.0666666666666667,"tumor_only",10,"LR","TGFB1","TGFbR1_R2","TGFb","Secreted Signaling",0
+"Fibro_C1","Fibro_C5","TNC_ITGAV_ITGB6","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00103789905856835,0.0666666666666667,"tumor_only",10,"LR","TNC","ITGAV_ITGB6","TENASCIN","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","ANXA1_FPR3","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00214299696367716,0.0833333333333333,"tumor_only",10,"LR","ANXA1","FPR3","ANNEXIN","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","APP_CD74","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0353876505115202,0.0833333333333333,"tumor_only",10,"LR","APP","CD74","APP","Cell-Cell Contact",0
+"Fibro_C2","Fibro_C5","CDH1_ITGA1_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00377955822165381,0.0833333333333333,"tumor_only",10,"LR","CDH1","ITGA2_ITGB1","CDH1","Cell-Cell Contact",0
+"Fibro_C2","Fibro_C5","COL4A5_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00300694208790258,0.0833333333333333,"tumor_only",10,"LR","COL4A5","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","COL9A1_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00453977097132392,0.0833333333333333,"tumor_only",10,"LR","COL9A1","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","ENTPD1_ADORA2B","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00267510460703515,0.166666666666667,"tumor_only",10,"LR","ENTPD1","ADORA2B","CD39","Cell-Cell Contact",0
+"Fibro_C2","Fibro_C5","FN1_ITGAV_ITGB6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00730670887953388,0.0833333333333333,"tumor_only",10,"LR","FN1","ITGAV_ITGB6","FN1","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","GDF7_BMPR1A_ACVR2A","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00194878325796359,0.0833333333333333,"tumor_only",10,"LR","GDF7","BMPR1A_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","GDF7_BMPR1A_BMPR2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00514833355340691,0.0833333333333333,"tumor_only",10,"LR","GDF7","BMPR1A_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","Glutamate-Glu-SLC1A1_GLS_GRIK2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,8.4348449202837e-05,0.0833333333333333,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRIK2","Glutamate","Non-protein Signaling",0
+"Fibro_C2","Fibro_C5","Glutamate-Glu-SLC1A1_GLS_GRM8","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000456613523870572,0.0833333333333333,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C2","Fibro_C5","LAMA4_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00587552669624098,0.0833333333333333,"tumor_only",10,"LR","LAMA4","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","LAMA5_CD44","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00099914917361742,0.0833333333333333,"tumor_only",10,"LR","LAMA5","CD44","LAMININ","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","LAMA5_ITGA1_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00182782924541847,0.0833333333333333,"tumor_only",10,"LR","LAMA5","ITGA1_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","LAMA5_ITGA2_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00057931166786492,0.0833333333333333,"tumor_only",10,"LR","LAMA5","ITGA2_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","LAMC2_CD44","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0063858367586242,0.0833333333333333,"tumor_only",10,"LR","LAMC2","CD44","LAMININ","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","LAMC2_DAG1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0012541578636853,0.0833333333333333,"tumor_only",10,"LR","LAMC2","DAG1","LAMININ","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","LAMC2_ITGA1_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0116301473726048,0.0833333333333333,"tumor_only",10,"LR","LAMC2","ITGA1_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","LAMC2_ITGA2_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00371094794245882,0.0833333333333333,"tumor_only",10,"LR","LAMC2","ITGA2_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C2","Fibro_C5","LRFN4_PTPRS","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000257854359686422,0.0833333333333333,"tumor_only",10,"LR","LRFN4","PTPRS","PTPR","Cell-Cell Contact",0
+"Fibro_C2","Fibro_C5","MIF_CD74_CD44","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.035309584517478,0.0833333333333333,"tumor_only",10,"LR","MIF","CD74_CD44","MIF","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","MIF_CD74_CXCR4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.016785996258745,0.0833333333333333,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","NRG1_ERBB2_ERBB3","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00066085049252687,0.0833333333333333,"tumor_only",10,"LR","NRG1","ERBB2_ERBB3","NRG","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","NRG1_ERBB3","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000660850492526869,0.0833333333333333,"tumor_only",10,"LR","NRG1","ERBB3","NRG","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","NTN4_UNC5B","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00414086699923809,0.0833333333333333,"tumor_only",10,"LR","NTN4","UNC5B","Netrin","Cell-Cell Contact",0
+"Fibro_C2","Fibro_C5","PGE2-PTGES2_PTGER1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000478771831950348,0.0833333333333333,"tumor_only",10,"LR","PGE2-PTGES2","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C2","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00559455664700321,0.166666666666667,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C2","Fibro_C5","PGE2-PTGES_PTGER1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.000661650764198669,0.166666666666667,"tumor_only",10,"LR","PGE2-PTGES","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C2","Fibro_C5","SEMA3A_NRP1_PLXNA1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000113767609760764,0.0833333333333333,"tumor_only",10,"LR","SEMA3A","NRP1_PLXNA1","SEMA3","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","SEMA3C_NRP2_PLXNA2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000233717521822373,0.0833333333333333,"tumor_only",10,"LR","SEMA3C","NRP2_PLXNA2","SEMA3","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","SEMA3C_PLXND1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00234353640801721,0.0833333333333333,"tumor_only",10,"LR","SEMA3C","PLXND1","SEMA3","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","SEMA4D_PLXNB2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000491356494780659,0.0833333333333333,"tumor_only",10,"LR","SEMA4D","PLXNB2","SEMA4","Cell-Cell Contact",0
+"Fibro_C2","Fibro_C5","SPP1_ITGA8_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0104519430211023,0.0833333333333333,"tumor_only",10,"LR","SPP1","ITGA8_ITGB1","SPP1","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","TGFB1_TGFBR1_TGFBR2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00198742516723875,0.0833333333333333,"tumor_only",10,"LR","TGFB1","TGFbR1_R2","TGFb","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","TGFB2_ACVR1_TGFBR1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000915466704359608,0.0833333333333333,"tumor_only",10,"LR","TGFB2","ACVR1_TGFbR","TGFb","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","VEGFA_VEGFR1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000483441145083926,0.0833333333333333,"tumor_only",10,"LR","VEGFA","FLT1","VEGF","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT2_FZD1_LRP5","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000459323947720758,0.0833333333333333,"tumor_only",10,"LR","WNT2","FZD1_LRP5","WNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT2_FZD1_LRP6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00225219838479815,0.0833333333333333,"tumor_only",10,"LR","WNT2","FZD1_LRP6","WNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT2_FZD2_LRP5","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000336998944320964,0.0833333333333333,"tumor_only",10,"LR","WNT2","FZD2_LRP5","WNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT2_FZD2_LRP6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00165599314268087,0.0833333333333333,"tumor_only",10,"LR","WNT2","FZD2_LRP6","WNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT2_FZD3_LRP6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,8.28423429801785e-05,0.0833333333333333,"tumor_only",10,"LR","WNT2","FZD3_LRP6","WNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT2_FZD6_LRP5","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00049518584171159,0.0833333333333333,"tumor_only",10,"LR","WNT2","FZD6_LRP5","WNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT2_FZD6_LRP6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00242649759914673,0.0833333333333333,"tumor_only",10,"LR","WNT2","FZD6_LRP6","WNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT4_FZD2_LRP5","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000143986911774964,0.0833333333333333,"tumor_only",10,"LR","WNT4","FZD2_LRP5","WNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT4_FZD2_LRP6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000709976907069358,0.0833333333333333,"tumor_only",10,"LR","WNT4","FZD2_LRP6","WNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT5A_FZD2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00636833644259578,0.0833333333333333,"tumor_only",10,"LR","WNT5A","FZD2","ncWNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT5A_FZD3","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000860959771648816,0.0833333333333333,"tumor_only",10,"LR","WNT5A","FZD3","ncWNT","Secreted Signaling",0
+"Fibro_C2","Fibro_C5","WNT5A_FZD8","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00193383665897138,0.0833333333333333,"tumor_only",10,"LR","WNT5A","FZD8","ncWNT","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","AGT_AGTR1B","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000349920120175228,0.0909090909090909,"tumor_only",10,"LR","AGT","AGTR1","AGT","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","APOA1_ABCA1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00522005151855257,0.0909090909090909,"tumor_only",10,"LR","APOA1","ABCA1","ApoA","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","APP_CD74","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0209383576378956,0.0909090909090909,"tumor_only",10,"LR","APP","CD74","APP","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","CD55_ADGRE5","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000646152844356385,0.0909090909090909,"tumor_only",10,"LR","CD55","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","COL4A6_ITGA3_ITGB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00192440449460554,0.0909090909090909,"tumor_only",10,"LR","COL4A6","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C3","Fibro_C5","CXCL12_CXCR4","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00247444645559179,0.0909090909090909,"tumor_only",10,"LR","CXCL12","CXCR4","CXCL","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","Cholesterol-Cholesterol-LIPA_RORA","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00851689985685587,0.0909090909090909,"tumor_only",10,"LR","Cholesterol-LIPA","RORA","Cholesterol","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","DHEAsulfate-DHEAS-SULT2B_PPARA","Tumor",11,11,2,2,0,1,2,11,0,0,0,0,0.0004003316130571,0.181818181818182,"tumor_only",10,"LR","DHEAS-SULT2B","PPARA","DHEAS","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","DHEAsulfate-DHEAS-SULT2B_PPARD","Tumor",11,11,2,2,0,1,2,11,0,0,0,0,0.000195028531556118,0.181818181818182,"tumor_only",10,"LR","DHEAS-SULT2B","PPARD","DHEAS","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","EDA_EDA2R","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,2.37464895259731e-05,0.0909090909090909,"tumor_only",10,"LR","EDA","EDA2R","EDA","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","EFNA4_EPHA3","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00039176900757658,0.0909090909090909,"tumor_only",10,"LR","EFNA4","EPHA3","EPHA","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","EFNB1_EPHB4","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,4.14216269119591e-05,0.0909090909090909,"tumor_only",10,"LR","EFNB1","EPHB4","EPHB","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","FGF1_FGFR2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000401397811285554,0.0909090909090909,"tumor_only",10,"LR","FGF1","FGFR2","FGF","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","FGF7_FGFR2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000757056803778625,0.0909090909090909,"tumor_only",10,"LR","FGF7","FGFR2","FGF","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","GAS6_TYRO3","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000523744619540332,0.0909090909090909,"tumor_only",10,"LR","GAS6","TYRO3","GAS","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","GDF15_TGFBR2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00229487738851107,0.0909090909090909,"tumor_only",10,"LR","GDF15","TGFBR2","GDF","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","GJC1_GJA5","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00112458429883098,0.0909090909090909,"tumor_only",10,"LR","GJC1","GJA5","GAP","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","Glutamate-Glu-SLC1A2_GLS_GRIK2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000678605313140109,0.0909090909090909,"tumor_only",10,"LR","Glu-SLC1A2_GLS","GRIK2","Glutamate","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","Glutamate-Glu-SLC1A2_GLS_GRM8","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00366396479914257,0.0909090909090909,"tumor_only",10,"LR","Glu-SLC1A2_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","HGF_MET","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00103257509825993,0.0909090909090909,"tumor_only",10,"LR","HGF","MET","HGF","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","LAMA2_CD44","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00404463316314369,0.0909090909090909,"tumor_only",10,"LR","LAMA2","CD44","LAMININ","ECM-Receptor",0
+"Fibro_C3","Fibro_C5","LAMA3_ITGA3_ITGB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00524240010775853,0.0909090909090909,"tumor_only",10,"LR","LAMA3","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C3","Fibro_C5","LAMB3_CD44","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00346650481229522,0.0909090909090909,"tumor_only",10,"LR","LAMB3","CD44","LAMININ","ECM-Receptor",0
+"Fibro_C3","Fibro_C5","LAMB3_DAG1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000679206780815162,0.0909090909090909,"tumor_only",10,"LR","LAMB3","DAG1","LAMININ","ECM-Receptor",0
+"Fibro_C3","Fibro_C5","LAMB3_ITGA1_ITGB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00632861069849767,0.0909090909090909,"tumor_only",10,"LR","LAMB3","ITGA1_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C3","Fibro_C5","LAMB3_ITGA2_ITGB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00201198481053286,0.0909090909090909,"tumor_only",10,"LR","LAMB3","ITGA2_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C3","Fibro_C5","LRRC4B_PTPRF","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000562558701835155,0.0909090909090909,"tumor_only",10,"LR","LRRC4B","PTPRF","NGL","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","MIF_CD74_CXCR4","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0109890140099206,0.0909090909090909,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","PCDHB14_PCDHB14","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,7.96139111441022e-05,0.0909090909090909,"tumor_only",10,"LR","PCDHB14","PCDHB14","PCDH","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00281730701997072,0.0909090909090909,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","PGF2a-AKR1C3_PTGFR","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000513315378724581,0.0909090909090909,"tumor_only",10,"LR","PGD2-AKR1C3","PTGFR","Prostaglandin","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","PROS1_TYRO3","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000185076105850069,0.0909090909090909,"tumor_only",10,"LR","PROS1","TYRO3","PROS","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","RetinoicAcid-RA-ALDH1A2_RARA_CRABP2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000698286848124716,0.0909090909090909,"tumor_only",10,"LR","RA-ALDH1A2","RARA_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","RetinoicAcid-RA-ALDH1A2_RARA_RXRA_CRABP2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000314216184089322,0.0909090909090909,"tumor_only",10,"LR","RA-ALDH1A2","RARA_RXRA_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","RetinoicAcid-RA-ALDH1A2_RARB_CRABP2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000485732709425088,0.0909090909090909,"tumor_only",10,"LR","RA-ALDH1A2","RARB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","RetinoicAcid-RA-ALDH1A2_RARB_RXRB_CRABP2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000255072484450828,0.0909090909090909,"tumor_only",10,"LR","RA-ALDH1A2","RARB_RXRB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","RetinoicAcid-RA-ALDH1A2_RARG_CRABP2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0010890808444568,0.0909090909090909,"tumor_only",10,"LR","RA-ALDH1A2","RARG_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","RetinoicAcid-RA-ALDH1A2_RORB","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,3.59525693054343e-05,0.0909090909090909,"tumor_only",10,"LR","RA-ALDH1A2","RORB","RA","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","RetinoicAcid-RA-ALDH1A2_RXRA_CRABP2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000361906085522919,0.0909090909090909,"tumor_only",10,"LR","RA-ALDH1A2","RXRA_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","RetinoicAcid-RA-ALDH1A2_RXRB_CRABP2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000380566635236066,0.0909090909090909,"tumor_only",10,"LR","RA-ALDH1A2","RXRB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C3","Fibro_C5","SELE_CD44","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0011511457643645,0.0909090909090909,"tumor_only",10,"LR","SELE","CD44","SELE","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","SELE_GLG1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00257546965862576,0.0909090909090909,"tumor_only",10,"LR","SELE","GLG1","SELE","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","SEMA3F_NRP2_PLXNA2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000697380982525857,0.0909090909090909,"tumor_only",10,"LR","SEMA3F","NRP2_PLXNA2","SEMA3","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","TENM4_ADGRL2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000858149296382045,0.0909090909090909,"tumor_only",10,"LR","TENM4","ADGRL2","ADGRL","Cell-Cell Contact",0
+"Fibro_C3","Fibro_C5","TNXB_ITGA8_ITGB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00335579847578574,0.0909090909090909,"tumor_only",10,"LR","TNXB","ITGA8_ITGB1","TENASCIN","ECM-Receptor",0
+"Fibro_C3","Fibro_C5","TNXB_SDC4","Tumor",11,11,2,2,0,1,2,11,0,0,0,0,0.000337428354487586,0.181818181818182,"tumor_only",10,"LR","TNXB","SDC4","TENASCIN","ECM-Receptor",0
+"Fibro_C3","Fibro_C5","TULP2_TYRO3","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,6.04403659135914e-05,0.0909090909090909,"tumor_only",10,"LR","TULP2","TYRO3","TULP","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","VEGFB_VEGFR1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00134671161699999,0.0909090909090909,"tumor_only",10,"LR","VEGFB","FLT1","VEGF","Secreted Signaling",0
+"Fibro_C3","Fibro_C5","WNT5B_FZD6","Tumor",11,11,2,2,0,1,2,11,0,0,0,0,0.00109137714993448,0.181818181818182,"tumor_only",10,"LR","WNT5B","FZD6","ncWNT","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","ANGPTL1_ITGA1_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000516541569480553,0.111111111111111,"tumor_only",10,"LR","ANGPTL1","ITGA1_ITGB1","ANGPTL","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","Adenosine-ADO-NT5E_SLC29A1_ADORA1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,4.69415175963856e-05,0.111111111111111,"tumor_only",10,"LR","ADO-NT5E_SLC29A1","ADORA1","Adenosine","Non-protein Signaling",0
+"Fibro_C4","Fibro_C5","BMP2_BMPR1A_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000402817455583585,0.111111111111111,"tumor_only",10,"LR","BMP2","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP2_BMPR1B_ACVR2A","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000132991581064747,0.111111111111111,"tumor_only",10,"LR","BMP2","BMPR1B_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP2_BMPR1B_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000136568420095912,0.111111111111111,"tumor_only",10,"LR","BMP2","BMPR1B_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP2_BMPR1B_BMPR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000724411746596024,0.111111111111111,"tumor_only",10,"LR","BMP2","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP4_BMPR1A_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00161924957730405,0.111111111111111,"tumor_only",10,"LR","BMP4","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP4_BMPR1B_ACVR2A","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00053540938065759,0.111111111111111,"tumor_only",10,"LR","BMP4","BMPR1B_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP4_BMPR1B_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000549798316168245,0.111111111111111,"tumor_only",10,"LR","BMP4","BMPR1B_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP4_BMPR1B_BMPR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00290676586436385,0.111111111111111,"tumor_only",10,"LR","BMP4","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP5_ACVR1_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00159459884990868,0.111111111111111,"tumor_only",10,"LR","BMP5","ACVR1_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP5_BMPR1A_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00227285380657418,0.111111111111111,"tumor_only",10,"LR","BMP5","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP5_BMPR1B_ACVR2A","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000752136635158773,0.111111111111111,"tumor_only",10,"LR","BMP5","BMPR1B_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP5_BMPR1B_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000772341699154169,0.111111111111111,"tumor_only",10,"LR","BMP5","BMPR1B_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP5_BMPR1B_BMPR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00407613660264064,0.111111111111111,"tumor_only",10,"LR","BMP5","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP6_ACVR1_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,8.93554480114874e-05,0.111111111111111,"tumor_only",10,"LR","BMP6","ACVR1_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP6_BMPR1A_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000127513994946623,0.111111111111111,"tumor_only",10,"LR","BMP6","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP6_BMPR1B_ACVR2A","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,4.20848049940317e-05,0.111111111111111,"tumor_only",10,"LR","BMP6","BMPR1B_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP6_BMPR1B_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,4.32168811874364e-05,0.111111111111111,"tumor_only",10,"LR","BMP6","BMPR1B_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP6_BMPR1B_BMPR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000229409813918285,0.111111111111111,"tumor_only",10,"LR","BMP6","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP7_ACVR1_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00055977084109065,0.111111111111111,"tumor_only",10,"LR","BMP7","ACVR1_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP7_BMPR1A_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000798519497439782,0.111111111111111,"tumor_only",10,"LR","BMP7","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP7_BMPR1B_ACVR2A","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000263763551070057,0.111111111111111,"tumor_only",10,"LR","BMP7","BMPR1B_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP7_BMPR1B_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000270855767575526,0.111111111111111,"tumor_only",10,"LR","BMP7","BMPR1B_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","BMP7_BMPR1B_BMPR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00143518713946527,0.111111111111111,"tumor_only",10,"LR","BMP7","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","CD55_ADGRE5","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00132457485734145,0.111111111111111,"tumor_only",10,"LR","CD55","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","COL1A1_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0474335445297071,0.111111111111111,"tumor_only",10,"LR","COL1A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL1A1_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0395355274581848,0.111111111111111,"tumor_only",10,"LR","COL1A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL1A2_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0491196756047955,0.111111111111111,"tumor_only",10,"LR","COL1A2","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL1A2_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0385265009541883,0.111111111111111,"tumor_only",10,"LR","COL1A2","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL4A1_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0277019267692785,0.111111111111111,"tumor_only",10,"LR","COL4A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL4A1_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0184299149957702,0.111111111111111,"tumor_only",10,"LR","COL4A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL4A2_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0375204947653296,0.111111111111111,"tumor_only",10,"LR","COL4A2","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL4A2_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0201248520992316,0.111111111111111,"tumor_only",10,"LR","COL4A2","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL4A5_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0286427404908943,0.111111111111111,"tumor_only",10,"LR","COL4A5","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL4A5_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0133381266095992,0.111111111111111,"tumor_only",10,"LR","COL4A5","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL4A6_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0124765573315223,0.111111111111111,"tumor_only",10,"LR","COL4A6","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL4A6_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00685590400974454,0.111111111111111,"tumor_only",10,"LR","COL4A6","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A1_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0407762569629514,0.111111111111111,"tumor_only",10,"LR","COL6A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A1_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0285879853557573,0.111111111111111,"tumor_only",10,"LR","COL6A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A2_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.048333955635964,0.111111111111111,"tumor_only",10,"LR","COL6A2","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A2_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0283086738131512,0.111111111111111,"tumor_only",10,"LR","COL6A2","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A3_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0439153398144441,0.111111111111111,"tumor_only",10,"LR","COL6A3","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A3_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0321081835762931,0.111111111111111,"tumor_only",10,"LR","COL6A3","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A5_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00312745914216989,0.111111111111111,"tumor_only",10,"LR","COL6A5","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A6_CD44","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0296972328822759,0.111111111111111,"tumor_only",10,"LR","COL6A6","CD44","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A6_ITGA11_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0624574122504341,0.111111111111111,"tumor_only",10,"LR","COL6A6","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A6_ITGA1_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0556030110530312,0.111111111111111,"tumor_only",10,"LR","COL6A6","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A6_ITGA2_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.02174579148729,0.111111111111111,"tumor_only",10,"LR","COL6A6","ITGA2_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A6_ITGAV_ITGB8","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0321110855157605,0.111111111111111,"tumor_only",10,"LR","COL6A6","ITGAV_ITGB8","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL6A6_SDC1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00864997124368864,0.111111111111111,"tumor_only",10,"LR","COL6A6","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","COL9A1_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00388353728350911,0.111111111111111,"tumor_only",10,"LR","COL9A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","DLL4_NOTCH3","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000709972025593354,0.111111111111111,"tumor_only",10,"LR","DLL4","NOTCH3","NOTCH","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","Dihydrotestosterone-DHT-SRD5A1_AR","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,7.74606353525717e-05,0.111111111111111,"tumor_only",10,"LR","DHT-SRD5A1","AR","DHT","Non-protein Signaling",0
+"Fibro_C4","Fibro_C5","Dihydrotestosterone-DHT-SRD5A3_AR","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000212238652244687,0.111111111111111,"tumor_only",10,"LR","DHT-SRD5A3","AR","DHT","Non-protein Signaling",0
+"Fibro_C4","Fibro_C5","EDN1_EDNRA","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00163825231805098,0.111111111111111,"tumor_only",10,"LR","EDN1","EDNRA","EDN","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","EFNA4_EPHA3","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.000407502480623759,0.222222222222222,"tumor_only",10,"LR","EFNA4","EPHA3","EPHA","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","EFNA4_EPHA4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,5.35396117229554e-05,0.111111111111111,"tumor_only",10,"LR","EFNA4","EPHA4","EPHA","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","EFNA5_EPHB2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000191892347001361,0.111111111111111,"tumor_only",10,"LR","EFNA5","EPHB2","EPHA","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","EFNB1_EPHB2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000175666355833748,0.111111111111111,"tumor_only",10,"LR","EFNB1","EPHB2","EPHB","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","EFNB2_EPHB2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,4.28895544850343e-05,0.111111111111111,"tumor_only",10,"LR","EFNB2","EPHB2","EPHB","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","ENTPD1_ADORA1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,3.50467964721609e-05,0.111111111111111,"tumor_only",10,"LR","ENTPD1","ADORA1","CD39","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","FGF5_FGFR1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00342257650289671,0.111111111111111,"tumor_only",10,"LR","FGF5","FGFR1","FGF","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","FGF9_FGFR1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0018105748304479,0.111111111111111,"tumor_only",10,"LR","FGF9","FGFR1","FGF","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","FLRT2_ADGRL3","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00104295187943879,0.111111111111111,"tumor_only",10,"LR","FLRT2","ADGRL3","ADGRL","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","GDF7_BMPR1A_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000100304627069356,0.111111111111111,"tumor_only",10,"LR","GDF7","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","GDF7_BMPR1B_ACVR2A","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,3.31034890660238e-05,0.111111111111111,"tumor_only",10,"LR","GDF7","BMPR1B_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","GDF7_BMPR1B_ACVR2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,3.39939841513883e-05,0.111111111111111,"tumor_only",10,"LR","GDF7","BMPR1B_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","GDF7_BMPR1B_BMPR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000180464839450774,0.111111111111111,"tumor_only",10,"LR","GDF7","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","HGF_MET","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0100160444918869,0.111111111111111,"tumor_only",10,"LR","HGF","MET","HGF","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","IL11_IL11RA_IL6ST","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000442897341818232,0.111111111111111,"tumor_only",10,"LR","IL11","IL11R complex","IL6","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","ITGAV_ITGB1_ADGRE5","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00416398926592458,0.111111111111111,"tumor_only",10,"LR","ITGAV_ITGB1","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","JAM2_ITGAV_ITGB1","Tumor",9,9,3,3,0,1,2,9,0,0,0.0037928228000773,0,0.00543784031621119,0.333333333333333,"tumor_only",10,"LR","JAM2","ITGAV_ITGB1","JAM","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","JAM2_JAM3","Tumor",9,9,3,3,0,1,2,9,0,0,0.000320134886802934,0,0.00141814807262523,0.333333333333333,"tumor_only",10,"LR","JAM2","JAM3","JAM","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","KLK4_F2R","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00258239624954276,0.111111111111111,"tumor_only",10,"LR","KLK4","F2R","KLK","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","LAMA1_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0011501380097169,0.111111111111111,"tumor_only",10,"LR","LAMA1","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMA2_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0169418138216877,0.111111111111111,"tumor_only",10,"LR","LAMA2","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMA2_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0118089721916088,0.111111111111111,"tumor_only",10,"LR","LAMA2","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMA4_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0218862271853443,0.111111111111111,"tumor_only",10,"LR","LAMA4","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMA4_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0114149763340069,0.111111111111111,"tumor_only",10,"LR","LAMA4","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMA5_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00664381791742699,0.111111111111111,"tumor_only",10,"LR","LAMA5","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMB1_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0156082480301916,0.111111111111111,"tumor_only",10,"LR","LAMB1","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMB2_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0139200157033726,0.111111111111111,"tumor_only",10,"LR","LAMB2","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMB2_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00386452859628181,0.111111111111111,"tumor_only",10,"LR","LAMB2","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMC1_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0208743191275596,0.111111111111111,"tumor_only",10,"LR","LAMC1","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMC1_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00970393177811204,0.111111111111111,"tumor_only",10,"LR","LAMC1","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LAMC3_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00809144052508689,0.111111111111111,"tumor_only",10,"LR","LAMC3","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","LPAR3_ADGRE5","Tumor",9,9,3,3,0,2,2,9,0,0,3.51211998479091e-05,0,0.00103268823604259,0.333333333333333,"tumor_only",10,"LR","LPAR3","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","LRFN5_PTPRF","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000601978181308812,0.111111111111111,"tumor_only",10,"LR","LRFN5","PTPRF","PTPR","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","MIF_CD74_CD44","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0321173515758521,0.111111111111111,"tumor_only",10,"LR","MIF","CD74_CD44","MIF","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","MIF_CD74_CXCR4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0152419656049207,0.111111111111111,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","NECTIN3_NECTIN1","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.000295420525100435,0.222222222222222,"tumor_only",10,"LR","NECTIN3","NECTIN1","NECTIN","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","NPPC_NPR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000266620423302056,0.111111111111111,"tumor_only",10,"LR","NPPC","NPR2","NPR2","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","NRG1_ERBB2_ERBB3","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0108818431380782,0.111111111111111,"tumor_only",10,"LR","NRG1","ERBB2_ERBB3","NRG","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","NRG1_ERBB3","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0108818431380782,0.111111111111111,"tumor_only",10,"LR","NRG1","ERBB3","NRG","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","NTN4_UNC5B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00327254524365417,0.111111111111111,"tumor_only",10,"LR","NTN4","UNC5B","Netrin","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","PCDHB16_PCDHB16","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,4.39850882812234e-05,0.111111111111111,"tumor_only",10,"LR","PCDHB16","PCDHB16","PCDH","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","PGE2-PTGES2_PTGER1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000946175243490887,0.111111111111111,"tumor_only",10,"LR","PGE2-PTGES2","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C4","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0035666188808671,0.111111111111111,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C4","Fibro_C5","PGE2-PTGES_PTGER1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00139475438580926,0.111111111111111,"tumor_only",10,"LR","PGE2-PTGES","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C4","Fibro_C5","PGF2a-CBR1_PTGFR","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00131184146813199,0.111111111111111,"tumor_only",10,"LR","PGF2a-CBR1","PTGFR","Prostaglandin","Non-protein Signaling",0
+"Fibro_C4","Fibro_C5","SEMA3A_NRP1_PLXNA2","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.00356403623172343,0.222222222222222,"tumor_only",10,"LR","SEMA3A","NRP1_PLXNA2","SEMA3","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","SEMA3C_NRP1_PLXNA2","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.00236076159170174,0.222222222222222,"tumor_only",10,"LR","SEMA3C","NRP1_PLXNA2","SEMA3","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","SEMA3C_NRP2_PLXNA2","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.0050533437442832,0.222222222222222,"tumor_only",10,"LR","SEMA3C","NRP2_PLXNA2","SEMA3","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","SEMA3D_NRP1_PLXNA2","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.00283087849900256,0.222222222222222,"tumor_only",10,"LR","SEMA3D","NRP1_PLXNA2","SEMA3","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","SEMA3D_NRP2_PLXNA2","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.00605640048492537,0.222222222222222,"tumor_only",10,"LR","SEMA3D","NRP2_PLXNA2","SEMA3","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","SEMA6B_PLXNA4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,7.66390235965773e-05,0.111111111111111,"tumor_only",10,"LR","SEMA6B","PLXNA4","SEMA6","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","SEMA6D_PLXNA1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000920320003047741,0.111111111111111,"tumor_only",10,"LR","SEMA6D","PLXNA1","SEMA6","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","SLITRK4_PTPRS","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000566633533046294,0.111111111111111,"tumor_only",10,"LR","SLITRK4","PTPRS","SLITRK","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","TAX1BP3_ADGRB2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000388593680969682,0.111111111111111,"tumor_only",10,"LR","TAX1BP3","ADGRB2","ADGRB","Cell-Cell Contact",0
+"Fibro_C4","Fibro_C5","TGFB1_TGFBR1_TGFBR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00152834043845886,0.111111111111111,"tumor_only",10,"LR","TGFB1","TGFbR1_R2","TGFb","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","THBS1_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00820921772407678,0.111111111111111,"tumor_only",10,"LR","THBS1","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","THBS2_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00298790271110991,0.111111111111111,"tumor_only",10,"LR","THBS2","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","TNC_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0073354291101557,0.111111111111111,"tumor_only",10,"LR","TNC","ITGA9_ITGB1","TENASCIN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","TNFSF11_TNFRSF11B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,4.0827186876231e-05,0.111111111111111,"tumor_only",10,"LR","TNFSF11","TNFRSF11B","RANKL","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","TNXB_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00279272666724243,0.111111111111111,"tumor_only",10,"LR","TNXB","ITGA9_ITGB1","TENASCIN","ECM-Receptor",0
+"Fibro_C4","Fibro_C5","WNT2B_FZD2_LRP6","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000105833469391962,0.111111111111111,"tumor_only",10,"LR","WNT2B","FZD2_LRP6","WNT","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","WNT2B_FZD8_LRP6","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,5.51779560049934e-05,0.111111111111111,"tumor_only",10,"LR","WNT2B","FZD8_LRP6","WNT","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","WNT4_FZD8_LRP5","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000348382937089847,0.111111111111111,"tumor_only",10,"LR","WNT4","FZD8_LRP5","WNT","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","WNT4_FZD8_LRP6","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000888477394802991,0.111111111111111,"tumor_only",10,"LR","WNT4","FZD8_LRP6","WNT","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","WNT5A_FZD4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00661556836854654,0.111111111111111,"tumor_only",10,"LR","WNT5A","FZD4","ncWNT","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","WNT5B_FZD4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00176306874779416,0.111111111111111,"tumor_only",10,"LR","WNT5B","FZD4","ncWNT","Secreted Signaling",0
+"Fibro_C4","Fibro_C5","WNT9A_FZD8_LRP6","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,3.03180469613318e-05,0.111111111111111,"tumor_only",10,"LR","WNT9A","FZD8_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","B","COL1A1_SDC1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0853856695868695,0.0833333333333333,"tumor_only",10,"LR","COL1A1","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","B","COL1A2_SDC1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.102193956881586,0.0833333333333333,"tumor_only",10,"LR","COL1A2","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","B","COL4A1_SDC1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0276018345458594,0.0833333333333333,"tumor_only",10,"LR","COL4A1","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","B","COL4A2_SDC1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0256717631888243,0.0833333333333333,"tumor_only",10,"LR","COL4A2","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","B","COL6A1_SDC1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0186752948728123,0.0833333333333333,"tumor_only",10,"LR","COL6A1","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","B","COL6A2_SDC1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.040502230618814,0.0833333333333333,"tumor_only",10,"LR","COL6A2","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","B","COL6A3_SDC1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0699255515984708,0.0833333333333333,"tumor_only",10,"LR","COL6A3","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","B","FGF1_FGFR3","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.00334321357320302,0.0833333333333333,"tumor_only",10,"LR","FGF1","FGFR3","FGF","Secreted Signaling",0
+"Fibro_C5","B","FN1_SDC1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0380640274159679,0.0833333333333333,"tumor_only",10,"LR","FN1","SDC1","FN1","ECM-Receptor",0
+"Fibro_C5","B","GJA1_GJA1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.0088241648273623,0.0833333333333333,"tumor_only",10,"LR","GJA1","GJA1","GAP","Cell-Cell Contact",0
+"Fibro_C5","B","THBS2_SDC1","Tumor",12,12,1,1,0,1,2,12,0,0,0,0,0.00679138075800312,0.0833333333333333,"tumor_only",10,"LR","THBS2","SDC1","THBS","ECM-Receptor",0
+"Fibro_C5","Endothelial","CD99_PILRB","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00784715520074236,0.0666666666666667,"tumor_only",10,"LR","CD99","PILRB","CD99","Cell-Cell Contact",0
+"Fibro_C5","Endothelial","COL4A6_SDC4","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000530621254379093,0.0666666666666667,"tumor_only",10,"LR","COL4A6","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Endothelial","COL6A5_ITGA3_ITGB1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00254488102242929,0.0666666666666667,"tumor_only",10,"LR","COL6A5","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Endothelial","FLRT2_UNC5C","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00113512718545998,0.0666666666666667,"tumor_only",10,"LR","FLRT2","UNC5C","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Endothelial","GAS6_TYRO3","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000300080149295327,0.0666666666666667,"tumor_only",10,"LR","GAS6","TYRO3","GAS","Secreted Signaling",0
+"Fibro_C5","Endothelial","PTN_SDC1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000356716774495798,0.0666666666666667,"tumor_only",10,"LR","PTN","SDC1","PTN","Secreted Signaling",0
+"Fibro_C5","Endothelial","RetinoicAcid-RA-ALDH1A3_RARA_RXRA_CRABP2","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000540122049291893,0.0666666666666667,"tumor_only",10,"LR","RA-ALDH1A3","RARA_RXRA_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C5","Endothelial","SEMA3F_NRP2_PLXNA1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00216959783487168,0.0666666666666667,"tumor_only",10,"LR","SEMA3F","NRP2_PLXNA1","SEMA3","Secreted Signaling",0
+"Fibro_C5","Endothelial","SEMA3F_NRP2_PLXNA2","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00666981782879738,0.0666666666666667,"tumor_only",10,"LR","SEMA3F","NRP2_PLXNA2","SEMA3","Secreted Signaling",0
+"Fibro_C5","Endothelial","TGFB1_TGFBR1_TGFBR2","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00208083090627162,0.0666666666666667,"tumor_only",10,"LR","TGFB1","TGFbR1_R2","TGFb","Secreted Signaling",0
+"Fibro_C5","Endothelial","Testosterone-Testosterone-HSD17B12_AR","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000841560892128278,0.0666666666666667,"tumor_only",10,"LR","Testosterone-HSD17B12","AR","Testosterone","Non-protein Signaling",0
+"Fibro_C5","Epithelial","BMP8B_BMPR1A_BMPR2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000480149253412921,0.0769230769230769,"tumor_only",10,"LR","BMP8B","BMPR1A_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C5","Epithelial","CADM1_NECTIN3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,7.43608998847814e-06,0.0769230769230769,"tumor_only",10,"LR","CADM1","NECTIN3","CADM","Cell-Cell Contact",0
+"Fibro_C5","Epithelial","CCL11_ACKR2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000205767335022335,0.0769230769230769,"tumor_only",10,"LR","CCL11","ACKR2","CCL","Secreted Signaling",0
+"Fibro_C5","Epithelial","CCL2_ACKR2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000753244710376539,0.0769230769230769,"tumor_only",10,"LR","CCL2","ACKR2","CCL","Secreted Signaling",0
+"Fibro_C5","Epithelial","COMP_CD36","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,6.07695122936609e-05,0.0769230769230769,"tumor_only",10,"LR","COMP","CD36","THBS","ECM-Receptor",0
+"Fibro_C5","Epithelial","CSPG4_ITGA2_ITGB1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00182678489016973,0.0769230769230769,"tumor_only",10,"LR","CSPG4","ITGA3_ITGB1","CSPG4","Cell-Cell Contact",0
+"Fibro_C5","Epithelial","DSC2_DSG3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00113042798991293,0.0769230769230769,"tumor_only",10,"LR","DSC2","DSG3","DESMOSOME","Cell-Cell Contact",0
+"Fibro_C5","Epithelial","EFNB2_EPHB3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00111934123132161,0.0769230769230769,"tumor_only",10,"LR","EFNB2","EPHB3","EPHB","Cell-Cell Contact",0
+"Fibro_C5","Epithelial","JAM2_ITGA3_ITGB1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000956877415735298,0.0769230769230769,"tumor_only",10,"LR","JAM2","ITGA3_ITGB1","JAM","Cell-Cell Contact",0
+"Fibro_C5","Epithelial","MDK_PTPRZ1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.0259127666693271,0.0769230769230769,"tumor_only",10,"LR","MDK","PTPRZ1","MK","Secreted Signaling",0
+"Fibro_C5","Epithelial","NRXN2_CLSTN1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,4.0751896594393e-05,0.0769230769230769,"tumor_only",10,"LR","NRXN2","CLSTN1","NRXN","Cell-Cell Contact",0
+"Fibro_C5","Epithelial","NRXN2_DAG1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000119001096389328,0.0769230769230769,"tumor_only",10,"LR","NRXN2","DAG1","NRXN","Cell-Cell Contact",0
+"Fibro_C5","Epithelial","PTN_PTPRZ1","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00787150332536982,0.0769230769230769,"tumor_only",10,"LR","PTN","PTPRZ1","PTN","Secreted Signaling",0
+"Fibro_C5","Epithelial","RetinoicAcid-RA-ALDH1A3_RXRB_CRABP2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,2.4642219050368e-05,0.0769230769230769,"tumor_only",10,"LR","RA-ALDH1A3","RXRB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C5","Epithelial","THBS1_CD36","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000629935423339533,0.0769230769230769,"tumor_only",10,"LR","THBS1","CD36","THBS","ECM-Receptor",0
+"Fibro_C5","Epithelial","THBS2_CD36","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000198613496638909,0.0769230769230769,"tumor_only",10,"LR","THBS2","CD36","THBS","ECM-Receptor",0
+"Fibro_C5","Epithelial","THY1_ADGRE2","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00125797776790347,0.0769230769230769,"tumor_only",10,"LR","THY1","ADGRE2","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Epithelial","WNT2_FZD5_LRP5","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000799533826090682,0.0769230769230769,"tumor_only",10,"LR","WNT2","FZD5_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Epithelial","WNT2_FZD5_LRP6","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000684860119862579,0.0769230769230769,"tumor_only",10,"LR","WNT2","FZD5_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Epithelial","WNT4_FZD3_LRP5","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00113171148715152,0.0769230769230769,"tumor_only",10,"LR","WNT4","FZD3_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Epithelial","WNT4_FZD3_LRP6","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000969544741003254,0.0769230769230769,"tumor_only",10,"LR","WNT4","FZD3_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Epithelial","WNT4_FZD5_LRP5","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000877277416156787,0.0769230769230769,"tumor_only",10,"LR","WNT4","FZD5_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Epithelial","WNT4_FZD5_LRP6","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000751480450296794,0.0769230769230769,"tumor_only",10,"LR","WNT4","FZD5_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Epithelial","WNT5A_FZD5","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.00137373058226555,0.0769230769230769,"tumor_only",10,"LR","WNT5A","FZD5","ncWNT","Secreted Signaling",0
+"Fibro_C5","Epithelial","WNT5B_FZD3","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000499741037399173,0.0769230769230769,"tumor_only",10,"LR","WNT5B","FZD3","ncWNT","Secreted Signaling",0
+"Fibro_C5","Epithelial","WNT5B_FZD5","Tumor",13,13,1,1,0,1,3,13,0,0,0,0,0.000299859107226643,0.0769230769230769,"tumor_only",10,"LR","WNT5B","FZD5","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","COL1A1_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.0106674021458778,0,0.096784654994151,0.25,"tumor_only",10,"LR","COL1A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL1A2_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.0128857632374555,0,0.0893226454381013,0.25,"tumor_only",10,"LR","COL1A2","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL4A1_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.00334270163526433,0,0.0324040965982644,0.25,"tumor_only",10,"LR","COL4A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL4A2_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.00310578331182218,0,0.03552756403534,0.25,"tumor_only",10,"LR","COL4A2","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL4A5_ITGA3_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00517120363713075,0.125,"tumor_only",10,"LR","COL4A5","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL4A6_ITGA3_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00157094655664966,0.125,"tumor_only",10,"LR","COL4A6","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL4A6_ITGA9_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00169980924740284,0.125,"tumor_only",10,"LR","COL4A6","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL4A6_ITGAV_ITGB8","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00133847683303319,0.125,"tumor_only",10,"LR","COL4A6","ITGAV_ITGB8","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL6A1_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.00225100501614609,0,0.0594125689929553,0.25,"tumor_only",10,"LR","COL6A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL6A2_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.00493877675922843,0,0.0576738495297965,0.25,"tumor_only",10,"LR","COL6A2","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL6A3_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.00866268438034692,0,0.0604275974124758,0.25,"tumor_only",10,"LR","COL6A3","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL9A1_ITGA3_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00564602736626581,0.125,"tumor_only",10,"LR","COL9A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL9A1_ITGA9_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00610711894398767,0.125,"tumor_only",10,"LR","COL9A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COL9A1_ITGAV_ITGB8","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0048134316812466,0.125,"tumor_only",10,"LR","COL9A1","ITGAV_ITGB8","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","COMP_ITGA3_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00725616153912822,0.125,"tumor_only",10,"LR","COMP","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","Cholesterol-Cholesterol-DHCR24_RORA","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00718886175860905,0.125,"tumor_only",10,"LR","Cholesterol-DHCR24","RORA","Cholesterol","Non-protein Signaling",0
+"Fibro_C5","Fibro_C0","DLL1_NOTCH1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000461657207243966,0.125,"tumor_only",10,"LR","DLL1","NOTCH1","NOTCH","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","DLL4_NOTCH2","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000718173098369605,0.125,"tumor_only",10,"LR","DLL4","NOTCH2","NOTCH","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","DLL4_NOTCH3","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000401027139774621,0.125,"tumor_only",10,"LR","DLL4","NOTCH3","NOTCH","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","FGF1_FGFR3","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00401362782382507,0.125,"tumor_only",10,"LR","FGF1","FGFR3","FGF","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","FN1_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.0046354323296655,0,0.0653089101153773,0.25,"tumor_only",10,"LR","FN1","ITGA3_ITGB1","FN1","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","GAS6_TYRO3","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00123593968607533,0.125,"tumor_only",10,"LR","GAS6","TYRO3","GAS","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","Glutamate-Glu-SLC1A1_GLS_GRIK2_GRIK4","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000453721216988757,0.125,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRIK2_GRIK4","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C0","Glutamate-Glu-SLC1A2_GLS_GRIA3","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00115834989202641,0.125,"tumor_only",10,"LR","Glu-SLC1A2_GLS","GRIA3","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C0","ITGA9_ITGB1_VCAM1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00373061885872742,0.125,"tumor_only",10,"LR","ITGA9_ITGB1","VCAM1","VCAM","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","LAMA2_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.00415042297596555,0,0.0175278878663121,0.25,"tumor_only",10,"LR","LAMA2","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMA2_SV2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00360448121485913,0.125,"tumor_only",10,"LR","LAMA2","SV2A","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMA4_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.00221484067936322,0,0.0269449752199015,0.25,"tumor_only",10,"LR","LAMA4","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMA4_SV2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00589873820036495,0.125,"tumor_only",10,"LR","LAMA4","SV2A","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMA5_ITGA3_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00335643296507357,0.125,"tumor_only",10,"LR","LAMA5","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMA5_ITGA9_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00363122410001259,0.125,"tumor_only",10,"LR","LAMA5","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMA5_SV2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000721128935908182,0.125,"tumor_only",10,"LR","LAMA5","SV2A","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMB1_ITGA3_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0273767459033396,0.125,"tumor_only",10,"LR","LAMB1","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMB1_SV2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00599533845172973,0.125,"tumor_only",10,"LR","LAMB1","SV2A","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMB2_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.000904184836400002,0,0.00613931360130176,0.25,"tumor_only",10,"LR","LAMB2","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMB2_SV2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00132192838477921,0.125,"tumor_only",10,"LR","LAMB2","SV2A","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMC1_ITGA3_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0181585944870595,0.125,"tumor_only",10,"LR","LAMC1","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMC1_SV2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00394740119178001,0.125,"tumor_only",10,"LR","LAMC1","SV2A","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMC3_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.000547258184536973,0,0.00382964649365641,0.25,"tumor_only",10,"LR","LAMC3","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LAMC3_SV2A","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000469881099790852,0.125,"tumor_only",10,"LR","LAMC3","SV2A","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","LRRC4C_PTPRF","Tumor",8,8,2,2,0,1,2,8,0,0,1.81268643165648e-05,0,0.00423152939845641,0.25,"tumor_only",10,"LR","LRRC4C","PTPRF","PTPR","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","NCAM1_NCAM1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000310346664022733,0.125,"tumor_only",10,"LR","NCAM1","NCAM1","NCAM","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","NECTIN3_NECTIN1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000235810652533675,0.125,"tumor_only",10,"LR","NECTIN3","NECTIN1","NECTIN","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","NTN1_UNC5B","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000630083159417616,0.125,"tumor_only",10,"LR","NTN1","UNC5B","Netrin","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","PROS1_TYRO3","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000251852775604299,0.125,"tumor_only",10,"LR","PROS1","TYRO3","PROS","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","PTHLH_PTH1R","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000478020757288029,0.125,"tumor_only",10,"LR","PTHLH","PTH1R","PTH","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","TENM2_ADGRL2","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00504651881550669,0.125,"tumor_only",10,"LR","TENM2","ADGRL2","ADGRL","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","TENM2_ADGRL3","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00171305231002995,0.125,"tumor_only",10,"LR","TENM2","ADGRL3","ADGRL","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C0","THBS1_ITGA3_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.0271025245683344,0.125,"tumor_only",10,"LR","THBS1","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","THBS2_ITGA3_ITGB1","Tumor",8,8,2,2,0,1,2,8,0,0,0.000813489505252645,0,0.0255912176616605,0.25,"tumor_only",10,"LR","THBS2","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","THBS3_ITGA3_ITGB1","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00146127311835818,0.125,"tumor_only",10,"LR","THBS3","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C0","WNT2B_FZD10_LRP6","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,7.43480725229075e-05,0.125,"tumor_only",10,"LR","WNT2B","FZD10_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","WNT2B_FZD8_LRP6","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,9.71140537788679e-05,0.125,"tumor_only",10,"LR","WNT2B","FZD8_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","WNT2_FZD10_LRP6","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,9.17659055123573e-05,0.125,"tumor_only",10,"LR","WNT2","FZD10_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","WNT4_FZD10_LRP6","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000107709810739138,0.125,"tumor_only",10,"LR","WNT4","FZD10_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","WNT4_FZD8_LRP6","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000140681524362058,0.125,"tumor_only",10,"LR","WNT4","FZD8_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","WNT5A_FZD10","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00263216187706425,0.125,"tumor_only",10,"LR","WNT5A","FZD10","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","WNT5A_FZD8","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00448400890657024,0.125,"tumor_only",10,"LR","WNT5A","FZD8","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","WNT5A_MCAM","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00626407871345949,0.125,"tumor_only",10,"LR","WNT5A","MCAM","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","WNT5B_FZD10","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.00023902301314315,0.125,"tumor_only",10,"LR","WNT5B","FZD10","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C0","WNT5B_FZD8","Tumor",8,8,1,1,0,1,2,8,0,0,0,0,0.000407875249387,0.125,"tumor_only",10,"LR","WNT5B","FZD8","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C1","COL4A6_ITGA11_ITGB1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00540084740200968,0.0666666666666667,"tumor_only",10,"LR","COL4A6","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C1","COL4A6_SDC4","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000185880795819521,0.0666666666666667,"tumor_only",10,"LR","COL4A6","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C1","CXCL11_ACKR3","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000760747130717003,0.0666666666666667,"tumor_only",10,"LR","CXCL11","ACKR3","CXCL","Secreted Signaling",0
+"Fibro_C5","Fibro_C1","Glutamate-Glu-SLC1A1_GLS_GRM5","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00356844966805895,0.0666666666666667,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRM5","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C1","Glutamate-Glu-SLC1A3_GLS_GRM5","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00520768776946811,0.0666666666666667,"tumor_only",10,"LR","Glu-SLC1A3_GLS","GRM5","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C1","Glutamate-Glu-SLC1A3_GLS_GRM8","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.0129300367905722,0.0666666666666667,"tumor_only",10,"LR","Glu-SLC1A3_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C1","HLA-DPA1_CD4","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00019646905664238,0.0666666666666667,"tumor_only",10,"LR","HLA-DPA1","CD4","MHC-II","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C1","HLA-DPB1_CD4","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000438400932194433,0.0666666666666667,"tumor_only",10,"LR","HLA-DPB1","CD4","MHC-II","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C1","HLA-DRB1_CD4","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00055832283126059,0.0666666666666667,"tumor_only",10,"LR","HLA-DRB1","CD4","MHC-II","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C1","HLA-DRB5_CD4","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000146196171763881,0.0666666666666667,"tumor_only",10,"LR","HLA-DRB5","CD4","MHC-II","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C1","LPAR2_ADGRE5","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000332103616027928,0.0666666666666667,"tumor_only",10,"LR","LPAR2","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C1","LPAR3_ADGRE5","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000450201069571209,0.0666666666666667,"tumor_only",10,"LR","LPAR3","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C1","NEGR1_NEGR1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00587056591702904,0.0666666666666667,"tumor_only",10,"LR","NEGR1","NEGR1","NEGR","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C1","SPP1_CD44","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00200612594382625,0.0666666666666667,"tumor_only",10,"LR","SPP1","CD44","SPP1","Secreted Signaling",0
+"Fibro_C5","Fibro_C1","SPP1_ITGA4_ITGB1","Tumor",15,15,2,2,0,2,3,15,0,0,0,0,0.00281270161000451,0.133333333333333,"tumor_only",10,"LR","SPP1","ITGA4_ITGB1","SPP1","Secreted Signaling",0
+"Fibro_C5","Fibro_C1","SPP1_ITGAV_ITGB3","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000311704296888987,0.0666666666666667,"tumor_only",10,"LR","SPP1","ITGAV_ITGB3","SPP1","Secreted Signaling",0
+"Fibro_C5","Fibro_C1","TGFB1_TGFBR1_TGFBR2","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000553274281344591,0.0666666666666667,"tumor_only",10,"LR","TGFB1","TGFbR1_R2","TGFb","Secreted Signaling",0
+"Fibro_C5","Fibro_C1","WNT2B_FZD7_LRP6","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,2.4568369118217e-05,0.0666666666666667,"tumor_only",10,"LR","WNT2B","FZD7_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","COL4A1_ADGRG6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0208884928718449,0.0833333333333333,"tumor_only",10,"LR","COL4A1","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","COL4A2_ADGRG6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0174376678164379,0.0833333333333333,"tumor_only",10,"LR","COL4A2","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","COL4A5_ADGRG6","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00586416501190801,0.166666666666667,"tumor_only",10,"LR","COL4A5","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","COL4A5_SDC1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00440496178156263,0.0833333333333333,"tumor_only",10,"LR","COL4A5","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","COL4A6_ADGRG6","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00185584120499891,0.166666666666667,"tumor_only",10,"LR","COL4A6","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","COL4A6_CD44","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00114977814304057,0.166666666666667,"tumor_only",10,"LR","COL4A6","CD44","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","COL4A6_ITGA11_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00858042727569298,0.166666666666667,"tumor_only",10,"LR","COL4A6","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","COL4A6_ITGA1_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.011470457915164,0.166666666666667,"tumor_only",10,"LR","COL4A6","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","COL4A6_SDC1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00139264771303209,0.0833333333333333,"tumor_only",10,"LR","COL4A6","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","COL4A6_SDC4","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00226482151429986,0.166666666666667,"tumor_only",10,"LR","COL4A6","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","DHEAsulfate-DHEAS-SULT2B_PPARG","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000907308432280023,0.0833333333333333,"tumor_only",10,"LR","DHEAS-SULT2B","PPARG","DHEAS","Non-protein Signaling",0
+"Fibro_C5","Fibro_C2","FLRT2_UNC5B","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000231393287982602,0.0833333333333333,"tumor_only",10,"LR","FLRT2","UNC5B","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","FLRT3_UNC5B","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000900419672146571,0.0833333333333333,"tumor_only",10,"LR","FLRT3","UNC5B","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","FLRT3_UNC5C","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000115142718621121,0.0833333333333333,"tumor_only",10,"LR","FLRT3","UNC5C","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","Glutamate-Glu-SLC1A1_GLS_GRM8","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00250461617139102,0.0833333333333333,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C2","Glutamate-Glu-SLC1A2_GLS_GRM8","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0028377199499448,0.0833333333333333,"tumor_only",10,"LR","Glu-SLC1A2_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C2","LAMA2_ADGRG6","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0103976463099214,0.166666666666667,"tumor_only",10,"LR","LAMA2","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","LAMA2_ITGA6_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0138306022854435,0.0833333333333333,"tumor_only",10,"LR","LAMA2","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","LAMA4_ITGA6_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00959425677720459,0.0833333333333333,"tumor_only",10,"LR","LAMA4","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","LAMB1_ITGA6_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00884789363411064,0.0833333333333333,"tumor_only",10,"LR","LAMB1","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","LAMB2_ITGA6_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00282475173054728,0.0833333333333333,"tumor_only",10,"LR","LAMB2","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","LAMC1_ITGA6_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00816512856808,0.0833333333333333,"tumor_only",10,"LR","LAMC1","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C2","MDK_ITGA6_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0134648480613903,0.0833333333333333,"tumor_only",10,"LR","MDK","ITGA6_ITGB1","MK","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","NCAM1_FGFR1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00276633079344787,0.0833333333333333,"tumor_only",10,"LR","NCAM1","FGFR1","NCAM","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","PRNP_ADGRG6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00325188625688734,0.0833333333333333,"tumor_only",10,"LR","PRNP","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C2","RetinoicAcid-RA-ALDH1A3_RXRB_CRABP2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000688555351501458,0.0833333333333333,"tumor_only",10,"LR","RA-ALDH1A3","RXRB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C5","Fibro_C2","SPP1_ITGA5_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000451280019042861,0.0833333333333333,"tumor_only",10,"LR","SPP1","ITGA5_ITGB1","SPP1","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","SPP1_ITGA8_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00157244127650626,0.0833333333333333,"tumor_only",10,"LR","SPP1","ITGA8_ITGB1","SPP1","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","SPP1_ITGAV_ITGB5","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000375753287016842,0.0833333333333333,"tumor_only",10,"LR","SPP1","ITGAV_ITGB5","SPP1","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","TNFSF11_TNFRSF11B","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00753736389218804,0.0833333333333333,"tumor_only",10,"LR","TNFSF11","TNFRSF11B","RANKL","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","WNT2_FZD6_LRP6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00130738566567989,0.0833333333333333,"tumor_only",10,"LR","WNT2","FZD6_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","WNT4_FZD6_LRP6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000510800839171151,0.0833333333333333,"tumor_only",10,"LR","WNT4","FZD6_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","WNT5A_FZD6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00460981683154809,0.0833333333333333,"tumor_only",10,"LR","WNT5A","FZD6","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","WNT5B_FZD10","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00154596783711134,0.0833333333333333,"tumor_only",10,"LR","WNT5B","FZD10","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C2","WNT5B_FZD6","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000811009206377557,0.0833333333333333,"tumor_only",10,"LR","WNT5B","FZD6","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","BMP2_BMPR1A_ACVR2B","Tumor",11,11,2,2,0,1,2,11,0,0,0,0,0.000404438735704777,0.181818181818182,"tumor_only",10,"LR","BMP2","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","BMP7_ACVR1_ACVR2B","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000545341611988243,0.0909090909090909,"tumor_only",10,"LR","BMP7","ACVR1_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","BMP7_BMPR1A_ACVR2B","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000822434928381814,0.0909090909090909,"tumor_only",10,"LR","BMP7","BMPR1A_ACVR2B","BMP","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","CNTN1_NRCAM","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00722045821760842,0.0909090909090909,"tumor_only",10,"LR","CNTN1","NRCAM","CNTN","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","COL4A5_SDC1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0104201777179492,0.0909090909090909,"tumor_only",10,"LR","COL4A5","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","COL4A6_SDC1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00330805204956343,0.0909090909090909,"tumor_only",10,"LR","COL4A6","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","COL4A6_SDC4","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00144334173848387,0.0909090909090909,"tumor_only",10,"LR","COL4A6","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","COL6A5_ITGA11_ITGB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00157481440162742,0.0909090909090909,"tumor_only",10,"LR","COL6A5","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","COL6A6_CD44","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0463401151461402,0.0909090909090909,"tumor_only",10,"LR","COL6A6","CD44","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","COL6A6_ITGA11_ITGB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.02014435622655,0.0909090909090909,"tumor_only",10,"LR","COL6A6","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","COL6A6_ITGA1_ITGB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0555364300382284,0.0909090909090909,"tumor_only",10,"LR","COL6A6","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","COL6A6_ITGA3_ITGB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0427807570474692,0.0909090909090909,"tumor_only",10,"LR","COL6A6","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","COMP_SDC1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00205808989842196,0.0909090909090909,"tumor_only",10,"LR","COMP","SDC1","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","CXCL12_CXCR4","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0168255280159197,0.0909090909090909,"tumor_only",10,"LR","CXCL12","CXCR4","CXCL","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","DHEAsulfate-DHEAS-SULT2B_PPARA","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000933021820278323,0.0909090909090909,"tumor_only",10,"LR","DHEAS-SULT2B","PPARA","DHEAS","Non-protein Signaling",0
+"Fibro_C5","Fibro_C3","DHEAsulfate-DHEAS-SULT2B_PPARG","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00056629114751892,0.0909090909090909,"tumor_only",10,"LR","DHEAS-SULT2B","PPARG","DHEAS","Non-protein Signaling",0
+"Fibro_C5","Fibro_C3","DSC2_DSG2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000191032960057905,0.0909090909090909,"tumor_only",10,"LR","DSC2","DSG2","DESMOSOME","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","EFNB1_EPHA4","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000485708632830602,0.0909090909090909,"tumor_only",10,"LR","EFNB1","EPHA4","EPHB","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","FLRT3_ADGRL2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0018801921978593,0.0909090909090909,"tumor_only",10,"LR","FLRT3","ADGRL2","ADGRL","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","FLRT3_ADGRL3","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000365249627340886,0.0909090909090909,"tumor_only",10,"LR","FLRT3","ADGRL3","ADGRL","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","FLRT3_UNC5B","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000360642780962232,0.0909090909090909,"tumor_only",10,"LR","FLRT3","UNC5B","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","FLRT3_UNC5C","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00316758047290931,0.0909090909090909,"tumor_only",10,"LR","FLRT3","UNC5C","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","Glutamate-Glu-SLC1A2_GLS_GRM8","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00685316317505141,0.0909090909090909,"tumor_only",10,"LR","Glu-SLC1A2_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C3","HGF_MET","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00126107423750642,0.0909090909090909,"tumor_only",10,"LR","HGF","MET","HGF","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","HLA-DPB1_CD4","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00201660954574895,0.0909090909090909,"tumor_only",10,"LR","HLA-DPB1","CD4","MHC-II","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","IBSP_ITGAV_ITGB5","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00837477502324883,0.0909090909090909,"tumor_only",10,"LR","IBSP","ITGAV_ITGB5","BSP","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","IGFBP3_TMEM219","Tumor",11,11,2,2,0,1,2,11,0,0,0,0,0.0154001539648893,0.181818181818182,"tumor_only",10,"LR","IGFBP3","TMEM219","IGFBP","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","JAG1_NOTCH1","Tumor",11,11,2,2,0,1,2,11,0,0,0,0,0.000308071500197788,0.181818181818182,"tumor_only",10,"LR","JAG1","NOTCH1","NOTCH","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","NRXN3_NLGN2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000114886284847006,0.0909090909090909,"tumor_only",10,"LR","NRXN3","NLGN2","NRXN","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","PCDHB14_PCDHB14","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,7.96139111441022e-05,0.0909090909090909,"tumor_only",10,"LR","PCDHB14","PCDHB14","PCDH","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","PGE2-PTGES_PTGER4","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000240078266291754,0.0909090909090909,"tumor_only",10,"LR","PGE2-PTGES","PTGER4","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C3","Q9HDB5_CLSTN3","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000109204669691235,0.0909090909090909,"tumor_only",10,"LR","NRXN3","CLSTN3","NRXN","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","SEMA4D_PLXNB1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00109563262061074,0.0909090909090909,"tumor_only",10,"LR","SEMA4D","PLXNB1","SEMA4","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","SEMA4D_PLXNB2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00441771078343787,0.0909090909090909,"tumor_only",10,"LR","SEMA4D","PLXNB2","SEMA4","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","SEMA6B_PLXNA2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000776871257466227,0.0909090909090909,"tumor_only",10,"LR","SEMA6B","PLXNA2","SEMA6","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C3","SLITRK6_PTPRS","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00208212867248866,0.0909090909090909,"tumor_only",10,"LR","SLITRK6","PTPRS","SLITRK","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","SPP1_ITGAV_ITGB5","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00129657107634466,0.0909090909090909,"tumor_only",10,"LR","SPP1","ITGAV_ITGB5","SPP1","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","TGFB1_TGFBR1_TGFBR2","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00129462446944426,0.0909090909090909,"tumor_only",10,"LR","TGFB1","TGFbR1_R2","TGFb","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","THBS1_SDC1","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.0209423255353388,0.0909090909090909,"tumor_only",10,"LR","THBS1","SDC1","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C3","WNT10A_FZD10_LRP5","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,3.25514133136706e-05,0.0909090909090909,"tumor_only",10,"LR","WNT10A","FZD10_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT10A_FZD10_LRP6","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,9.5299403815489e-05,0.0909090909090909,"tumor_only",10,"LR","WNT10A","FZD10_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT10A_FZD4_LRP5","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,2.32677393845281e-05,0.0909090909090909,"tumor_only",10,"LR","WNT10A","FZD4_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT10A_FZD4_LRP6","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,6.81334227326943e-05,0.0909090909090909,"tumor_only",10,"LR","WNT10A","FZD4_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT10A_FZD6_LRP5","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,3.34715581678269e-05,0.0909090909090909,"tumor_only",10,"LR","WNT10A","FZD6_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT10A_FZD6_LRP6","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,9.79913572576058e-05,0.0909090909090909,"tumor_only",10,"LR","WNT10A","FZD6_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT10A_FZD8_LRP5","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,1.64316899598867e-05,0.0909090909090909,"tumor_only",10,"LR","WNT10A","FZD8_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT10A_FZD8_LRP6","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,4.81228511605053e-05,0.0909090909090909,"tumor_only",10,"LR","WNT10A","FZD8_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT2_FZD8_LRP5","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000179519449504931,0.0909090909090909,"tumor_only",10,"LR","WNT2","FZD8_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT2_FZD8_LRP6","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000523935325395018,0.0909090909090909,"tumor_only",10,"LR","WNT2","FZD8_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT4_FZD10_LRP6","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000266134223823253,0.0909090909090909,"tumor_only",10,"LR","WNT4","FZD10_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT4_FZD7_LRP6","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00032595891378591,0.0909090909090909,"tumor_only",10,"LR","WNT4","FZD7_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT5A_FZD8","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00132346282060761,0.0909090909090909,"tumor_only",10,"LR","WNT5A","FZD8","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT5B_FZD10","Tumor",11,11,2,2,0,1,2,11,0,0,0,0,0.00129955885204705,0.181818181818182,"tumor_only",10,"LR","WNT5B","FZD10","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT5B_FZD4","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.000664281135575676,0.0909090909090909,"tumor_only",10,"LR","WNT5B","FZD4","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C3","WNT5B_FZD8","Tumor",11,11,1,1,0,1,2,11,0,0,0,0,0.00033135018688992,0.0909090909090909,"tumor_only",10,"LR","WNT5B","FZD8","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","ANGPTL2_TLR4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00265960887551651,0.111111111111111,"tumor_only",10,"LR","ANGPTL2","TLR4","ANGPTL","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","Adenosine-ADO-NT5E_SLC29A3_ADORA1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000123232646162925,0.111111111111111,"tumor_only",10,"LR","ADO-NT5E_SLC29A3","ADORA1","Adenosine","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","Adenosine-ADO-NT5E_SLC29A3_ADORA2B","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00015612118506538,0.111111111111111,"tumor_only",10,"LR","ADO-NT5E_SLC29A3","ADORA2B","Adenosine","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","BMP4_BMPR1B_BMPR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,3.33423781895784e-05,0.111111111111111,"tumor_only",10,"LR","BMP4","BMPR1B_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","CCL11_CCR3","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00142001669664335,0.111111111111111,"tumor_only",10,"LR","CCL11","CCR3","CCL","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","COL4A6_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00111614184134162,0.111111111111111,"tumor_only",10,"LR","COL4A6","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL6A5_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00136525737574492,0.111111111111111,"tumor_only",10,"LR","COL6A5","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL6A5_ITGAV_ITGB8","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00451623524655995,0.111111111111111,"tumor_only",10,"LR","COL6A5","ITGAV_ITGB8","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL6A6_CD44","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.0304485590834704,0.222222222222222,"tumor_only",10,"LR","COL6A6","CD44","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL6A6_ITGA11_ITGB1","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.0434752488842123,0.222222222222222,"tumor_only",10,"LR","COL6A6","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL6A6_ITGA1_ITGB1","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.0425879200409852,0.222222222222222,"tumor_only",10,"LR","COL6A6","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL6A6_ITGA2_ITGB1","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.0179107913097887,0.222222222222222,"tumor_only",10,"LR","COL6A6","ITGA2_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL6A6_ITGA3_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00967158088556891,0.111111111111111,"tumor_only",10,"LR","COL6A6","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL6A6_ITGAV_ITGB8","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.0313907262092051,0.222222222222222,"tumor_only",10,"LR","COL6A6","ITGAV_ITGB8","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL6A6_SDC4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00010219610427615,0.111111111111111,"tumor_only",10,"LR","COL6A6","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","COL9A1_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00401619172778779,0.111111111111111,"tumor_only",10,"LR","COL9A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","CTF1_LIFR_IL6ST","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000252024754003384,0.111111111111111,"tumor_only",10,"LR","CTF1","LIFR_IL6ST","LIFR","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","CXCL11_ACKR3","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00141089402262038,0.111111111111111,"tumor_only",10,"LR","CXCL11","ACKR3","CXCL","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","Cholesterol-Cholesterol-DHCR7_RORA","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00184150599205166,0.111111111111111,"tumor_only",10,"LR","Cholesterol-DHCR7","RORA","Cholesterol","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","DLL4_NOTCH3","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,5.24595107213435e-05,0.111111111111111,"tumor_only",10,"LR","DLL4","NOTCH3","NOTCH","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","Desmosterol-Desmosterol-DHCR7_NR1H2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000404996326272761,0.111111111111111,"tumor_only",10,"LR","Desmosterol-DHCR7","NR1H2","Desmosterol","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","Desmosterol-Desmosterol-DHCR7_NR1H3","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000175393481992913,0.111111111111111,"tumor_only",10,"LR","Desmosterol-DHCR7","NR1H3","Desmosterol","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","EFNA5_EPHA2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,6.83951613976218e-05,0.111111111111111,"tumor_only",10,"LR","EFNA5","EPHA2","EPHA","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","EFNB1_EPHB4","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.00032423314143916,0.222222222222222,"tumor_only",10,"LR","EFNB1","EPHB4","EPHB","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","EFNB2_EPHB4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00041631977866554,0.111111111111111,"tumor_only",10,"LR","EFNB2","EPHB4","EPHB","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","EREG_EGFR_ERBB2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000245808534567276,0.111111111111111,"tumor_only",10,"LR","EREG","EGFR_ERBB2","EGF","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","FLRT2_ADGRL1","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.000557186298414675,0.222222222222222,"tumor_only",10,"LR","FLRT2","ADGRL1","ADGRL","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","GAS6_MERTK","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000974900835948101,0.111111111111111,"tumor_only",10,"LR","GAS6","MERTK","GAS","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","Glutamate-Glu-SLC1A1_GLS_GRIA3","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000215670046501059,0.111111111111111,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRIA3","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","Glutamate-Glu-SLC1A1_GLS_GRIK1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000908905778993182,0.111111111111111,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRIK1","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","IL6_IL6R_IL6ST","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00778718094444696,0.111111111111111,"tumor_only",10,"LR","IL6","IL6R_IL6ST","IL6","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","ITGA9_ITGB1_VCAM1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00374390226097943,0.111111111111111,"tumor_only",10,"LR","ITGA9_ITGB1","VCAM1","VCAM","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","ITGAV_ITGB1_ADGRE2","Tumor",9,9,2,2,0,2,2,9,0,0,0,0,0.0232709348060722,0.222222222222222,"tumor_only",10,"LR","ITGAV_ITGB1","ADGRE2","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","ITGAV_ITGB1_ADGRE5","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00565608520817736,0.111111111111111,"tumor_only",10,"LR","ITGAV_ITGB1","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","JAG1_NOTCH1","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.000741423037497946,0.222222222222222,"tumor_only",10,"LR","JAG1","NOTCH1","NOTCH","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","KITL_KIT","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00126360185224373,0.111111111111111,"tumor_only",10,"LR","KITLG","KIT","KIT","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","LAMA2_ITGA6_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0171153216626428,0.111111111111111,"tumor_only",10,"LR","LAMA2","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMA2_SV2C","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00139224398468988,0.111111111111111,"tumor_only",10,"LR","LAMA2","SV2C","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMA4_ITGA6_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0277695731875737,0.111111111111111,"tumor_only",10,"LR","LAMA4","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMA4_SV2C","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00181133125025684,0.111111111111111,"tumor_only",10,"LR","LAMA4","SV2C","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMA5_DAG1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00101656827626426,0.111111111111111,"tumor_only",10,"LR","LAMA5","DAG1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMA5_ITGA6_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00346171814109265,0.111111111111111,"tumor_only",10,"LR","LAMA5","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMA5_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00238594738028965,0.111111111111111,"tumor_only",10,"LR","LAMA5","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMB1_ITGA6_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0282141742322733,0.111111111111111,"tumor_only",10,"LR","LAMB1","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMB2_ITGA6_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0063313381152063,0.111111111111111,"tumor_only",10,"LR","LAMB2","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMB2_SV2C","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000567774507461182,0.111111111111111,"tumor_only",10,"LR","LAMB2","SV2C","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMC1_ITGA6_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.018719475415088,0.111111111111111,"tumor_only",10,"LR","LAMC1","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMC1_SV2C","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00214526405048623,0.111111111111111,"tumor_only",10,"LR","LAMC1","SV2C","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMC3_ITGA6_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0022577816563931,0.111111111111111,"tumor_only",10,"LR","LAMC3","ITGA6_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMC3_ITGA9_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00155556469522858,0.111111111111111,"tumor_only",10,"LR","LAMC3","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LAMC3_SV2C","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00149726141417735,0.111111111111111,"tumor_only",10,"LR","LAMC3","SV2C","LAMININ","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","LPAR2_ADGRE5","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000461917546261929,0.111111111111111,"tumor_only",10,"LR","LPAR2","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","LPAR3_ADGRE5","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000626148469528756,0.111111111111111,"tumor_only",10,"LR","LPAR3","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","LRFN5_PTPRF","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000233802259979805,0.111111111111111,"tumor_only",10,"LR","LRFN5","PTPRF","PTPR","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","MDK_ITGA4_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00447321778128442,0.111111111111111,"tumor_only",10,"LR","MDK","ITGA4_ITGB1","MK","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","MDK_ITGA6_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0275151548490084,0.111111111111111,"tumor_only",10,"LR","MDK","ITGA6_ITGB1","MK","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","MIF_CD74_CXCR4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.010903537102141,0.111111111111111,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","NECTIN3_NECTIN1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000809128984414912,0.111111111111111,"tumor_only",10,"LR","NECTIN3","NECTIN1","NECTIN","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","PCDHB16_PCDHB16","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,4.39850882812234e-05,0.111111111111111,"tumor_only",10,"LR","PCDHB16","PCDHB16","PCDH","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","PDGFA_PDGFRA","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00682916500701215,0.111111111111111,"tumor_only",10,"LR","PDGFA","PDGFRA","PDGF","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","PDGFA_PDGFRB","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000734387150554108,0.111111111111111,"tumor_only",10,"LR","PDGFA","PDGFRB","PDGF","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","PGD2-PTGDS_PTGDR2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00140719207860892,0.111111111111111,"tumor_only",10,"LR","PGD2-PTGDS","PTGDR2","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","PGE2-PTGES2_PTGER1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,4.93871416105641e-05,0.111111111111111,"tumor_only",10,"LR","PGE2-PTGES2","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","PGE2-PTGES3_PTGER1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00119688864388725,0.111111111111111,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","PGE2-PTGES3_PTGER4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00530356611893696,0.111111111111111,"tumor_only",10,"LR","PGE2-PTGES3","PTGER4","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","PGE2-PTGES_PTGER1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,3.48699058191929e-05,0.111111111111111,"tumor_only",10,"LR","PGE2-PTGES","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","PGF2a-AKR1C3_PTGFR","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00126941642098623,0.111111111111111,"tumor_only",10,"LR","PGD2-AKR1C3","PTGFR","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","PGF2a-CBR1_PTGFR","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000123378247068075,0.111111111111111,"tumor_only",10,"LR","PGF2a-CBR1","PTGFR","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","PROS1_MERTK","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000544777166737977,0.111111111111111,"tumor_only",10,"LR","PROS1","MERTK","PROS","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","Q9HDB5_CLSTN2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00376456817707602,0.111111111111111,"tumor_only",10,"LR","NRXN3","CLSTN2","NRXN","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","RetinoicAcid-RA-ALDH1A3_RARB_RXRB_CRABP2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00247923491853244,0.111111111111111,"tumor_only",10,"LR","RA-ALDH1A3","RARB_RXRB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","RetinoicAcid-RA-ALDH1A3_RARG_CRABP2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00345568010162158,0.111111111111111,"tumor_only",10,"LR","RA-ALDH1A3","RARG_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","RetinoicAcid-RA-ALDH1A3_RXRB_CRABP2","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00404693899650803,0.111111111111111,"tumor_only",10,"LR","RA-ALDH1A3","RXRB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C5","Fibro_C4","SLITRK6_PTPRS","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00112496445187794,0.111111111111111,"tumor_only",10,"LR","SLITRK6","PTPRS","SLITRK","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","SPP1_ITGA8_ITGB1","Tumor",9,9,2,2,0,2,2,9,0,0,0,0,0.00364918309707149,0.222222222222222,"tumor_only",10,"LR","SPP1","ITGA8_ITGB1","SPP1","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","TENM3_ADGRL1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.000205369108508826,0.111111111111111,"tumor_only",10,"LR","TENM3","ADGRL1","ADGRL","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","TENM4_ADGRL1","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.00058124016564192,0.222222222222222,"tumor_only",10,"LR","TENM4","ADGRL1","ADGRL","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","THY1_ADGRE2","Tumor",9,9,2,2,0,2,2,9,0,0,0,0,0.0217075213942179,0.222222222222222,"tumor_only",10,"LR","THY1","ADGRE2","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C4","TNXB_ITGA8_ITGB1","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.0160248324091157,0.111111111111111,"tumor_only",10,"LR","TNXB","ITGA8_ITGB1","TENASCIN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","TNXB_SDC4","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00705663512994403,0.111111111111111,"tumor_only",10,"LR","TNXB","SDC4","TENASCIN","ECM-Receptor",0
+"Fibro_C5","Fibro_C4","WNT2B_FZD2_LRP5","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,8.94200924042571e-05,0.222222222222222,"tumor_only",10,"LR","WNT2B","FZD2_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","WNT2B_FZD2_LRP6","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,6.72565961608819e-05,0.222222222222222,"tumor_only",10,"LR","WNT2B","FZD2_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","WNT2_FZD2_LRP5","Tumor",9,9,2,2,0,1,2,9,0,0,0,0,0.00032970781484159,0.222222222222222,"tumor_only",10,"LR","WNT2","FZD2_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C4","WNT4_FZD2_LRP5","Tumor",9,9,1,1,0,1,2,9,0,0,0,0,0.00012954492121933,0.111111111111111,"tumor_only",10,"LR","WNT4","FZD2_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","ANGPTL1_ITGA1_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00120605300707483,0.142857142857143,"tumor_only",10,"LR","ANGPTL1","ITGA1_ITGB1","ANGPTL","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","APP_CD74","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0224795133710537,0.142857142857143,"tumor_only",10,"LR","APP","CD74","APP","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","CADM1_NECTIN3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00192652187533306,0.142857142857143,"tumor_only",10,"LR","CADM1","NECTIN3","CADM","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","CD99_PILRB","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0135512956706702,0.142857142857143,"tumor_only",10,"LR","CD99","PILRB","CD99","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","CLEC2B_KLRB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000407142161784189,0.142857142857143,"tumor_only",10,"LR","CLEC2B","KLRB1","CLEC","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","COL1A1_SDC1","Tumor",7,7,2,2,0,2,2,7,0,0,0.0122732785372844,0,0.0290996070779359,0.285714285714286,"tumor_only",10,"LR","COL1A1","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL1A2_SDC1","Tumor",7,7,2,2,0,2,2,7,0,0,0.0123141938239824,0,0.0288791346847348,0.285714285714286,"tumor_only",10,"LR","COL1A2","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A1_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0167048522640221,0.142857142857143,"tumor_only",10,"LR","COL4A1","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A2_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0139353370185228,0.142857142857143,"tumor_only",10,"LR","COL4A2","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A3_CD44","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000286077157543781,0.142857142857143,"tumor_only",10,"LR","COL4A3","CD44","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A3_ITGA11_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000104100558601026,0.142857142857143,"tumor_only",10,"LR","COL4A3","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A3_ITGA1_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000463116752185099,0.142857142857143,"tumor_only",10,"LR","COL4A3","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A3_ITGA3_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000235425855098316,0.142857142857143,"tumor_only",10,"LR","COL4A3","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A4_CD44","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00678770537495341,0.142857142857143,"tumor_only",10,"LR","COL4A4","CD44","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A4_ITGA11_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0024802373084734,0.142857142857143,"tumor_only",10,"LR","COL4A4","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A4_ITGA1_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0109442472171203,0.142857142857143,"tumor_only",10,"LR","COL4A4","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A4_ITGA3_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00559234974470557,0.142857142857143,"tumor_only",10,"LR","COL4A4","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A5_ADGRG6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00306986709298572,0.142857142857143,"tumor_only",10,"LR","COL4A5","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","COL4A5_ITGA11_ITGB1","Tumor",7,7,2,2,0,2,2,7,0,0,0.00307889091191725,0,0.0288196291706658,0.285714285714286,"tumor_only",10,"LR","COL4A5","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A5_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00312390595182437,0.142857142857143,"tumor_only",10,"LR","COL4A5","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A6_CD44","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00226529599168829,0.142857142857143,"tumor_only",10,"LR","COL4A6","CD44","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A6_ITGA11_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00231661368083523,0.142857142857143,"tumor_only",10,"LR","COL4A6","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A6_ITGA1_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00405198272904691,0.142857142857143,"tumor_only",10,"LR","COL4A6","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A6_ITGA2_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00139769879536453,0.142857142857143,"tumor_only",10,"LR","COL4A6","ITGA2_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A6_ITGA3_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00106052535757931,0.142857142857143,"tumor_only",10,"LR","COL4A6","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A6_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000245144794233567,0.142857142857143,"tumor_only",10,"LR","COL4A6","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL4A6_SDC4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000318643190627292,0.142857142857143,"tumor_only",10,"LR","COL4A6","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL6A1_SDC1","Tumor",7,7,2,2,0,2,2,7,0,0,0.00670993755186345,0,0.0135921920310834,0.285714285714286,"tumor_only",10,"LR","COL6A1","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL6A2_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0131418832408227,0.142857142857143,"tumor_only",10,"LR","COL6A2","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL6A3_SDC1","Tumor",7,7,2,2,0,2,2,7,0,0,0.00725731281668595,0,0.0160039441579614,0.285714285714286,"tumor_only",10,"LR","COL6A3","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL6A5_ITGA11_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00244720528352696,0.142857142857143,"tumor_only",10,"LR","COL6A5","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL6A5_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000918553475252644,0.142857142857143,"tumor_only",10,"LR","COL6A5","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL6A5_SDC4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00133072906395864,0.142857142857143,"tumor_only",10,"LR","COL6A5","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL9A1_ITGA11_ITGB1","Tumor",7,7,2,2,0,2,2,7,0,0,0.00131496954324879,0,0.101057554965816,0.285714285714286,"tumor_only",10,"LR","COL9A1","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL9A1_SDC1","Tumor",7,7,2,2,0,2,2,7,0,0,0.000493627599751677,0,0.0117322097175541,0.285714285714286,"tumor_only",10,"LR","COL9A1","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","COL9A1_SDC4","Tumor",7,7,2,2,0,2,2,7,0,0,0.00071510733236831,0,0.0151973643139921,0.285714285714286,"tumor_only",10,"LR","COL9A1","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","Desmosterol-Desmosterol-DHCR7_NR1H2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000612807809328723,0.142857142857143,"tumor_only",10,"LR","Desmosterol-DHCR7","NR1H2","Desmosterol","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","EFNA5_EPHA2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000198662159131298,0.142857142857143,"tumor_only",10,"LR","EFNA5","EPHA2","EPHA","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","EFNA5_EPHA3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000297120793376021,0.142857142857143,"tumor_only",10,"LR","EFNA5","EPHA3","EPHA","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","EFNB1_EPHB3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,5.82325587945998e-05,0.142857142857143,"tumor_only",10,"LR","EFNB1","EPHB3","EPHB","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","FGF2_FGFR3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000143689497341218,0.142857142857143,"tumor_only",10,"LR","FGF2","FGFR3","FGF","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","FLRT2_ADGRL1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000372779564539551,0.142857142857143,"tumor_only",10,"LR","FLRT2","ADGRL1","ADGRL","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","FLRT2_UNC5B","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000237383690025018,0.142857142857143,"tumor_only",10,"LR","FLRT2","UNC5B","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","FLRT2_UNC5C","Tumor",7,7,2,2,0,2,2,7,0,0,0.000177527612956145,0,0.000528576465214816,0.285714285714286,"tumor_only",10,"LR","FLRT2","UNC5C","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","FLRT3_UNC5B","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000923714094513202,0.142857142857143,"tumor_only",10,"LR","FLRT3","UNC5B","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","FLRT3_UNC5C","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00138113089282183,0.142857142857143,"tumor_only",10,"LR","FLRT3","UNC5C","UNC5","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","FN1_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00714034295941502,0.142857142857143,"tumor_only",10,"LR","FN1","SDC1","FN1","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","GDF7_BMPR1A_BMPR2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0049826979030678,0.142857142857143,"tumor_only",10,"LR","GDF7","BMPR1A_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","GJC1_GJA1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000330947939135157,0.142857142857143,"tumor_only",10,"LR","GJC1","GJA1","GAP","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","Glutamate-Glu-SLC1A1_GLS_GRIK2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00304311448558718,0.142857142857143,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRIK2","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","Glutamate-Glu-SLC1A1_GLS_GRM8","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00347198236061639,0.142857142857143,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","Glutamate-Glu-SLC1A2_GLS_GRIK2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00344758882318436,0.142857142857143,"tumor_only",10,"LR","Glu-SLC1A2_GLS","GRIK2","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","Glutamate-Glu-SLC1A2_GLS_GRM8","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00393323460953287,0.142857142857143,"tumor_only",10,"LR","Glu-SLC1A2_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","IGF1_IGF1R","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,5.57048010734183e-05,0.142857142857143,"tumor_only",10,"LR","IGF1","IGF1R","IGF","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","IGF1_ITGAV_ITGB3","Tumor",7,7,2,2,0,2,2,7,0,0,9.41433124808225e-06,0,0.000503150549644642,0.285714285714286,"tumor_only",10,"LR","IGF1","ITGAV_ITGB3","IGF","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","ITGAV_ITGB3_ADGRE5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0018830764695424,0.142857142857143,"tumor_only",10,"LR","ITGAV_ITGB3","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","LAMA2_ADGRG6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00828409849332104,0.142857142857143,"tumor_only",10,"LR","LAMA2","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","LRFN4_PTPRF","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,5.9981493240911e-05,0.142857142857143,"tumor_only",10,"LR","LRFN4","PTPRF","PTPR","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","LRFN4_PTPRS","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000177899877862757,0.142857142857143,"tumor_only",10,"LR","LRFN4","PTPRS","PTPR","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","MDK_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0080767290280441,0.142857142857143,"tumor_only",10,"LR","MDK","SDC1","MK","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","NCAM1_FGFR1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00408413630344864,0.142857142857143,"tumor_only",10,"LR","NCAM1","FGFR1","NCAM","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","NCAM1_NCAM1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00098889430824039,0.142857142857143,"tumor_only",10,"LR","NCAM1","NCAM1","NCAM","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","NRXN2_NLGN1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,8.59947618667132e-05,0.142857142857143,"tumor_only",10,"LR","NRXN2","NLGN1","NRXN","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","PGD2-PTGDS_PTGDR","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00187141505572027,0.142857142857143,"tumor_only",10,"LR","PGD2-PTGDS","PTGDR","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","PGE2-PTGES_PTGER1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000506064554494025,0.142857142857143,"tumor_only",10,"LR","PGE2-PTGES","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","PGE2-PTGES_PTGER3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000829605025629214,0.142857142857143,"tumor_only",10,"LR","PGE2-PTGES","PTGER3","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","PGE2-PTGES_PTGER4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000192836340890033,0.142857142857143,"tumor_only",10,"LR","PGE2-PTGES","PTGER4","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","PGI2-PTGIS_PTGIR","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00822968485471397,0.142857142857143,"tumor_only",10,"LR","PGI2-PTGIS","PTGIR","Prostaglandin","Non-protein Signaling",0
+"Fibro_C5","Fibro_C6","PRNP_ADGRG6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00186327355756592,0.142857142857143,"tumor_only",10,"LR","PRNP","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","PTN_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00569471179864731,0.142857142857143,"tumor_only",10,"LR","PTN","SDC1","PTN","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","PTN_SDC3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00544914480836236,0.142857142857143,"tumor_only",10,"LR","PTN","SDC3","PTN","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","SEMA3A_NRP1_PLXNA4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000623325471638702,0.142857142857143,"tumor_only",10,"LR","SEMA3A","NRP1_PLXNA4","SEMA3","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","SEMA3C_NRP1_PLXNA4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0046034133513471,0.142857142857143,"tumor_only",10,"LR","SEMA3C","NRP1_PLXNA4","SEMA3","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","SEMA3C_NRP2_PLXNA4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0066487295257958,0.142857142857143,"tumor_only",10,"LR","SEMA3C","NRP2_PLXNA4","SEMA3","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","SEMA4D_PLXNB2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00292532704227891,0.142857142857143,"tumor_only",10,"LR","SEMA4D","PLXNB2","SEMA4","Cell-Cell Contact",0
+"Fibro_C5","Fibro_C6","SLIT2_ROBO2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000236696950846944,0.142857142857143,"tumor_only",10,"LR","SLIT2","ROBO2","SLIT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","THBS1_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00918402484900576,0.142857142857143,"tumor_only",10,"LR","THBS1","SDC1","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","THBS2_SDC1","Tumor",7,7,2,2,0,2,2,7,0,0,0.000111258992475197,0,0.00879113433430966,0.285714285714286,"tumor_only",10,"LR","THBS2","SDC1","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","THBS4_CD36","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000313353544629059,0.142857142857143,"tumor_only",10,"LR","THBS4","CD36","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","THBS4_CD47","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000671113823856616,0.142857142857143,"tumor_only",10,"LR","THBS4","CD47","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","THBS4_ITGA3_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00259047998001508,0.142857142857143,"tumor_only",10,"LR","THBS4","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","THBS4_ITGAV_ITGB3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000893039332321501,0.142857142857143,"tumor_only",10,"LR","THBS4","ITGAV_ITGB3","THBS","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","TNC_SDC1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000106449932691468,0.142857142857143,"tumor_only",10,"LR","TNC","SDC1","TENASCIN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","TNFSF4_TNFRSF4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000270600763395071,0.142857142857143,"tumor_only",10,"LR","TNFSF4","TNFRSF4","OX40","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","TNXB_ITGAV_ITGB3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00731060031723671,0.142857142857143,"tumor_only",10,"LR","TNXB","ITGAV_ITGB3","TENASCIN","ECM-Receptor",0
+"Fibro_C5","Fibro_C6","WNT2_FZD4_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.001770443059601,0.142857142857143,"tumor_only",10,"LR","WNT2","FZD4_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT2_FZD6_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00071516748813711,0.142857142857143,"tumor_only",10,"LR","WNT2","FZD6_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT2_FZD6_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00171257480139667,0.142857142857143,"tumor_only",10,"LR","WNT2","FZD6_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT2_FZD7_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000722565143623227,0.142857142857143,"tumor_only",10,"LR","WNT2","FZD7_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT2_FZD7_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00173020053447249,0.142857142857143,"tumor_only",10,"LR","WNT2","FZD7_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT4_FZD4_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000288511847986593,0.142857142857143,"tumor_only",10,"LR","WNT4","FZD4_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT4_FZD4_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000692941450850233,0.142857142857143,"tumor_only",10,"LR","WNT4","FZD4_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT4_FZD6_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000279013843330861,0.142857142857143,"tumor_only",10,"LR","WNT4","FZD6_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT4_FZD6_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000670173769390069,0.142857142857143,"tumor_only",10,"LR","WNT4","FZD6_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT4_FZD7_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000281906292904755,0.142857142857143,"tumor_only",10,"LR","WNT4","FZD7_LRP5","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT4_FZD7_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000677107584293492,0.142857142857143,"tumor_only",10,"LR","WNT4","FZD7_LRP6","WNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT5A_FZD6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00472859388655897,0.142857142857143,"tumor_only",10,"LR","WNT5A","FZD6","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT5B_FZD1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000801972534709746,0.142857142857143,"tumor_only",10,"LR","WNT5B","FZD1","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT5B_FZD10","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000641020918300348,0.142857142857143,"tumor_only",10,"LR","WNT5B","FZD10","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT5B_FZD4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000889628432810642,0.142857142857143,"tumor_only",10,"LR","WNT5B","FZD4","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT5B_FZD6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000831987572611976,0.142857142857143,"tumor_only",10,"LR","WNT5B","FZD6","ncWNT","Secreted Signaling",0
+"Fibro_C5","Fibro_C6","WNT5B_FZD7","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000849336607197046,0.142857142857143,"tumor_only",10,"LR","WNT5B","FZD7","ncWNT","Secreted Signaling",0
+"Fibro_C5","Mast","BDNF_SORT1","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.000127222215846221,0.1,"tumor_only",10,"LR","BDNF","SORT1","NT","Secreted Signaling",0
+"Fibro_C5","Mast","BMP2_BMPR1A_ACVR2A","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00034845229599618,0.1,"tumor_only",10,"LR","BMP2","BMPR1A_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C5","Mast","BMP4_BMPR1A_ACVR2A","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.000618717231772244,0.1,"tumor_only",10,"LR","BMP4","BMPR1A_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C5","Mast","BMP5_BMPR1A_ACVR2A","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.000219202445757981,0.1,"tumor_only",10,"LR","BMP5","BMPR1A_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C5","Mast","COL1A1_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.0209313185845535,0.1,"tumor_only",10,"LR","COL1A1","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Mast","COL1A2_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.0229281198671468,0.1,"tumor_only",10,"LR","COL1A2","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Mast","COL4A5_SDC1","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00358812512627329,0.1,"tumor_only",10,"LR","COL4A5","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Mast","COL4A5_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00547581180698198,0.1,"tumor_only",10,"LR","COL4A5","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Mast","COL4A6_ADGRG6","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.000203426073663131,0.1,"tumor_only",10,"LR","COL4A6","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Mast","COL4A6_SDC1","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00113376516052046,0.1,"tumor_only",10,"LR","COL4A6","SDC1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Mast","COL4A6_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.0017324758772856,0.1,"tumor_only",10,"LR","COL4A6","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Mast","COL6A1_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.0145162565000279,0.1,"tumor_only",10,"LR","COL6A1","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Mast","COL6A2_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.0201451719807537,0.1,"tumor_only",10,"LR","COL6A2","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Mast","COL6A3_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.0165006149247978,0.1,"tumor_only",10,"LR","COL6A3","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Mast","COMP_SDC1","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.000704786013321808,0.1,"tumor_only",10,"LR","COMP","SDC1","THBS","ECM-Receptor",0
+"Fibro_C5","Mast","COMP_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00107720874442045,0.1,"tumor_only",10,"LR","COMP","SDC4","THBS","ECM-Receptor",0
+"Fibro_C5","Mast","HGF_MET","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00130775301680487,0.1,"tumor_only",10,"LR","HGF","MET","HGF","Secreted Signaling",0
+"Fibro_C5","Mast","LAMA2_ADGRG6","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.000499086752893517,0.1,"tumor_only",10,"LR","LAMA2","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Mast","LPAR2_ADGRE5","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.000282450878026872,0.1,"tumor_only",10,"LR","LPAR2","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Mast","LPAR3_ADGRE5","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.000382898370451385,0.1,"tumor_only",10,"LR","LPAR3","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Mast","THBS1_SDC1","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00726199040273052,0.1,"tumor_only",10,"LR","THBS1","SDC1","THBS","ECM-Receptor",0
+"Fibro_C5","Mast","THBS1_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.0110610153878958,0.1,"tumor_only",10,"LR","THBS1","SDC4","THBS","ECM-Receptor",0
+"Fibro_C5","Mast","THBS2_SDC4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00351255117427394,0.1,"tumor_only",10,"LR","THBS2","SDC4","THBS","ECM-Receptor",0
+"Fibro_C5","Mast","WNT5A_FZD6","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00334163309917581,0.1,"tumor_only",10,"LR","WNT5A","FZD6","ncWNT","Secreted Signaling",0
+"Fibro_C5","Myeloid","CCL3L3_CCR1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000194950532805996,0.0666666666666667,"tumor_only",10,"LR","CCL3L3","CCR1","CCL","Secreted Signaling",0
+"Fibro_C5","Myeloid","COL4A6_ADGRG6","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000254980919103885,0.0666666666666667,"tumor_only",10,"LR","COL4A6","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Myeloid","CXCL12_ACKR3","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000187485669958871,0.0666666666666667,"tumor_only",10,"LR","CXCL12","ACKR3","CXCL","Secreted Signaling",0
+"Fibro_C5","Myeloid","LAMA2_ADGRG6","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000625524840651353,0.0666666666666667,"tumor_only",10,"LR","LAMA2","ADGRG6","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Myeloid","MIF_ACKR3","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00088091465147977,0.0666666666666667,"tumor_only",10,"LR","MIF","ACKR3","MIF","Secreted Signaling",0
+"Fibro_C5","Myeloid","SPP1_CD44","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00168509701793375,0.0666666666666667,"tumor_only",10,"LR","SPP1","CD44","SPP1","Secreted Signaling",0
+"Fibro_C5","Myeloid","SPP1_ITGA4_ITGB1","Tumor",15,15,2,2,0,2,3,15,0,0,0,0,0.00285094783343431,0.133333333333333,"tumor_only",10,"LR","SPP1","ITGA4_ITGB1","SPP1","Secreted Signaling",0
+"Fibro_C5","Myeloid","TGFB1_TGFBR1_TGFBR2","Tumor",15,15,2,2,0,2,3,15,0,0,0,0,0.00261668689756677,0.133333333333333,"tumor_only",10,"LR","TGFB1","TGFbR1_R2","TGFb","Secreted Signaling",0
+"Fibro_C5","Plasma","Adenosine-ADO-NT5E_SLC29A3_ADORA2A","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000109879832498404,0.0833333333333333,"tumor_only",10,"LR","ADO-NT5E_SLC29A3","ADORA2A","Adenosine","Non-protein Signaling",0
+"Fibro_C5","Plasma","CD55_ADGRE5","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000904280067305606,0.0833333333333333,"tumor_only",10,"LR","CD55","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Fibro_C5","Plasma","CD99_CD99","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0340131242092715,0.166666666666667,"tumor_only",10,"LR","CD99","CD99","CD99","Cell-Cell Contact",0
+"Fibro_C5","Plasma","COL1A1_ITGA3_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0297116341975797,0.166666666666667,"tumor_only",10,"LR","COL1A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL1A1_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0329112260493982,0.0833333333333333,"tumor_only",10,"LR","COL1A1","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL1A2_ITGA3_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0275664700941942,0.166666666666667,"tumor_only",10,"LR","COL1A2","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL1A2_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0296933483342873,0.0833333333333333,"tumor_only",10,"LR","COL1A2","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL3A1_ADGRG1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00565740327749558,0.0833333333333333,"tumor_only",10,"LR","COL3A1","ADGRG1","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Plasma","COL4A1_ITGA3_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00301919587403018,0.166666666666667,"tumor_only",10,"LR","COL4A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL4A1_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00214742518775504,0.0833333333333333,"tumor_only",10,"LR","COL4A1","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL4A2_ITGA3_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00528965169894287,0.166666666666667,"tumor_only",10,"LR","COL4A2","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL4A2_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00203168845801767,0.0833333333333333,"tumor_only",10,"LR","COL4A2","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL4A5_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000512422042180485,0.0833333333333333,"tumor_only",10,"LR","COL4A5","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL6A1_ITGA3_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0172057820014638,0.166666666666667,"tumor_only",10,"LR","COL6A1","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL6A1_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0116980301082712,0.0833333333333333,"tumor_only",10,"LR","COL6A1","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL6A2_ITGA3_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0170885803562922,0.166666666666667,"tumor_only",10,"LR","COL6A2","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL6A2_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0125762951815052,0.0833333333333333,"tumor_only",10,"LR","COL6A2","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL6A3_ITGA3_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0194349662561429,0.166666666666667,"tumor_only",10,"LR","COL6A3","ITGA3_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COL6A3_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0147451431152878,0.0833333333333333,"tumor_only",10,"LR","COL6A3","SDC4","COLLAGEN","ECM-Receptor",0
+"Fibro_C5","Plasma","COMP_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000306134608560299,0.0833333333333333,"tumor_only",10,"LR","COMP","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C5","Plasma","Cholesterol-Cholesterol-LIPA_RORA","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000262477053879875,0.0833333333333333,"tumor_only",10,"LR","Cholesterol-LIPA","RORA","Cholesterol","Non-protein Signaling",0
+"Fibro_C5","Plasma","Desmosterol-Desmosterol-DHCR7_NR1H2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,8.68143396826168e-05,0.0833333333333333,"tumor_only",10,"LR","Desmosterol-DHCR7","NR1H2","Desmosterol","Non-protein Signaling",0
+"Fibro_C5","Plasma","FGF1_FGFR1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,7.95285418532735e-05,0.0833333333333333,"tumor_only",10,"LR","FGF1","FGFR1","FGF","Secreted Signaling",0
+"Fibro_C5","Plasma","FGF5_FGFR1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,3.43294059509615e-05,0.0833333333333333,"tumor_only",10,"LR","FGF5","FGFR1","FGF","Secreted Signaling",0
+"Fibro_C5","Plasma","FGF7_FGFR1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0010219078499025,0.0833333333333333,"tumor_only",10,"LR","FGF7","FGFR1","FGF","Secreted Signaling",0
+"Fibro_C5","Plasma","FN1_ITGA3_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0212349212909915,0.166666666666667,"tumor_only",10,"LR","FN1","ITGA3_ITGB1","FN1","ECM-Receptor",0
+"Fibro_C5","Plasma","FN1_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0135098925099593,0.0833333333333333,"tumor_only",10,"LR","FN1","SDC4","FN1","ECM-Receptor",0
+"Fibro_C5","Plasma","ICAM1_ITGAL","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00955998796404611,0.0833333333333333,"tumor_only",10,"LR","ICAM1","ITGAL","ICAM","Cell-Cell Contact",0
+"Fibro_C5","Plasma","IL6_IL6R_IL6ST","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00702276766794664,0.0833333333333333,"tumor_only",10,"LR","IL6","IL6R_IL6ST","IL6","Secreted Signaling",0
+"Fibro_C5","Plasma","LAMA1_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000274095461168324,0.0833333333333333,"tumor_only",10,"LR","LAMA1","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Plasma","LAMA2_ITGA3_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.00354525347211926,0.166666666666667,"tumor_only",10,"LR","LAMA2","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Plasma","LAMA4_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00665387604046243,0.0833333333333333,"tumor_only",10,"LR","LAMA4","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Plasma","LAMB1_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00450738366455002,0.0833333333333333,"tumor_only",10,"LR","LAMB1","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Plasma","LAMB2_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00413385727798734,0.0833333333333333,"tumor_only",10,"LR","LAMB2","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Plasma","LAMC1_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00468320886510139,0.0833333333333333,"tumor_only",10,"LR","LAMC1","ITGA3_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C5","Plasma","MIF_CD74_CXCR4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0355946726982599,0.0833333333333333,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Fibro_C5","Plasma","NECTIN3_NECTIN2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00034985603226198,0.0833333333333333,"tumor_only",10,"LR","NECTIN3","NECTIN2","NECTIN","Cell-Cell Contact",0
+"Fibro_C5","Plasma","PPIA_BSG","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0321096568260686,0.0833333333333333,"tumor_only",10,"LR","PPIA","BSG","CypA","Secreted Signaling",0
+"Fibro_C5","Plasma","PTN_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000415459443009286,0.0833333333333333,"tumor_only",10,"LR","PTN","SDC4","PTN","Secreted Signaling",0
+"Fibro_C5","Plasma","RetinoicAcid-RA-ALDH1A3_RXRB_CRABP2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000856379513215121,0.0833333333333333,"tumor_only",10,"LR","RA-ALDH1A3","RXRB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C5","Plasma","SEMA4C_PLXNB2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,8.22351998081481e-06,0.0833333333333333,"tumor_only",10,"LR","SEMA4C","PLXNB2","SEMA4","Cell-Cell Contact",0
+"Fibro_C5","Plasma","SPP1_ITGA8_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000360599150284613,0.0833333333333333,"tumor_only",10,"LR","SPP1","ITGA8_ITGB1","SPP1","Secreted Signaling",0
+"Fibro_C5","Plasma","TGFB1_ACVR1C_TGFBR2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000451614453911636,0.0833333333333333,"tumor_only",10,"LR","TGFB1","ACVR1C_TGFbR2","TGFb","Secreted Signaling",0
+"Fibro_C5","Plasma","TGFB3_ACVR1C_TGFBR2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000470472927900546,0.0833333333333333,"tumor_only",10,"LR","TGFB3","ACVR1C_TGFbR2","TGFb","Secreted Signaling",0
+"Fibro_C5","Plasma","TGM2_ADGRG1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000950434664362384,0.0833333333333333,"tumor_only",10,"LR","TGM2","ADGRG1","ADGRG","Cell-Cell Contact",0
+"Fibro_C5","Plasma","THBS1_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0069147356862711,0.0833333333333333,"tumor_only",10,"LR","THBS1","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C5","Plasma","THBS2_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0134062572409435,0.0833333333333333,"tumor_only",10,"LR","THBS2","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C5","Plasma","THBS2_SDC4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0100580949319495,0.0833333333333333,"tumor_only",10,"LR","THBS2","SDC4","THBS","ECM-Receptor",0
+"Fibro_C5","Plasma","THBS3_ITGA3_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000373662560964556,0.0833333333333333,"tumor_only",10,"LR","THBS3","ITGA3_ITGB1","THBS","ECM-Receptor",0
+"Fibro_C5","Plasma","TNXB_ITGA8_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0016014421798688,0.0833333333333333,"tumor_only",10,"LR","TNXB","ITGA8_ITGB1","TENASCIN","ECM-Receptor",0
+"Fibro_C5","Plasma","TNXB_SDC1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0221191891199772,0.0833333333333333,"tumor_only",10,"LR","TNXB","SDC1","TENASCIN","ECM-Receptor",0
+"Fibro_C5","T_NK","HLA-DPB1_CD4","Tumor",13,13,1,1,0,1,2,13,0,0,0,0,0.000903911405653306,0.0769230769230769,"tumor_only",10,"LR","HLA-DPB1","CD4","MHC-II","Cell-Cell Contact",0
+"Fibro_C5","T_NK","SPP1_ITGA4_ITGB1","Tumor",13,13,1,1,0,1,2,13,0,0,0,0,0.00152967691322642,0.0769230769230769,"tumor_only",10,"LR","SPP1","ITGA4_ITGB1","SPP1","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","APP_CD74","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0382568530514969,0.142857142857143,"tumor_only",10,"LR","APP","CD74","APP","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","BMP2_BMPR1A_ACVR2A","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000121506507995015,0.142857142857143,"tumor_only",10,"LR","BMP2","BMPR1A_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP2_BMPR1A_BMPR2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000435495398829783,0.142857142857143,"tumor_only",10,"LR","BMP2","BMPR1A_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP4_BMPR1A_ACVR2A","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00417524083851688,0.142857142857143,"tumor_only",10,"LR","BMP4","BMPR1A_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP4_BMPR1A_BMPR2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0109730882535652,0.142857142857143,"tumor_only",10,"LR","BMP4","BMPR1A_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP5_ACVR1_ACVR2A","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000266549097246677,0.142857142857143,"tumor_only",10,"LR","BMP5","ACVR1_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP5_ACVR1_BMPR2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000707133426272453,0.142857142857143,"tumor_only",10,"LR","BMP5","ACVR1_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP5_BMPR1A_ACVR2A","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000339084452709026,0.142857142857143,"tumor_only",10,"LR","BMP5","BMPR1A_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP5_BMPR1A_BMPR2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000899406503568687,0.142857142857143,"tumor_only",10,"LR","BMP5","BMPR1A_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP7_ACVR1_ACVR2A","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00184660842658407,0.142857142857143,"tumor_only",10,"LR","BMP7","ACVR1_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP7_ACVR1_BMPR2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00488029790094876,0.142857142857143,"tumor_only",10,"LR","BMP7","ACVR1_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP7_BMPR1A_ACVR2A","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00234764789839094,0.142857142857143,"tumor_only",10,"LR","BMP7","BMPR1A_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","BMP7_BMPR1A_BMPR2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00619700347893023,0.142857142857143,"tumor_only",10,"LR","BMP7","BMPR1A_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","COL1A1_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0147046452891214,0.142857142857143,"tumor_only",10,"LR","COL1A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","COL1A2_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0129261352792289,0.142857142857143,"tumor_only",10,"LR","COL1A2","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","COL4A1_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.01790402492383,0.142857142857143,"tumor_only",10,"LR","COL4A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","COL4A2_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.016468725382309,0.142857142857143,"tumor_only",10,"LR","COL4A2","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","COL4A5_ITGAV_ITGB8","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00108143113375232,0.142857142857143,"tumor_only",10,"LR","COL4A5","ITGAV_ITGB8","COLLAGEN","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","COL6A1_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0118016880674822,0.142857142857143,"tumor_only",10,"LR","COL6A1","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","COL6A2_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0156857889450416,0.142857142857143,"tumor_only",10,"LR","COL6A2","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","COL6A3_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00547669979670884,0.142857142857143,"tumor_only",10,"LR","COL6A3","ITGA9_ITGB1","COLLAGEN","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","CTF1_LIFR_IL6ST","Tumor",7,7,2,2,0,2,2,7,0,0,9.6243415667147e-05,0,0.00234369884969256,0.285714285714286,"tumor_only",10,"LR","CTF1","LIFR_IL6ST","LIFR","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","Dehydroepiandrosterone-DHEA-STS_ESR1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00437358828881546,0.142857142857143,"tumor_only",10,"LR","DHEA-STS","ESR1","DHEA","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","Dehydroepiandrosterone-DHEA-STS_PPARA","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00296412842245786,0.142857142857143,"tumor_only",10,"LR","DHEA-STS","PPARA","DHEA","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","EFNA1_EPHA3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000524701767536803,0.142857142857143,"tumor_only",10,"LR","EFNA1","EPHA3","EPHA","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","ENTPD1_ADORA2B","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00146415869635654,0.142857142857143,"tumor_only",10,"LR","ENTPD1","ADORA2B","CD39","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","Estradiol-E2-HSD17B1_ESR1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000562013930901637,0.142857142857143,"tumor_only",10,"LR","E2-HSD17B1","ESR1","Estradiol","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","FGF10_FGFR1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00291100965276113,0.142857142857143,"tumor_only",10,"LR","FGF10","FGFR1","FGF","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","FGF2_FGFR1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00129647346487487,0.142857142857143,"tumor_only",10,"LR","FGF2","FGFR1","FGF","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","GDF7_BMPR1A_ACVR2A","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00130544386850107,0.142857142857143,"tumor_only",10,"LR","GDF7","BMPR1A_ACVR2A","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","GDF7_BMPR1A_BMPR2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00345457825380657,0.142857142857143,"tumor_only",10,"LR","GDF7","BMPR1A_BMPR2","BMP","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","Glutamate-Glu-SLC1A1_GLS_GRIK2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000940993130745141,0.142857142857143,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRIK2","Glutamate","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","Glutamate-Glu-SLC1A1_GLS_GRM8","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00507480229978995,0.142857142857143,"tumor_only",10,"LR","Glu-SLC1A1_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","Glutamate-Glu-SLC1A2_GLS_GRIK2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000463788925164664,0.142857142857143,"tumor_only",10,"LR","Glu-SLC1A2_GLS","GRIK2","Glutamate","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","Glutamate-Glu-SLC1A2_GLS_GRM8","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0025064861335193,0.142857142857143,"tumor_only",10,"LR","Glu-SLC1A2_GLS","GRM8","Glutamate","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","HLA-DPA1_CD4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000113315141215623,0.142857142857143,"tumor_only",10,"LR","HLA-DPA1","CD4","MHC-II","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","HLA-DPB1_CD4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000266803706802524,0.142857142857143,"tumor_only",10,"LR","HLA-DPB1","CD4","MHC-II","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","LAMA3_CD44","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0116157493724546,0.142857142857143,"tumor_only",10,"LR","LAMA3","CD44","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMA3_DAG1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00298795902545025,0.142857142857143,"tumor_only",10,"LR","LAMA3","DAG1","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMA3_ITGA2_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00298673958578687,0.142857142857143,"tumor_only",10,"LR","LAMA3","ITGA2_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMA3_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00383757927865602,0.142857142857143,"tumor_only",10,"LR","LAMA3","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMA3_ITGAV_ITGB8","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00650654317506062,0.142857142857143,"tumor_only",10,"LR","LAMA3","ITGAV_ITGB8","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMA4_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00724324895341661,0.142857142857143,"tumor_only",10,"LR","LAMA4","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMA5_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00267457542103547,0.142857142857143,"tumor_only",10,"LR","LAMA5","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMA5_ITGAV_ITGB8","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00453837709874892,0.142857142857143,"tumor_only",10,"LR","LAMA5","ITGAV_ITGB8","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMB1_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00431702343054967,0.142857142857143,"tumor_only",10,"LR","LAMB1","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMB2_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00461969749481133,0.142857142857143,"tumor_only",10,"LR","LAMB2","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LAMC1_ITGA9_ITGB1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00616561054850054,0.142857142857143,"tumor_only",10,"LR","LAMC1","ITGA9_ITGB1","LAMININ","ECM-Receptor",0
+"Fibro_C6","Fibro_C5","LRFN5_PTPRS","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0033824828331854,0.142857142857143,"tumor_only",10,"LR","LRFN5","PTPRS","PTPR","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","LRRC4B_PTPRD","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000597587529153987,0.142857142857143,"tumor_only",10,"LR","LRRC4B","PTPRD","PTPR","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","LRRC4B_PTPRF","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000167562956065285,0.142857142857143,"tumor_only",10,"LR","LRRC4B","PTPRF","NGL","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","LRRC4B_PTPRS","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000628237298960668,0.142857142857143,"tumor_only",10,"LR","LRRC4B","PTPRS","PTPR","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","NCAM1_FGFR1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00773770083344516,0.142857142857143,"tumor_only",10,"LR","NCAM1","FGFR1","NCAM","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","NCAM1_NCAM1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00098889430824039,0.142857142857143,"tumor_only",10,"LR","NCAM1","NCAM1","NCAM","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","NGF_NGFR","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00177361741781049,0.142857142857143,"tumor_only",10,"LR","NGF","NGFR","NGF","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","NTF3_NGFR","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000181152740052923,0.142857142857143,"tumor_only",10,"LR","NTF3","NGFR","NT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","PDGFD_PDGFRB","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00314947511836788,0.142857142857143,"tumor_only",10,"LR","PDGFD","PDGFRB","PDGF","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","POSTN_ITGAV_ITGB3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00246083468110189,0.142857142857143,"tumor_only",10,"LR","POSTN","ITGAV_ITGB3","PERIOSTIN","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","PRSS3_F2R","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00316951658757331,0.142857142857143,"tumor_only",10,"LR","PRSS3","F2R","PARs","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","PRSS3_F2RL2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000184420245862023,0.142857142857143,"tumor_only",10,"LR","PRSS3","F2RL2","PARs","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","PRSS3_PARD3","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00152400929310576,0.142857142857143,"tumor_only",10,"LR","PRSS3","PARD3","PARs","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","RetinoicAcid-RA-ALDH1A1_RARA_CRABP2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000368778515163544,0.142857142857143,"tumor_only",10,"LR","RA-ALDH1A1","RARA_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","RetinoicAcid-RA-ALDH1A1_RARA_RXRA_CRABP2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000247608794793715,0.142857142857143,"tumor_only",10,"LR","RA-ALDH1A1","RARA_RXRA_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","RetinoicAcid-RA-ALDH1A1_RARB_CRABP2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000177707789486233,0.142857142857143,"tumor_only",10,"LR","RA-ALDH1A1","RARB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","RetinoicAcid-RA-ALDH1A1_RARB_RXRB_CRABP2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000138992241320752,0.142857142857143,"tumor_only",10,"LR","RA-ALDH1A1","RARB_RXRB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","RetinoicAcid-RA-ALDH1A1_RXRA_CRABP2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000226285218932361,0.142857142857143,"tumor_only",10,"LR","RA-ALDH1A1","RXRA_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","RetinoicAcid-RA-ALDH1A1_RXRB_CRABP2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000197504413819696,0.142857142857143,"tumor_only",10,"LR","RA-ALDH1A1","RXRB_CRABP2","RA","Non-protein Signaling",0
+"Fibro_C6","Fibro_C5","SDC1_ADGRA2","Tumor",7,7,2,2,0,2,2,7,0,0,0.00053955585344733,0,0.0029720319263843,0.285714285714286,"tumor_only",10,"LR","SDC1","ADGRA2","ADGRA","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","SEMA4D_PLXNB2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00232760459628272,0.142857142857143,"tumor_only",10,"LR","SEMA4D","PLXNB2","SEMA4","Cell-Cell Contact",0
+"Fibro_C6","Fibro_C5","SLIT2_ROBO2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00406678013577891,0.142857142857143,"tumor_only",10,"LR","SLIT2","ROBO2","SLIT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","TNFSF4_TNFRSF4","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0016498199994985,0.142857142857143,"tumor_only",10,"LR","TNFSF4","TNFRSF4","OX40","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT2_FZD1_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,9.19564218959218e-05,0.142857142857143,"tumor_only",10,"LR","WNT2","FZD1_LRP5","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT2_FZD2_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,6.74377932336016e-05,0.142857142857143,"tumor_only",10,"LR","WNT2","FZD2_LRP5","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT2_FZD6_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,9.91485515385068e-05,0.142857142857143,"tumor_only",10,"LR","WNT2","FZD6_LRP5","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT5B_FZD1","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.00174964899270928,0.142857142857143,"tumor_only",10,"LR","WNT5B","FZD1","ncWNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT5B_FZD2","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.000941540545264573,0.142857142857143,"tumor_only",10,"LR","WNT5B","FZD2","ncWNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT5B_FZD6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,0.0020336071680793,0.142857142857143,"tumor_only",10,"LR","WNT5B","FZD6","ncWNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT6_FZD1_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,3.48792445004067e-05,0.142857142857143,"tumor_only",10,"LR","WNT6","FZD1_LRP5","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT6_FZD1_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,5.53577459332073e-05,0.142857142857143,"tumor_only",10,"LR","WNT6","FZD1_LRP6","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT6_FZD4_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,3.47417126930784e-05,0.142857142857143,"tumor_only",10,"LR","WNT6","FZD4_LRP5","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT6_FZD4_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,5.51396277259026e-05,0.142857142857143,"tumor_only",10,"LR","WNT6","FZD4_LRP6","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT6_FZD7_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,1.83828005329579e-05,0.142857142857143,"tumor_only",10,"LR","WNT6","FZD7_LRP5","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT6_FZD7_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,2.91861045894239e-05,0.142857142857143,"tumor_only",10,"LR","WNT6","FZD7_LRP6","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT6_FZD8_LRP5","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,2.62419943032677e-05,0.142857142857143,"tumor_only",10,"LR","WNT6","FZD8_LRP5","WNT","Secreted Signaling",0
+"Fibro_C6","Fibro_C5","WNT6_FZD8_LRP6","Tumor",7,7,1,1,0,1,2,7,0,0,0,0,4.16570331194311e-05,0.142857142857143,"tumor_only",10,"LR","WNT6","FZD8_LRP6","WNT","Secreted Signaling",0
+"Mast","Fibro_C5","CD55_ADGRE5","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00152195676199714,0.1,"tumor_only",10,"LR","CD55","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Mast","Fibro_C5","FN1_ITGA5_ITGB1","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.030329944615189,0.1,"tumor_only",10,"LR","FN1","ITGA5_ITGB1","FN1","ECM-Receptor",0
+"Mast","Fibro_C5","MIF_CD74_CXCR4","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00894772038467428,0.1,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Mast","Fibro_C5","PGE2-PTGES2_PTGER1","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.000342154231708383,0.1,"tumor_only",10,"LR","PGE2-PTGES2","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Mast","Fibro_C5","PGE2-PTGES2_PTGER2","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00170320356690236,0.1,"tumor_only",10,"LR","PGE2-PTGES2","PTGER2","Prostaglandin","Non-protein Signaling",0
+"Mast","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00249040680012342,0.1,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Mast","Fibro_C5","PGE2-PTGES_PTGER1","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,8.70998903211808e-05,0.1,"tumor_only",10,"LR","PGE2-PTGES","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Mast","Fibro_C5","PGE2-PTGES_PTGER2","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00043401351144455,0.1,"tumor_only",10,"LR","PGE2-PTGES","PTGER2","Prostaglandin","Non-protein Signaling",0
+"Mast","Fibro_C5","PTN_SDC2","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00706049515882262,0.1,"tumor_only",10,"LR","PTN","SDC2","PTN","Secreted Signaling",0
+"Mast","Fibro_C5","SPP1_CD44","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.0101241337075577,0.1,"tumor_only",10,"LR","SPP1","CD44","SPP1","Secreted Signaling",0
+"Mast","Fibro_C5","TGFB1_TGFBR1_TGFBR2","Tumor",10,10,1,1,0,1,2,10,0,0,0,0,0.00195120472072278,0.1,"tumor_only",10,"LR","TGFB1","TGFbR1_R2","TGFb","Secreted Signaling",0
+"Myeloid","Fibro_C5","ANXA1_FPR3","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00220942450603076,0.0666666666666667,"tumor_only",10,"LR","ANXA1","FPR3","ANNEXIN","Secreted Signaling",0
+"Myeloid","Fibro_C5","CD55_ADGRE5","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000503518395411298,0.0666666666666667,"tumor_only",10,"LR","CD55","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Myeloid","Fibro_C5","ENTPD1_ADORA3","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000855555520460994,0.0666666666666667,"tumor_only",10,"LR","ADORA3","ENTPD1","CD39","Cell-Cell Contact",0
+"Myeloid","Fibro_C5","FN1_ITGAV_ITGB6","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00170743460581149,0.0666666666666667,"tumor_only",10,"LR","FN1","ITGAV_ITGB6","FN1","ECM-Receptor",0
+"Myeloid","Fibro_C5","ITGAV_ITGB1_ADGRE5","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.00152044155525514,0.0666666666666667,"tumor_only",10,"LR","ITGAV_ITGB1","ADGRE5","ADGRE","Cell-Cell Contact",0
+"Myeloid","Fibro_C5","MIF_CD74_CXCR4","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.0106377072192026,0.0666666666666667,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"Myeloid","Fibro_C5","PGE2-PTGES2_PTGER1","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.000117652631758585,0.0666666666666667,"tumor_only",10,"LR","PGE2-PTGES2","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Myeloid","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",15,15,2,2,0,2,3,15,0,0,0,0,0.00583413668703147,0.133333333333333,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Myeloid","Fibro_C5","SPP1_ITGAV_ITGB6","Tumor",15,15,1,1,0,1,3,15,0,0,0,0,0.0264012861513247,0.0666666666666667,"tumor_only",10,"LR","SPP1","ITGAV_ITGB6","SPP1","Secreted Signaling",0
+"Plasma","Fibro_C5","ANGPT2_ITGA5_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000921760462496561,0.0833333333333333,"tumor_only",10,"LR","ANGPT2","ITGA5_ITGB1","ANGPT","Secreted Signaling",0
+"Plasma","Fibro_C5","ANGPTL4_CDH11","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00139804205932687,0.0833333333333333,"tumor_only",10,"LR","ANGPTL4","CDH11","ANGPTL","Secreted Signaling",0
+"Plasma","Fibro_C5","ANGPTL4_ITGA5_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000814928848581797,0.0833333333333333,"tumor_only",10,"LR","ANGPTL4","ITGA5_ITGB1","ANGPTL","Secreted Signaling",0
+"Plasma","Fibro_C5","ANGPTL4_SDC2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00151162077579785,0.0833333333333333,"tumor_only",10,"LR","ANGPTL4","SDC2","ANGPTL","Secreted Signaling",0
+"Plasma","Fibro_C5","ANGPTL4_SDC3","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,9.54675475099171e-05,0.0833333333333333,"tumor_only",10,"LR","ANGPTL4","SDC3","ANGPTL","Secreted Signaling",0
+"Plasma","Fibro_C5","BMP2_BMPR1A_BMPR2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000195723104081032,0.0833333333333333,"tumor_only",10,"LR","BMP2","BMPR1A_BMPR2","BMP","Secreted Signaling",0
+"Plasma","Fibro_C5","CD99_CD99","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0340131242092715,0.166666666666667,"tumor_only",10,"LR","CD99","CD99","CD99","Cell-Cell Contact",0
+"Plasma","Fibro_C5","COL1A1_ITGA1_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0456187530609149,0.166666666666667,"tumor_only",10,"LR","COL1A1","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL1A1_ITGA2_ITGB1","Tumor",12,12,2,2,0,1,3,12,0,0,0,0,0.0184488139018708,0.166666666666667,"tumor_only",10,"LR","COL1A1","ITGA2_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL1A2_ITGA2_ITGB1","Tumor",12,12,2,2,0,1,3,12,0,0,0,0,0.0191868437068241,0.166666666666667,"tumor_only",10,"LR","COL1A2","ITGA2_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL4A6_ITGA11_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000944805285531877,0.0833333333333333,"tumor_only",10,"LR","COL4A6","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL4A6_ITGA1_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000550464748528585,0.0833333333333333,"tumor_only",10,"LR","COL4A6","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL6A1_ITGA1_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0131233208324487,0.0833333333333333,"tumor_only",10,"LR","COL6A1","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL6A1_ITGA2_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000751845315295681,0.0833333333333333,"tumor_only",10,"LR","COL6A1","ITGA2_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL6A2_ITGA1_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0153992026156943,0.0833333333333333,"tumor_only",10,"LR","COL6A2","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL6A3_ITGA11_ITGB1","Tumor",12,12,2,2,0,1,3,12,0,0,0,0,0.0429435895358096,0.166666666666667,"tumor_only",10,"LR","COL6A3","ITGA11_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL6A3_ITGA1_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0337649976211075,0.0833333333333333,"tumor_only",10,"LR","COL6A3","ITGA1_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL6A3_ITGA2_ITGB1","Tumor",12,12,2,2,0,1,3,12,0,0,0,0,0.0135547320263204,0.166666666666667,"tumor_only",10,"LR","COL6A3","ITGA2_ITGB1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL6A3_ITGAV_ITGB8","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00538308941700431,0.0833333333333333,"tumor_only",10,"LR","COL6A3","ITGAV_ITGB8","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","COL6A3_SDC1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.020556802201979,0.0833333333333333,"tumor_only",10,"LR","COL6A3","SDC1","COLLAGEN","ECM-Receptor",0
+"Plasma","Fibro_C5","Cholesterol-Cholesterol-DHCR7_RORA","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,9.00607553577814e-05,0.0833333333333333,"tumor_only",10,"LR","Cholesterol-DHCR7","RORA","Cholesterol","Non-protein Signaling",0
+"Plasma","Fibro_C5","DHEAsulfate-DHEAS-SULT2B_PPARA","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,1.88355493803122e-05,0.0833333333333333,"tumor_only",10,"LR","DHEAS-SULT2B","PPARA","DHEAS","Non-protein Signaling",0
+"Plasma","Fibro_C5","EDN2_EDNRA","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000291388317079745,0.0833333333333333,"tumor_only",10,"LR","EDN2","EDNRA","EDN","Secreted Signaling",0
+"Plasma","Fibro_C5","EFNB1_EPHB3","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000100785509199489,0.0833333333333333,"tumor_only",10,"LR","EFNB1","EPHB3","EPHB","Cell-Cell Contact",0
+"Plasma","Fibro_C5","EFNB1_EPHB4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,6.80250976299082e-05,0.0833333333333333,"tumor_only",10,"LR","EFNB1","EPHB4","EPHB","Cell-Cell Contact",0
+"Plasma","Fibro_C5","ENTPD1_ADORA1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000393154668176088,0.0833333333333333,"tumor_only",10,"LR","ENTPD1","ADORA1","CD39","Cell-Cell Contact",0
+"Plasma","Fibro_C5","EREG_EGFR","Tumor",12,12,2,2,0,1,3,12,0,0,0,0,0.000747600643108401,0.166666666666667,"tumor_only",10,"LR","EREG","EGFR","EGF","Secreted Signaling",0
+"Plasma","Fibro_C5","EREG_EGFR_ERBB2","Tumor",12,12,2,2,0,1,3,12,0,0,0,0,0.000455061397593341,0.166666666666667,"tumor_only",10,"LR","EREG","EGFR_ERBB2","EGF","Secreted Signaling",0
+"Plasma","Fibro_C5","FN1_ITGA5_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0265220311205535,0.0833333333333333,"tumor_only",10,"LR","FN1","ITGA5_ITGB1","FN1","ECM-Receptor",0
+"Plasma","Fibro_C5","FN1_ITGAV_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0303916675509503,0.0833333333333333,"tumor_only",10,"LR","FN1","ITGAV_ITGB1","FN1","ECM-Receptor",0
+"Plasma","Fibro_C5","GDF15_TGFBR2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.019546577227433,0.0833333333333333,"tumor_only",10,"LR","GDF15","TGFBR2","GDF","Secreted Signaling",0
+"Plasma","Fibro_C5","HBEGF_EGFR_ERBB2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000412147701509666,0.0833333333333333,"tumor_only",10,"LR","HBEGF","EGFR_ERBB2","EGF","Secreted Signaling",0
+"Plasma","Fibro_C5","KLK1_F2R","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.000979535500990399,0.166666666666667,"tumor_only",10,"LR","KLK1","F2R","KLK","Secreted Signaling",0
+"Plasma","Fibro_C5","LAMA4_DAG1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000188634225361423,0.0833333333333333,"tumor_only",10,"LR","LAMA4","DAG1","LAMININ","ECM-Receptor",0
+"Plasma","Fibro_C5","LAMA5_ITGA2_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00178317838824045,0.0833333333333333,"tumor_only",10,"LR","LAMA5","ITGA2_ITGB1","LAMININ","ECM-Receptor",0
+"Plasma","Fibro_C5","LAMB1_ITGA2_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.000174675184309589,0.0833333333333333,"tumor_only",10,"LR","LAMB1","ITGA2_ITGB1","LAMININ","ECM-Receptor",0
+"Plasma","Fibro_C5","NAMPT_ITGA5_ITGB1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00270751645100279,0.0833333333333333,"tumor_only",10,"LR","NAMPT","ITGA5_ITGB1","VISFATIN","Secreted Signaling",0
+"Plasma","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00222283288824701,0.0833333333333333,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"Plasma","Fibro_C5","POSTN_ITGAV_ITGB5","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.0139988672233244,0.0833333333333333,"tumor_only",10,"LR","POSTN","ITGAV_ITGB5","PERIOSTIN","Secreted Signaling",0
+"Plasma","Fibro_C5","SEMA6A_PLXNA4","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,3.22548569783217e-05,0.0833333333333333,"tumor_only",10,"LR","SEMA6A","PLXNA4","SEMA6","Cell-Cell Contact",0
+"Plasma","Fibro_C5","SPP1_ITGA5_ITGB1","Tumor",12,12,2,2,0,2,3,12,0,0,0,0,0.0635848875587831,0.166666666666667,"tumor_only",10,"LR","SPP1","ITGA5_ITGB1","SPP1","Secreted Signaling",0
+"Plasma","Fibro_C5","TGFB3_ACVR1B_TGFBR2","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,7.51611317190477e-05,0.0833333333333333,"tumor_only",10,"LR","TGFB3","ACVR1B_TGFbR2","TGFb","Secreted Signaling",0
+"Plasma","Fibro_C5","TGFB3_ACVR1_TGFBR1","Tumor",12,12,1,1,0,1,3,12,0,0,0,0,0.00116887309145063,0.0833333333333333,"tumor_only",10,"LR","TGFB3","ACVR1_TGFbR","TGFb","Secreted Signaling",0
+"T_NK","Fibro_C5","MIF_CD74_CXCR4","Tumor",13,13,1,1,0,1,2,13,0,0,0,0,0.0115597940434884,0.0769230769230769,"tumor_only",10,"LR","MIF","CD74_CXCR4","MIF","Secreted Signaling",0
+"T_NK","Fibro_C5","PGE2-PTGES2_PTGER1","Tumor",13,13,1,1,0,1,2,13,0,0,0,0,0.000407582432056232,0.0769230769230769,"tumor_only",10,"LR","PGE2-PTGES2","PTGER1","Prostaglandin","Non-protein Signaling",0
+"T_NK","Fibro_C5","PGE2-PTGES2_PTGER2","Tumor",13,13,1,1,0,1,2,13,0,0,0,0,0.00202836936564537,0.0769230769230769,"tumor_only",10,"LR","PGE2-PTGES2","PTGER2","Prostaglandin","Non-protein Signaling",0
+"T_NK","Fibro_C5","PGE2-PTGES3_PTGER1","Tumor",13,13,1,1,0,1,2,13,0,0,0,0,0.00244464450382949,0.0769230769230769,"tumor_only",10,"LR","PGE2-PTGES3","PTGER1","Prostaglandin","Non-protein Signaling",0
+"T_NK","Fibro_C5","XCL2_XCR1","Tumor",13,13,1,1,0,1,2,13,0,0,0,0,0.000243883151620475,0.0769230769230769,"tumor_only",10,"LR","XCL2","XCR1","XCR","Secreted Signaling",0

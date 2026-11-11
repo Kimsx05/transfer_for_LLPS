@@ -1,0 +1,2 @@
+specimen_id,min_cells,status,eligible_C5,n_candidates,runtime_seconds
+"GSE222315_p5_BCa",30,"SUCCESS",TRUE,2241,6.87817025184631

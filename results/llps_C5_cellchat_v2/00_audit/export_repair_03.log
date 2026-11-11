@@ -1,0 +1,46 @@
+START  CNP0000460_P01N 
+DONE  CNP0000460_P01N 
+START  CNP0000460_P01T 
+DONE  CNP0000460_P01T 
+START  CNP0000460_P02N 
+DONE  CNP0000460_P02N 
+START  CNP0000460_P02T 
+DONE  CNP0000460_P02T 
+START  CNP0000460_P03N 
+DONE  CNP0000460_P03N 
+START  CNP0000460_P03T 
+DONE  CNP0000460_P03T 
+START  CNP0000460_P04T 
+DONE  CNP0000460_P04T 
+START  CNP0000460_P05N 
+DONE  CNP0000460_P05N 
+START  CNP0000460_P05T 
+DONE  CNP0000460_P05T 
+START  CNP0000460_P06T 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C5 ! 	32.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5 ! 	76.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Mast ! 	80.9% interactions are removed!
+DONE  CNP0000460_P06T 
+START  CNP0000460_P07N 
+DONE  CNP0000460_P07N 
+START  CNP0000460_P07T 
+DONE  CNP0000460_P07T 
+START  GSE222315_p2_BCa 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C5, Fibro_C6, Endothelial, Plasma ! 	81.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C5, Fibro_C6, Endothelial, Plasma ! 	81.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C5, Fibro_C6, Endothelial, Plasma ! 	81.7% interactions are removed!
+DONE  GSE222315_p2_BCa 
+START  GSE222315_p2_NAT 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Epithelial ! 	69.4% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Epithelial ! 	77.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Epithelial, Endothelial ! 	86.3% interactions are removed!
+DONE  GSE222315_p2_NAT 
+START  GSE222315_p4_BCa 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Epithelial ! 	16.9% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Epithelial, Mast ! 	52.2% interactions are removed!
+DONE  GSE222315_p4_BCa 
+START  GSE222315_p4_NAT 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C3, Fibro_C6 ! 	33.4% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C3, Fibro_C6 ! 	47.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C3, Fibro_C5, Fibro_C6, Mast ! 	66.0% interactions are removed!
+DONE  GSE222315_p4_NAT 

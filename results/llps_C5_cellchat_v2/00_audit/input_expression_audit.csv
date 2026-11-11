@@ -1,0 +1,13 @@
+metric,value
+"RNA_layers","counts;data;scale.data"
+"normalization","LogNormalize"
+"scale_factor","10000"
+"normalization_max_error","0"
+"atlas_cells","353623"
+"included_cells","344377"
+"expression_genes","71683"
+"expressed_genes","70813"
+"DB_genes","1446"
+"expression_DB_intersection","1408"
+"expressed_DB_intersection","1407"
+"DB_gene_match_fraction","0.97372060857538"

@@ -1,0 +1,900 @@
+START  CNP0000460_P01N 
+DONE  CNP0000460_P01N 
+START  CNP0000460_P01T 
+DONE  CNP0000460_P01T 
+START  CNP0000460_P02N 
+DONE  CNP0000460_P02N 
+START  CNP0000460_P02T 
+DONE  CNP0000460_P02T 
+START  CNP0000460_P03N 
+DONE  CNP0000460_P03N 
+START  CNP0000460_P03T 
+DONE  CNP0000460_P03T 
+START  CNP0000460_P04T 
+DONE  CNP0000460_P04T 
+START  CNP0000460_P05N 
+DONE  CNP0000460_P05N 
+START  CNP0000460_P05T 
+DONE  CNP0000460_P05T 
+START  CNP0000460_P06T 
+DONE  CNP0000460_P06T 
+START  CNP0000460_P07N 
+DONE  CNP0000460_P07N 
+START  CNP0000460_P07T 
+DONE  CNP0000460_P07T 
+START  GSE222315_p1_BCa 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Mast ! 	7.9% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Epithelial, Mast ! 	13.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Epithelial, Mast ! 	13.5% interactions are removed!
+DONE  GSE222315_p1_BCa 
+START  GSE222315_p2_BCa 
+DONE  GSE222315_p2_BCa 
+START  GSE222315_p2_NAT 
+DONE  GSE222315_p2_NAT 
+START  GSE222315_p3_BCa 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C3, Fibro_C5 ! 	37.9% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C5, Fibro_C6 ! 	63.0% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C5, Fibro_C6, Mast ! 	71.6% interactions are removed!
+DONE  GSE222315_p3_BCa 
+START  GSE222315_p4_BCa 
+DONE  GSE222315_p4_BCa 
+START  GSE222315_p4_NAT 
+DONE  GSE222315_p4_NAT 
+START  GSE222315_p5_NAT 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C3 ! 	33.4% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C3, Fibro_C5, Endothelial, Plasma, Mast ! 	71.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C3, Fibro_C5, Endothelial, Plasma, Mast ! 	77.0% interactions are removed!
+DONE  GSE222315_p5_NAT 
+START  GSE222315_p6_BCa 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Plasma ! 	81.6% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, B, Plasma ! 	83.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, B, Plasma, Mast ! 	87.1% interactions are removed!
+DONE  GSE222315_p6_BCa 
+START  CNP0000460_P01N 
+DONE  CNP0000460_P01N 
+START  CNP0000460_P01T 
+DONE  CNP0000460_P01T 
+START  CNP0000460_P02N 
+DONE  CNP0000460_P02N 
+START  CNP0000460_P02T 
+DONE  CNP0000460_P02T 
+START  CNP0000460_P03N 
+DONE  CNP0000460_P03N 
+START  CNP0000460_P03T 
+DONE  CNP0000460_P03T 
+START  CNP0000460_P04T 
+DONE  CNP0000460_P04T 
+START  CNP0000460_P05N 
+DONE  CNP0000460_P05N 
+START  CNP0000460_P05T 
+DONE  CNP0000460_P05T 
+START  CNP0000460_P06T 
+DONE  CNP0000460_P06T 
+START  CNP0000460_P07N 
+DONE  CNP0000460_P07N 
+START  CNP0000460_P07T 
+DONE  CNP0000460_P07T 
+START  GSE222315_p1_BCa 
+DONE  GSE222315_p1_BCa 
+START  GSE222315_p2_BCa 
+DONE  GSE222315_p2_BCa 
+START  GSE222315_p2_NAT 
+DONE  GSE222315_p2_NAT 
+START  GSE222315_p3_BCa 
+DONE  GSE222315_p3_BCa 
+START  GSE222315_p4_BCa 
+DONE  GSE222315_p4_BCa 
+START  GSE222315_p4_NAT 
+DONE  GSE222315_p4_NAT 
+START  GSE222315_p5_NAT 
+DONE  GSE222315_p5_NAT 
+START  GSE222315_p6_BCa 
+DONE  GSE222315_p6_BCa 
+START  GSE222315_p8_BCa 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Plasma, Mast ! 	19.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C6, Plasma, Mast ! 	38.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C6, Plasma, Mast ! 	38.2% interactions are removed!
+DONE  GSE222315_p8_BCa 
+START  CNP0000460_P01N 
+DONE  CNP0000460_P01N 
+START  CNP0000460_P01T 
+DONE  CNP0000460_P01T 
+START  CNP0000460_P02N 
+DONE  CNP0000460_P02N 
+START  CNP0000460_P02T 
+DONE  CNP0000460_P02T 
+START  CNP0000460_P03N 
+DONE  CNP0000460_P03N 
+START  CNP0000460_P03T 
+DONE  CNP0000460_P03T 
+START  CNP0000460_P04T 
+DONE  CNP0000460_P04T 
+START  CNP0000460_P05N 
+DONE  CNP0000460_P05N 
+START  CNP0000460_P05T 
+DONE  CNP0000460_P05T 
+START  CNP0000460_P06T 
+DONE  CNP0000460_P06T 
+START  CNP0000460_P07N 
+DONE  CNP0000460_P07N 
+START  CNP0000460_P07T 
+DONE  CNP0000460_P07T 
+START  GSE222315_p1_BCa 
+DONE  GSE222315_p1_BCa 
+START  GSE222315_p2_BCa 
+DONE  GSE222315_p2_BCa 
+START  GSE222315_p2_NAT 
+DONE  GSE222315_p2_NAT 
+START  GSE222315_p3_BCa 
+DONE  GSE222315_p3_BCa 
+START  GSE222315_p4_BCa 
+DONE  GSE222315_p4_BCa 
+START  GSE222315_p4_NAT 
+DONE  GSE222315_p4_NAT 
+START  GSE222315_p5_NAT 
+DONE  GSE222315_p5_NAT 
+START  GSE222315_p6_BCa 
+DONE  GSE222315_p6_BCa 
+START  GSE222315_p8_BCa 
+DONE  GSE222315_p8_BCa 
+START  CNP0000460_P01N 
+DONE  CNP0000460_P01N 
+START  CNP0000460_P01T 
+DONE  CNP0000460_P01T 
+START  CNP0000460_P02N 
+DONE  CNP0000460_P02N 
+START  CNP0000460_P02T 
+DONE  CNP0000460_P02T 
+START  CNP0000460_P03N 
+DONE  CNP0000460_P03N 
+START  CNP0000460_P03T 
+DONE  CNP0000460_P03T 
+START  CNP0000460_P04T 
+DONE  CNP0000460_P04T 
+START  CNP0000460_P05N 
+DONE  CNP0000460_P05N 
+START  CNP0000460_P05T 
+DONE  CNP0000460_P05T 
+START  CNP0000460_P06T 
+DONE  CNP0000460_P06T 
+START  CNP0000460_P07N 
+DONE  CNP0000460_P07N 
+START  CNP0000460_P07T 
+DONE  CNP0000460_P07T 
+START  GSE222315_p1_BCa 
+DONE  GSE222315_p1_BCa 
+START  GSE222315_p2_BCa 
+DONE  GSE222315_p2_BCa 
+START  GSE222315_p2_NAT 
+DONE  GSE222315_p2_NAT 
+START  GSE222315_p3_BCa 
+DONE  GSE222315_p3_BCa 
+START  GSE222315_p4_BCa 
+DONE  GSE222315_p4_BCa 
+START  GSE222315_p4_NAT 
+DONE  GSE222315_p4_NAT 
+START  GSE222315_p5_BCa 
+DONE  GSE222315_p5_BCa 
+START  GSE222315_p5_NAT 
+DONE  GSE222315_p5_NAT 
+START  GSE222315_p6_BCa 
+DONE  GSE222315_p6_BCa 
+START  GSE222315_p8_BCa 
+DONE  GSE222315_p8_BCa 
+START  GSE222315_p9_BCa 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C6, B, Plasma ! 	41.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6, B, Plasma ! 	83.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6, B, Plasma, Mast ! 	87.8% interactions are removed!
+DONE  GSE222315_p9_BCa 
+START  CNP0000460_P01N 
+DONE  CNP0000460_P01N 
+START  CNP0000460_P01T 
+DONE  CNP0000460_P01T 
+START  CNP0000460_P02N 
+DONE  CNP0000460_P02N 
+START  CNP0000460_P02T 
+DONE  CNP0000460_P02T 
+START  CNP0000460_P03N 
+DONE  CNP0000460_P03N 
+START  CNP0000460_P03T 
+DONE  CNP0000460_P03T 
+START  CNP0000460_P04T 
+DONE  CNP0000460_P04T 
+START  CNP0000460_P05N 
+DONE  CNP0000460_P05N 
+START  CNP0000460_P05T 
+DONE  CNP0000460_P05T 
+START  CNP0000460_P06T 
+DONE  CNP0000460_P06T 
+START  CNP0000460_P07N 
+DONE  CNP0000460_P07N 
+START  CNP0000460_P07T 
+DONE  CNP0000460_P07T 
+START  GSE222315_p1_BCa 
+DONE  GSE222315_p1_BCa 
+START  GSE222315_p2_BCa 
+DONE  GSE222315_p2_BCa 
+START  GSE222315_p2_NAT 
+DONE  GSE222315_p2_NAT 
+START  GSE222315_p3_BCa 
+DONE  GSE222315_p3_BCa 
+START  GSE222315_p4_BCa 
+DONE  GSE222315_p4_BCa 
+START  GSE222315_p4_NAT 
+DONE  GSE222315_p4_NAT 
+START  GSE222315_p5_BCa 
+DONE  GSE222315_p5_BCa 
+START  GSE222315_p5_NAT 
+DONE  GSE222315_p5_NAT 
+START  GSE222315_p6_BCa 
+DONE  GSE222315_p6_BCa 
+START  GSE222315_p8_BCa 
+DONE  GSE222315_p8_BCa 
+START  GSE222315_p9_BCa 
+DONE  GSE222315_p9_BCa 
+START  GSM4006645_BC2 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C6, Endothelial, T_NK, B, Plasma ! 	96.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C6, Endothelial, Myeloid, T_NK, B, Plasma ! 	99.1% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C6, Endothelial, Myeloid, T_NK, B, Plasma ! 	99.1% interactions are removed!
+DONE  GSM4006645_BC2 
+START  GSM4006646_BC3 
+DONE  GSM4006646_BC3 
+START  CNP0000460_P01N 
+DONE  CNP0000460_P01N 
+START  CNP0000460_P01T 
+DONE  CNP0000460_P01T 
+START  CNP0000460_P02N 
+DONE  CNP0000460_P02N 
+START  CNP0000460_P02T 
+DONE  CNP0000460_P02T 
+START  CNP0000460_P03N 
+DONE  CNP0000460_P03N 
+START  CNP0000460_P03T 
+DONE  CNP0000460_P03T 
+START  CNP0000460_P04T 
+DONE  CNP0000460_P04T 
+START  CNP0000460_P05N 
+DONE  CNP0000460_P05N 
+START  CNP0000460_P05T 
+DONE  CNP0000460_P05T 
+START  CNP0000460_P06T 
+DONE  CNP0000460_P06T 
+START  CNP0000460_P07N 
+DONE  CNP0000460_P07N 
+START  CNP0000460_P07T 
+DONE  CNP0000460_P07T 
+START  GSE222315_p1_BCa 
+DONE  GSE222315_p1_BCa 
+START  GSE222315_p2_BCa 
+DONE  GSE222315_p2_BCa 
+START  GSE222315_p2_NAT 
+DONE  GSE222315_p2_NAT 
+START  GSE222315_p3_BCa 
+DONE  GSE222315_p3_BCa 
+START  GSE222315_p4_BCa 
+DONE  GSE222315_p4_BCa 
+START  GSE222315_p4_NAT 
+DONE  GSE222315_p4_NAT 
+START  GSE222315_p5_BCa 
+DONE  GSE222315_p5_BCa 
+START  GSE222315_p5_NAT 
+DONE  GSE222315_p5_NAT 
+START  GSE222315_p6_BCa 
+DONE  GSE222315_p6_BCa 
+START  GSE222315_p8_BCa 
+DONE  GSE222315_p8_BCa 
+START  GSE222315_p9_BCa 
+DONE  GSE222315_p9_BCa 
+START  GSM4006645_BC2 
+DONE  GSM4006645_BC2 
+START  GSM4006646_BC3 
+DONE  GSM4006646_BC3 
+START  CNP0000460_P01N 
+DONE  CNP0000460_P01N 
+START  CNP0000460_P01T 
+DONE  CNP0000460_P01T 
+START  CNP0000460_P02N 
+DONE  CNP0000460_P02N 
+START  CNP0000460_P02T 
+DONE  CNP0000460_P02T 
+START  CNP0000460_P03N 
+DONE  CNP0000460_P03N 
+START  CNP0000460_P03T 
+DONE  CNP0000460_P03T 
+START  CNP0000460_P04T 
+DONE  CNP0000460_P04T 
+START  CNP0000460_P05N 
+DONE  CNP0000460_P05N 
+START  CNP0000460_P05T 
+DONE  CNP0000460_P05T 
+START  CNP0000460_P06T 
+DONE  CNP0000460_P06T 
+START  CNP0000460_P07N 
+DONE  CNP0000460_P07N 
+START  CNP0000460_P07T 
+DONE  CNP0000460_P07T 
+START  GSE222315_p1_BCa 
+DONE  GSE222315_p1_BCa 
+START  GSE222315_p2_BCa 
+DONE  GSE222315_p2_BCa 
+START  GSE222315_p2_NAT 
+DONE  GSE222315_p2_NAT 
+START  GSE222315_p3_BCa 
+DONE  GSE222315_p3_BCa 
+START  GSE222315_p4_BCa 
+DONE  GSE222315_p4_BCa 
+START  GSE222315_p4_NAT 
+DONE  GSE222315_p4_NAT 
+START  GSE222315_p5_BCa 
+DONE  GSE222315_p5_BCa 
+START  GSE222315_p5_NAT 
+DONE  GSE222315_p5_NAT 
+START  GSE222315_p6_BCa 
+DONE  GSE222315_p6_BCa 
+START  GSE222315_p8_BCa 
+DONE  GSE222315_p8_BCa 
+START  GSE222315_p9_BCa 
+DONE  GSE222315_p9_BCa 
+START  GSM4006645_BC2 
+DONE  GSM4006645_BC2 
+START  GSM4006646_BC3 
+DONE  GSM4006646_BC3 
+START  CNP0000460_P01N 
+DONE  CNP0000460_P01N 
+START  CNP0000460_P01T 
+DONE  CNP0000460_P01T 
+START  CNP0000460_P02N 
+DONE  CNP0000460_P02N 
+START  CNP0000460_P02T 
+DONE  CNP0000460_P02T 
+START  CNP0000460_P03N 
+DONE  CNP0000460_P03N 
+START  CNP0000460_P03T 
+DONE  CNP0000460_P03T 
+START  CNP0000460_P04T 
+DONE  CNP0000460_P04T 
+START  CNP0000460_P05N 
+DONE  CNP0000460_P05N 
+START  CNP0000460_P05T 
+DONE  CNP0000460_P05T 
+START  CNP0000460_P06T 
+DONE  CNP0000460_P06T 
+START  CNP0000460_P07N 
+DONE  CNP0000460_P07N 
+START  CNP0000460_P07T 
+DONE  CNP0000460_P07T 
+START  GSE222315_p1_BCa 
+DONE  GSE222315_p1_BCa 
+START  GSE222315_p2_BCa 
+DONE  GSE222315_p2_BCa 
+START  GSE222315_p2_NAT 
+DONE  GSE222315_p2_NAT 
+START  GSE222315_p3_BCa 
+DONE  GSE222315_p3_BCa 
+START  GSE222315_p4_BCa 
+DONE  GSE222315_p4_BCa 
+START  GSE222315_p4_NAT 
+DONE  GSE222315_p4_NAT 
+START  GSE222315_p5_BCa 
+DONE  GSE222315_p5_BCa 
+START  GSE222315_p5_NAT 
+DONE  GSE222315_p5_NAT 
+START  GSE222315_p6_BCa 
+DONE  GSE222315_p6_BCa 
+START  GSE222315_p7_BCa 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C3, T_NK, Plasma, Mast ! 	63.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C3, Fibro_C6, T_NK, Plasma, Mast ! 	73.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C3, Fibro_C6, T_NK, Plasma, Mast ! 	73.2% interactions are removed!
+DONE  GSE222315_p7_BCa 
+START  GSE222315_p8_BCa 
+DONE  GSE222315_p8_BCa 
+START  GSE222315_p9_BCa 
+DONE  GSE222315_p9_BCa 
+START  GSM4006645_BC2 
+DONE  GSM4006645_BC2 
+START  GSM4006646_BC3 
+DONE  GSM4006646_BC3 
+Error: unexpected ',' in "e(),"
+Execution halted
+START  GSM4006644_BC1 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  T_NK ! 	46.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Myeloid, T_NK ! 	82.6% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Myeloid, T_NK ! 	82.6% interactions are removed!
+DONE  GSM4006644_BC1 
+START  GSM4006647_BC4 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Myeloid, Plasma ! 	92.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Myeloid, Plasma ! 	92.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Myeloid, Plasma ! 	92.3% interactions are removed!
+DONE  GSM4006647_BC4 
+START  GSM4006648_BC5 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C3, Fibro_C4, Fibro_C6, Mast ! 	61.9% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6, Plasma, Mast ! 	79.0% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6, Plasma, Mast ! 	79.0% interactions are removed!
+DONE  GSM4006648_BC5 
+START  GSM4751267_BC6 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C4, Endothelial, T_NK, Plasma ! 	92.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C4, Endothelial, T_NK, Plasma ! 	92.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C4, Endothelial, Myeloid, T_NK, Plasma ! 	96.9% interactions are removed!
+DONE  GSM4751267_BC6 
+START  GSM5329919_BCN 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Endothelial, T_NK ! 	30.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Endothelial, T_NK ! 	30.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Endothelial, T_NK, B ! 	37.2% interactions are removed!
+DONE  GSM5329919_BCN 
+START  HRA003620_BC-01 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C5, Endothelial ! 	62.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C5, Endothelial ! 	62.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C5, Endothelial ! 	62.5% interactions are removed!
+DONE  HRA003620_BC-01 
+START  GSM4751268_BC7 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C4, Fibro_C5, Endothelial, Plasma ! 	93.6% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C4, Fibro_C5, Endothelial, Plasma ! 	93.6% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C4, Fibro_C5, Endothelial, Plasma ! 	93.6% interactions are removed!
+DONE  GSM4751268_BC7 
+START  HRA003620_BC-05 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Endothelial, Mast ! 	48.4% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Endothelial, Mast ! 	48.4% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Endothelial, Mast ! 	48.4% interactions are removed!
+DONE  HRA003620_BC-05 
+START  HRA003620_BC-11 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C1, Fibro_C4, Fibro_C5 ! 	61.8% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C1, Fibro_C4, Fibro_C5, Mast ! 	71.6% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C1, Fibro_C4, Fibro_C5, Mast ! 	71.6% interactions are removed!
+DONE  HRA003620_BC-11 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/115/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/125/wchan'
+START  HRA003620_BC-04 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C4, B, Plasma, Mast ! 	59.0% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C1, Fibro_C4, B, Plasma, Mast ! 	77.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C1, Fibro_C4, B, Plasma, Mast ! 	77.5% interactions are removed!
+DONE  HRA003620_BC-04 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/131/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/141/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/147/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/157/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/163/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/173/wchan'
+START  HRA003620_BC-27 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C3, Mast ! 	22.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C3, Mast ! 	47.8% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C3, Mast ! 	47.8% interactions are removed!
+DONE  HRA003620_BC-27 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/179/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/189/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/195/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/205/wchan'
+START  HRA003620_BC-30 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C4, Fibro_C5, Endothelial, Mast ! 	55.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C4, Fibro_C5, Endothelial, Mast ! 	55.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C4, Fibro_C5, Endothelial, Mast ! 	55.3% interactions are removed!
+DONE  HRA003620_BC-30 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/211/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/221/wchan'
+START  HRA003620_BC-24 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  B, Plasma, Mast ! 	52.0% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Endothelial, B, Plasma, Mast ! 	71.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Endothelial, B, Plasma, Mast ! 	71.3% interactions are removed!
+DONE  HRA003620_BC-24 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/227/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/237/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/243/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/253/wchan'
+START  HRA003620_NC-04 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C3, Fibro_C4, B, Plasma, Mast ! 	63.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C3, Fibro_C4, B, Plasma, Mast ! 	63.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C3, Fibro_C4, B, Plasma, Mast ! 	63.2% interactions are removed!
+DONE  HRA003620_NC-04 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/259/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/269/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/275/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/285/wchan'
+START  HRA003620_NC-01 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Epithelial, Plasma, Mast ! 	74.6% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Epithelial, Plasma, Mast ! 	74.6% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Epithelial, Plasma, Mast ! 	74.6% interactions are removed!
+DONE  HRA003620_NC-01 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/291/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/301/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/307/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/317/wchan'
+START  HRA003620_NC-05 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C4, Fibro_C6, Mast ! 	58.1% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C4, Fibro_C6, Mast ! 	58.1% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C4, Fibro_C6, Mast ! 	58.1% interactions are removed!
+DONE  HRA003620_NC-05 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/323/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/333/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/339/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/349/wchan'
+START  HRA003620_NC-24 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C3, Fibro_C5, B, Plasma, Mast ! 	52.8% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C5, B, Plasma, Mast ! 	67.0% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C5, B, Plasma, Mast ! 	67.0% interactions are removed!
+DONE  HRA003620_NC-24 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/355/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/365/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/371/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/381/wchan'
+START  HRA003620_NC-11 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C4, Mast ! 	52.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C4, Endothelial, Mast ! 	66.4% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C4, Endothelial, Mast ! 	66.4% interactions are removed!
+DONE  HRA003620_NC-11 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/387/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/397/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/403/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/413/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/419/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/429/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/435/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/445/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/451/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/461/wchan'
+START  HRA003620_NC-27 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Mast ! 	25.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Plasma, Mast ! 	41.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Plasma, Mast ! 	41.2% interactions are removed!
+DONE  HRA003620_NC-27 
+START  T4091568 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1 ! 	17.7% interactions are removed!
+DONE  T4091568 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/467/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/477/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/483/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/493/wchan'
+START  HRA003620_NC-30 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Epithelial ! 	10.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C3, Epithelial ! 	32.6% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Epithelial, Plasma ! 	59.2% interactions are removed!
+DONE  HRA003620_NC-30 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/499/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/509/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/515/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/525/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/531/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/541/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/547/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/557/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/563/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/573/wchan'
+START  T4380845 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C4 ! 	40.9% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C3, Fibro_C4, Mast ! 	68.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C3, Fibro_C4, Mast ! 	68.7% interactions are removed!
+DONE  T4380845 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/579/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/589/wchan'
+START  T4398343 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C6 ! 	46.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C6 ! 	46.7% interactions are removed!
+DONE  T4398343 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/595/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/605/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/611/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/621/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/627/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/637/wchan'
+START  T4295396 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Mast ! 	34.8% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C2, Fibro_C3, Fibro_C4, Endothelial, Mast ! 	75.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C1, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Endothelial, Mast ! 	91.8% interactions are removed!
+DONE  T4295396 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/643/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/653/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/659/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/669/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/675/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/685/wchan'
+START  T4463209a 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6 ! 	70.0% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6 ! 	70.0% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6 ! 	70.0% interactions are removed!
+DONE  T4463209a 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/691/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/701/wchan'
+START  T4463209b 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C5 ! 	22.1% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C5 ! 	32.0% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5 ! 	62.4% interactions are removed!
+DONE  T4463209b 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/707/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/717/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/723/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/733/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/739/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/749/wchan'
+START  T4450398 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C6, Epithelial ! 	43.4% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C6, Epithelial, Endothelial ! 	64.2% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C1, Fibro_C6, Epithelial, Endothelial ! 	64.2% interactions are removed!
+DONE  T4450398 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/755/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/765/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/771/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/781/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/787/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/797/wchan'
+START  T4465935 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6 ! 	74.1% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6, Endothelial ! 	82.5% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C4, Fibro_C5, Fibro_C6, Endothelial ! 	82.5% interactions are removed!
+DONE  T4465935 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/803/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/813/wchan'
+START  T4466585 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C3, Epithelial ! 	34.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C3, Fibro_C4, Epithelial, Plasma ! 	56.8% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C3, Fibro_C4, Fibro_C6, Epithelial, Plasma ! 	65.9% interactions are removed!
+DONE  T4466585 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/819/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/829/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/835/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/845/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/851/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/861/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/867/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/877/wchan'
+START  T4465219 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C6 ! 	11.3% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C6, B ! 	34.9% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C3, Fibro_C5, Fibro_C6, B ! 	67.1% interactions are removed!
+DONE  T4465219 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/883/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/893/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/899/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/909/wchan'
+START  T8009218 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C6 ! 	16.1% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C6, Plasma ! 	24.4% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C3, Fibro_C6, Plasma ! 	37.0% interactions are removed!
+DONE  T8009218 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/915/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/925/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/931/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/941/wchan'
+START  T4471438 
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C2, Fibro_C6 ! 	19.8% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C4, Fibro_C6 ! 	54.7% interactions are removed!
+The cell-cell communication related with the following cell groups are excluded due to the few number of cells:  Fibro_C0, Fibro_C2, Fibro_C4, Fibro_C6, B ! 	58.4% interactions are removed!
+DONE  T4471438 
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/947/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/957/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/963/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/973/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/979/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/989/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1005/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/995/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1011/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1021/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1027/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1037/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1043/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1053/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1059/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1069/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1075/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1085/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1091/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1101/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1107/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1117/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1123/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1133/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1139/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1149/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1155/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1165/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1171/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1181/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1187/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1197/wchan'
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1203/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1213/wchan'

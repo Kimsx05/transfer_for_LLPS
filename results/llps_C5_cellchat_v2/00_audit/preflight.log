@@ -1,0 +1,72 @@
+Read original atlas
+[1] "counts"     "data"       "scale.data"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    5898307  315.1    8610258   459.9    7206526   384.9
+Vcells 1166344334 8898.6 5508180123 42024.1 5739835608 43791.5
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    5899661  315.1    8610258   459.9    7206526   384.9
+Vcells 1167215961 8905.2 4406544099 33619.3 5739835608 43791.5
+Verified  HRA003620_BC-01 
+Verified  HRA003620_BC-04 
+Verified  HRA003620_BC-05 
+Verified  HRA003620_BC-11 
+Verified  HRA003620_BC-24 
+Verified  HRA003620_BC-27 
+Verified  HRA003620_BC-30 
+Verified  HRA003620_NC-01 
+Verified  HRA003620_NC-04 
+Verified  HRA003620_NC-05 
+Verified  HRA003620_NC-11 
+Verified  HRA003620_NC-24 
+Verified  HRA003620_NC-27 
+Verified  HRA003620_NC-30 
+Verified  GSM4006644_BC1 
+Verified  GSM4006645_BC2 
+Verified  GSM4006646_BC3 
+Verified  GSM4006647_BC4 
+Verified  GSM4006648_BC5 
+Verified  GSM4751267_BC6 
+Verified  GSM4751268_BC7 
+Verified  GSM5329919_BCN 
+Verified  GSE222315_p1_BCa 
+Verified  GSE222315_p2_NAT 
+Verified  GSE222315_p2_BCa 
+Verified  GSE222315_p3_BCa 
+Verified  GSE222315_p4_NAT 
+Verified  GSE222315_p4_BCa 
+Verified  GSE222315_p5_NAT 
+Verified  GSE222315_p5_BCa 
+Verified  GSE222315_p6_BCa 
+Verified  GSE222315_p7_BCa 
+Verified  GSE222315_p8_BCa 
+Verified  GSE222315_p9_BCa 
+Verified  CNP0000460_P01N 
+Verified  CNP0000460_P02N 
+Verified  CNP0000460_P03N 
+Verified  CNP0000460_P05N 
+Verified  CNP0000460_P07N 
+Verified  CNP0000460_P01T 
+Verified  CNP0000460_P02T 
+Verified  CNP0000460_P03T 
+Verified  CNP0000460_P04T 
+Verified  CNP0000460_P05T 
+Verified  CNP0000460_P06T 
+Verified  CNP0000460_P07T 
+Verified  T4380845 
+Verified  T4091568 
+Verified  T4295396 
+Verified  T4398343 
+Verified  T4450398 
+Verified  T4463209a 
+Verified  T4463209b 
+Verified  T4466585 
+Verified  T4469479 
+Verified  T4471438 
+Verified  T8009218 
+Verified  T4465935 
+Verified  T4465219 
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Warning message:
+In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+PREFLIGHT PASS

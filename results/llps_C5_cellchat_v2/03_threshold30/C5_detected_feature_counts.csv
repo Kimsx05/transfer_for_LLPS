@@ -1,0 +1,3 @@
+min_cells,direction,unique_LR_pairs,unique_pathways,unique_directed_LR_edges,unique_directed_pathway_edges,positive_LR_specimens,positive_LR_patients
+30,"outgoing",940,134,4110,888,10,10
+30,"incoming",851,131,3758,825,10,10

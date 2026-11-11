@@ -1,0 +1,10 @@
+Warning messages:
+1: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1218/wchan'
+2: In readLines(file.path(d, "wchan")) :
+  incomplete final line found on '/proc/self/task/1228/wchan'
+SUMMARY threshold  10 
+Error in `[.data.table`(c5net, sender == "Fibro_C5", .(strength = if (any(eligible)) sum(weight,  : 
+  Column 3 of result for group 13 is type 'integer' but expecting type 'double'. Column types must be consistent for each group.
+Calls: rbind ... standardGeneric -> eval -> eval -> eval -> [ -> [.data.table
+Execution halted

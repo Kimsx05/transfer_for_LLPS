@@ -1,0 +1,1 @@
+sender,receiver,interaction_id,raw_probability,p_value,ligand,receptor,pathway,annotation,sender_cells,receiver_cells,eligible,probability,cellchat_p_value,weight,detected,p_BH_within_specimen_direction,specimen_id,patient_id,dataset,clinical_group,min_cells,C5_cells

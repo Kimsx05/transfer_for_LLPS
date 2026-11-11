@@ -1,0 +1,33 @@
+| min_cells | successful_specimens | successful_patients | C5_eligible_specimens | C5_eligible_patients |
+| --- | --- | --- | --- | --- |
+| 10 | 59 | 42 | 17 | 15 |
+| 20 | 59 | 42 | 14 | 13 |
+| 30 | 59 | 42 | 10 | 10 |
+
+TOP CANDIDATES
+| sender | receiver | ligand | receptor | pathway | evidence_tier | positive_patients | support_by_dataset |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Fibro_C5 | Myeloid | APP | CD74 | APP | A_multi_dataset_replicated | 13 | CNP0000460:0/0;GSE135337:0/0;GSE222315:5/5;HRA003620:0/0;InhouseData:8/8 |
+| Fibro_C5 | Myeloid | THY1 | ITGAX_ITGB2 | THY1 | A_multi_dataset_replicated | 13 | CNP0000460:0/0;GSE135337:0/0;GSE222315:5/5;HRA003620:0/0;InhouseData:8/8 |
+| Myeloid | Fibro_C5 | SPP1 | ITGAV_ITGB1 | SPP1 | A_multi_dataset_replicated | 13 | CNP0000460:0/0;GSE135337:0/0;GSE222315:5/5;HRA003620:0/0;InhouseData:8/8 |
+| Myeloid | Fibro_C5 | SPP1 | ITGAV_ITGB5 | SPP1 | A_multi_dataset_replicated | 13 | CNP0000460:0/0;GSE135337:0/0;GSE222315:5/5;HRA003620:0/0;InhouseData:8/8 |
+| Fibro_C5 | Fibro_C1 | COL1A1 | ITGA1_ITGB1 | COLLAGEN | A_multi_dataset_replicated | 12 | CNP0000460:0/0;GSE135337:0/0;GSE222315:5/5;HRA003620:0/0;InhouseData:7/7 |
+| Fibro_C5 | Fibro_C1 | COL1A2 | ITGA1_ITGB1 | COLLAGEN | A_multi_dataset_replicated | 12 | CNP0000460:0/0;GSE135337:0/0;GSE222315:5/5;HRA003620:0/0;InhouseData:7/7 |
+| Fibro_C5 | T_NK | COL1A1 | CD44 | COLLAGEN | A_multi_dataset_replicated | 12 | CNP0000460:0/0;GSE135337:0/0;GSE222315:4/4;HRA003620:0/0;InhouseData:8/8 |
+| Fibro_C5 | T_NK | COL1A2 | CD44 | COLLAGEN | A_multi_dataset_replicated | 12 | CNP0000460:0/0;GSE135337:0/0;GSE222315:4/4;HRA003620:0/0;InhouseData:8/8 |
+| Fibro_C5 | Endothelial | COL1A1 | ITGA1_ITGB1 | COLLAGEN | A_multi_dataset_replicated | 12 | CNP0000460:0/0;GSE135337:0/0;GSE222315:5/5;HRA003620:0/0;InhouseData:7/7 |
+| Fibro_C5 | Endothelial | COL1A2 | ITGA1_ITGB1 | COLLAGEN | A_multi_dataset_replicated | 12 | CNP0000460:0/0;GSE135337:0/0;GSE222315:5/5;HRA003620:0/0;InhouseData:7/7 |
+
+COMMON C5 vs C0
+| partner | direction | patient_condition_units | paired_median_difference |
+| --- | --- | --- | --- |
+| Epithelial | outgoing | 4 | 0.779 |
+| Epithelial | incoming | 4 | 0.2344 |
+| Endothelial | outgoing | 5 | 0.4419 |
+| Endothelial | incoming | 5 | 0.218 |
+| Myeloid | outgoing | 6 | 0.4638 |
+| Myeloid | incoming | 6 | 0.07861 |
+| T_NK | outgoing | 6 | 0.3593 |
+| T_NK | incoming | 6 | 0.06174 |
+
+REPORT COMPLETE /home/jinshengxi/bladder_metabolism/results/llps_C5_cellchat_v2/README.md

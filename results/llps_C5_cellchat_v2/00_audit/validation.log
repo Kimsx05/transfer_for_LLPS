@@ -1,0 +1,2 @@
+Error: all(oldstat$mtime == as.character(file.info(oldstat$path)$mtime)) is not TRUE
+Execution halted

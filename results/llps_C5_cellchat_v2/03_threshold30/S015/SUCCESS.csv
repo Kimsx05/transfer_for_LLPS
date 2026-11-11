@@ -1,0 +1,2 @@
+specimen_id,min_cells,status,eligible_C5,n_candidates,runtime_seconds
+"GSE222315_p2_NAT",30,"SUCCESS",FALSE,1290,2.834148645401

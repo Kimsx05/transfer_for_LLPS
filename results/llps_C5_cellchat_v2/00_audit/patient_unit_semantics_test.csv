@@ -1,0 +1,9 @@
+feature,stratum,eligible_specimens,eligible_patients,positive_specimens,positive_patients,specimen_median,positive_datasets,eligible_datasets,patient_condition_units,patient_condition_median,patient_condition_q25,patient_condition_q75,patient_condition_min,patient_condition_max,patient_prevalence,stratification
+"LR1","All",3,1,2,1,2,1,1,2,2.5,1.75,3.25,1,4,1,"overall"
+"LR1","MIBC",2,1,1,1,1,1,1,1,1,1,1,1,1,1,"clinical_group"
+"LR1","Normal",1,1,1,1,4,1,1,1,4,4,4,4,4,1,"clinical_group"
+"LR1","D",3,1,2,1,2,1,1,2,2.5,1.75,3.25,1,4,1,"dataset"
+"LR1","D::MIBC",2,1,1,1,1,1,1,1,1,1,1,1,1,1,"dataset_clinical"
+"LR1","D::Normal",1,1,1,1,4,1,1,1,4,4,4,4,4,1,"dataset_clinical"
+"LR1","Tumor",2,1,1,1,1,1,1,1,1,1,1,1,1,1,"tumor_only"
+"LR1","D",2,1,1,1,1,1,1,1,1,1,1,1,1,1,"tumor_dataset"
