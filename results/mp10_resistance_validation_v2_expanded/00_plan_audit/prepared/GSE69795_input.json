@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE69795",
+  "scale": "author_log2",
+  "n_features_original": 29377,
+  "n_background": 20483,
+  "n_assays": 61,
+  "missing_values": 0,
+  "min": 2.63,
+  "median": 10.39,
+  "max": 16.13,
+  "note": "Quantile normalization in the Linear Models for Microarray Data (LIMMA) package in the R language environment was used to normalize the data"
+}

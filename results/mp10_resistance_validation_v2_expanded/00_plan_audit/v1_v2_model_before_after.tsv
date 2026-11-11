@@ -1,0 +1,7 @@
+dataset	version	n	OR	CI_low	CI_high	P	note
+GSE169455	v1_scores_v1_MLE	125	0.767441869622126	0.533480732158901	1.10400805079812	0.153679889122927	same frozen inclusion/reference z; isolate mapping/score effect
+GSE169455	v2_scores_same_MLE	125	0.767441869622126	0.533480732158901	1.10400805079812	0.153679889122927	same frozen inclusion/reference z; isolate mapping/score effect
+GSE169455	v2_scores_frozen_v2_estimator	125	0.767441869622127	0.533480732158902	1.10400805079812	0.15367988912293	Firth for n<40 or sparse minority; not chosen by P
+GSE212810	v1_scores_v1_MLE	28	0.575601250538	0.21718576587102	1.52549960303416	0.266693272562457	same frozen inclusion/reference z; isolate mapping/score effect
+GSE212810	v2_scores_same_MLE	28	0.575702900339547	0.21724801955135	1.52560115458741	0.266792208648551	same frozen inclusion/reference z; isolate mapping/score effect
+GSE212810	v2_scores_frozen_v2_estimator	28	0.676919362690728	0.222517211543355	1.35390282213206	0.293743098341803	Firth for n<40 or sparse minority; not chosen by P

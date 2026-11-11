@@ -1,0 +1,8 @@
+issue	before	after	audit_file
+HLA identity	v1 HLA-DRB3->HLA-DPB1 reverse alias confirmed	v2 HGNC exact identity; no HLA substitution; missing retained	epi_signature_feature_mapping.tsv
+unmapped background collapse	v1 same unknown author name RF00019 merged distinct Ensembl	v2 preserves UNMAPPED|original_id; only same mapped gene merged	GSE171537_gene_mapping.tsv
+Ensembl fallback	v1 configured but actual mapping omitted stable-ID fallback	v2 HGNC Ensembl/Entrez + version stripping + unique alias, ambiguity retained	all *_gene_mapping.tsv
+adjusted_rho	v1 unconditional NA branch	v2 actual rank residual depth/cycle and nFeature sensitivity; pending is labelled separately	../02_epi/sample_effects.tsv
+patient identity	v1 all patient placeholders unverified	same12 Inhouse specimens verified by user evidence; a/b combined; others remain descriptive	epi_patient_identity.tsv
+report hardcodes	v1 hardcoded report n/status	v2 all tables/report generated from actual output files	../scripts/29_report.py
+AUCell method name	v1 registered average-tie AUCell-like	preserved same definition with numerical error<1e-12; official AUCell/UCell separate versions	../02_epi/average_tie_execution.json

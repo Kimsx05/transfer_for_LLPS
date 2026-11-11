@@ -1,0 +1,103 @@
+{
+  "title": [
+    "Tumors with neoadjuvant chemotherapy"
+  ],
+  "geo_accession": [
+    "GSE52219"
+  ],
+  "status": [
+    "Public on Feb 10 2014"
+  ],
+  "submission_date": [
+    "Nov 08 2013"
+  ],
+  "last_update_date": [
+    "Dec 22 2017"
+  ],
+  "pubmed_id": [
+    "24525232"
+  ],
+  "summary": [
+    "Using whole genome mRNA expression profiling of primary human tumors and unsupervised hierarchical cluster analyses,  3 novel molecular subsets (basal, luminal and p53-like subsets) of muscle-invasive bladder cancer (MIBC) were identified.  23 MVAC treated samples were used for the validation of three MIBC subsets"
+  ],
+  "overall_design": [
+    "MVAC cohort consisted of 23 FFPE pretreatment tumors (TURs) from a Phase III clinical trial were used to validate 3 molecular subsets including basal, luminal and p53-like subsets",
+    "We used Illumina cDNA-mediated Annealing, Selection, Extension, and Ligation (DASL) assay that is specifically designed for the gene expression of RNA that is extracted from FFPE."
+  ],
+  "type": [
+    "Expression profiling by array"
+  ],
+  "contributor": [
+    "Woonyoung,,Choi",
+    "I-ling,,Lee",
+    "David,,McConkey"
+  ],
+  "sample_id": [
+    "GSM1261392",
+    "GSM1261393",
+    "GSM1261394",
+    "GSM1261395",
+    "GSM1261396",
+    "GSM1261397",
+    "GSM1261398",
+    "GSM1261399",
+    "GSM1261400",
+    "GSM1261401",
+    "GSM1261402",
+    "GSM1261403",
+    "GSM1261404",
+    "GSM1261405",
+    "GSM1261406",
+    "GSM1261407",
+    "GSM1261408",
+    "GSM1261409",
+    "GSM1261410",
+    "GSM1261411",
+    "GSM1261412",
+    "GSM1261413",
+    "GSM1261414"
+  ],
+  "contact_name": [
+    "Woonyoung,,Choi"
+  ],
+  "contact_institute": [
+    "Md Anderson Cancer center"
+  ],
+  "contact_address": [
+    "1515 Holcombe"
+  ],
+  "contact_city": [
+    "Houston"
+  ],
+  "contact_state": [
+    "TX"
+  ],
+  "contact_zip/postal_code": [
+    "77030"
+  ],
+  "contact_country": [
+    "USA"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE52nnn/GSE52219/suppl/GSE52219_non_normalized.txt.gz"
+  ],
+  "platform_id": [
+    "GPL14951"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "SubSeries of: GSE48277",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA227178"
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "time": "2026-11-11T01:52:34.766570+00:00",
+  "local_git": "not a git repository",
+  "reference_commit": "a1aaeba7cdd2b7398c6798a295253b3062668e49",
+  "files": [
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/03_epi_mapping.R",
+      "bytes": 739,
+      "sha256": "cee3e6750beca21b372301167bcb030ea909502af1224c3cc400f4f70f0bfaf7"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/00_extract_clinical.R",
+      "bytes": 490,
+      "sha256": "9c329fd39c9f795b10ada6d575813fcfe4e3f13dc2b68dd3a4a0f5476677c29c"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/firth.R",
+      "bytes": 1651,
+      "sha256": "e82cc4c8333e5f6e9ffa488b5978776cab4c25591231d06181467061122e1e56"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/02_bulk_scores.R",
+      "bytes": 1773,
+      "sha256": "410e5503d14461d9f3e92dd36e2489ae958b2d5f4a84c324b9e259f728e94f64"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/common.R",
+      "bytes": 4384,
+      "sha256": "6259f0f6283d0b849fd5a2c95008ab423e173ad714510aaba7c7f0703ebe33c2"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/04b_patient_summary.py",
+      "bytes": 2418,
+      "sha256": "f8c81b2547d23b510a9c303a86d3b88eea9e695de9e4c1e8df0a72dafff3233b"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/04_epi.py",
+      "bytes": 6574,
+      "sha256": "3a9cdf9d526429e5e4bae072507e771e56763e1f605762825fe7fcc6892c794f"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/06_figures.R",
+      "bytes": 6725,
+      "sha256": "14731e48b8f6b63181ed70140e7b32c4b813de596294fc21c12ad4ff8f82bcdd"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/00_freeze.py",
+      "bytes": 6554,
+      "sha256": "d56026734715de513804edb5754ca16f9ea610f6942bff2e5b02a1a158768c1c"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/run_all.sh",
+      "bytes": 1337,
+      "sha256": "5f017a38c316d95d776e552d5577545a19da353a3c88a98c97b788dabbfee09d"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/05_models.R",
+      "bytes": 7318,
+      "sha256": "de4acbbb972ba6e884059701c49b834e585eec7a71df04413818cdd8113c5166"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/08_sources.py",
+      "bytes": 8018,
+      "sha256": "1ce63e8ba53e86a9e7e978ee3e09fa7b12d855016d6e498b5992410b00422b1b"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/01_prepare.py",
+      "bytes": 3997,
+      "sha256": "c3e868f47b85d5cb5b2435d8b4750cdf10a0a134ba1e3f16f00e955e74d386b4"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/07_validate.py",
+      "bytes": 5379,
+      "sha256": "55d9409f2757c1793aed132e119505c571b5acbd5ab2cd2a902bb2b53ab13d98"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/07_finalize.py",
+      "bytes": 23505,
+      "sha256": "8db49ff4bd6533302bd26520b8d7e0460d2ead33cb309ab3d90de655da1969b7"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/scripts/download_sources.py",
+      "bytes": 771,
+      "sha256": "6e0a9a8c674d00100277b265304d2641b1c038b80ecc7ebbb118c490e07fec78"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/config/frozen_v1.json",
+      "bytes": 8206,
+      "sha256": "a6a00ec034d4ee145fb3b55806843ec4f90555686338f24d79d2c33b53d64d53"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/config/gene_sets.tsv",
+      "bytes": 2985,
+      "sha256": "ee08f4a727273d7fe904b3fb323bdce7a9545c4ee4f5dc375d38d462624c87c2"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/config/download_manifest.json",
+      "bytes": 7014,
+      "sha256": "3691d8bdf760e994cece9a5359dbbf30b449dfae21474f89ff41fcfceedd8b32"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/config/frozen_v1.sha256",
+      "bytes": 65,
+      "sha256": "1f0820fa918a61febd3510c5a2619ddd3c326e9e70a49f44dc700cf58d2ece8e"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/config/figure_colors.tsv",
+      "bytes": 1305,
+      "sha256": "9f06b27ae79c6d64f760ead66f06431e68a991150fc82db0ffd9e9e0a50d6528"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/03_clinical/model_patient_usage.tsv",
+      "bytes": 141053,
+      "sha256": "ac04b6895891a980d0b701fd2f2d180d13645a4f555da0d8ad0b0a31a289b887"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/03_clinical/GSE212810_clinical_input.tsv",
+      "bytes": 111081,
+      "sha256": "88fecf87e401db0cf0467e8a8bf83b08088561bb14fa14e580b3c027f359f046"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/03_clinical/patient_inclusion_endpoint_audit.tsv",
+      "bytes": 444796,
+      "sha256": "5bf4a4a5e46827e1d0a037b55e84c54d3531e2c0733ca0bb10b1e89dcbe421d8"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/03_clinical/GSE169455_scored_metadata.tsv",
+      "bytes": 247156,
+      "sha256": "5db4ad2a9361d567621ac1615d303c50e4803b1835ff2f75221186fbe871a553"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/03_clinical/model_results.tsv",
+      "bytes": 3519,
+      "sha256": "f725786af94cf302d373f91db8f506f5d306c571744ddc23716e653ae875840d"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/03_clinical/GSE212810_counts_input.tsv.gz",
+      "bytes": 1047374,
+      "sha256": "71ac17bd992900d4db6adf8dd53dc6503fc4921a99707cd2e81626688bb1e81b"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/03_clinical/score_standardization.tsv",
+      "bytes": 208,
+      "sha256": "5fed4d189d09c014f0ab5ef66f88f6f13162a95b91d107ca08d5556646edad03"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/03_clinical/enrollment_counts.tsv",
+      "bytes": 464,
+      "sha256": "66759cea787f9e8a09d4d877c933e264fc3b007c3d64e6ca2fc33b69ee96d579"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/03_clinical/GSE212810_scored_metadata.tsv",
+      "bytes": 114664,
+      "sha256": "d8f17fbff925a037819025e28e44728258a6a17c986bddf62041f827484fed4b"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/02_cell_lines/overall_effects.tsv",
+      "bytes": 395,
+      "sha256": "374e5b6e1e22c36a6ccfd5c1a99b10d85cbc8aeb2b77eed447e5d977c9e81af9"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/02_cell_lines/sample_scores.tsv",
+      "bytes": 115562,
+      "sha256": "d4f7b5fcb6255cf3162e4d4f88cc9724abd9daf81f5444a89256f01b58e3b53d"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/02_cell_lines/sample_mapping.tsv",
+      "bytes": 109977,
+      "sha256": "95d8653351feb96f1d09721258db6178b841f645b70a5a2a4f50104ed966c4c4"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/02_cell_lines/line_state_scores.tsv",
+      "bytes": 1114,
+      "sha256": "f036ce01a88bbb4b95751ffb305494985b69a3ee78e332fa1631c05238f509d7"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/02_cell_lines/line_deltas.tsv",
+      "bytes": 1071,
+      "sha256": "78553fb1923bfbf7ca144fdc8b2436e41c9f32cd61964370517f20dc715f47cc"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/interpretation_audit.tsv",
+      "bytes": 2220,
+      "sha256": "02e51f460c939e1fa2b6d61106efc9fe825577273cf961d3c09cb5a1e1b03791"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE212810_normalization.tsv",
+      "bytes": 1527,
+      "sha256": "f2bbe51877051c4cf64be5631d2db0ccd67ad0aae939d3251bbe862fe21b38fb"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE212810_GSM_metadata.tsv",
+      "bytes": 106266,
+      "sha256": "b70919738e28ec6d2fcd17c4066d8bf476664bbb2e035a66fd343a0a2359eb55"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/blockers.tsv",
+      "bytes": 1418,
+      "sha256": "9d97191d58743150d3123e3b638f3720bb11dcc3c28b8a0d0beabf7649f765fe"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE171537_gene_mapping.tsv",
+      "bytes": 3423352,
+      "sha256": "73a19530beaddb28c35a5badaea050009baaf92bd95b55975ba8e20a0918e176"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/python_environment.json",
+      "bytes": 171,
+      "sha256": "e3e3875e46e8b786c148637c8091e9b158c38345830c006f89b5cb7e873624ce"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/local_input_manifest.tsv",
+      "bytes": 4228,
+      "sha256": "9337a2b5a97c88c677c9d415ab32b733b4088e716db3ea74adfca2053cca4391"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE171537_matrix_audit.tsv",
+      "bytes": 201,
+      "sha256": "9df8d319a31a470f439fff80c9f16eaae13d432d33011fa9efbaebff51749af0"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/validation_checks.tsv",
+      "bytes": 2417,
+      "sha256": "31469a124d8cd6188fbe944e5327cb4038186d5076e2880fbac1ad1e04ef416b"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/epi_sample_patient_mapping.tsv",
+      "bytes": 6891,
+      "sha256": "9689c946c1122af16b7a9cf495984079659cf077be405c68e2f64b110e54fe69"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/epi_dataset_source_counts.tsv",
+      "bytes": 265,
+      "sha256": "f033e3c478be29703efe2f5634c3500c0308ca49f07a3ff15eba304ca4a64dd0"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE212810_gene_mapping.tsv",
+      "bytes": 1111317,
+      "sha256": "261ff4f485a9501dd67e24b393ff950e95954c549321a0effe35543c903944fb"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/implementation_amendments.json",
+      "bytes": 627,
+      "sha256": "2fbd4596c0956135b62de6bc0d1dcf7149856499cafde24b22ce7d9eb080051e"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/epi_signature_mapping.tsv",
+      "bytes": 3250,
+      "sha256": "9c680e3ca6efecd9e28ae8b0e51a2d892de110e7c902c6b37fb95785b8dc6f5f"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/reproducibility.tsv",
+      "bytes": 1201,
+      "sha256": "db998c729ed40ad6273dd3583b3f1145df485feb82d2882cf02cfda00df19c98"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/epi_gene_detection_by_sample.tsv",
+      "bytes": 330454,
+      "sha256": "2374650847f13195659cd94abfccb311bb33a8a2533a31d5c02246420f56a947"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/annotation_metadata.txt",
+      "bytes": 2310,
+      "sha256": "9c8f25074a2dcb2e7271078149f967c94fc25897ddeaaa7760501912771ec01a"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE169455_MP10_coverage.tsv",
+      "bytes": 1512,
+      "sha256": "648bae7957aac14256129ec00f46901ecb74a1642a0a1961382d4e52c7553a99"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/epi_signature_coverage.tsv",
+      "bytes": 232,
+      "sha256": "e01a2dbe35421fd4d44b3cc98bb77dbfd22fbc9f6f22b2432a71ee2ad0665d24"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE212810_MP10_coverage.tsv",
+      "bytes": 819,
+      "sha256": "4cf294c611ae14f30126d267c829161fe1dd34bfb2382ab4bd0f76987572966a"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE171537_normalization.tsv",
+      "bytes": 1943,
+      "sha256": "a19499847a3fc7e447b6cbf0cc680843e636da5234f6a183c8f010510e72182d"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE169455_matrix_audit.tsv",
+      "bytes": 259,
+      "sha256": "71607aeb8560a673d553d7045ccaa63ddb3bc5c2a26826beacbfbe5384e581cb"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/resource_usage.tsv",
+      "bytes": 583,
+      "sha256": "f321d93121bf288965933a517dda0154507fbbfb0059b000d9fa90085712ddf5"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/source_manifest.tsv",
+      "bytes": 6055,
+      "sha256": "322509f36b8d69dae09af68910951fbcc6d18124309b04c86c04181a679c4ee7"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/figure_validation.tsv",
+      "bytes": 489,
+      "sha256": "247cdd28b5ae714ed0ee1c0479e8f3d323798425099c5a8b6f904d356f1ac4c4"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE169455_gene_mapping.tsv",
+      "bytes": 553079,
+      "sha256": "af6c96c5ffaab150be36eb6ccdf4fb4d65c515cb8f654734423d0e977dabf459"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE171537_MP10_coverage.tsv",
+      "bytes": 564,
+      "sha256": "fdc6b3688ba441e1e58127a3e05cca785100c6a865ec46a14b196c15448c7fd2"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE169455_GSM_metadata.tsv",
+      "bytes": 233259,
+      "sha256": "cb7a8a5e10f5de99eeed750ab2292f336c1030e70f6592cb7f672818e19e1a60"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE212810_matrix_audit.tsv",
+      "bytes": 200,
+      "sha256": "b7adaafbfecaf1aa7ddd04c8eddb83a80fc3e99ae30b35125456be9fc3a682d4"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/pre_replay_hashes.json",
+      "bytes": 741,
+      "sha256": "e4e1b899b0f20aa507361a9f69d8dc529f308a1436007362cd2ed52ad91f8c40"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/software_versions.tsv",
+      "bytes": 210,
+      "sha256": "5e74c83862d00e3daad62a9748362d36f2fc8fd358ca4d5d3b1ea1946ed51eed"
+    },
+    {
+      "path": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v1/00_audit/GSE171537_GSM_metadata.tsv",
+      "bytes": 96599,
+      "sha256": "2c98aae32ead7619a962920d45eacd183e47314afb8d52ede700e966d6cd9940"
+    }
+  ]
+}

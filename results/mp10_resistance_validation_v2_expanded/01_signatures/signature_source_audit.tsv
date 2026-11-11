@@ -1,0 +1,38 @@
+signature	n_members_recovered	status	source	property	training	expected_published_n	count_note
+MP10	20	READY	v1 frozen Top20	published_members_adapted_score	BLCA discovery Epi	20.0	actual frozen original-member count
+TSUNODA_UP	15	READY	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	15.0	actual frozen original-member count
+TSUNODA_DN	50	READY	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	50.0	actual frozen original-member count
+TSUNODA_UP_no_INSIG1	14	READY	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	14.0	actual frozen original-member count
+TSUNODA_UP_no_C1S	14	READY	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	14.0	actual frozen original-member count
+TSUNODA_DN_no_C1S	49	READY	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	49.0	actual frozen original-member count
+TSUNODA_UP_no_INSIG1_C1S	13	READY	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	13.0	actual frozen original-member count
+CisSig19	19	READY	s41698-023-00375-y; cissig c8317dc0a6ab6b8ee66dc98f2e817014f1a3c2a5	native	GDSC2 pan-cancer cisplatin	19.0	actual frozen original-member count
+CisSig_gene_set_adapted	19	READY	CisSig19 published members; Epi enrichment only	single_cell_adapted_not_native	GDSC2 pan-cancer cisplatin	19.0	actual frozen original-member count
+Xylinas9	9	READY	PMC5039423	published_members_adapted_score	BLCA intrinsic sensitivity cell-line comparison	9.0	actual frozen original-member count
+NPEPPS_VRAC_ratio	6	READY	PMC11641020	native_linear_ratio	GSE171537-related resistant model system	6.0	actual frozen original-member count
+KANG_CISPLATIN_RESISTANCE_DN	8	READY	MSigDB official snapshot 14734480 Table 4	published_members_adapted_score	NA	8.0	actual frozen original-member count
+KANG_CISPLATIN_RESISTANCE_UP	21	READY	MSigDB official snapshot 14734480 Table 4	published_members_adapted_score	NA	21.0	actual frozen original-member count
+LI_CISPLATIN_RESISTANCE_DN	33	READY	MSigDB official snapshot 17072341 Table 2	published_members_adapted_score	NA	33.0	actual frozen original-member count
+LI_CISPLATIN_RESISTANCE_UP	26	READY	MSigDB official snapshot 17072341 Table 1	published_members_adapted_score	NA	26.0	actual frozen original-member count
+WHITESIDE_CISPLATIN_RESISTANCE_DN	13	READY	MSigDB official snapshot 14737109 Table 1: week 4 < 1	published_members_adapted_score	NA	13.0	actual frozen original-member count
+WHITESIDE_CISPLATIN_RESISTANCE_UP	11	READY	MSigDB official snapshot 14737109 Table 1: week 4 >= 1	published_members_adapted_score	NA	11.0	actual frozen original-member count
+HALLMARK_CHOLESTEROL_HOMEOSTASIS	74	READY	MSigDB official snapshot 26771021 	state_control	NA	74.0	actual frozen original-member count
+HALLMARK_DNA_REPAIR	150	READY	MSigDB official snapshot 26771021 	state_control	NA	150.0	actual frozen original-member count
+HALLMARK_E2F_TARGETS	200	READY	MSigDB official snapshot 26771021 	state_control	NA	200.0	actual frozen original-member count
+HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION	200	READY	MSigDB official snapshot 26771021 	state_control	NA	200.0	actual frozen original-member count
+HALLMARK_G2M_CHECKPOINT	200	READY	MSigDB official snapshot 26771021 	state_control	NA	200.0	actual frozen original-member count
+HALLMARK_HYPOXIA	200	READY	MSigDB official snapshot 26771021 	state_control	NA	200.0	actual frozen original-member count
+HALLMARK_P53_PATHWAY	200	READY	MSigDB official snapshot 26771021 	state_control	NA	200.0	actual frozen original-member count
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY	49	READY	MSigDB official snapshot 26771021 	state_control	NA	49.0	actual frozen original-member count
+BENPORATH_ES_CORE_NINE	9	READY	MSigDB official snapshot 18443585 Table 5S: Core 9	state_control	NA	9.0	actual frozen original-member count
+Tanaka49	49	READY	PMC5085609 Supplementary Table S1	published_members_adapted_score	GSE58624 T24PR/5637PR; internal source comparison only	49.0	actual frozen original-member count
+CrM63_weighted_z	63	READY	DOI10.1016/j.canlet.2024.217339 Supplementary Table2; z-score x published motility weight	adapted_weighted_mean_preserving_published_weights	GSE210921/GSE210953; GSE190636 comparison not independent training; gemcitabine/motility	63.0	actual frozen original-member count
+DTP124	0	BLOCKED_DATA	PMC8437243 TableS6 NIHMS1732990-supplement-14.xlsx	native_BLOCKED	mouse embryonic pausing and CRC irinotecan DTP	124.0	0 means not recovered, not a zero-gene published signature; original count not independently verified
+CLSPN_published_program	0	BLOCKED_DATA	PMC10992486 Supplemental TableS1 / PDF2	published_program_BLOCKED	GSE217413	2284.0	0 means not recovered, not a zero-gene published signature; original count not independently verified
+CLSPN_derived_program	200	READY	CLSPN_derivation_spec.json	derived	GSE217413, internal only	200.0	actual frozen original-member count
+Choi_p53_like_classifier	0	BLOCKED_DATA	Choi2014 original classifier required	classifier_BLOCKED	NA	NA	0 means not recovered, not a zero-gene published signature; original count not independently verified
+TSUNODA_UP_noMP10_overlap	14	READY	MSigDB official Tsunoda snapshot + original Tables1/2	sensitivity_remove_MP10_overlap	T24/KK47 cisplatin models	14.0	actual frozen original-member count
+TSUNODA_UP_no_C1S_noMP10_overlap	13	READY	MSigDB official Tsunoda snapshot + original Tables1/2	sensitivity_remove_MP10_overlap	T24/KK47 cisplatin models	13.0	actual frozen original-member count
+HALLMARK_CHOLESTEROL_HOMEOSTASIS_noMP10_overlap	63	READY	MSigDB official snapshot 26771021 	sensitivity_remove_MP10_overlap	NA	63.0	actual frozen original-member count
+HALLMARK_G2M_CHECKPOINT_noMP10_overlap	199	READY	MSigDB official snapshot 26771021 	sensitivity_remove_MP10_overlap	NA	199.0	actual frozen original-member count
+HALLMARK_P53_PATHWAY_noMP10_overlap	199	READY	MSigDB official snapshot 26771021 	sensitivity_remove_MP10_overlap	NA	199.0	actual frozen original-member count

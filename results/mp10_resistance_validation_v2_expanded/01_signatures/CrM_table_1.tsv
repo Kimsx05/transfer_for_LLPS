@@ -1,0 +1,66 @@
+0	1	2	3	4
+N.	Gene ID	Biological characteristics (Phase, group)	Weight*	p-value**
+1	ATP8B1	GO:0005654~Nucleoplasm (P, G1)	0.98	2.0E-11
+2	CCND1	GO:0005654~Nucleoplasm (P, G1)	0.98	2.5E-11
+3	CDH12	KW-0130~Cell adhesion (P, G1)	0.98	1.3E-12
+4	FERMT1	KW-0130~Cell adhesion (P, G1)	0.98	5.7E-15
+5	HSPD1	KW-0346~Stress response (P, G1)	0.98	1.6E-13
+6	HSPE1	KW-0346~Stress response (P, G1)	0.98	2.3E-18
+7	ID3	GO:0005654~Nucleoplasm (P, G1)	0.98	7.0E-10
+8	MAML3	GO:0005654~Nucleoplasm (P, G1)	0.98	1.1E-14
+9	CDKN1A	hsa04110: Cell cycle (P, G2)	0.98	1.3E-05
+10	ELF4	GO:0045893~positive regulation of transcription (P, G2)	0.98	5.7E-06
+11	MCM3	hsa04110: Cell cycle (P, G2)	0.98	5.0E-06
+12	AREG	hsa04151: PI3K-Akt signaling pathway (M, G3)	2.45	1.3E-06
+13	BMP6	KW-0964~Secreted (M, G3)	2.45	2.2E-11
+14	CAV1	hsa04510: Focal adhesion (M, G3)	2.45	3.9E-12
+15	CAV2	hsa04510: Focal adhesion (M, G3)	2.45	3.3E-10
+16	COL8A2	KW-0130~Cell adhesion (M, G3)	2.45	7.1E-06
+17	CTSK	KW-0964~Secreted (M, G3)	2.45	1.0E-04
+18	EBI3	KW-0964~Secreted (M, G3)	2.45	6.0E-09
+19	EREG	hsa04151: PI3K-Akt signaling pathway (M, G3)	2.45	2.1E-04
+20	GSN	KW-0964~Secreted (M, G3)	2.45	1.1E-11
+21	ITGA2B	hsa04151: PI3K-Akt signaling pathway (M, G3)	2.45	1.0E-05
+22	JAK3	hsa04151: PI3K-Akt signaling pathway (M, G3)	2.45	4.5E-07
+23	L1CAM	KW-0130~Cell adhesion (M, G3)	2.45	1.3E-08
+24	LAMA3	hsa04151: PI3K-Akt signaling pathway (M, G3)	2.45	4.3E-05
+25	LAMC2	hsa04151: PI3K-Akt signaling pathway (M, G3)	2.45	4.2E-08
+26	LCN2	KW-0964~Secreted (M, G3)	2.45	8.4E-09
+27	OLFML2A	KW-0964~Secreted (M, G3)	2.45	6.1E-07
+28	PDGFC	hsa04151: PI3K-Akt signaling pathway (M, G3)	2.45	4.9E-20
+29	PRKCG	hsa04510: Focal adhesion (M, G3)	2.45	6.2E-07
+30	SSC5D	KW-0964~Secreted (M, G3)	2.45	3.5E-09
+31	THBS3	hsa04151: PI3K-Akt signaling pathway (M, G3)	2.45	4.9E-06
+32	VASN	KW-0964~Secreted (M, G3)	2.45	2.2E-09
+33	MMP3	hsa05202: Transcriptional misregulation in cancer (M, G4)	1.96	2.3E-02
+34	SERPINB2	KW-0964~Secreted (M, G4)	1.96	7.1E-06
+35	VCAN	KW-0964~Secreted (M, G4)	1.96	1.4E-02
+36	ZP3	KW-0964~Secreted (M, G4)	1.96	1.1E-08
+37	ACTA2a [1]	Pan-F-TBRs (M, G5) †	1.96	3.8E-06
+38	CACNA2D1	hsa04010: MAPK signaling pathway (M, G5)	1.96	4.8E-03
+39	FAS	hsa04010: MAPK signaling pathway (M, G5)	1.96	1.5E-04
+40	PDGFRB	hsa04010: MAPK signaling pathway (M, G5)	1.96	8.0E-05
+41	SH3PXD2Aa [1]	Pan-F-TBRs (M, G5) †	1.96	1.8E-01
+42	TAGLNa [1]	Pan-F-TBRs (M, G5) †	1.96	1.7E-06
+43	ACP2	hsa04142: Lysosome (M, G6)	1.96	4.1E-09
+44	CTSD	hsa04142: Lysosome (M, G6)	1.96	3.4E-10
+45	MMP11	KW-0966~Cell projection (M, G6)	1.96	6.0E-05
+46	TPP1	hsa04142: Lysosome (M, G6)	1.96	4.7E-16
+47	CD44	GO:0009986~cell surface (C, G7)	1.50	3.6E-06
+48	ESM1	GO:0009986~cell surface (C, G7)	1.50	7.5E-02
+49	FOXD1	GO:0030154~cell differentiation (C, G7)	1.50	2.2E-05
+50	HEG1	KW-0217~Developmental protein (C, G7)	1.50	2.2E-06
+51	TCF4	GO:0030154~cell differentiation (C, G7)	1.50	1.2E-02
+52	VEGFC	KW-0217~Developmental protein (C, G7)	1.50	2.1E-03
+53	ABL1	REGION: Disordered (C, G8)	1.50	5.7E-07
+54	APOLD1	GO:0030154~cell differentiation (C, G8)	1.50	5.7E-07
+55	BDNF	hsa04010: MAPK signaling pathway (C, G8)	1.50	3.7E-12
+56	DZIP1	GO:0030154~cell differentiation (C, G8)	1.50	9.5E-12
+57	LEF1	REGION: Disordered (C, G8)	1.50	3.9E-14
+58	MYC	hsa04010: MAPK signaling pathway (C, G8)	1.50	2.6E-05
+59	NAV1	GO:0030154~cell differentiation (C, G8)	1.50	7.0E-07
+60	NRP2	GO:0030154~cell differentiation (C, G8)	1.50	4.7E-16
+61	PKDCC	GO:0030154~cell differentiation (C, G8)	1.50	4.3E-06
+62	TMCC3	REGION: Disordered (C, G8)	1.50	8.6E-08
+63	CDAa [2]	Gemcitabine mechanism of action (C, G8)	1.50	5.2E-05
+*Weights were calculated as the relative 5637GRCs motility value in Fig. 3c.**The p-values for each phase were calculated through comparison between two groups by two sample t-test (P phase, P vs. M and C phases; M phase, M vs. P phase; C phase, C vs. M and P phases, respectively).aBiological characteristics based on the literatures	NA	NA	NA	NA

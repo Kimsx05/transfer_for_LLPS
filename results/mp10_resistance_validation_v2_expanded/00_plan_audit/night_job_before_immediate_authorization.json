@@ -1,0 +1,16 @@
+{
+  "scheduler": "existing project local night_gate pattern; not Slurm",
+  "supervisor_pid": 1787396,
+  "timezone": "Asia/Shanghai",
+  "window": "23:00-07:00",
+  "command": [
+    "/usr/bin/python3",
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/scripts/night_gate.py",
+    "bash",
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/scripts/night_pipeline.sh"
+  ],
+  "submitted_at": "2026-11-11T11:09:09.387956",
+  "requested_threads": 2,
+  "BLAS_threads": 1,
+  "expected_ranking_cpu_minutes": 93
+}

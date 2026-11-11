@@ -1,0 +1,38 @@
+signature	n_original	method	expected_resistance_direction	source	property	training	status	reason	MP10_intersection
+MP10	20	ssGSEA	1	v1 frozen Top20	published_members_adapted_score	BLCA discovery Epi	READY		ACAT2;ACSL1;ACSL3;ACSS2;ADIPOR2;ELOVL5;FDFT1;FDPS;HMGCR;HMGCS1;IDI1;INSIG1;LDLR;MSMO1;MVD;MXD1;NPC1;SCD;SLC20A1;SQLE
+TSUNODA_UP	15	ssGSEA	1	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	READY		INSIG1
+TSUNODA_DN	50	ssGSEA	-1	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	READY		
+TSUNODA_UP_no_INSIG1	14	ssGSEA	1	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	READY		
+TSUNODA_UP_no_C1S	14	ssGSEA	1	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	READY		INSIG1
+TSUNODA_DN_no_C1S	49	ssGSEA	-1	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	READY		
+TSUNODA_UP_no_INSIG1_C1S	13	ssGSEA	1	MSigDB official Tsunoda snapshot + original Tables1/2	published_members_adapted_score	T24/KK47 cisplatin models	READY		
+CisSig19	19	median_z	-1	s41698-023-00375-y; cissig c8317dc0a6ab6b8ee66dc98f2e817014f1a3c2a5	native	GDSC2 pan-cancer cisplatin	READY		
+CisSig_gene_set_adapted	19	ssGSEA	-1	CisSig19 published members; Epi enrichment only	single_cell_adapted_not_native	GDSC2 pan-cancer cisplatin	READY		
+Xylinas9	9	upmean_minus_dnmean_z	1	PMC5039423	published_members_adapted_score	BLCA intrinsic sensitivity cell-line comparison	READY		
+NPEPPS_VRAC_ratio	6	linear_ratio	1	PMC11641020	native_linear_ratio	GSE171537-related resistant model system	READY		
+KANG_CISPLATIN_RESISTANCE_DN	8	ssGSEA	-1	MSigDB official snapshot 14734480 Table 4	published_members_adapted_score		READY		
+KANG_CISPLATIN_RESISTANCE_UP	21	ssGSEA	1	MSigDB official snapshot 14734480 Table 4	published_members_adapted_score		READY		
+LI_CISPLATIN_RESISTANCE_DN	33	ssGSEA	-1	MSigDB official snapshot 17072341 Table 2	published_members_adapted_score		READY		
+LI_CISPLATIN_RESISTANCE_UP	26	ssGSEA	1	MSigDB official snapshot 17072341 Table 1	published_members_adapted_score		READY		
+WHITESIDE_CISPLATIN_RESISTANCE_DN	13	ssGSEA	-1	MSigDB official snapshot 14737109 Table 1: week 4 < 1	published_members_adapted_score		READY		
+WHITESIDE_CISPLATIN_RESISTANCE_UP	11	ssGSEA	1	MSigDB official snapshot 14737109 Table 1: week 4 >= 1	published_members_adapted_score		READY		
+HALLMARK_CHOLESTEROL_HOMEOSTASIS	74	ssGSEA	0	MSigDB official snapshot 26771021 	state_control		READY		ACAT2;ACSS2;FDFT1;FDPS;HMGCR;HMGCS1;IDI1;LDLR;MVD;SCD;SQLE
+HALLMARK_DNA_REPAIR	150	ssGSEA	0	MSigDB official snapshot 26771021 	state_control		READY		
+HALLMARK_E2F_TARGETS	200	ssGSEA	0	MSigDB official snapshot 26771021 	state_control		READY		
+HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION	200	ssGSEA	0	MSigDB official snapshot 26771021 	state_control		READY		
+HALLMARK_G2M_CHECKPOINT	200	ssGSEA	0	MSigDB official snapshot 26771021 	state_control		READY		SQLE
+HALLMARK_HYPOXIA	200	ssGSEA	0	MSigDB official snapshot 26771021 	state_control		READY		
+HALLMARK_P53_PATHWAY	200	ssGSEA	0	MSigDB official snapshot 26771021 	state_control		READY		MXD1
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY	49	ssGSEA	0	MSigDB official snapshot 26771021 	state_control		READY		
+BENPORATH_ES_CORE_NINE	9	ssGSEA	0	MSigDB official snapshot 18443585 Table 5S: Core 9	state_control		READY		
+Tanaka49	49	upmean_minus_dnmean_z	1	PMC5085609 Supplementary Table S1	published_members_adapted_score	GSE58624 T24PR/5637PR; internal source comparison only	READY		
+CrM63_weighted_z	63	weighted_z	1	DOI10.1016/j.canlet.2024.217339 Supplementary Table2; z-score x published motility weight	adapted_weighted_mean_preserving_published_weights	GSE210921/GSE210953; GSE190636 comparison not independent training; gemcitabine/motility	READY		
+DTP124	0	signed_mean_z	1	PMC8437243 TableS6 NIHMS1732990-supplement-14.xlsx	native_BLOCKED	mouse embryonic pausing and CRC irinotecan DTP	BLOCKED_DATA	TableS6 download returns HTML/403/404; full signed member list and cross-species map not yet recovered	
+CLSPN_published_program	0	ssGSEA	1	PMC10992486 Supplemental TableS1 / PDF2	published_program_BLOCKED	GSE217413	BLOCKED_DATA	PDF2 contains full13743-gene CPM table, no identified2284-UP membership; cannot call all rows UP	
+CLSPN_derived_program	200	upmean_minus_dnmean_z	1	CLSPN_derivation_spec.json	derived	GSE217413, internal only	READY		
+Choi_p53_like_classifier	0	classifier	1	Choi2014 original classifier required	classifier_BLOCKED		BLOCKED_DATA	Full original fitted classifier/centroids not recovered; existing author subtype labels retained where available; Hallmark P53 is distinct	
+TSUNODA_UP_noMP10_overlap	14	ssGSEA	1	MSigDB official Tsunoda snapshot + original Tables1/2	sensitivity_remove_MP10_overlap	T24/KK47 cisplatin models	READY		
+TSUNODA_UP_no_C1S_noMP10_overlap	13	ssGSEA	1	MSigDB official Tsunoda snapshot + original Tables1/2	sensitivity_remove_MP10_overlap	T24/KK47 cisplatin models	READY		
+HALLMARK_CHOLESTEROL_HOMEOSTASIS_noMP10_overlap	63	ssGSEA	0	MSigDB official snapshot 26771021 	sensitivity_remove_MP10_overlap		READY		
+HALLMARK_G2M_CHECKPOINT_noMP10_overlap	199	ssGSEA	0	MSigDB official snapshot 26771021 	sensitivity_remove_MP10_overlap		READY		
+HALLMARK_P53_PATHWAY_noMP10_overlap	199	ssGSEA	0	MSigDB official snapshot 26771021 	sensitivity_remove_MP10_overlap		READY		

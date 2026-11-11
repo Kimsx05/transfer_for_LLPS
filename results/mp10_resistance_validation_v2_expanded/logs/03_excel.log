@@ -1,0 +1,485 @@
+
+FILE 41467_2020_18640_MOESM4_ESM.xlsx sheets Supplementary Data 1 Footnotes 
+SHEET 1 nrow 304 ncol 18 
+                                                           ...1
+                                                         <char>
+1: Supplementary Data 1. Clinicopathological and treatment data
+2:                                                         <NA>
+3:                                                         <NA>
+4:                                                        NewID
+5:                                                         P001
+                    ...2    ...3    ...4                    ...5
+                  <char>  <char>  <char>                  <char>
+1:                  <NA>    <NA>    <NA>                    <NA>
+2:                  <NA>    <NA>    <NA>                    <NA>
+3: Diagnostic Staging A)    <NA>    <NA> Pre-Therapeutic Staging
+4:               T-stage N-stage M-stage  pT-stage   (NAC|FL) B)
+5:                   T3a      N0      M0                    T-CX
+                           ...6                     ...7
+                         <char>                   <char>
+1:                         <NA>                     <NA>
+2:                         <NA>                     <NA>
+3:                         <NA>                     <NA>
+4: N-stage             (NAC|FL) M-stage         (NAC|FL)
+5:                           N0                       M+
+                                            ...8             ...9    ...10
+                                          <char>           <char>   <char>
+1:                                          <NA>             <NA>     <NA>
+2:                                          <NA>             <NA>     <NA>
+3: Post-Therapeutic Pathologic Staging Performed             <NA>     <NA>
+4:                             Assessed by CX C) Assessed by TURB pT-stage
+5:                                             -                -        -
+      ...11                 ...12
+     <char>                <char>
+1:     <NA>                  <NA>
+2:     <NA>                  <NA>
+3:     <NA> Neoadjuvant Treatment
+4: pN-stage            Chemo Type
+5:        -                     -
+SHEET 2 nrow 9 ncol 2 
+     ...1
+   <char>
+1:     A)
+2:     B)
+3:     C)
+4:     D)
+5:     E)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ...2
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <char>
+1:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 TNM stage at the time of diagnosis.
+2:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Pre-therapeutic TNM-stage. NAC: Neoadjuvant treatment, FL: First Line treatment, T-CX: Patients who had an cystectomy (CX) prior to first line treatment
+3:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     CX: Cystexctomi
+4: All patients underwent a pre- (baseline) and post-treatment (4 moths control) PET/CT or MRI, CT and X-ray examination. Representative metastatic sites of all involved organs, were identified as target lesions at the Dep. of Radiology, AUH. Treatment response was evaluated using RECIST 1.1 response criteria. Complete response (CR): Disappearance of all target-lesions and verified pT0 (if the primary tumor were present at the time of FL-treatment). Partial response (PR): at least 30% decrease in the sum of diameter of target lesions. Progressive Disease (PD): at least 20% increase in the sum of diameters of target lesions. Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD.
+5:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      For patients who recieved both NAC and FL, the FL-treatment response was used for "Overall Treatment response"
+
+FILE 41467_2020_18640_MOESM5_ESM.xlsx sheets Supplementary Data 2 
+SHEET 1 nrow 43 ncol 19 
+                                                            ...1    ...2
+                                                          <char>  <char>
+1: Supplementary Data 2. Antibody panels, dilutions and reagents    <NA>
+2:                                                          <NA>    <NA>
+3:                                           SECTION 1 - PANEL 1    <NA>
+4:                                             Primary Antibody:  Clone:
+5:                                                      Anti-CD8 C8/144B
+             ...3      ...4        ...5          ...6      ...7       ...8
+           <char>    <char>      <char>        <char>    <char>     <char>
+1:           <NA>      <NA>        <NA>          <NA>      <NA>       <NA>
+2:           <NA>      <NA>        <NA>          <NA>      <NA>       <NA>
+3:           <NA>      <NA>        <NA>          <NA>      <NA>       <NA>
+4: Species:       Dilution: Incubation:      Company:     Cat#:      RRID:
+5:          Mouse     1:150     32 min  Dako, Agilent M710301-2 AB_2075537
+                       ...9                                ...10        ...11
+                     <char>                               <char>       <char>
+1:                     <NA>                                 <NA>         <NA>
+2:                     <NA>                                 <NA>         <NA>
+3:                     <NA>                                 <NA>         <NA>
+4:     Secondary Antibody:                                  Kit:    Dilution:
+5: anti-mouse-HRP (GaM-HRP) OmniMap anti-Ms HRP (RUO), DISCOVERY Ready to use
+         ...12
+        <char>
+1:        <NA>
+2:        <NA>
+3:        <NA>
+4: Incubation:
+5:      12 min
+
+FILE 41467_2020_18640_MOESM6_ESM.xlsx sheets Supplementary Data 3 
+SHEET 1 nrow 333 ncol 10 
+                                                   ...1        ...2
+                                                 <char>      <char>
+1: Supplementary Data 3. Whole exome sequencing metrics        <NA>
+2:                                                 <NA>        <NA>
+3:                                           Patient ID Tissue Type
+4:                                                 P001       Tumor
+5:                                                 P001    Germline
+                  ...3                 ...4                         ...5
+                <char>               <char>                       <char>
+1:                <NA>                 <NA>                         <NA>
+2:                <NA>                 <NA>                         <NA>
+3:       Exome Capture Mean Target Coverage Fraction of target bases 10X
+4: MedExomePlusV1_hg19   59.723439999999997                     0.955179
+5: MedExomePlusV1_hg19   45.467351999999998          0.94909900000000003
+                           ...6                         ...7
+                         <char>                       <char>
+1:                         <NA>                         <NA>
+2:                         <NA>                         <NA>
+3: Fraction of target bases 20X Fraction of target bases 30X
+4:          0.90113699999999997          0.77199099999999998
+5:          0.84083300000000005          0.64255099999999998
+                           ...8                         ...9
+                         <char>                       <char>
+1:                         <NA>                         <NA>
+2:                         <NA>                         <NA>
+3: Fraction of target bases 40X Fraction of target bases 50X
+4:          0.61697900000000006          0.47425600000000001
+5:          0.45613900000000002                     0.309307
+                           ...10
+                          <char>
+1:                          <NA>
+2:                          <NA>
+3: Fraction of target bases 100X
+4:           0.10897800000000001
+5:                     4.6015E-2
+
+FILE 41467_2020_18640_MOESM7_ESM.xls sheets Supplementary Data 4 
+SHEET 1 nrow 20454 ncol 97 
+     ...1                ...2                ...3                ...4
+   <char>              <char>              <char>              <char>
+1:   <NA>                P014                P042                P012
+2: TSPAN6                7.25  4.8200000000000003  4.1900000000000004
+3:   TNMD -2.5699999999999998 -2.5699999999999998 -2.5699999999999998
+4:   DPM1  4.5099999999999998                3.27  3.3799999999999999
+5:  SCYL3                 2.5  3.3900000000000001  5.5099999999999998
+                  ...5               ...6                ...7
+                <char>             <char>              <char>
+1:                P037               P047                P003
+2:  3.5699999999999998 6.5099999999999998  4.9500000000000002
+3: -2.5699999999999998              -1.54 -2.5699999999999998
+4:                3.75 2.8900000000000001  5.1699999999999999
+5:  5.2699999999999996               2.02                3.27
+                  ...8                ...9               ...10
+                <char>              <char>              <char>
+1:                P011                P018                P083
+2:  6.5700000000000003                4.04  5.2400000000000002
+3: -2.5699999999999998 -2.5699999999999998 -1.1799999999999999
+4:                   4  4.4900000000000002  3.4900000000000002
+5:                2.54               -0.31  2.6899999999999999
+                 ...11               ...12
+                <char>              <char>
+1:                P081                P063
+2:  3.5699999999999998  4.1600000000000001
+3: -2.5699999999999998 -2.5699999999999998
+4:  4.2300000000000004  3.3399999999999999
+5:  4.9800000000000004  3.4500000000000002
+
+FILE 41698_2023_375_MOESM5_ESM.xlsx sheets Sheet1 
+SHEET 1 nrow 123 ncol 4 
+                                                                                                                                               ...1
+                                                                                                                                             <char>
+1:                                                                                                                                     Dataset Name
+2:                        Single-cell and spatial transcriptomic analyses reveals alterations that correlate with human prostate cancer progression
+3:                                                                                                            RNAseq of colorectal cancer organoids
+4: A Transcriptomic Map of EGFR-induced Epithelial-to-Mesenchymal Transition Identifies Prognostic and Therapeutic Targets for Head and Neck Cancer
+5:                               Expression data for tumor and normal tissue samples from deceased sepsis and non-sepsis colorectal cancer patients
+        ...2                        ...3                              ...4
+      <char>                      <char>                            <char>
+1: Accession Sufficient for Use in Study                           Comment
+2: GSE181294                          No                   Treatment naïve
+3: GSE218558                          No      Organoid samples, not tissue
+4: GSE200421                          No            Cell lines, not tissue
+5: GSE198103                          No No metadata for chemotherapy type
+
+FILE 41698_2023_375_MOESM6_ESM.xlsx sheets TNBC MIBC CESC Esophageal 
+SHEET 1 nrow 54 ncol 4 
+                                                                                  ...1
+                                                                                <char>
+1:                                                                        Dataset Name
+2: Identifying High-Risk Triple-Negative Breast Cancer Patients by Molecular Subtyping
+3: Gene expression profiles of PD-L1 SP142 expression in triple-negative breast cancer
+4:                        MSC-induced lncRNA expression changes in breast cancer cells
+5:               Overexpression of b-Arrestins in triple negative breast cancer cells.
+        ...2                        ...3
+      <char>                      <char>
+1: Accession Sufficient for Use in Study
+2: GSE167213                          No
+3: GSE157284                          No
+4: GSE171121                          No
+5: GSE156802                          No
+                                                            ...4
+                                                          <char>
+1:                                       Reason Why Insufficient
+2:                   No treatment metadata, no survival outcomes
+3: No cisplatin-related treatment metadata, no survival outcomes
+4:                                        Cell lines, not tissue
+5:                                        Cell lines, not tissue
+SHEET 2 nrow 19 ncol 4 
+                                                                                                                         ...1
+                                                                                                                       <char>
+1:                                                                                                               Dataset Name
+2: Different gene expression profiles between de novo and progressive muscle invasive bladder cancer: prognostic implications
+3:                            Dysregulation of EMT Drives the Progression to Clinically Aggressive Sarcomatoid Bladder Cancer
+4:                                                                   Gene expression profile of micropapillary bladder cancer
+5:                                             A five-gene expression signature to predict progression in T1G3 bladder cancer
+        ...2                        ...3
+      <char>                      <char>
+1: Accession Sufficient for Use in Study
+2: GSE149582                          No
+3: GSE128192                          No
+4:  GSE86411                          No
+5:  GSE57813                          No
+                                                   ...4
+                                                 <char>
+1:                              Reason Why Insufficient
+2: No clinical treatment metadata, no survival outcomes
+3: No clinical treatment metadata, no survival outcomes
+4: No clinical treatment metadata, no survival outcomes
+5: No clinical treatment metadata, no survival outcomes
+SHEET 3 nrow 30 ncol 4 
+                                                                                                                                                  ...1
+                                                                                                                                                <char>
+1:                                                                                                                                        Dataset Name
+2:                                                        Development of gene expression signatures for normal and tumor-associated cervix fibroblasts
+3:                           Identification of deregulated pathways, key regulators, and novel miRNA-mRNA interactions in HPV-mediated transformation.
+4:    Identification of deregulated pathways, key regulators, and novel miRNA-mRNA interactions in HPV-mediated transformation. [mRNA tissues-Agilent]
+5: Identification of deregulated pathways, key regulators, and novel miRNA-mRNA interactions in HPV-mediated transformation. [mRNA cell lines-Agilent]
+        ...2                        ...3
+      <char>                      <char>
+1: Accession Sufficient for Use in Study
+2: GSE148747                          No
+3: GSE138081                          No
+4: GSE138080                          No
+5: GSE138079                          No
+                                                                                      ...4
+                                                                                    <char>
+1:                                                                                 Comment
+2:                                                                   No treatment metadata
+3: Superseries, if there are relevant series, they will be included as separate accessions
+4:                                             No treatment metadata, no survival outcomes
+5:                                                                  Cell lines, not tissue
+SHEET 4 nrow 51 ncol 4 
+                                                                                                    ...1
+                                                                                                  <char>
+1:                                                                                          Dataset Name
+2:                                      Expression data from esophageal squamous cell carcinoma patients
+3:                                    Integrative analysis of miRNAs and matched gene expression in ESCC
+4:                                      Intergrated analysis of array-miRNAs and matched Affymetrix gene
+5: Differentially expressed genes following PARK2 depletion in Esophageal Squamous Cell Cancer Cell Line
+        ...2                        ...3
+      <char>                      <char>
+1: Accession Sufficient for Use in Study
+2: GSE161533                          No
+3:  GSE67269                          No
+4:  GSE44021                          No
+5: GSE146808                          No
+                                                                                      ...4
+                                                                                    <char>
+1:                                                                                 Comment
+2:                                             No treatment metadata, no survival outcomes
+3: Superseries, if there are relevant series, they will be included as separate accessions
+4: Superseries, if there are relevant series, they will be included as separate accessions
+5:                                                                  Cell lines, not tissue
+
+FILE Cell_Lines_Details.xlsx sheets Cell line details COSMIC tissue classification Decode 
+SHEET 1 nrow 1003 ncol 13 
+          ...1              ...2                         ...3
+        <char>            <char>                       <char>
+1: Sample Name COSMIC identifier Whole Exome Sequencing (WES)
+2:        A253            906794                            Y
+3:    BB30-HNC            753531                            Y
+4:    BB49-HNC            753532                            Y
+5:         BHY            753535                            Y
+                            ...4            ...5        ...6             ...7
+                          <char>          <char>      <char>           <char>
+1: Copy Number Alterations (CNA) Gene Expression Methylation Drug\r\nResponse
+2:                             Y               Y           Y                Y
+3:                             Y               Y           Y                Y
+4:                             Y               Y           Y                Y
+5:                             Y               Y           Y                Y
+                          ...8                           ...9
+                        <char>                         <char>
+1: GDSC\r\nTissue descriptor 1 GDSC\r\nTissue\r\ndescriptor 2
+2:              aero_dig_tract                  head and neck
+3:              aero_dig_tract                  head and neck
+4:              aero_dig_tract                  head and neck
+5:              aero_dig_tract                  head and neck
+                                  ...10
+                                 <char>
+1: Cancer Type\r\n(matching TCGA label)
+2:                                 <NA>
+3:                                 HNSC
+4:                                 HNSC
+5:                                 HNSC
+                                         ...11         ...12
+                                        <char>        <char>
+1: Microsatellite \r\ninstability Status (MSI) Screen Medium
+2:                                   MSS/MSI-L         D/F12
+3:                                   MSS/MSI-L         D/F12
+4:                                   MSS/MSI-L         D/F12
+5:                                   MSS/MSI-L         D/F12
+SHEET 2 nrow 1030 ncol 4 
+       ...1      ...2            ...3               ...4
+     <char>    <char>          <char>             <char>
+1:     Line COSMIC_ID            Site          Histology
+2: NCI-H522    905944            lung          carcinoma
+3:     Mewo    908128            skin malignant_melanoma
+4:   C2BBe1    910700 large_intestine          carcinoma
+5:  HCC1428   1290905          breast          carcinoma
+SHEET 3 nrow 51 ncol 2 
+                          ...1                         ...2
+                        <char>                       <char>
+1: TCGA tissue classification:                         <NA>
+2:                  TCGA Label                   Definition
+3:                         ACC     Adrenocortical carcinoma
+4:                         ALL Acute lymphoblastic leukemia
+5:                        BLCA Bladder Urothelial Carcinoma
+
+FILE GDSC1_fitted_dose_response_27Oct23.xlsx sheets Sheet 1 
+SHEET 1 nrow 333162 ncol 19 
+      ...1           ...2          ...3      ...4           ...5
+    <char>         <char>        <char>    <char>         <char>
+1: DATASET NLME_RESULT_ID NLME_CURVE_ID COSMIC_ID CELL_LINE_NAME
+2:   GDSC1            342      15580432    684057            ES5
+3:   GDSC1            342      15580806    684059            ES7
+4:   GDSC1            342      15581198    684062          EW-11
+5:   GDSC1            342      15581542    684072        SK-ES-1
+              ...6         ...7    ...8      ...9           ...10
+            <char>       <char>  <char>    <char>          <char>
+1: SANGER_MODEL_ID    TCGA_DESC DRUG_ID DRUG_NAME PUTATIVE_TARGET
+2:       SIDM00263 UNCLASSIFIED       1 Erlotinib            EGFR
+3:       SIDM00269 UNCLASSIFIED       1 Erlotinib            EGFR
+4:       SIDM00203 UNCLASSIFIED       1 Erlotinib            EGFR
+5:       SIDM01111 UNCLASSIFIED       1 Erlotinib            EGFR
+            ...11      ...12
+           <char>     <char>
+1:   PATHWAY_NAME COMPANY_ID
+2: EGFR signaling       1045
+3: EGFR signaling       1045
+4: EGFR signaling       1045
+5: EGFR signaling       1045
+
+FILE GDSC2_fitted_dose_response_27Oct23.xlsx sheets Sheet 1 
+SHEET 1 nrow 242037 ncol 19 
+      ...1           ...2          ...3      ...4           ...5
+    <char>         <char>        <char>    <char>         <char>
+1: DATASET NLME_RESULT_ID NLME_CURVE_ID COSMIC_ID CELL_LINE_NAME
+2:   GDSC2            343      15946310    683667         PFSK-1
+3:   GDSC2            343      15946548    684052           A673
+4:   GDSC2            343      15946830    684057            ES5
+5:   GDSC2            343      15947087    684059            ES7
+              ...6         ...7    ...8         ...9           ...10
+            <char>       <char>  <char>       <char>          <char>
+1: SANGER_MODEL_ID    TCGA_DESC DRUG_ID    DRUG_NAME PUTATIVE_TARGET
+2:       SIDM01132           MB    1003 Camptothecin            TOP1
+3:       SIDM00848 UNCLASSIFIED    1003 Camptothecin            TOP1
+4:       SIDM00263 UNCLASSIFIED    1003 Camptothecin            TOP1
+5:       SIDM00269 UNCLASSIFIED    1003 Camptothecin            TOP1
+             ...11      ...12
+            <char>     <char>
+1:    PATHWAY_NAME COMPANY_ID
+2: DNA replication       1046
+3: DNA replication       1046
+4: DNA replication       1046
+5: DNA replication       1046
+
+FILE GSE210921_5637GRC1.xlsx sheets 5637.A1.GRCh38.CPM.log2.NT 
+SHEET 1 nrow 36412 ncol 17 
+      ...1               ...2       ...3               ...4       ...5
+    <char>             <char>     <char>             <char>     <char>
+1:  geneID         5637.R1.P0 5637.R2.P0         5637.R3.P0 5637.R4.P0
+2:    DSC2 4.3600000000000003        4.5 4.3899999999999997       4.21
+3:   NPHS1               1.51       1.35               1.32       1.45
+4: FAM134B               2.93       2.97               2.91       2.66
+5:  WNT10A               0.69       0.53               1.06       0.81
+             ...6               ...7               ...8               ...9
+           <char>             <char>             <char>             <char>
+1: 5637GRC1.R1.P3     5637GRC1.R2.P3     5637GRC1.R3.P3     5637GRC1.R4.P3
+2:           3.18               3.02                3.1                3.1
+3:           3.58               3.44               3.46               3.19
+4:           1.77               1.58               1.62               1.68
+5:            4.2 4.3099999999999996 4.2699999999999996 4.0599999999999996
+            ...10          ...11          ...12
+           <char>         <char>         <char>
+1: 5637GRC1.R1.P7 5637GRC1.R2.P7 5637GRC1.R3.P7
+2:           2.96           2.96            2.9
+3:           3.11           2.99           2.93
+4:           1.58           1.63           1.57
+5:           3.59           3.75           3.72
+
+FILE GSE210953_5637GRC2.xlsx sheets 5637.B2.GRCh38.CPM.log2.NT 
+SHEET 1 nrow 35785 ncol 16 
+     ...1               ...2       ...3               ...4       ...5
+   <char>             <char>     <char>             <char>     <char>
+1: geneID         5637.R1.P0 5637.R2.P0         5637.R3.P0 5637.R4.P0
+2:   DSC2 4.3600000000000003        4.5 4.3899999999999997       4.21
+3:  KIF5C               4.25       4.32               4.29       4.43
+4:   LIFR               3.61       3.67               3.38       3.23
+5:  THSD1               2.04          2               2.35       2.14
+             ...6                  ...7           ...8           ...9
+           <char>                <char>         <char>         <char>
+1: 5637GRC2.R1.P3        5637GRC2.R2.P3 5637GRC2.R3.P3 5637GRC2.R1.P7
+2:            3.1                  3.15           2.76           4.38
+3:           2.64                  2.89           1.96           4.43
+4:           1.92                  2.29           1.35            3.7
+5:           0.22 7.0000000000000007E-2              0           1.88
+            ...10          ...11          ...12
+           <char>         <char>         <char>
+1: 5637GRC2.R2.P7 5637GRC2.R3.P7 5637GRC2.R4.P7
+2:           4.46           4.33           4.38
+3:            4.3           4.25           4.24
+4:           3.65           3.58           3.43
+5:           1.68           2.06           1.59
+
+FILE GSE217413_Gene_cpm_WT_CR.xls sheets Gene_cpm 
+SHEET 1 nrow 13744 ncol 5 
+                           ...1               ...2               ...3
+                         <char>             <char>             <char>
+1:                         Gene    UM.UC3.CisR_CR1    UM.UC3.CisR_CR2
+2:   ENSG00000000003.15__TSPAN6              13.83 13.199999999999999
+3:     ENSG00000000419.13__DPM1              54.93 52.079999999999998
+4:    ENSG00000000457.14__SCYL3 2.8300000000000001 3.6499999999999999
+5: ENSG00000000460.17__C1orf112 9.3399999999999999 9.2100000000000009
+                 ...4               ...5
+               <char>             <char>
+1:      UM.UC3.WT_WT1      UM.UC3.WT_WT2
+2: 22.920000000000002 21.039999999999999
+3:              43.32 60.020000000000003
+4: 4.1100000000000003 4.8499999999999996
+5:              13.32 9.9100000000000001
+
+FILE GSE235067_Raw_data_AFont_et_al_FINAL_v3.xlsx sheets Hoja1 
+SHEET 1 nrow 68 ncol 87 
+        ...1           ...2       ...3   ...4   ...5   ...6   ...7   ...8
+      <char>         <char>     <char> <char> <char> <char> <char> <char>
+1: Gene Name    Accession # Class Name    11C    14C    15C    16C    17C
+2:      <NA>           <NA>       <NA>   <NA>   <NA>   <NA>   <NA>   <NA>
+3:     53BP1 NM_001141980.1 Endogenous    296    303    265   1503     17
+4:       ATM    NM_138292.3 Endogenous     92    139    131    379     23
+5:       ATR    NM_001184.2 Endogenous    221    213    214    589     43
+     ...9  ...10  ...11  ...12
+   <char> <char> <char> <char>
+1:     1C     2C     7C     8C
+2:   <NA>   <NA>   <NA>   <NA>
+3:    245     97    388    172
+4:     60     47     69     51
+5:    323     85    391    164
+
+FILE GSE247185_BladderProject_RawData.xlsx sheets bladdergene counts 
+SHEET 1 nrow 23712 ncol 14 
+         ...1    ...2    ...3    ...4    ...5    ...6    ...7     ...8     ...9
+       <char>  <char>  <char>  <char>  <char>  <char>  <char>   <char>   <char>
+1:    Column1 Column2 Column3 Column4 Column5 Column6 Column7  Column8  Column9
+2:      #NAME BCNA5-A BCNA7-A BCNA4-A BCNA3-A BCNA2-A BCNA1-A BCNA15-A BCNA17-A
+3: 3/1/2022_1     245      57      37      96     239     190      107       86
+4: 3/1/2022_2     131       1     168      58      53     263      362       60
+5: 3/2/2022_1      78      78      75      32      14     151      130       17
+      ...10    ...11    ...12
+     <char>   <char>   <char>
+1: Column10 Column11 Column12
+2: BCNA18-A BCNA12-A BCNA13-A
+3:        0      146      206
+4:        0       31      149
+5:      122      103      192
+
+FILE GSE285648_Experiment_processed_data.xlsx sheets 1016_Expression Browser_GE 
+SHEET 1 nrow 21491 ncol 37 
+     ...1        ...2        ...3        ...4         ...5         ...6
+   <char>      <char>      <char>      <char>       <char>       <char>
+1:   Name 1016-1_RPKM 1016-2_RPKM 1016-3_RPKM 1016-10_RPKM 1016-11_RPKM
+2:   A1BG           0           0           0            0            0
+3:   A1CF           0           0           0            0            0
+4:    A2M           0           0           0            0            0
+5:  A2ML1           0           0           0            0            0
+           ...7         ...8         ...9        ...10        ...11
+         <char>       <char>       <char>       <char>       <char>
+1: 1016-12_RPKM 1016-13_RPKM 1016-14_RPKM 1016-15_RPKM 1016-19_RPKM
+2:            0            0            0            0            0
+3:            0            0            0            0            0
+4:            0            0            0            0            0
+5:            0            0            0            0            0
+                 ...12
+                <char>
+1:        1016-20_RPKM
+2:                   0
+3: 0.57429182639158083
+4:                   0
+5:                   0

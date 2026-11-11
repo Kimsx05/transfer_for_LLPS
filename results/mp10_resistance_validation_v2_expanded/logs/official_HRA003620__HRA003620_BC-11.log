@@ -1,0 +1,25 @@
+ranking_seconds 6.347 n 118 
+total_seconds 6.838 
+	Command being timed: "Rscript /home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/scripts/17_epi_official.R /home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/02_epi/specimen_checkpoints/HRA003620__HRA003620_BC-11"
+	User time (seconds): 18.67
+	System time (seconds): 1.91
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:20.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1577224
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 826604
+	Voluntary context switches: 53
+	Involuntary context switches: 75
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 216
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

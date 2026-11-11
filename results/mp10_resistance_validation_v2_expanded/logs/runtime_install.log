@@ -1,0 +1,10 @@
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/, https://pypi.mirrors.ustc.edu.cn/simple/
+Collecting pypdf
+  Downloading https://mirrors.aliyun.com/pypi/packages/d5/a9/ae11deef21eaac5113f8c3848da1c42423b7abeca0abc349bfec7abf4c4e/pypdf-7.0.1-py3-none-any.whl (416 kB)
+Collecting openpyxl
+  Downloading https://mirrors.ustc.edu.cn/pypi/packages/c0/da/977ded879c29cbd04de313843e76868e6e13408a94ed6b987245dc7c8506/openpyxl-3.1.5-py2.py3-none-any.whl (250 kB)
+Collecting et-xmlfile (from openpyxl)
+  Downloading https://mirrors.ustc.edu.cn/pypi/packages/c1/8b/5fe2cc11fee489817272089c4203e679c63b570a5aaeb18d852ae3cbba6a/et_xmlfile-2.0.0-py3-none-any.whl (18 kB)
+Installing collected packages: pypdf, et-xmlfile, openpyxl
+
+Successfully installed et-xmlfile-2.0.0 openpyxl-3.1.5 pypdf-7.0.1

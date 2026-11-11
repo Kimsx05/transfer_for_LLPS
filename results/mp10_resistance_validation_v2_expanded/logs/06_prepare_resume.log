@@ -1,0 +1,36 @@
+GSE190636 ['T24.NT1_S12', 'T24.NT2_S13', 'T24.NT3_S14', 'T24.NT4_S15', 'T24.1.P3.NT1_S1', 'T24.1.P3.NT2_S11', 'T24.1.P3.NT3_S12', 'T24.1.P3.NT4_S13', 'T24.1.P7.NT1_S8', 'T24.1.P7.NT2_S9', 'T24.1.P7.NT3_S10', 'T24.1.P7.NT4_S11', 'T24.1.P15.NT1_S16', 'T24.1.P15.NT2_S7', 'T24.1.P15.NT3_S8', 'T24.1.P15.NT4_S9']
+PREPARED {'dataset': 'GSE190636', 'scale': 'author_log2CPM', 'n_features_original': 39007, 'n_background': 38930, 'n_assays': 16, 'missing_values': 0, 'min': 0.0, 'median': 0.08, 'max': 14.57, 'note': ''}
+PREPARED {'dataset': 'GSE171537', 'scale': 'counts', 'n_features_original': 58884, 'n_background': 58709, 'n_assays': 60, 'missing_values': 0, 'min': 0.0, 'median': 0.0, 'max': 1993076.0, 'note': ''}
+PREPARED {'dataset': 'GSE169455', 'scale': 'author_log2', 'n_features_original': 13624, 'n_background': 13619, 'n_assays': 149, 'missing_values': 0, 'min': 0.661999292, 'median': 4.368382097, 'max': 13.54214538, 'note': 'author RMA/quantile/ComBat; probe median; no repeat transformation'}
+Traceback (most recent call last):
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/scripts/06_prepare.py", line 83, in <module>
+    m=read('00_plan_audit/'+g+'_samples.tsv');m['matrix_id']=m.GSM;annotated_matrix(g,pd.concat(aa,axis=1),m,'counts')
+                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/scripts/06_prepare.py", line 23, in annotated_matrix
+    xx=df.astype(float).copy();assert len(xx)==len(mapping);xx.index=mapping.mapped_symbol
+       ^^^^^^^^^^^^^^^^
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/cell2location_setup_v1/cell2location_env/lib/python3.12/site-packages/pandas/core/generic.py", line 6529, in astype
+    new_data = self._mgr.astype(dtype=dtype, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/cell2location_setup_v1/cell2location_env/lib/python3.12/site-packages/pandas/core/internals/managers.py", line 627, in astype
+    return self.apply("astype", dtype=dtype, errors=errors)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/cell2location_setup_v1/cell2location_env/lib/python3.12/site-packages/pandas/core/internals/managers.py", line 445, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/cell2location_setup_v1/cell2location_env/lib/python3.12/site-packages/pandas/core/internals/blocks.py", line 607, in astype
+    new_values = astype_array_safe(values, dtype, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/cell2location_setup_v1/cell2location_env/lib/python3.12/site-packages/pandas/core/dtypes/astype.py", line 240, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/cell2location_setup_v1/cell2location_env/lib/python3.12/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = values.astype(dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/cell2location_setup_v1/cell2location_env/lib/python3.12/site-packages/pandas/core/arrays/string_arrow.py", line 336, in astype
+    return self.to_numpy(dtype=dtype, na_value=np.nan)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/t070721/codex_workspace/Bladder Metabolism/cell2location_setup_v1/cell2location_env/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 1746, in to_numpy
+    result = result.astype(dtype, copy=False)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'AMC_17S_28715_R'

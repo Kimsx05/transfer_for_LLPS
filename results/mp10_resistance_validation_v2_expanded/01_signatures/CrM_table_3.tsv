@@ -1,0 +1,23 @@
+0	1	2	3	4	5
+		Univariate analysis	NA	NA	NA
+Dataset	Prognostic factor	Hazard ratio	ciLower	ciUpper	P-value
+UROMOLa	CrM signature (low vs. high)	3.95	2.17	7.19	6.75E-06
+	Others vs. Class 1	0.16	0.04	0.67	1.22E-02
+	Others vs. Class 2a	3.59	1.92	6.73	6.39E-05
+	Others vs. Class 2b	1.13	0.59	2.14	7.12E-01
+	Others vs. Class 3	0.56	0.24	1.34	1.94E-01
+	EORTC risk score (low vs. high)	5.14	2.64	9.98	1.38E-06
+	EAU risk score (low vs. high)	1.49	0.79	2.80	2.14E-01
+BRSa	CrM signature (low vs. high)	2.24	1.50	3.36	8.24.E-05
+	Others vs. BRS1	0.55	0.34	0.90	1.07.E-02
+	Others vs. BRS2	0.69	0.45	1.06	8.99.E-02
+	Others vs. BRS3	2.51	1.67	3.76	8.27.E-06
+	EORTC risk score (high vs. highest)	1.67	1.09	2.55	1.85.E-02
+TCGAb	CrM signature (low vs. high)	2.09	1.43	3.04	1.30.E-04
+	Others vs. LumP	0.50	0.32	0.77	1.81.E-03
+	Others vs. LumNS	1.36	0.71	2.61	3.53.E-01
+	Others vs. LumU	0.88	0.49	1.56	6.54.E-01
+	Others vs. Stroma.rich	1.61	1.00	2.58	4.77.E-02
+	Others vs. Ba.Sq	1.20	0.83	1.73	3.33.E-01
+	Others vs. NE.like	2.57	1.04	6.32	4.04.E-02
+aHazard ratios and P-values were calculated using progression-free survival.bHazard ratios and P-values were calculated using overall survival.Abbreviations: CrM, Chemoresistance Motility; EORTC, European Organisation for Research and Treatment of Cancer; EAU, European Association of Urology; LumP, Luminal Papillary; LumNS, Luminal non-specified; LumU, Luminal Unstable; Ba/Sq, Basal/Squamous; NE-like, Neuroendocrine-like.	NA	NA	NA	NA	NA

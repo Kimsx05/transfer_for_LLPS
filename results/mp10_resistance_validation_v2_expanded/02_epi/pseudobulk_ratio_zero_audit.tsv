@@ -1,0 +1,2 @@
+sample	NPEPPS_count	VRAC_denominator_total_count	score	reason
+CNP0000460|CNP0000460_P02T	2.0	0	NA	all5 denominator genes mapped but zero count in this sample; native ratio NA; no pseudocount/subset substitution

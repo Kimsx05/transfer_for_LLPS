@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE217413",
+  "scale": "linear_CPM",
+  "n_features_original": 13743,
+  "n_background": 13719,
+  "n_assays": 4,
+  "missing_values": 0,
+  "min": 0.0,
+  "median": 16.89,
+  "max": 18567.46,
+  "note": ""
+}

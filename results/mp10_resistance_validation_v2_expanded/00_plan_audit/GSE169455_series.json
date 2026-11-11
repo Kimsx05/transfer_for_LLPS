@@ -1,0 +1,245 @@
+{
+  "title": [
+    "Differential neoadjuvant chemotherapy response in urothelial carcinoma molecular subtypes"
+  ],
+  "geo_accession": [
+    "GSE169455"
+  ],
+  "status": [
+    "Public on Nov 19 2021"
+  ],
+  "submission_date": [
+    "Mar 23 2021"
+  ],
+  "last_update_date": [
+    "Jan 03 2023"
+  ],
+  "pubmed_id": [
+    "34782206"
+  ],
+  "summary": [
+    "For patients with muscle-invasive bladder cancer, there are no biomarkers in clinical use that can identify patients that are sensitive or resistant to neoadjuvant chemotherapy. This study investigates how molecular subtypes impact pathological response and survival in 149 patients receiving preoperative cis-platin based chemotherapy by tumor classification using transcriptomic profiling and a 13-marker immunostaining panel. Furthermore, we explored to what extent gene expression signatures can predict chemotherapy response beyond molecular subtypes. We observed improved pathological response rates and survival outcomes for patients presenting with genomically unstable (GU) and urothelial-like (Uro) subtypes compared to the basal-squamous (BASQ) subtype following neoadjuvant chemotherapy and radical cystectomy. Also, SPP1, coding for osteopontin, displayed a clear subtype-dependent effect on chemotherapy response, confirmed at the protein level. Based on our findings, we hypothesize that urothelial cancer of the luminal-like GU- and Uro-subtypes are more responsive to cisplatin-based chemotherapy which may influence patient selection pending further research."
+  ],
+  "overall_design": [
+    "Retrospective cohort study aiming to determine the association between molecular subtypes and neoadjuvant chemotherapy response in muscle-invasive bladder cancer.",
+    "",
+    "Please note that the 'normalized_by_gene.txt' was updated on Feb 28, 2022 to include the corresponding sample titles as the data column headers."
+  ],
+  "type": [
+    "Expression profiling by array"
+  ],
+  "contributor": [
+    "Gottfrid,,Sj\u00f6dahl",
+    "Johan,,Abrahamsson",
+    "Karin,,Holmsten",
+    "Carina,,Bernardo",
+    "Gunilla,,Chebil",
+    "Pontus,,Eriksson",
+    "Iva,,Johansson",
+    "Petter,,Kollberg",
+    "Claes,,Lindh",
+    "Kristina,,L\u00f6vgren",
+    "Nour-al-Dain,,Marzouka",
+    "Hans,,Olsson",
+    "Mattias,,H\u00f6glund",
+    "Anders,,Ull\u00e9n",
+    "Fredrik,,Liedberg"
+  ],
+  "sample_id": [
+    "GSM5203407",
+    "GSM5203408",
+    "GSM5203409",
+    "GSM5203410",
+    "GSM5203411",
+    "GSM5203412",
+    "GSM5203413",
+    "GSM5203414",
+    "GSM5203415",
+    "GSM5203416",
+    "GSM5203417",
+    "GSM5203418",
+    "GSM5203419",
+    "GSM5203420",
+    "GSM5203421",
+    "GSM5203422",
+    "GSM5203423",
+    "GSM5203424",
+    "GSM5203425",
+    "GSM5203426",
+    "GSM5203427",
+    "GSM5203428",
+    "GSM5203429",
+    "GSM5203430",
+    "GSM5203431",
+    "GSM5203432",
+    "GSM5203433",
+    "GSM5203434",
+    "GSM5203435",
+    "GSM5203436",
+    "GSM5203437",
+    "GSM5203438",
+    "GSM5203439",
+    "GSM5203440",
+    "GSM5203441",
+    "GSM5203442",
+    "GSM5203443",
+    "GSM5203444",
+    "GSM5203445",
+    "GSM5203446",
+    "GSM5203447",
+    "GSM5203448",
+    "GSM5203449",
+    "GSM5203450",
+    "GSM5203451",
+    "GSM5203452",
+    "GSM5203453",
+    "GSM5203454",
+    "GSM5203455",
+    "GSM5203456",
+    "GSM5203457",
+    "GSM5203458",
+    "GSM5203459",
+    "GSM5203460",
+    "GSM5203461",
+    "GSM5203462",
+    "GSM5203463",
+    "GSM5203464",
+    "GSM5203465",
+    "GSM5203466",
+    "GSM5203467",
+    "GSM5203468",
+    "GSM5203469",
+    "GSM5203470",
+    "GSM5203471",
+    "GSM5203472",
+    "GSM5203473",
+    "GSM5203474",
+    "GSM5203475",
+    "GSM5203476",
+    "GSM5203477",
+    "GSM5203478",
+    "GSM5203479",
+    "GSM5203480",
+    "GSM5203481",
+    "GSM5203482",
+    "GSM5203483",
+    "GSM5203484",
+    "GSM5203485",
+    "GSM5203486",
+    "GSM5203487",
+    "GSM5203488",
+    "GSM5203489",
+    "GSM5203490",
+    "GSM5203491",
+    "GSM5203492",
+    "GSM5203493",
+    "GSM5203494",
+    "GSM5203495",
+    "GSM5203496",
+    "GSM5203497",
+    "GSM5203498",
+    "GSM5203499",
+    "GSM5203500",
+    "GSM5203501",
+    "GSM5203502",
+    "GSM5203503",
+    "GSM5203504",
+    "GSM5203505",
+    "GSM5203506",
+    "GSM5203507",
+    "GSM5203508",
+    "GSM5203509",
+    "GSM5203510",
+    "GSM5203511",
+    "GSM5203512",
+    "GSM5203513",
+    "GSM5203514",
+    "GSM5203515",
+    "GSM5203516",
+    "GSM5203517",
+    "GSM5203518",
+    "GSM5203519",
+    "GSM5203520",
+    "GSM5203521",
+    "GSM5203522",
+    "GSM5203523",
+    "GSM5203524",
+    "GSM5203525",
+    "GSM5203526",
+    "GSM5203527",
+    "GSM5203528",
+    "GSM5203529",
+    "GSM5203530",
+    "GSM5203531",
+    "GSM5203532",
+    "GSM5203533",
+    "GSM5203534",
+    "GSM5203535",
+    "GSM5203536",
+    "GSM5203537",
+    "GSM5203538",
+    "GSM5203539",
+    "GSM5203540",
+    "GSM5203541",
+    "GSM5203542",
+    "GSM5203543",
+    "GSM5203544",
+    "GSM5203545",
+    "GSM5203546",
+    "GSM5203547",
+    "GSM5203548",
+    "GSM5203549",
+    "GSM5203550",
+    "GSM5203551",
+    "GSM5203552",
+    "GSM5203553",
+    "GSM5203554",
+    "GSM5203555"
+  ],
+  "contact_name": [
+    "Gottfrid,,Sjodahl"
+  ],
+  "contact_email": [
+    "gottfrid.sjodahl@med.lu.se"
+  ],
+  "contact_department": [
+    "Department of Translational Medicine"
+  ],
+  "contact_institute": [
+    "Lund Univeristy"
+  ],
+  "contact_address": [
+    "Medicon Village"
+  ],
+  "contact_city": [
+    "Lund"
+  ],
+  "contact_zip/postal_code": [
+    "SE-22381"
+  ],
+  "contact_country": [
+    "Sweden"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE169nnn/GSE169455/suppl/GSE169455_RAW.tar",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE169nnn/GSE169455/suppl/GSE169455_normalized_by_gene.txt.gz"
+  ],
+  "platform_id": [
+    "GPL6244"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA716648"
+  ]
+}

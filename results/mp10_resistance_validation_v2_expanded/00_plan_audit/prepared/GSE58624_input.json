@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE58624",
+  "scale": "author_log2",
+  "n_features_original": 28869,
+  "n_background": 28127,
+  "n_assays": 4,
+  "missing_values": 0,
+  "min": 4.1282825,
+  "median": 5.2143896000000005,
+  "max": 13.4581995,
+  "note": "Data acquisition was using the GeneChip\u00ae Command Console\u00ae Software\uff08AGCC\uff09, and RMA16 normalization was performed with GeneSpring GX Version11.5.1 software."
+}

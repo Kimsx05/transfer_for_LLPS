@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE5287",
+  "scale": "author_log2",
+  "n_features_original": 22283,
+  "n_background": 15040,
+  "n_assays": 30,
+  "missing_values": 0,
+  "min": 2.704671297,
+  "median": 6.3907805705000005,
+  "max": 14.14278086,
+  "note": "RMA normalized"
+}

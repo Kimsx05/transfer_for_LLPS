@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-11-11T11:07:27.861033",
+  "dataset": "GSE285648",
+  "reference_samples": [
+    "1016-1_RPKM",
+    "1016-2_RPKM",
+    "1016-3_RPKM",
+    "1016-19_RPKM",
+    "1016-20_RPKM",
+    "1016-21_RPKM",
+    "1016-43_RPKM",
+    "1016-44_RPKM",
+    "1016-45_RPKM",
+    "1016-55_RPKM",
+    "1016-56_RPKM",
+    "1016-57_RPKM",
+    "1016-67_RPKM",
+    "1016-68_RPKM",
+    "1016-69_RPKM"
+  ],
+  "reason": "Tighten native gene-z reference to all DMSO samples, including parental-only RT112; PARPi scores remain separate. Frozen baseline comparison already excluded PARPi but gene-z reference inadvertently used all36. Technical compatibility correction, not P-based selection; retain before/after.",
+  "supersedes": "reference_samples.json GSE285648 only",
+  "n_before": 36,
+  "n_after": 15
+}

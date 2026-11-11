@@ -1,0 +1,58 @@
+sample	dataset	orig.ident	sample_id	source	patient	patient_recorded	patient_status	patient_source	verified	evidence_v2
+CNP0000460|CNP0000460_P01N	CNP0000460	CNP0000460_P01N	NA	Normal	NA	CNP0000460::P01	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P02N	CNP0000460	CNP0000460_P02N	NA	Normal	NA	CNP0000460::P02	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P03N	CNP0000460	CNP0000460_P03N	NA	Normal	NA	CNP0000460::P03	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P05N	CNP0000460	CNP0000460_P05N	NA	Normal	NA	CNP0000460::P05	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P07N	CNP0000460	CNP0000460_P07N	NA	Normal	NA	CNP0000460::P07	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P01T	CNP0000460	CNP0000460_P01T	NA	MIBC	NA	CNP0000460::P01	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P02T	CNP0000460	CNP0000460_P02T	NA	MIBC	NA	CNP0000460::P02	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P03T	CNP0000460	CNP0000460_P03T	NA	NMIBC	NA	CNP0000460::P03	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P04T	CNP0000460	CNP0000460_P04T	NA	MIBC	NA	CNP0000460::P04	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P05T	CNP0000460	CNP0000460_P05T	NA	MIBC	NA	CNP0000460::P05	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P06T	CNP0000460	CNP0000460_P06T	NA	NMIBC	NA	CNP0000460::P06	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+CNP0000460|CNP0000460_P07T	CNP0000460	CNP0000460_P07T	NA	NMIBC	NA	CNP0000460::P07	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+GSE326225|GSE326225_BC1	GSE326225	GSE326225_BC1	NA	MIBC	NA	GSE326225::GSE326225_BC1	provisional	provisional_name_rule	False	unverified local rename; source identity correspondence still needed
+GSE326225|GSE326225_BC2	GSE326225	GSE326225_BC2	NA	MIBC	NA	GSE326225::GSE326225_BC2	provisional	provisional_name_rule	False	unverified local rename; source identity correspondence still needed
+GSE326225|GSE326225_BC3	GSE326225	GSE326225_BC3	NA	MIBC	NA	GSE326225::GSE326225_BC3	provisional	provisional_name_rule	False	unverified local rename; source identity correspondence still needed
+GSE326225|GSE326225_BC4	GSE326225	GSE326225_BC4	NA	MIBC	NA	GSE326225::GSE326225_BC4	provisional	provisional_name_rule	False	unverified local rename; source identity correspondence still needed
+GSE326225|GSE326225_BC5	GSE326225	GSE326225_BC5	NA	MIBC	NA	GSE326225::GSE326225_BC5	provisional	provisional_name_rule	False	unverified local rename; source identity correspondence still needed
+GSE326225|GSE326225_BC6	GSE326225	GSE326225_BC6	NA	MIBC	NA	GSE326225::GSE326225_BC6	provisional	provisional_name_rule	False	unverified local rename; source identity correspondence still needed
+GSE326225|GSE326225_BC7	GSE326225	GSE326225_BC7	NA	MIBC	NA	GSE326225::GSE326225_BC7	provisional	provisional_name_rule	False	unverified local rename; source identity correspondence still needed
+GSE326225|GSE326225_BC8	GSE326225	GSE326225_BC8	NA	MIBC	NA	GSE326225::GSE326225_BC8	provisional	provisional_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_BC-01	HRA003620	HRA003620_BC-01	NA	MIBC	NA	HRA003620::01	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_BC-04	HRA003620	HRA003620_BC-04	NA	MIBC	NA	HRA003620::04	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_BC-05	HRA003620	HRA003620_BC-05	NA	MIBC	NA	HRA003620::05	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_BC-11	HRA003620	HRA003620_BC-11	NA	NMIBC	NA	HRA003620::11	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_BC-24	HRA003620	HRA003620_BC-24	NA	NMIBC	NA	HRA003620::24	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_BC-27	HRA003620	HRA003620_BC-27	NA	NMIBC	NA	HRA003620::27	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_BC-30	HRA003620	HRA003620_BC-30	NA	MIBC	NA	HRA003620::30	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_NC-01	HRA003620	HRA003620_NC-01	NA	Normal	NA	HRA003620::01	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_NC-04	HRA003620	HRA003620_NC-04	NA	Normal	NA	HRA003620::04	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_NC-05	HRA003620	HRA003620_NC-05	NA	Normal	NA	HRA003620::05	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_NC-11	HRA003620	HRA003620_NC-11	NA	Normal	NA	HRA003620::11	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_NC-24	HRA003620	HRA003620_NC-24	NA	Normal	NA	HRA003620::24	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_NC-27	HRA003620	HRA003620_NC-27	NA	Normal	NA	HRA003620::27	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+HRA003620|HRA003620_NC-30	HRA003620	HRA003620_NC-30	NA	Normal	NA	HRA003620::30	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+InhouseData|T4380845	InhouseData	T4380845	NA	MIBC	InhouseData::T4380845	InhouseData::T4380845	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4091568	InhouseData	T4091568	NA	MIBC	InhouseData::T4091568	InhouseData::T4091568	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4295396	InhouseData	T4295396	NA	MIBC	InhouseData::T4295396	InhouseData::T4295396	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4398343	InhouseData	T4398343	NA	MIBC	InhouseData::T4398343	InhouseData::T4398343	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4463209a	InhouseData	T4463209a	NA	MIBC	InhouseData::T4463209	InhouseData::T4463209	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4463209b	InhouseData	T4463209b	NA	MIBC	InhouseData::T4463209	InhouseData::T4463209	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4466585	InhouseData	T4466585	NA	MIBC	InhouseData::T4466585	InhouseData::T4466585	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4469479	InhouseData	T4469479	NA	MIBC	InhouseData::T4469479	InhouseData::T4469479	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4471438	InhouseData	T4471438	NA	MIBC	InhouseData::T4471438	InhouseData::T4471438	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T8009218	InhouseData	T8009218	NA	MIBC	InhouseData::T8009218	InhouseData::T8009218	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4465935	InhouseData	T4465935	NA	MIBC	InhouseData::T4465935	InhouseData::T4465935	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+InhouseData|T4465219	InhouseData	T4465219	NA	MIBC	InhouseData::T4465219	InhouseData::T4465219	provisional	provisional_name_rule	True	explicit user confirmation in v2 task; exact12 sample IDs match v1/source cohort
+PRJNA662018|PRJNA662018_PRJNA662018_P1N1	PRJNA662018	PRJNA662018_PRJNA662018_P1N1	PRJNA662018_PRJNA662018_P1N1	Normal	NA	PRJNA662018::P1	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P1T1	PRJNA662018	PRJNA662018_PRJNA662018_P1T1	PRJNA662018_PRJNA662018_P1T1	NMIBC	NA	PRJNA662018::P1	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P2T2	PRJNA662018	PRJNA662018_PRJNA662018_P2T2	PRJNA662018_PRJNA662018_P2T2	NMIBC	NA	PRJNA662018::P2	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P3N3	PRJNA662018	PRJNA662018_PRJNA662018_P3N3	PRJNA662018_PRJNA662018_P3N3	Normal	NA	PRJNA662018::P3	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P3T3	PRJNA662018	PRJNA662018_PRJNA662018_P3T3	PRJNA662018_PRJNA662018_P3T3	NMIBC	NA	PRJNA662018::P3	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P4T4	PRJNA662018	PRJNA662018_PRJNA662018_P4T4	PRJNA662018_PRJNA662018_P4T4	NMIBC	NA	PRJNA662018::P4	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P5T5	PRJNA662018	PRJNA662018_PRJNA662018_P5T5	PRJNA662018_PRJNA662018_P5T5	MIBC	NA	PRJNA662018::P5	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P6N2	PRJNA662018	PRJNA662018_PRJNA662018_P6N2	PRJNA662018_PRJNA662018_P6N2	Normal	NA	PRJNA662018::P6	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P6T6	PRJNA662018	PRJNA662018_PRJNA662018_P6T6	PRJNA662018_PRJNA662018_P6T6	MIBC	NA	PRJNA662018::P6	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P7T7	PRJNA662018	PRJNA662018_PRJNA662018_P7T7	PRJNA662018_PRJNA662018_P7T7	MIBC	NA	PRJNA662018::P7	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed
+PRJNA662018|PRJNA662018_PRJNA662018_P8T8	PRJNA662018	PRJNA662018_PRJNA662018_P8T8	PRJNA662018_PRJNA662018_P8T8	MIBC	NA	PRJNA662018::P8	derived	dataset_name_rule	False	unverified local rename; source identity correspondence still needed

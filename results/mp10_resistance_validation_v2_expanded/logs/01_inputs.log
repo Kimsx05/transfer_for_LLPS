@@ -1,0 +1,62 @@
+GSE217413_metadata.soft OK 13796239
+GSE217413_Gene_cpm_WT_CR.xls.gz OK 496217
+GSE285648_metadata.soft OK 2428737
+GSE171537_RNAseq_ensembl_raw_counts.txt.gz OK 3167327
+GSE171537_metadata.soft OK 41147847
+GSE313089_RAW.tar OK 1914880
+GSE285648_Experiment_processed_data.xlsx OK 8139991
+GSE268855_ITGB4_counts.txt.gz OK 518356
+GSE268855_counts.csv.gz OK 517724
+GSE268855_metadata.soft OK 9327522
+GSE313089_metadata.soft OK 40990405
+GSE231835_RAW.tar OK 52224000
+GSE58624_series_matrix.txt.gz OK 568117
+GSE231835_metadata.soft OK 41004257
+GSE190636_T24.GRCh38.CPM.log2.NT.txt.gz OK 798341
+GSE190636_metadata.soft OK 13385218
+GSE210954_metadata.soft OK 13433678
+GSE58624_metadata.soft OK 102892378
+GSE210921_5637GRC1.xlsx OK 3340677
+GSE210921_metadata.soft OK 13388793
+GSE210953_5637GRC2.xlsx OK 3167053
+GSE210953_metadata.soft OK 13385738
+GSE77883_metadata.soft OK 35949296
+GSE169455_normalized_by_gene.txt.gz OK 11035932
+GSE212810_metadata.soft OK 13939789
+GSE169455_metadata.soft OK 101206943
+GSE52219_non_normalized.txt.gz OK 3871331
+GSE52219_series_matrix.txt.gz OK 3779403
+GSE52219_metadata.soft OK 79587299
+GSE77883_series_matrix.txt.gz OK 1603355
+GSE244266_series_matrix.txt.gz OK 56474884
+GSE87304_series_matrix.txt.gz OK 84988339
+GSE69795_metadata.soft OK 96982915
+GSE244266_metadata.soft OK 331206185
+GSE69795_series_matrix.txt.gz OK 3278159
+GSE69795_non-normalized.txt.gz OK 9965248
+GSE247185_BladderProject_RawData.xlsx OK 1984775
+GSE247185_metadata.soft OK 41015485
+GSE87304_metadata.soft OK 367071147
+GSE5287_series_matrix.txt.gz OK 3763418
+GSE5287_metadata.soft OK 62583268
+GSE235067_metadata.soft OK 296817
+GSE235067_Raw_data_AFont_et_al_FINAL_v3.xlsx OK 43620
+GSE124305_series_matrix.txt.gz OK 37904034
+GSE48276_non-normalized.txt.gz OK 20268942
+GSE124305_metadata.soft OK 160746925
+GSE48276_series_matrix.txt.gz OK 18194785
+GSE70691_non-normalized_data.txt.gz OK 8039924
+GSE70691_metadata.soft OK 90209992
+GSE48276_metadata.soft OK 150487981
+GSE83586_Processed_Data_Supplement.txt.gz OK 22915679
+GDSC1_fitted_dose_response_27Oct23.xlsx OK 29353210
+GSE222073_metadata.soft OK 39244153
+GDSC2_fitted_dose_response_27Oct23.xlsx OK 21330376
+Cell_Lines_Details.xlsx OK 117316
+Cell_line_RMA_proc_basalExp.txt.zip FAILED       0      0                              0
+curl: (22) The requested URL returned error: 410
+Warning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.
+  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 410
+ 0
+GSE83586_metadata.soft OK 353777343

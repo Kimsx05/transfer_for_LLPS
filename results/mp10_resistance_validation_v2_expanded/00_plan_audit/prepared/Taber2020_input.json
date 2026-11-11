@@ -1,0 +1,12 @@
+{
+  "dataset": "Taber2020",
+  "scale": "author_log2CPM",
+  "n_features_original": 20453,
+  "n_background": 20433,
+  "n_assays": 96,
+  "missing_values": 0,
+  "min": -2.57,
+  "median": 2.52,
+  "max": 20.48,
+  "note": "Public Supplementary Data4; fresh frozen96 of RNA121; edgeR normalized expression"
+}

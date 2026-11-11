@@ -1,0 +1,18 @@
+HEAVY_STARTED 2026-11-11T16:47:25.305641+08:00 4119827
+running 2026-11-11T16:47:25.305641+08:00
+FROZEN_INPUTS_VERIFIED
+HEAVY_STARTED 2026-11-11T16:48:42.799686+08:00 4133977
+running 2026-11-11T16:48:42.799686+08:00
+FROZEN_INPUTS_VERIFIED
+STAGE_AUDIT_COMPLETE 57
+COMPLETION_TABLES_READY
+base_title  n_assays                  GSMs                   titles  full_background_genes  expression_Pearson  regimen_consistent  cT_consistent                                                                                identity_status                                                needed
+P201514523         2 GSM7810242;GSM7810243 P201514523;P201514523_F2                  33738            0.954521                True           True provisional title-based repeat group; patient/physical RNA identity not independently verified author patient-GSM crosswalk and F2 repeat definition
+P201521727         2 GSM7810237;GSM7810238 P201521727;P201521727_F2                  33738            0.948951                True           True provisional title-based repeat group; patient/physical RNA identity not independently verified author patient-GSM crosswalk and F2 repeat definition
+P201626254         2 GSM7810286;GSM7810287 P201626254;P201626254_F2                  33738            0.955756                True           True provisional title-based repeat group; patient/physical RNA identity not independently verified author patient-GSM crosswalk and F2 repeat definition
+P201637008         2 GSM7810299;GSM7810300 P201637008;P201637008_F2                  33738            0.976010                True           True provisional title-based repeat group; patient/physical RNA identity not independently verified author patient-GSM crosswalk and F2 repeat definition
+P201670456         2 GSM7810317;GSM7810318 P201670456;P201670456_F2                  33738            0.972281                True           True provisional title-based repeat group; patient/physical RNA identity not independently verified author patient-GSM crosswalk and F2 repeat definition
+P201675571         2 GSM7810275;GSM7810276 P201675571;P201675571_F2                  33738            0.923189                True           True provisional title-based repeat group; patient/physical RNA identity not independently verified author patient-GSM crosswalk and F2 repeat definition
+P201676404         2 GSM7810325;GSM7810326 P201676404;P201676404_F2                  33738            0.963218                True           True provisional title-based repeat group; patient/physical RNA identity not independently verified author patient-GSM crosswalk and F2 repeat definition
+REPEAT_IDENTITY_QC_COMPLETE
+HEAVY_EXIT 2026-11-11T17:16:42.892681+08:00 0

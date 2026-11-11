@@ -1,0 +1,237 @@
+{
+  "title": [
+    "Patterns of metastasis and recurrence in urothelial cancer molecular subtypes"
+  ],
+  "geo_accession": [
+    "GSE222073"
+  ],
+  "status": [
+    "Public on Aug 24 2023"
+  ],
+  "submission_date": [
+    "Jan 03 2023"
+  ],
+  "last_update_date": [
+    "Dec 14 2023"
+  ],
+  "pubmed_id": [
+    "37671617"
+  ],
+  "web_link": [
+    "https://doi.org/10.1002/ijc.34715"
+  ],
+  "summary": [
+    "This series contains the gene expression data from urothelial bladder cancer samples from Swedish patients that were used to analyze metastatic sites. Included patients have a recurrence or distant metastasis before or after treatment with chemotherapy. Patients with only lymph-node metastases are not included. A previous series (GSE169455) contains data from all patients that recieved two or more cycles of neoadjuvant chemotherapy with curative intent. Patients in that series that developed distant recurrence are re-analyzed here. A few samples from a previous cystectomy series (GSE83586) are also included as re-analysis. In addition, the current series contains data from patients treated with palliative first-line chemotherapy, curative adjuvant chemotherapy, or < 2 cycles of neoadjuvant chemotherapy.",
+    "Raw data should be adjusted in data processing for batch variables: Labeling batch and Labeling kit."
+  ],
+  "overall_design": [
+    "Retrospective cohort study aiming to study metastatic sites and  chemotherapy response in muscle-invasive bladder cancer."
+  ],
+  "type": [
+    "Expression profiling by array",
+    "Third-party reanalysis"
+  ],
+  "contributor": [
+    "Gottfrid,,Sj\u00f6dahl",
+    "Pontus,,Eriksson",
+    "Johan,,Abrahamsson",
+    "Karin,,Holmsten",
+    "Carina,,Bernardo",
+    "Mattias,,H\u00f6glund",
+    "Anders,,Ull\u00e9n",
+    "Fredrik,,Liedberg"
+  ],
+  "sample_id": [
+    "GSM6914278",
+    "GSM6914279",
+    "GSM6914280",
+    "GSM6914281",
+    "GSM6914282",
+    "GSM6914283",
+    "GSM6914284",
+    "GSM6914285",
+    "GSM6914286",
+    "GSM6914287",
+    "GSM6914288",
+    "GSM6914289",
+    "GSM6914290",
+    "GSM6914291",
+    "GSM6914292",
+    "GSM6914293",
+    "GSM6914294",
+    "GSM6914295",
+    "GSM6914296",
+    "GSM6914297",
+    "GSM6914298",
+    "GSM6914299",
+    "GSM6914300",
+    "GSM6914301",
+    "GSM6914302",
+    "GSM6914303",
+    "GSM6914304",
+    "GSM6914305",
+    "GSM6914306",
+    "GSM6914307",
+    "GSM6914308",
+    "GSM6914309",
+    "GSM6914310",
+    "GSM6914311",
+    "GSM6914312",
+    "GSM6914313",
+    "GSM6914314",
+    "GSM6914315",
+    "GSM6914316",
+    "GSM6914317",
+    "GSM6914318",
+    "GSM6914319",
+    "GSM6914320",
+    "GSM6914321",
+    "GSM6914322",
+    "GSM6914323",
+    "GSM6914324",
+    "GSM6914325",
+    "GSM6914326",
+    "GSM6914327",
+    "GSM6914328",
+    "GSM6914329",
+    "GSM6914330",
+    "GSM6914331",
+    "GSM6914332",
+    "GSM6914333",
+    "GSM6914334",
+    "GSM6914335",
+    "GSM6914336",
+    "GSM6914337",
+    "GSM6914338",
+    "GSM6914339",
+    "GSM6914340",
+    "GSM6914341",
+    "GSM6914342",
+    "GSM6914343",
+    "GSM6914344",
+    "GSM6914345",
+    "GSM6914346",
+    "GSM6914347",
+    "GSM6914348",
+    "GSM6914349",
+    "GSM6914350",
+    "GSM6914351",
+    "GSM6914352",
+    "GSM6914353",
+    "GSM6914354",
+    "GSM6914355",
+    "GSM6914356",
+    "GSM6914357",
+    "GSM6914358",
+    "GSM6914359",
+    "GSM6914360",
+    "GSM6914361",
+    "GSM6914362",
+    "GSM6914363",
+    "GSM6914364",
+    "GSM6914365",
+    "GSM6914366",
+    "GSM6914367",
+    "GSM6914368",
+    "GSM6914369",
+    "GSM6914370",
+    "GSM6914371",
+    "GSM6914372",
+    "GSM6914373",
+    "GSM6914374",
+    "GSM6914375",
+    "GSM6914376",
+    "GSM6914377",
+    "GSM6914378",
+    "GSM6914379",
+    "GSM6914380",
+    "GSM6914381",
+    "GSM6914382",
+    "GSM6914383",
+    "GSM6914384",
+    "GSM6914385",
+    "GSM6914386",
+    "GSM6914387",
+    "GSM6914388",
+    "GSM6914389",
+    "GSM6914390",
+    "GSM6914391",
+    "GSM6914392",
+    "GSM6914393",
+    "GSM6914394",
+    "GSM6914395",
+    "GSM6914396",
+    "GSM6914397",
+    "GSM6914398",
+    "GSM6914399",
+    "GSM6914400",
+    "GSM6914401",
+    "GSM6914402",
+    "GSM6914403",
+    "GSM6914404",
+    "GSM6914405",
+    "GSM6914406",
+    "GSM6914407",
+    "GSM6914408",
+    "GSM6914409",
+    "GSM6914410",
+    "GSM6914411",
+    "GSM6914412",
+    "GSM6914413",
+    "GSM6914414",
+    "GSM6914415",
+    "GSM6914416",
+    "GSM6914417",
+    "GSM6914418",
+    "GSM6914419",
+    "GSM6914420",
+    "GSM6914421",
+    "GSM6914422",
+    "GSM6914423"
+  ],
+  "contact_name": [
+    "Gottfrid,,Sjodahl"
+  ],
+  "contact_email": [
+    "gottfrid.sjodahl@med.lu.se"
+  ],
+  "contact_department": [
+    "Department of Translational Medicine"
+  ],
+  "contact_institute": [
+    "Lund Univeristy"
+  ],
+  "contact_address": [
+    "Medicon Village"
+  ],
+  "contact_city": [
+    "Lund"
+  ],
+  "contact_zip/postal_code": [
+    "SE-22381"
+  ],
+  "contact_country": [
+    "Sweden"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE222nnn/GSE222073/suppl/GSE222073_RAW.tar"
+  ],
+  "platform_id": [
+    "GPL32998"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA917639"
+  ]
+}

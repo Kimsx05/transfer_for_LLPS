@@ -1,0 +1,5 @@
+time	type	change	reason
+2026-11-11T11:05:40.640237	implementation_enumeration	Expand already specified Normal/CNV/recorded-Type and leave-one branches in result/status tables; original frozen hypothesis_table missed these sensitivity expansions. Original10985 rows retained; FDR_actual_vs_plan explicitly shows additional pre-specified sensitivity families.	Task/config mandated sensitivity analyses, not selected by associations
+2026-11-11T11:05:40.640260	implementation_alignment	GSE244266 expression-median merged182 IDs also deduplicated in clinical metadata before model join	Frozen duplicate rule; no endpoint-guided choice
+2026-11-11T11:05:40.640264	source_recovery	Public Taber96 expression/clinical recovered before freeze; actual IC50 table subsequently recovered and evaluated using frozen formula and design threshold	Public source availability; no outcome-based model choice
+2026-11-11T11:05:40.640267	random_control_precision	100 matched controls use pooled pseudobulk mean/detection quintiles, not single-cell detection. Labelled descriptive; no drug specificity claim.	Matching basis clarified to match actual input aggregation

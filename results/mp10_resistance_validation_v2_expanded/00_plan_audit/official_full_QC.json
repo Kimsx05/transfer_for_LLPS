@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "n_cells": 123699,
+  "n_samples": 57,
+  "n_sets": 28,
+  "n_methods": 2,
+  "n_score_rows": 6927144,
+  "all_IDs_unique_and_complete": true,
+  "finite_and_unit_interval": true,
+  "max_cycle_recomputation_error": 0.0,
+  "date": "2026-11-11T17:10:57.041026"
+}

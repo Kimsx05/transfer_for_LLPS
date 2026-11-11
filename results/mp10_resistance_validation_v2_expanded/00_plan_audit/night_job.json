@@ -1,0 +1,25 @@
+{
+  "scheduler": "existing project local night_gate pattern; not Slurm",
+  "supervisor_pid": 4133976,
+  "timezone": "Asia/Shanghai",
+  "window": "immediate full run explicitly authorized by user; no time-window pause",
+  "command": [
+    "/usr/bin/python3",
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/scripts/night_gate.py",
+    "bash",
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/scripts/night_pipeline.sh"
+  ],
+  "submitted_at": "2026-11-11T16:47:25.260968+08:00",
+  "requested_threads": 4,
+  "BLAS_threads": 1,
+  "expected_ranking_cpu_minutes": 93,
+  "R_workers": 3,
+  "orchestrator_CPU_reserve": 1,
+  "authorization_record": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/00_plan_audit/amendments/immediate_full_scoring.json",
+  "environment_override": {
+    "MP10_RUN_NOW": "1",
+    "MP10_EPI_WORKERS": "3"
+  },
+  "restarted_at": "2026-11-11T16:48:42.767696+08:00",
+  "R_startup_profiles": "disabled locally to prevent site BLAS24 override"
+}

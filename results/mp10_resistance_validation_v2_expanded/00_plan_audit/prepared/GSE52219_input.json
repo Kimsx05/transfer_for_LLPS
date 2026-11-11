@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE52219",
+  "scale": "author_log2",
+  "n_features_original": 29377,
+  "n_background": 20483,
+  "n_assays": 23,
+  "missing_values": 19,
+  "min": 3.507667065,
+  "median": 9.99792862025,
+  "max": 16.1291256,
+  "note": "Quantile normalization in the R language environment was used to normalize the data"
+}

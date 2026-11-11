@@ -1,0 +1,13 @@
+source('/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/scripts/15_bulk.R')
+x=rd('02_epi/pseudobulk_counts.tsv.gz');sm=rd('02_epi/pseudobulk_samples.tsv');sets=unique(mf$signature);more=list()
+for(ds in unique(sm$dataset)){
+ meta=sm[dataset==ds];g=paste0('EpiPB_',ds);y=x[,c('gene',meta$sample),with=FALSE];path=file.path(B,paste0('02_epi/',g,'_counts.tsv.gz'));fwrite(y,path,sep='\t');ref=meta[n_cells>=50,sample]
+ for(sn in mf$signature){r=members[signature==sn];present=!is.na(r$gene)&r$gene%in%x$gene;ok=nrow(r)>0&&mean(present)>=.8&&all(vapply(c(-1,1),function(sign){j=sign(r$weight)==sign;!any(j)||mean(present[j])>=.8},logical(1)));if(sn=='NPEPPS_VRAC_ratio')ok=all(present);cv=data.table(dataset=g,signature=sn,status=if(ok)'READY' else 'BLOCKED_COVERAGE',reason=if(ok)'' else 'mapped coverage below fixed rule',n_original=nrow(r),n_present=sum(present),coverage=if(nrow(r))mean(present) else NA_real_);if(sn=='CisSig_gene_set_adapted')cv[,`:=`(status='BLOCKED_DESIGN',reason='single-cell enrichment only')];if(length(ref)<2)cv[,`:=`(status='BLOCKED_DESIGN',reason='fewer than2 samples with>=50Epi')];more[[length(more)+1]]=cv}
+ cov=rbindlist(c(list(cov),more),fill=TRUE);if(length(ref)>=2)score_one(g,path,'counts',ref)
+}
+wt(unique(rbindlist(more,fill=TRUE)),'00_plan_audit/epi_pseudobulk_coverage.tsv')
+#100 matched random sets, fixed seed. Match pooled sample expression and cell detection (nonzero per-cell rates) using quintile bins.
+set.seed(20261111);xx=as.matrix(x[,-1]);rownames(xx)=x$gene;expr=log2(xx+1);mu=rowMeans(expr);det=rowMeans(xx>0);bins=paste(pmin(5,ceiling(rank(mu,ties.method='average')/length(mu)*5)),pmin(5,ceiling(rank(det,ties.method='average')/length(det)*5)),sep='_');names(bins)=rownames(xx);mp=members[signature=='MP10',gene];random=list();mem=list();pool=setdiff(rownames(xx)[!grepl('^UNMAPPED',rownames(xx))],mp)
+for(i in 1:100){chosen=character();for(gg in mp){cand=setdiff(pool[bins[pool]==bins[gg]],chosen);if(!length(cand))cand=setdiff(pool,chosen);chosen=c(chosen,sample(cand,1))};random[[paste0('random_',i)]]=chosen;mem[[i]]=data.table(set=paste0('random_',i),gene=chosen)}
+wt(rbindlist(mem),'02_epi/random_matched_members.tsv');out=list()
+for(ds in unique(sm$dataset)){meta=sm[dataset==ds&n_cells>=50];if(nrow(meta)<3)next;y=calcNormFactors(DGEList(xx[,meta$sample,drop=FALSE]));ee=cpm(y,log=TRUE,prior.count=1);z=gsva(ssgseaParam(ee,random,minSize=16,alpha=.25,normalize=FALSE),verbose=FALSE,BPPARAM=BiocParallel::SerialParam());a=as.data.table(t(z),keep.rownames='sample');a[,dataset:=ds];out[[ds]]=melt(a,id.vars=c('sample','dataset'),variable.name='control',value.name='score')};wt(rbindlist(out),'02_epi/random_matched_scores.tsv');cat('PSEUDOBULK_COMPLETE\n')

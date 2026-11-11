@@ -1,0 +1,14 @@
+DTP.xml OK 278694
+Tanaka_supp.pdf OK 23156
+GDSC_expression.zip FAILED urned error: 404
+Warning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 404
+ 0
+cissig_tree.json OK 9357
+CrM_article.html FAILED       0      0                              0
+curl: (22) The requested URL returned error: 403
+Warning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.
+  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 403
+ 0

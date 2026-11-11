@@ -1,0 +1,3 @@
+GSM	raw	old_good	new_good	old_author	new_author	reason
+GSM1709099	TaN0	NA	1	NA	1	literal TaN0 / Ta N0 should follow already frozen tri-state rules; numeric stage groups remain untouched
+GSM1709100	Ta N0	NA	1	NA	1	literal TaN0 / Ta N0 should follow already frozen tri-state rules; numeric stage groups remain untouched

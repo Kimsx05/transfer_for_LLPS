@@ -1,0 +1,11 @@
+{
+  "frozen_before_derivation_and_MP10_association": true,
+  "timestamp_Asia_Shanghai": "2026-11-11T10:24:08.809776+08:00",
+  "contrast": "GSE217413 UM-UC-3 CisR mean CPM versus WT mean CPM",
+  "input": "author CAGE CPM, human Ensembl.version__symbol; not raw counts",
+  "filter": "mean CPM across 4 samples >=1; abs log2((CR mean+0.1)/(WT mean+0.1)) >=2",
+  "selection": "up to 100 genes per direction; descending absolute log2 ratio then lexical gene symbol; uniquely mapped human genes only",
+  "score": "mean(gene z in UP)-mean(gene z in DN); separately versioned derived program",
+  "independence": "GSE217413 itself is derivation/internal comparison, not independent validation",
+  "published_program": "separate BLOCKED_LABELS if full 2284-gene published membership cannot be resolved; supplementary PDF is full CPM table, not labeled DEG list"
+}

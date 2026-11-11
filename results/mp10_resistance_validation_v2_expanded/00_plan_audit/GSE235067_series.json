@@ -1,0 +1,170 @@
+{
+  "title": [
+    "Predictive signature of response to neoadjuvant chemotherapy in muscle-invasive bladder cancer integrating mRNA expression, taxonomic subtypes, and clinicopathological features"
+  ],
+  "geo_accession": [
+    "GSE235067"
+  ],
+  "status": [
+    "Public on Jun 20 2023"
+  ],
+  "submission_date": [
+    "Jun 15 2023"
+  ],
+  "last_update_date": [
+    "Jun 20 2023"
+  ],
+  "summary": [
+    "Background and Objective: Neoadjuvant chemotherapy (NAC) followed by cystectomy is the standard of care in muscle-invasive bladder cancer (MIBC). Pathological response has been associated with longer survival, but no currently available clinicopathological variables can identify patients likely to respond, highlighting the need for predictive biomarkers. We sought to identify a predictive signature of response to NAC integrating clinical score, taxonomic subtype, and gene expression.     Material and Methods: From 1994 to 2014, pre-treatment tumor samples were collected from MIBC patients (stage T2-4N0/+M0) at two Spanish hospitals. A clinical score was determined based on stage, hydronephrosis and histology. Taxonomic subtypes (BASQ, luminal, and mixed) were identified by immunohistochemistry. A custom set of 41 genes involved in DNA damage repair and immune response was analyzed in 84 patients with the NanoString nCounter platform. Genes related to pathological response were identified by LASSO penalized logistic regression. NAC consisted of cisplatin/methotrexate/vinblastine until 2000, after which most patients received cisplatin/gemcitabine. The capacity of the integrated signature to predict pathological response was assessed with AUC. Overall survival (OS) and disease-specific survival (DSS) were analyzed with the Kaplan-Meier method.  Results: LASSO selected eight genes to be included in the signature (RAD51, IFN\u03b3, CHEK1, CXCL9, c-MET, KRT14, HERC2, FOXA1). The highest predictive accuracy was observed with the inclusion in the model of only three genes (RAD51, IFN\u0263, CHEK1). The integrated clinical-taxonomic-gene expression signature including these three genes had a higher predictive ability (AUC=0.71) than only clinical score plus taxonomic subtype (AUC=0.58) or clinical score alone (AUC=0.56). This integrated signature was also significantly associated with OS (p=0.02) and DSS (p=0.02).   Conclusions: We have identified a predictive signature for response to NAC in MIBC patients that integrates the expression of three genes with clinicopathological characteristics and taxonomic subtypes. Prospective studies to validate these results are ongoing."
+  ],
+  "overall_design": [
+    "From 1994 to 2014, pre-treatment tumor samples were collected from MIBC patients (stage T2-4N0/+M0) at two Spanish hospitals. A clinical score was determined based on stage, hydronephrosis and histology. Taxonomic subtypes (BASQ, luminal, and mixed) were identified by immunohistochemistry. A custom set of 41 genes involved in DNA damage repair and immune response was analyzed in 84 patients with the NanoString nCounter platform. Genes related to pathological response were identified by LASSO penalized logistic regression. NAC consisted of cisplatin/methotrexate/vinblastine until 2000, after which most patients received cisplatin/gemcitabine. The capacity of the integrated signature to predict pathological response was assessed with AUC. Overall survival (OS) and disease-specific survival (DSS) were analyzed with the Kaplan-Meier method."
+  ],
+  "type": [
+    "Expression profiling by array"
+  ],
+  "contributor": [
+    "Albert,,Font",
+    "F,X,Real"
+  ],
+  "sample_id": [
+    "GSM7494416",
+    "GSM7494417",
+    "GSM7494418",
+    "GSM7494419",
+    "GSM7494420",
+    "GSM7494421",
+    "GSM7494422",
+    "GSM7494423",
+    "GSM7494424",
+    "GSM7494425",
+    "GSM7494426",
+    "GSM7494427",
+    "GSM7494428",
+    "GSM7494429",
+    "GSM7494430",
+    "GSM7494431",
+    "GSM7494432",
+    "GSM7494433",
+    "GSM7494434",
+    "GSM7494435",
+    "GSM7494436",
+    "GSM7494437",
+    "GSM7494438",
+    "GSM7494439",
+    "GSM7494440",
+    "GSM7494441",
+    "GSM7494442",
+    "GSM7494443",
+    "GSM7494444",
+    "GSM7494445",
+    "GSM7494446",
+    "GSM7494447",
+    "GSM7494448",
+    "GSM7494449",
+    "GSM7494450",
+    "GSM7494451",
+    "GSM7494452",
+    "GSM7494453",
+    "GSM7494454",
+    "GSM7494455",
+    "GSM7494456",
+    "GSM7494457",
+    "GSM7494458",
+    "GSM7494459",
+    "GSM7494460",
+    "GSM7494461",
+    "GSM7494462",
+    "GSM7494463",
+    "GSM7494464",
+    "GSM7494465",
+    "GSM7494466",
+    "GSM7494467",
+    "GSM7494468",
+    "GSM7494469",
+    "GSM7494470",
+    "GSM7494471",
+    "GSM7494472",
+    "GSM7494473",
+    "GSM7494474",
+    "GSM7494475",
+    "GSM7494476",
+    "GSM7494477",
+    "GSM7494478",
+    "GSM7494479",
+    "GSM7494480",
+    "GSM7494481",
+    "GSM7494482",
+    "GSM7494483",
+    "GSM7494484",
+    "GSM7494485",
+    "GSM7494486",
+    "GSM7494487",
+    "GSM7494488",
+    "GSM7494489",
+    "GSM7494490",
+    "GSM7494491",
+    "GSM7494492",
+    "GSM7494493",
+    "GSM7494494",
+    "GSM7494495",
+    "GSM7494496",
+    "GSM7494497",
+    "GSM7494498",
+    "GSM7494499"
+  ],
+  "contact_name": [
+    "Jaime,,Martinez de Villarreal"
+  ],
+  "contact_email": [
+    "jmartinezv@cnio.es"
+  ],
+  "contact_phone": [
+    "+34 917328000"
+  ],
+  "contact_laboratory": [
+    "Epithelial Carcinogenesis Group"
+  ],
+  "contact_department": [
+    "Molecular Oncology Programme"
+  ],
+  "contact_institute": [
+    "CNIO"
+  ],
+  "contact_address": [
+    "Melchor Fern\u00e1ndez Almagro, 3"
+  ],
+  "contact_city": [
+    "Madrid"
+  ],
+  "contact_state": [
+    "Madrid"
+  ],
+  "contact_zip/postal_code": [
+    "28029"
+  ],
+  "contact_country": [
+    "Spain"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE235nnn/GSE235067/suppl/GSE235067_Raw_data_AFont_et_al_FINAL_v3.xlsx"
+  ],
+  "platform_id": [
+    "GPL33497"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA984286"
+  ]
+}

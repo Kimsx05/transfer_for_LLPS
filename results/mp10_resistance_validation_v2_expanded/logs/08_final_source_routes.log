@@ -1,0 +1,14 @@
+DTP_TableS6_download.xlsx FAILED  0      0   0      0      0      0                              0100   1817 100   1817   0      0   4540      0                              0100   1817 100   1817   0      0   4538      0                              0100   1817 100   1817   0      0   4535      0                              0
+ 0
+CrM_publisher.html FAILED               0  0      0   0      0   0      0      0      0                              0
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 403
+ 0
+CrM_supp1.docx OK 61386
+CrM_supp2.xlsx FAILED       0      0                              0
+curl: (22) The requested URL returned error: 404
+Warning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.
+  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 404
+ 0
+CMP_models_current.csv OK 902914

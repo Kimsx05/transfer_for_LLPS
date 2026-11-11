@@ -1,0 +1,283 @@
+{
+  "title": [
+    "Association of Molecular Subtypes with Pathologic Response, PFS and OS in a Phase II Study of Coexpression Extrapolation (COXEN) with Neoadjuvant Chemotherapy (NAC) for Localized, Muscle-Invasive Bladder Cancer (SWOG S1314; NCT02177695)"
+  ],
+  "geo_accession": [
+    "GSE244266"
+  ],
+  "status": [
+    "Public on Nov 28 2023"
+  ],
+  "submission_date": [
+    "Sep 28 2023"
+  ],
+  "last_update_date": [
+    "Apr 02 2025"
+  ],
+  "pubmed_id": [
+    "37966367",
+    "40121304"
+  ],
+  "summary": [
+    "Investigation of RNA-based molecular subtypes as additional predictive biomarkers for neoadjuvant chemotherapy response, progression-free survival and survival in patients treated in S1314."
+  ],
+  "overall_design": [
+    "randomized 2-arm phase II trial of neoadjuvant chemotherapy in muscle-invasive bladder cancer, translational analysis of tissue"
+  ],
+  "type": [
+    "Expression profiling by array"
+  ],
+  "contributor": [
+    "S,P,Lerner",
+    "D,J,McConkey",
+    "C,M,Tangen",
+    "J,J,Meeks",
+    "S,,Daneshmand",
+    "A,S,Alva",
+    "M,S,Lucia",
+    "D,,Theodorescu",
+    "A,,Goldkorn",
+    "M,I,Milowsky",
+    "W,,Choi",
+    "R,,Bangs",
+    "D,L,Gustafson",
+    "M,,Plets",
+    "I,M,Thompson"
+  ],
+  "sample_id": [
+    "GSM7810144",
+    "GSM7810145",
+    "GSM7810146",
+    "GSM7810147",
+    "GSM7810148",
+    "GSM7810149",
+    "GSM7810150",
+    "GSM7810151",
+    "GSM7810152",
+    "GSM7810153",
+    "GSM7810154",
+    "GSM7810155",
+    "GSM7810156",
+    "GSM7810157",
+    "GSM7810158",
+    "GSM7810159",
+    "GSM7810160",
+    "GSM7810161",
+    "GSM7810162",
+    "GSM7810163",
+    "GSM7810164",
+    "GSM7810165",
+    "GSM7810166",
+    "GSM7810167",
+    "GSM7810168",
+    "GSM7810169",
+    "GSM7810170",
+    "GSM7810171",
+    "GSM7810172",
+    "GSM7810173",
+    "GSM7810174",
+    "GSM7810175",
+    "GSM7810176",
+    "GSM7810177",
+    "GSM7810178",
+    "GSM7810179",
+    "GSM7810180",
+    "GSM7810181",
+    "GSM7810182",
+    "GSM7810183",
+    "GSM7810184",
+    "GSM7810185",
+    "GSM7810186",
+    "GSM7810187",
+    "GSM7810188",
+    "GSM7810189",
+    "GSM7810190",
+    "GSM7810191",
+    "GSM7810192",
+    "GSM7810193",
+    "GSM7810194",
+    "GSM7810195",
+    "GSM7810196",
+    "GSM7810197",
+    "GSM7810198",
+    "GSM7810199",
+    "GSM7810200",
+    "GSM7810201",
+    "GSM7810202",
+    "GSM7810203",
+    "GSM7810204",
+    "GSM7810205",
+    "GSM7810206",
+    "GSM7810207",
+    "GSM7810208",
+    "GSM7810209",
+    "GSM7810210",
+    "GSM7810211",
+    "GSM7810212",
+    "GSM7810213",
+    "GSM7810214",
+    "GSM7810215",
+    "GSM7810216",
+    "GSM7810217",
+    "GSM7810218",
+    "GSM7810219",
+    "GSM7810220",
+    "GSM7810221",
+    "GSM7810222",
+    "GSM7810223",
+    "GSM7810224",
+    "GSM7810225",
+    "GSM7810226",
+    "GSM7810227",
+    "GSM7810228",
+    "GSM7810229",
+    "GSM7810230",
+    "GSM7810231",
+    "GSM7810232",
+    "GSM7810233",
+    "GSM7810234",
+    "GSM7810235",
+    "GSM7810236",
+    "GSM7810237",
+    "GSM7810238",
+    "GSM7810239",
+    "GSM7810240",
+    "GSM7810241",
+    "GSM7810242",
+    "GSM7810243",
+    "GSM7810244",
+    "GSM7810245",
+    "GSM7810246",
+    "GSM7810247",
+    "GSM7810248",
+    "GSM7810249",
+    "GSM7810250",
+    "GSM7810251",
+    "GSM7810252",
+    "GSM7810253",
+    "GSM7810254",
+    "GSM7810255",
+    "GSM7810256",
+    "GSM7810257",
+    "GSM7810258",
+    "GSM7810259",
+    "GSM7810260",
+    "GSM7810261",
+    "GSM7810262",
+    "GSM7810263",
+    "GSM7810264",
+    "GSM7810265",
+    "GSM7810266",
+    "GSM7810267",
+    "GSM7810268",
+    "GSM7810269",
+    "GSM7810270",
+    "GSM7810271",
+    "GSM7810272",
+    "GSM7810273",
+    "GSM7810274",
+    "GSM7810275",
+    "GSM7810276",
+    "GSM7810277",
+    "GSM7810278",
+    "GSM7810279",
+    "GSM7810280",
+    "GSM7810281",
+    "GSM7810282",
+    "GSM7810283",
+    "GSM7810284",
+    "GSM7810285",
+    "GSM7810286",
+    "GSM7810287",
+    "GSM7810288",
+    "GSM7810289",
+    "GSM7810290",
+    "GSM7810291",
+    "GSM7810292",
+    "GSM7810293",
+    "GSM7810294",
+    "GSM7810295",
+    "GSM7810296",
+    "GSM7810297",
+    "GSM7810298",
+    "GSM7810299",
+    "GSM7810300",
+    "GSM7810301",
+    "GSM7810302",
+    "GSM7810303",
+    "GSM7810304",
+    "GSM7810305",
+    "GSM7810306",
+    "GSM7810307",
+    "GSM7810308",
+    "GSM7810309",
+    "GSM7810310",
+    "GSM7810311",
+    "GSM7810312",
+    "GSM7810313",
+    "GSM7810314",
+    "GSM7810315",
+    "GSM7810316",
+    "GSM7810317",
+    "GSM7810318",
+    "GSM7810319",
+    "GSM7810320",
+    "GSM7810321",
+    "GSM7810322",
+    "GSM7810323",
+    "GSM7810324",
+    "GSM7810325",
+    "GSM7810326",
+    "GSM7810327",
+    "GSM7810328",
+    "GSM7810329",
+    "GSM7810330",
+    "GSM7810331",
+    "GSM7810332"
+  ],
+  "contact_name": [
+    "Cathy,M,Tangen"
+  ],
+  "contact_email": [
+    "ctangen@fredhutch.org"
+  ],
+  "contact_institute": [
+    "Fred Hutchinson Cancer Center"
+  ],
+  "contact_address": [
+    "1100 Fairview Avenue N, J6-311"
+  ],
+  "contact_city": [
+    "Seattle"
+  ],
+  "contact_state": [
+    "WA"
+  ],
+  "contact_zip/postal_code": [
+    "98109-1024"
+  ],
+  "contact_country": [
+    "USA"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE244nnn/GSE244266/suppl/GSE244266_RAW.tar"
+  ],
+  "platform_id": [
+    "GPL570"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1022039"
+  ]
+}

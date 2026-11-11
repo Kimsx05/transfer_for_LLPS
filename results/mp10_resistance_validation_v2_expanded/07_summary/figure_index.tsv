@@ -1,0 +1,33 @@
+figure	source	note	width	height
+B_MP10_points_GSE171537	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	15	4.6
+B_MP10_points_GSE217413	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	6	4.6
+B_MP10_points_GSE285648	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	9	4.6
+B_MP10_points_GSE313089	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	6	4.6
+B_MP10_points_GSE268855	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	6	4.6
+B_MP10_points_GSE231835	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	6	4.6
+B_MP10_points_GSE58624	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	6	4.6
+B_MP10_points_GSE190636	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	6	4.6
+B_MP10_points_GSE210921	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	6	4.6
+B_MP10_points_GSE210953	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	6	4.6
+B_MP10_points_GSE77883	03_cell_models/sample_scores.tsv.gz	diamonds=state mean; RNA/passage repeats, not independent resistance inductions	6	4.6
+B_all_MP10_model_effects	03_cell_models/contrast_results.tsv	GSE58624 1+1 r unavailable; raw differences retained separately	12	12
+B_all_signature_model_r	03_cell_models/contrast_results.tsv	all frozen signatures/contrasts; grey=unestimable; inferential unit RNA repeats within a derived model	20	14
+B_MP10_gene_changes	03_cell_models/MP10_gene_changes.tsv	within-study normalized-expression changes; GSE77883 unknown transformed scale; not signature fold change	15	13
+C_clinical_points_GSE169455	05_clinical/model_patient_usage.tsv.gz	one dot/patient; same fixed reference z across all endpoint subsets	8	5
+C_clinical_points_GSE212810	05_clinical/model_patient_usage.tsv.gz	one dot/patient; same fixed reference z across all endpoint subsets	12	5
+C_clinical_points_GSE247185	05_clinical/model_patient_usage.tsv.gz	one dot/patient; same fixed reference z across all endpoint subsets	6	5
+C_clinical_points_GSE52219	05_clinical/model_patient_usage.tsv.gz	one dot/patient; same fixed reference z across all endpoint subsets	12	5
+C_clinical_points_GSE69795	05_clinical/model_patient_usage.tsv.gz	one dot/patient; same fixed reference z across all endpoint subsets	6	5
+C_clinical_points_Taber2020_FL	05_clinical/model_patient_usage.tsv.gz	one dot/patient; same fixed reference z across all endpoint subsets	6	5
+C_clinical_points_Taber2020_NAC	05_clinical/model_patient_usage.tsv.gz	one dot/patient; same fixed reference z across all endpoint subsets	12	5
+D_clinical_OR_unadjusted	05_clinical/model_results.tsv	MLE Wald or prespecified Firth profile CI; no pooled OR	17	7.1
+D_clinical_OR_adjusted	05_clinical/model_results.tsv	MLE Wald or prespecified Firth profile CI; no pooled OR	17	6
+D_all_clinical_signature_OR	05_clinical/model_results.tsv	grey=blocked/unestimable; clinical layers and endpoints remain separate	21	14
+A_verified_patient_all_signatures	02_epi/patient_summary.tsv	verified Inhouse patients only; repeated a/b sample effects equal Fisher-z combined	16	13
+A_all_datasets_adjustments	02_epi/descriptive_dataset_effects.tsv	unverified identities are descriptive; no all-cell P value	25	20
+A_Tsunoda_individual_patients	02_epi/patient_effects.tsv	""	14	12
+A_recorded_T_stage_all_signatures	02_epi/descriptive_dataset_effects.tsv	original recorded T_stage, not assumed clinical/pathological staging; small/unknown-patient strata descriptive	24	16
+E_GDSC_MP10_measured_IC50	04_measured_drug_response/GDSC_matched_scores.tsv.gz	GDSC2 primary; GDSC1 repeated screening sensitivity; overlapping backgrounds not independent cohorts	12	5
+E_GDSC_all_signature_correlations	04_measured_drug_response/GDSC_associations.tsv	CisSig19 derives from GDSC2: internal consistency, not independent validation	12	13
+F_actual_pre_post_pairs	06_paired_states/GSE69795_paired_scores.tsv	actual23patient pairs; ddMVAC+bevacizumab; residual tissue selection/composition confounding	7	6
+E_paired_measured_IC50_points	04_measured_drug_response/paired_IC50_score_changes.tsv	2 backgrounds in GSE285648, 1 T24R2; incompatible studies not pooled for P	9	6

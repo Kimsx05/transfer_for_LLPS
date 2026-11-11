@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE169455",
+  "scale": "author_log2",
+  "n_features_original": 13624,
+  "n_background": 13619,
+  "n_assays": 149,
+  "missing_values": 0,
+  "min": 0.661999292,
+  "median": 4.368382097,
+  "max": 13.54214538,
+  "note": "author RMA/quantile/ComBat; probe median; no repeat transformation"
+}

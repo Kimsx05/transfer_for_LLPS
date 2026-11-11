@@ -1,0 +1,9 @@
+source	target	relationship
+GSE210954	GSE210921;GSE210953	parent-child same31GSM; counted once
+GSE52219	GSE70691	reanalysis; not independent NAC validation
+GSE87304	GSE124305	pre/post study; patient crosswalk required
+CisSig19	GDSC_BLCA	training source overlap; internal consistency
+NPEPPS_VRAC_ratio	GSE171537	related model study system
+Tanaka49	GSE58624	signature derivation source
+CrM63_weighted_z	GSE210921;GSE210953	signature derivation source
+CLSPN_derived_program	GSE217413	derived on same data; internal only

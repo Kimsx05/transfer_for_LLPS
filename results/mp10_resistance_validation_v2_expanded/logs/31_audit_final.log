@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-11-11T11:46:02.428954",
+  "all_v1_hashes_unchanged": true,
+  "encoding_flip_checks": 25,
+  "encoding_flip_passed": 25,
+  "cycle_cells": 123699,
+  "max_single_process_RSS_GB": 5.247051239013672,
+  "official_full_scoring_complete": false,
+  "cell_model_assays": 177,
+  "baseline_model_assays": 156,
+  "paired_backgrounds": 9,
+  "studies": 10,
+  "contrasts": 33,
+  "study_background_drug_process_units": 27,
+  "signatures_registered": 37,
+  "signatures_members_ready": 34,
+  "clinical_unique_IDs_with_MP10_evaluable_primary": 312,
+  "disk_bytes": 4757843822
+}

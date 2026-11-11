@@ -1,0 +1,26 @@
+0	1	2	3	4	5	6
+Variable	UROMOL2016	GSE163209	BRS	GSE13507	TCGA	IMvigor210
+Total patients (n)	476 (100)	217 (100)	283 (100)	165 (100)	407 (100)	298 (100)
+Gender, n (%)	　	　	　	　	　	　
+Male	367 (77.1)	159 (73.3)	227 (80.2)	135 (81.8)	301 (73.9)	233 (78.2)
+Female	109 (22.9)	58 (26.7)	56 (19.8)	30 (18.2)	106 (26.1)	65 (21.8)
+Grade, n (%)	　	　	　	　	　	　
+NA	0	0	0	0	3 (0.1)	298 (100)
+PUNLMP	7 (1.5)	0	0	0	0	0
+Low or G1 and G2	277 (58.2)	77 (35.5)	15 (5.3)	105 (63.6)	21 (5.8)	0
+High or G3 and G4	192 (40.3)	140 (64.5)	268 (94.7)	60 (36.4)	383 (94.1)	0
+Stage, n (%)	　	　	　	　	　	　
+Other	3 (0.6)	0	0	0	0	0
+Ta	345 (72.5)	113 (52.1)	38 (13.4)	23 (13.9)	0	0
+T1	112 (23.5)	104 (47.9)	245 (86.8)	80 (48.5)	0	0
+T2-4	16 (3.4)	0	0	62 (37.6)	407 (100)	298 (100)
+Progression, n (%)	　	　	　	　	　	　
+No	445 (93.5)	200 (92.2)	187 (66.1)	NA	NA	NA
+Yes	31 (6.5)	17 (7.8)	96 (33.9)	NA	NA	NA
+Death, n (%)	　	　	　	　	　	　
+No	NA	NA	NA	133 (80.6)	229 (56.3)	110 (36.9)
+Yes	NA	NA	NA	32 (19.4)	178 (43.7)	188 (63.1)
+Treatment (BCG or ICIs), n (%)	　	　	BCG	　	　	ICIs
+No	388 (81.5)	154 (71.0)	0	119 (72.1)	NA	0
+Yes	88 (18.5)	63 (29.0)	283 (100)	46 (27.9)	NA	298 (100)
+Abbreviation: NA, not available; PUNLMP, papillary urothelial neoplasma of low malignant potential; BCG, Bacillus Calmette-Guérin; ICIs, Immune checkpoint inhibitors.	NA	NA	NA	NA	NA	NA

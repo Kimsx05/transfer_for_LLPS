@@ -1,0 +1,234 @@
+{
+  "title": [
+    "Divergent biological response to neoadjuvant chemotherapy in muscle-invasive bladder cancer"
+  ],
+  "geo_accession": [
+    "GSE124305"
+  ],
+  "status": [
+    "Public on Jan 01 2019"
+  ],
+  "submission_date": [
+    "Dec 22 2018"
+  ],
+  "last_update_date": [
+    "Apr 03 2019"
+  ],
+  "pubmed_id": [
+    "30224344"
+  ],
+  "summary": [
+    "Despite cisplatin-based neoadjuvant chemotherapy (NAC) 60% of patients with muscle-invasive bladder cancer still have residual invasive disease at radical cystectomy (RC). The NAC-induced biological alterations in these cisplatin-resistant tumors remain largely unstudied. We analyzed gene expression from 133 patients with residual invasive disease after cisplatin-based NAC. H&E and immunohistochemistry were used to confirm tissue sampling and gene expression analysis. Established molecular subtyping models proved to be inconsistent in their classification of the post-NAC samples. Unsupervised consensus clustering revealed four distinct consensus clusters (CC). The CC1-Basal and CC2-Luminal subtypes expressed genes consistent with a basal-like and a luminal-like phenotype, respectively. The CC3-Immune subtype had the highest immune activity, including T-cell infiltration and checkpoint molecule expression, but lacked both basal and luminal markers. The CC4-Scar-like subtype expressed genes associated with wound-healing/ scarring and was associated with favorable prognosis."
+  ],
+  "overall_design": [
+    "RC samples were available for gene expression analysis from 133 patients with residual invasive disease after cisplatin-based NAC. Unsupervised consensus clustering (CC) was performed and the CC were investigated for their biological and clinical characteristics. H&E and immunohistochemistry on tissue microarrays were used to confirm tissue sampling and gene expression analysis."
+  ],
+  "type": [
+    "Expression profiling by array"
+  ],
+  "contributor": [
+    "Roland,,Seiler",
+    "Ewan,A,Gibb",
+    "Natalie,Q,Wang",
+    "Htoo,Z,Oo",
+    "Hung-Ming,,Lam",
+    "Kim,E,van Kessel",
+    "Charlotte,S,Voskuilen",
+    "Brian,,Winters",
+    "Mandeep,,Takhar",
+    "Nicholas,,Erho",
+    "James,,Douglas",
+    "Funda,,Vakar-Lopez",
+    "Simon,J,Crabb",
+    "Bas,W,van Rhijn",
+    "Elisabeth,E,Fransen van de Putte",
+    "Ellen,C,Zwarthoff",
+    "George,N,Thalmann",
+    "Elai,,Davicioni",
+    "Joost,L,Boormans",
+    "Marc,,Dall'Era",
+    "Michiel,S,van der Heijden",
+    "Jonathan,L,Wright",
+    "Peter,C,Black"
+  ],
+  "sample_id": [
+    "GSM3528581",
+    "GSM3528582",
+    "GSM3528583",
+    "GSM3528584",
+    "GSM3528585",
+    "GSM3528586",
+    "GSM3528587",
+    "GSM3528588",
+    "GSM3528589",
+    "GSM3528590",
+    "GSM3528591",
+    "GSM3528592",
+    "GSM3528593",
+    "GSM3528594",
+    "GSM3528595",
+    "GSM3528596",
+    "GSM3528597",
+    "GSM3528598",
+    "GSM3528599",
+    "GSM3528600",
+    "GSM3528601",
+    "GSM3528602",
+    "GSM3528603",
+    "GSM3528604",
+    "GSM3528605",
+    "GSM3528606",
+    "GSM3528607",
+    "GSM3528608",
+    "GSM3528609",
+    "GSM3528610",
+    "GSM3528611",
+    "GSM3528612",
+    "GSM3528613",
+    "GSM3528614",
+    "GSM3528615",
+    "GSM3528616",
+    "GSM3528617",
+    "GSM3528618",
+    "GSM3528619",
+    "GSM3528620",
+    "GSM3528621",
+    "GSM3528622",
+    "GSM3528623",
+    "GSM3528624",
+    "GSM3528625",
+    "GSM3528626",
+    "GSM3528627",
+    "GSM3528628",
+    "GSM3528629",
+    "GSM3528630",
+    "GSM3528631",
+    "GSM3528632",
+    "GSM3528633",
+    "GSM3528634",
+    "GSM3528635",
+    "GSM3528636",
+    "GSM3528637",
+    "GSM3528638",
+    "GSM3528639",
+    "GSM3528640",
+    "GSM3528641",
+    "GSM3528642",
+    "GSM3528643",
+    "GSM3528644",
+    "GSM3528645",
+    "GSM3528646",
+    "GSM3528647",
+    "GSM3528648",
+    "GSM3528649",
+    "GSM3528650",
+    "GSM3528651",
+    "GSM3528652",
+    "GSM3528653",
+    "GSM3528654",
+    "GSM3528655",
+    "GSM3528656",
+    "GSM3528657",
+    "GSM3528658",
+    "GSM3528659",
+    "GSM3528660",
+    "GSM3528661",
+    "GSM3528662",
+    "GSM3528663",
+    "GSM3528664",
+    "GSM3528665",
+    "GSM3528666",
+    "GSM3528667",
+    "GSM3528668",
+    "GSM3528669",
+    "GSM3528670",
+    "GSM3528671",
+    "GSM3528672",
+    "GSM3528673",
+    "GSM3528674",
+    "GSM3528675",
+    "GSM3528676",
+    "GSM3528677",
+    "GSM3528678",
+    "GSM3528679",
+    "GSM3528680",
+    "GSM3528681",
+    "GSM3528682",
+    "GSM3528683",
+    "GSM3528684",
+    "GSM3528685",
+    "GSM3528686",
+    "GSM3528687",
+    "GSM3528688",
+    "GSM3528689",
+    "GSM3528690",
+    "GSM3528691",
+    "GSM3528692",
+    "GSM3528693",
+    "GSM3528694",
+    "GSM3528695",
+    "GSM3528696",
+    "GSM3528697",
+    "GSM3528698",
+    "GSM3528699",
+    "GSM3528700",
+    "GSM3528701",
+    "GSM3528702",
+    "GSM3528703",
+    "GSM3528704",
+    "GSM3528705",
+    "GSM3528706",
+    "GSM3528707",
+    "GSM3528708",
+    "GSM3528709",
+    "GSM3528710",
+    "GSM3528711",
+    "GSM3528712",
+    "GSM3528713"
+  ],
+  "contact_name": [
+    "Elai,,Davicioni"
+  ],
+  "contact_email": [
+    "elai@genomedx.com"
+  ],
+  "contact_institute": [
+    "GenomeDx"
+  ],
+  "contact_address": [
+    "1152 Mainland St #430"
+  ],
+  "contact_city": [
+    "Vancouver"
+  ],
+  "contact_state": [
+    "BC"
+  ],
+  "contact_zip/postal_code": [
+    "V6B 4X2"
+  ],
+  "contact_country": [
+    "Canada"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE124nnn/GSE124305/suppl/GSE124305_RAW.tar"
+  ],
+  "platform_id": [
+    "GPL22995"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA512271"
+  ]
+}

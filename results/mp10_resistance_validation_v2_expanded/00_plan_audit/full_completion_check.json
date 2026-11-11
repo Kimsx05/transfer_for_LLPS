@@ -1,0 +1,34 @@
+{
+  "complete": true,
+  "original_result_rows_unchanged": 13338,
+  "compared_columns": [
+    "module",
+    "dataset",
+    "signature",
+    "endpoint",
+    "method",
+    "adjustment",
+    "subset",
+    "branch",
+    "background",
+    "state",
+    "effect_type",
+    "family",
+    "n",
+    "effect",
+    "CI_low",
+    "CI_high",
+    "P",
+    "FDR"
+  ],
+  "all_preexisting_effects_CIs_P_family_FDR_unchanged": true,
+  "official_score_rows": 6927144,
+  "no_remaining_resource_deferred_or_running_rows": true,
+  "remaining_blocked_status_counts": {
+    "BLOCKED_DESIGN": 13400,
+    "BLOCKED_COVERAGE": 1274,
+    "BLOCKED_DATA": 840,
+    "BLOCKED_LABELS": 831
+  },
+  "timestamp": "2026-11-11T17:18:01.295453+08:00"
+}

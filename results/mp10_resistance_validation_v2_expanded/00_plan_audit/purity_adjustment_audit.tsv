@@ -1,0 +1,10 @@
+dataset	analysis	status	needed
+GSE169455	pathological_tumor_content_adjustment	BLOCKED_DATA	patient-linked quantitative pathology tumor-cell percentage; cannot substitute expression purity or assume microdissection100%
+GSE212810	pathological_tumor_content_adjustment	BLOCKED_DATA	patient-linked quantitative pathology tumor-cell percentage; cannot substitute expression purity or assume microdissection100%
+GSE52219	pathological_tumor_content_adjustment	BLOCKED_DATA	patient-linked quantitative pathology tumor-cell percentage; cannot substitute expression purity or assume microdissection100%
+GSE244266	pathological_tumor_content_adjustment	BLOCKED_DATA	patient-linked quantitative pathology tumor-cell percentage; cannot substitute expression purity or assume microdissection100%
+GSE87304	pathological_tumor_content_adjustment	BLOCKED_DATA	patient-linked quantitative pathology tumor-cell percentage; cannot substitute expression purity or assume microdissection100%
+GSE69795	pathological_tumor_content_adjustment	BLOCKED_DATA	patient-linked quantitative pathology tumor-cell percentage; cannot substitute expression purity or assume microdissection100%
+GSE247185	pathological_tumor_content_adjustment	BLOCKED_DATA	patient-linked quantitative pathology tumor-cell percentage; cannot substitute expression purity or assume microdissection100%
+GSE5287	pathological_tumor_content_adjustment	BLOCKED_DATA	patient-linked quantitative pathology tumor-cell percentage; cannot substitute expression purity or assume microdissection100%
+Taber2020	pathological_tumor_content_adjustment	BLOCKED_DATA	patient-linked quantitative pathology tumor-cell percentage; cannot substitute expression purity or assume microdissection100%

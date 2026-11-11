@@ -1,0 +1,27 @@
+{
+  "time": "2026-11-11T16:47:25.260968+08:00",
+  "authorization": "用户：全量的现在就可以运行，线程限制在4就行",
+  "change": "override23:00-07:00 restriction for this authorized full run only; 3 single-thread R workers plus orchestrator, max4 CPUs",
+  "statistical_change": false,
+  "prior_supervisor_pid": 1787396,
+  "startup_issue": "R system Rprofile.site sets BLAS/OpenMP24 overriding inherited environment; initial task stopped before full completion; completed sample checkpoint, if present, is validated on aggregation",
+  "fix": "disable R site/user startup profiles for task subprocesses; explicit existing .libPaths retained; all thread libraries limit1",
+  "prior_resource_disclosure": "Earlier measured process CPU thread claims depended on env only; process-start profile override newly discovered. No global profile edited.",
+  "hard_cpu_affinity": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "affinity_processes": [
+    4133976,
+    4133977,
+    4134530,
+    4134554,
+    4134555,
+    4134581,
+    4134582,
+    4134594,
+    4134595
+  ]
+}

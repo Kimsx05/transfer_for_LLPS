@@ -1,0 +1,5 @@
+dataset	background	drug	parental_IC50	resistant_IC50	unit	duration_h	assay	source	precision	log2_IC50_R_over_P	note
+GSE285648	T24	cisplatin	3.5	82.0	uM	72.0	MTT or CellTiterGlo; Fig1A paper Methods2.2	PMC13042512 Fig1A; DOI10.1002/1878-0261.70148	published table	4.550197082560479	
+GSE285648	J82	cisplatin	1.7	18.8	uM	72.0	MTT or CellTiterGlo; Fig1A paper Methods2.2	PMC13042512 Fig1A; DOI10.1002/1878-0261.70148	published table	3.467126010427298	
+GSE285648	RT112	cisplatin	10.5	333.0	uM	72.0	MTT or CellTiterGlo; Fig1A paper Methods2.2	PMC13042512 Fig1A; DOI10.1002/1878-0261.70148	published table	4.987060944292502	no resistant RNA baseline; not matched to expression; prose resistance increment differs from figure value
+GSE231835	T24	cisplatin	10.0	100.0	uM	NA	published baseline IC50; duration not independently assigned from knockdown assay	PMC10653028 Results first paragraph; DOI10.1093/narcan/zcad054	published rounded values	3.321928094887362	

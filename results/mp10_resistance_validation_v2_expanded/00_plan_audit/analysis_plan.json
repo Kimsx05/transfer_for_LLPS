@@ -1,0 +1,85 @@
+{
+  "version": "v2_expanded_post_v1_design_freeze",
+  "frozen_at": "2026-11-11T10:29:56.581554+08:00",
+  "seed": 20261111,
+  "resources": {
+    "total_threads": 4,
+    "BLAS": 1,
+    "preferred_RAM_GB": 64,
+    "hard_RAM_GB": 200,
+    "heavy_window": "23:00-07:00 Asia/Shanghai"
+  },
+  "genes": [
+    "HMGCS1",
+    "MSMO1",
+    "INSIG1",
+    "FDFT1",
+    "SQLE",
+    "FDPS",
+    "IDI1",
+    "ACSS2",
+    "ELOVL5",
+    "LDLR",
+    "MVD",
+    "SCD",
+    "HMGCR",
+    "ACAT2",
+    "SLC20A1",
+    "ACSL3",
+    "ACSL1",
+    "ADIPOR2",
+    "MXD1",
+    "NPC1"
+  ],
+  "coverage": ">=80% total and each sign; MP10 >=16/20; CisSig/Xylinas full exact otherwise separately labelled partial; ratio all6",
+  "preprocessing": "HGNC exact then unique stable IDs/unique alias; unmapped preserve original IDs; counts sum, normalized duplicate median; drop rows with nonfinite value across frozen population; retain zero-expressed genes",
+  "bulk": {
+    "counts": "edgeR TMM logCPM prior.count1",
+    "linear": "log2(x+1)",
+    "author_normalized": "no re-log",
+    "ssGSEA": "GSVA2.4.9 alpha0.25 normalizeFALSE then divide each signature by its score range across full scoring population; exactly matches v1 single-set normalizeTRUE; constant range NA",
+    "native_z": "gene z ddof1 across frozen reference samples, zero SD excludes member then coverage rule; no outcome-specific scaling",
+    "ratio": "CPM/linear normalized or inverse2^author_log2 normalized intensity adapted; zero denominator NA; no log ratio"
+  },
+  "epi": {
+    "background": 90011,
+    "aucMaxRank": 4501,
+    "average_tie": "preserve existing registered implementation",
+    "official_AUCell": "normAUC TRUE; ties random seed20261111, block256, Serial",
+    "UCell": "maxRank1500; ties average; package2.14.0",
+    "cycle": "Seurat2019 S/G2M; AddModuleScore standard RNA normalized expression, ctrl=min(nS,nG2M), seed20261111",
+    "partial": "rank x/y/covariates within sample; intercept OLS, Pearson residuals; n>=50, rank/full degrees checks",
+    "inference": "patient equal Fisher-z; exact two-sided sign test H0 P(effect>0)=0.5, excludes zeros; bootstrap whole patients10000; unverified identities descriptive only",
+    "pseudobulk": "sum raw counts sample then normalize/score within dataset; verified repeated samples average scores within patient, unverified descriptive rho only",
+    "random_sets": "100 sets matched to MP10 expression/detection quintile bins, seed20261111, rank correlations; state control not drug-specific"
+  },
+  "clinical": {
+    "primary": "continuous score per1SD nonresponse; independent cohort branches",
+    "Firth": "use when n<40 or min(outcome count)<10 or glm separation/nonconvergence/extremeSE>10; profile penalized LR CI/P; otherwise glm Wald CI/P",
+    "adjustment": "each cT/subtype/regimen/cycles separately, baseline-only; n>=40 and >=10 minority outcomes per predictor df; missing complete cases; no post-outcome covariates",
+    "LOO": "GSE212810 MP10 primary good response, same reference mean/SD",
+    "encoding_flip": "MP10 reciprocal OR and unchanged P"
+  },
+  "models": {
+    "delta": "mean R-mean P; cohort-specific units not pooled",
+    "r": "Pearson point-biserial from RNA replicate points; two-sided t test, Fisher-z CI; >=2 each group and positive variance",
+    "hedges": "pooledSD Hedges small-sample J correction; noncentral t inversion CI; flag pooledSD<1e-6",
+    "biological_unit": "background/study; RNA repeats never independent resistance induction",
+    "five_lines": "GSE171537 5 line effects equal mean with t CI, exact two-sided sign test"
+  },
+  "drug": {
+    "primary": "GDSC2 LN_IC50 Spearman model-level;10000 whole-model bootstrap CI",
+    "secondary": "GDSC1 and AUC separately; Pearson supplement; stableSIDM dedup median repeated assays",
+    "IC50fold": "only actual paired linear units, no selection concentration substitute"
+  },
+  "FDR": "BH within frozen families across all estimable planned tests; blocked P stays NA; report planned and estimated n; additional BH across all primary unadjusted hypotheses. Sensitivity separate never substitutes primary",
+  "no_associations_inspected": true,
+  "locked_files": {
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/00_plan_audit/clinical_plan.json": "732b6fdc5f0bf36669f234a7a43bf452fc5d694e7183bccc1fd4441dd8f24935",
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/00_plan_audit/reference_samples.json": "4927525aac9e263cd61e7f3190d53bd31ed073193a9dbb08fe3356e003607e22",
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/00_plan_audit/hypothesis_table.tsv": "d29082560a36e0d1a1e3d6b5c5c4ceec201f634b07d4bb97c25b1ed39b9f3e7a",
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/00_plan_audit/coverage.tsv": "2fb00cc552f9a65c82dd842544d37cab0d7fc3dd6ce13a962fcf5f845f340f4a",
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/00_plan_audit/../01_signatures/members.tsv": "34d4bc802eab66ae7e8fffaf30dc0bc870311ec8e9c5e627e8804afc5cb14f16",
+    "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/00_plan_audit/../01_signatures/signature_manifest.tsv": "b47bd9d923907e26848a5de551ee9dd7b4b0b484540c839c040dbf0f61208ab6"
+  }
+}

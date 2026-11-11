@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE212810",
+  "scale": "counts",
+  "n_features_original": 25737,
+  "n_background": 24396,
+  "n_assays": 39,
+  "missing_values": 0,
+  "min": 0.0,
+  "median": 4.0,
+  "max": 310713.0,
+  "note": ""
+}

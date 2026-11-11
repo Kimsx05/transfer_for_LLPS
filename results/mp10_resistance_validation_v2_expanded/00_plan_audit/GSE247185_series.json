@@ -1,0 +1,104 @@
+{
+  "title": [
+    "Impact of immune repertoire in Muscle \u2013 Invasive Bladder Cancer (MIBC) on predicting response and survival after neoadjuvant cisplatin-based chemotherapy (NAC)"
+  ],
+  "geo_accession": [
+    "GSE247185"
+  ],
+  "status": [
+    "Public on Aug 16 2024"
+  ],
+  "submission_date": [
+    "Nov 07 2023"
+  ],
+  "last_update_date": [
+    "Aug 16 2024"
+  ],
+  "pubmed_id": [
+    "39119802"
+  ],
+  "summary": [
+    "Purpose: Neoadjuvant cisplatin-based Chemotherapy (NAC) followed by cystectomy is the standard of care for patients with muscle-invasive bladder cancer (MIBC). Unfortunately, only a third of patients achieve pathologic complete response (pCR). The aim of this study is to deeply investigate the role played by peripheral immunogenicity and the Tumor and Immune Microenvironment (TIME) in patients undergoing NAC to identify predictive and pharmacodynamic biomarkers associated with treatment response or treatment resistance. Experimental design: N= 19 patients with MIBC received NAC and were classified as pCR (n=10) or non-pCR (n=9). Bulk RNA-seq was performed on 13 formalin-fixed paraffin-embedded (FFPE) tumor biopsies collected before treatment with NAC and immune protein evaluations using GeoMx Digital Spatial Profiling (DSP) technology were performed on matched FFPE tumor biopsies collected before and after treatment with NAC. Matching Peripheral blood collected prior treatment initiation and during cystectomy was assessed for lymphocytes and neutrophils counts. Kaplan\u2013Meier analyses and Cox PH regression models were used for survival analyses (OS).    Results: Genes associated with immune signaling and DNA repair signaling correlated with treatment outcome of patients with MIBC undergoing NAC.  At baseline, gene expression analysis and digital special profile highlighted an abundance of B cells and a reduced neuroendocrine phenotype in the TME of pCR vs. no-pCR. Increased protein expression of immune checkpoints molecules (e.g. LAG3, ICOS, PD-L1) was also observed in the TME of patients with no-pCR.  In peripheral blood, a significant increase of lymphocytes and decrease of neutrophils counts, respectively, was observed in pCR vs no-pCR following NAC.  Conclusions: When confirmed on a larger cohort, our results might lead  to novel therapeutic strategies and to novel biomarkers predicting patients likely to respond to NAC."
+  ],
+  "overall_design": [
+    "To identify preditive biomarkers associated with treatment response in MIBC patients undergoing NAC, we analyzed a set of 13 FFPE tumor biopsies collected before treatment with NAC from 8 pCR and 5 non-pCR MIBC patients, respectively, using whole gene expression profile. RNA was isolated from the tumor regions of  the FFPE specimens and subjected to whole gene expression profiling by RNA-seq."
+  ],
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ],
+  "contributor": [
+    "Alberto,,Mendoza-Valderrey",
+    "Jane,,Choe",
+    "Douglas,,Hanes",
+    "Daria,M,Kessler",
+    "Xinmin,,Li",
+    "Warren,,Allen",
+    "Gianna,,Jimenez",
+    "Jennifer,,Linehan",
+    "Przemyslaw,,Twardowski",
+    "Maria,L,Ascierto"
+  ],
+  "sample_id": [
+    "GSM7884923",
+    "GSM7884924",
+    "GSM7884925",
+    "GSM7884926",
+    "GSM7884927",
+    "GSM7884928",
+    "GSM7884929",
+    "GSM7884930",
+    "GSM7884931",
+    "GSM7884932",
+    "GSM7884933",
+    "GSM7884934",
+    "GSM7884935"
+  ],
+  "contact_name": [
+    "Daria,,Kessler"
+  ],
+  "contact_email": [
+    "dashamerkurjev@gmail.com"
+  ],
+  "contact_phone": [
+    "13104904877"
+  ],
+  "contact_institute": [
+    "Saint John's Health Center"
+  ],
+  "contact_address": [
+    "9139 Hargis St."
+  ],
+  "contact_city": [
+    "Los Angeles"
+  ],
+  "contact_state": [
+    "California"
+  ],
+  "contact_zip/postal_code": [
+    "90034"
+  ],
+  "contact_country": [
+    "USA"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE247nnn/GSE247185/suppl/GSE247185_BladderProject_RawData.xlsx"
+  ],
+  "platform_id": [
+    "GPL24676"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1036594"
+  ]
+}

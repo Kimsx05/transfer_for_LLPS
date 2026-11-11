@@ -1,0 +1,10 @@
+PMC13042512.1.xml 217905
+retry 0 IncompleteRead(111043 bytes read, 106862 more expected)
+ACTUAL FIG1 ['PLX51107', 'PLX51107', 'PLX51107', 'PLX51107', 'PLX51107', 'MOL2-20-779-g007.jpg']
+GSE285648_IC50_Figure1.jpg 155851
+retry 0 IncompleteRead(51747 bytes read, 104104 more expected)
+can-23-1976_supplementary_tables_suppst1-7.xlsx 13427358
+retry 262144 IncompleteRead(51738 bytes read, 210406 more expected)
+retry 1310720 IncompleteRead(156184 bytes read, 105960 more expected)
+retry 9175040 IncompleteRead(156164 bytes read, 105980 more expected)
+retry 10747904 IncompleteRead(103938 bytes read, 158206 more expected)

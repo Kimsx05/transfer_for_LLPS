@@ -1,0 +1,10 @@
+Tanaka_supp_actual.pdf OK 2004557
+CLSPN_supp_actual.pdf OK 6663448
+DTP_TableS6_alt.xlsx FAILED reading, errno 0
+Warning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 404
+ 0
+CMP_RNAseq.zip OK 940707972
+CMP_models.csv OK 902914
+S1314_code.zip OK 9450279

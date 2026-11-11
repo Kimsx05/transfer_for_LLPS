@@ -1,0 +1,112 @@
+GSE171537_family.soft.gz OK 5785
+GSE171537_matrix.html OK 603
+GSE217413_family.soft.gz OK 2494
+GSE217413_suppl.html OK 602
+GSE171537_suppl.html OK 643
+GSE217413_matrix.html OK 603
+GSE285648_suppl.html OK 635
+GSE285648_family.soft.gz OK 4903
+GSE285648_matrix.html OK 603
+GSE313089_suppl.html OK 673
+GSE313089_family.soft.gz OK 2641
+GSE313089_matrix.html OK 603
+GSE268855_family.soft.gz OK 3025
+GSE268855_suppl.html OK 696
+GSE231835_family.soft.gz OK 2291
+GSE268855_matrix.html OK 752
+GSE231835_suppl.html OK 673
+GSE231835_matrix.html OK 603
+GSE58624_suppl.html OK 658
+GSE58624_matrix.html OK 590
+GSE190636_family.soft.gz OK 2891
+GSE190636_suppl.html OK 631
+GSE190636_matrix.html OK 603
+GSE210954_family.soft.gz OK 4020
+GSE210954_suppl.html OK 673
+GSE210921_family.soft.gz OK 3365
+GSE210921_suppl.html OK 769
+GSE58624_family.soft.gz IncompleteRead(7095581 bytes read, 5707785 more expected) 0
+GSE210921_matrix.html OK 603
+GSE210953_family.soft.gz OK 3307
+GSE210953_suppl.html OK 769
+GSE210953_matrix.html OK 603
+GSE77883_suppl.html OK 658
+GSE77883_matrix.html OK 590
+GSE169455_family.soft.gz OK 11999249
+GSE210954_matrix.html <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)> 0
+GSE212810_family.soft.gz OK 5674
+GSE169455_suppl.html OK 796
+GSE169455_matrix.html OK 603
+GSE212810_suppl.html OK 673
+GSE212810_matrix.html OK 603
+GSE52219_suppl.html OK 589
+GSE52219_matrix.html OK 590
+GSE77883_family.soft.gz IncompleteRead(7143581 bytes read, 3542954 more expected) 0
+GSE244266_suppl.html OK 673
+GSE244266_matrix.html OK 603
+GSE87304_suppl.html OK 658
+GSE52219_family.soft.gz IncompleteRead(8559581 bytes read, 9263450 more expected) 0
+GSE87304_matrix.html OK 590
+GSE244266_family.soft.gz IncompleteRead(239580 bytes read, 100486597 more expected) 0
+GSE69795_suppl.html OK 589
+GSE69795_matrix.html OK 590
+GSE247185_family.soft.gz OK 3444
+GSE87304_family.soft.gz IncompleteRead(7479580 bytes read, 132430547 more expected) 0
+GSE247185_suppl.html OK 623
+GSE247185_matrix.html OK 603
+GSE5287_suppl.html OK 643
+GSE69795_family.soft.gz IncompleteRead(15951581 bytes read, 6062433 more expected) 0
+GSE5287_matrix.html OK 577
+GSE124305_suppl.html OK 673
+GSE124305_matrix.html OK 603
+GSE235067_family.soft.gz OK 25200
+GSE235067_suppl.html OK 651
+GSE235067_matrix.html OK 603
+GSE48276_suppl.html OK 589
+GSE124305_family.soft.gz IncompleteRead(9199581 bytes read, 51933476 more expected) 0
+GSE48276_matrix.html OK 590
+GSE70691_suppl.html OK 609
+GSE70691_matrix.html OK 590
+GSE48276_family.soft.gz IncompleteRead(5519581 bytes read, 38803139 more expected) 0
+GSE83586_suppl.html OK 825
+GSE83586_matrix.html OK 590
+GSE83586_family.soft.gz IncompleteRead(4383580 bytes read, 113384276 more expected) 0
+GSE222073_suppl.html OK 673
+GSE222073_matrix.html OK 603
+GSE222073_family.soft.gz IncompleteRead(1367581 bytes read, 17916740 more expected) 0
+LI_CISPLATIN_RESISTANCE_UP.json OK 534
+LI_CISPLATIN_RESISTANCE_UP.html OK 60937
+LI_CISPLATIN_RESISTANCE_DN.json OK 578
+LI_CISPLATIN_RESISTANCE_DN.html OK 63728
+KANG_CISPLATIN_RESISTANCE_UP.json OK 497
+KANG_CISPLATIN_RESISTANCE_UP.html OK 36427
+KANG_CISPLATIN_RESISTANCE_DN.json OK 392
+KANG_CISPLATIN_RESISTANCE_DN.html OK 29767
+WHITESIDE_CISPLATIN_RESISTANCE_UP.json OK 433
+WHITESIDE_CISPLATIN_RESISTANCE_DN.json OK 449
+WHITESIDE_CISPLATIN_RESISTANCE_UP.html OK 29766
+WHITESIDE_CISPLATIN_RESISTANCE_DN.html OK 30809
+HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION.json OK 1909
+HALLMARK_E2F_TARGETS.json OK 1868
+HALLMARK_G2M_CHECKPOINT.json OK 1874
+HALLMARK_P53_PATHWAY.json OK 1894
+HALLMARK_HYPOXIA.json OK 1847
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY.json OK 712
+HALLMARK_DNA_REPAIR.json OK 1477
+HALLMARK_CHOLESTEROL_HOMEOSTASIS.json OK 904
+BENPORATH_ES_CORE_NINE.json OK 394
+PMC5039423.xml Remote end closed connection without response 0
+PMC5039423_supp.zip Remote end closed connection without response 0
+GSE70691_family.soft.gz OK 19919240
+PMC5085609.xml Remote end closed connection without response 0
+PMC5085609_supp.zip Remote end closed connection without response 0
+GSE5287_family.soft.gz OK 11877370
+PMC11641020.xml OK 199606
+PMC8437243_supp.zip Remote end closed connection without response 0
+PMC10992486.xml Remote end closed connection without response 0
+cissig_plot_sig.Rmd OK 38398
+CisSig_article.html OK 445073
+Taber2020.html OK 547918
+PMC10992486_supp.zip OK 297
+PMC8437243.xml HTTP Error 500:  0
+PMC11641020_supp.zip The read operation timed out 0

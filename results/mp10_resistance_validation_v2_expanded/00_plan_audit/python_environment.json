@@ -1,0 +1,15 @@
+{
+  "executable": "/usr/bin/python3",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-6.8.0-137-generic-x86_64-with-glibc2.39",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "pyarrow": "21.0.0",
+    "openpyxl": "3.1.5",
+    "pypdf": "7.0.1"
+  },
+  "BLAS_threads": 1,
+  "only_new_runtime_packages": "pypdf7.0.1 openpyxl3.1.5 et_xmlfile2.0.0 installed into v2/runtime; no global environment upgrade"
+}

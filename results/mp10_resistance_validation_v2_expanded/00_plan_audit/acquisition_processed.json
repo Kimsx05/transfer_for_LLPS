@@ -1,0 +1,344 @@
+[
+  {
+    "file": "GSE171537_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE171537&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 41147847
+  },
+  {
+    "file": "GSE171537_RNAseq_ensembl_raw_counts.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE171nnn/GSE171537/suppl/GSE171537_RNAseq_ensembl_raw_counts.txt.gz",
+    "status": "OK",
+    "bytes": 3167327
+  },
+  {
+    "file": "GSE217413_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217413&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 13796239
+  },
+  {
+    "file": "GSE217413_Gene_cpm_WT_CR.xls.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE217nnn/GSE217413/suppl/GSE217413_Gene_cpm_WT_CR.xls.gz",
+    "status": "OK",
+    "bytes": 496217
+  },
+  {
+    "file": "GSE285648_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE285648&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 2428737
+  },
+  {
+    "file": "GSE285648_Experiment_processed_data.xlsx",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE285nnn/GSE285648/suppl/GSE285648_Experiment_processed_data.xlsx",
+    "status": "OK",
+    "bytes": 8139991
+  },
+  {
+    "file": "GSE313089_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE313089&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 40990405
+  },
+  {
+    "file": "GSE313089_RAW.tar",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE313nnn/GSE313089/suppl/GSE313089_RAW.tar",
+    "status": "OK",
+    "bytes": 1914880
+  },
+  {
+    "file": "GSE268855_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268855&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 9327522
+  },
+  {
+    "file": "GSE268855_ITGB4_counts.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE268nnn/GSE268855/suppl/GSE268855_ITGB4_counts.txt.gz",
+    "status": "OK",
+    "bytes": 518356
+  },
+  {
+    "file": "GSE268855_counts.csv.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE268nnn/GSE268855/suppl/GSE268855_counts.csv.gz",
+    "status": "OK",
+    "bytes": 517724
+  },
+  {
+    "file": "GSE231835_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231835&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 41004257
+  },
+  {
+    "file": "GSE231835_RAW.tar",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE231nnn/GSE231835/suppl/GSE231835_RAW.tar",
+    "status": "OK",
+    "bytes": 52224000
+  },
+  {
+    "file": "GSE58624_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE58624&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 102892378
+  },
+  {
+    "file": "GSE58624_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE58nnn/GSE58624/matrix/GSE58624_series_matrix.txt.gz",
+    "status": "OK",
+    "bytes": 568117
+  },
+  {
+    "file": "GSE190636_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190636&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 13385218
+  },
+  {
+    "file": "GSE190636_T24.GRCh38.CPM.log2.NT.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE190nnn/GSE190636/suppl/GSE190636_T24.GRCh38.CPM.log2.NT.txt.gz",
+    "status": "OK",
+    "bytes": 798341
+  },
+  {
+    "file": "GSE210954_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE210954&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 13433678
+  },
+  {
+    "file": "GSE210921_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE210921&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 13388793
+  },
+  {
+    "file": "GSE210921_5637GRC1.xlsx",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210921/suppl/GSE210921_5637GRC1.xlsx",
+    "status": "OK",
+    "bytes": 3340677
+  },
+  {
+    "file": "GSE210953_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE210953&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 13385738
+  },
+  {
+    "file": "GSE210953_5637GRC2.xlsx",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210953/suppl/GSE210953_5637GRC2.xlsx",
+    "status": "OK",
+    "bytes": 3167053
+  },
+  {
+    "file": "GSE77883_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE77883&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 35949296
+  },
+  {
+    "file": "GSE77883_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE77nnn/GSE77883/matrix/GSE77883_series_matrix.txt.gz",
+    "status": "OK",
+    "bytes": 1603355
+  },
+  {
+    "file": "GSE169455_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169455&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 101206943
+  },
+  {
+    "file": "GSE169455_normalized_by_gene.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE169nnn/GSE169455/suppl/GSE169455_normalized_by_gene.txt.gz",
+    "status": "OK",
+    "bytes": 11035932
+  },
+  {
+    "file": "GSE212810_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212810&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 13939789
+  },
+  {
+    "file": "GSE52219_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE52219&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 79587299
+  },
+  {
+    "file": "GSE52219_non_normalized.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE52nnn/GSE52219/suppl/GSE52219_non_normalized.txt.gz",
+    "status": "OK",
+    "bytes": 3871331
+  },
+  {
+    "file": "GSE52219_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE52nnn/GSE52219/matrix/GSE52219_series_matrix.txt.gz",
+    "status": "OK",
+    "bytes": 3779403
+  },
+  {
+    "file": "GSE244266_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE244266&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 331206185
+  },
+  {
+    "file": "GSE244266_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE244nnn/GSE244266/matrix/GSE244266_series_matrix.txt.gz",
+    "status": "OK",
+    "bytes": 56474884
+  },
+  {
+    "file": "GSE87304_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87304&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 367071147
+  },
+  {
+    "file": "GSE87304_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE87nnn/GSE87304/matrix/GSE87304_series_matrix.txt.gz",
+    "status": "OK",
+    "bytes": 84988339
+  },
+  {
+    "file": "GSE69795_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE69795&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 96982915
+  },
+  {
+    "file": "GSE69795_non-normalized.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69795/suppl/GSE69795_non-normalized.txt.gz",
+    "status": "OK",
+    "bytes": 9965248
+  },
+  {
+    "file": "GSE69795_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69795/matrix/GSE69795_series_matrix.txt.gz",
+    "status": "OK",
+    "bytes": 3278159
+  },
+  {
+    "file": "GSE247185_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247185&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 41015485
+  },
+  {
+    "file": "GSE247185_BladderProject_RawData.xlsx",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE247nnn/GSE247185/suppl/GSE247185_BladderProject_RawData.xlsx",
+    "status": "OK",
+    "bytes": 1984775
+  },
+  {
+    "file": "GSE5287_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5287&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 62583268
+  },
+  {
+    "file": "GSE5287_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE5nnn/GSE5287/matrix/GSE5287_series_matrix.txt.gz",
+    "status": "OK",
+    "bytes": 3763418
+  },
+  {
+    "file": "GSE124305_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124305&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 160746925
+  },
+  {
+    "file": "GSE124305_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE124nnn/GSE124305/matrix/GSE124305_series_matrix.txt.gz",
+    "status": "OK",
+    "bytes": 37904034
+  },
+  {
+    "file": "GSE235067_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235067&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 296817
+  },
+  {
+    "file": "GSE235067_Raw_data_AFont_et_al_FINAL_v3.xlsx",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE235nnn/GSE235067/suppl/GSE235067_Raw_data_AFont_et_al_FINAL_v3.xlsx",
+    "status": "OK",
+    "bytes": 43620
+  },
+  {
+    "file": "GSE48276_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48276&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 150487981
+  },
+  {
+    "file": "GSE48276_non-normalized.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48276/suppl/GSE48276_non-normalized.txt.gz",
+    "status": "OK",
+    "bytes": 20268942
+  },
+  {
+    "file": "GSE48276_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48276/matrix/GSE48276_series_matrix.txt.gz",
+    "status": "OK",
+    "bytes": 18194785
+  },
+  {
+    "file": "GSE70691_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70691&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 90209992
+  },
+  {
+    "file": "GSE70691_non-normalized_data.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70691/suppl/GSE70691_non-normalized_data.txt.gz",
+    "status": "OK",
+    "bytes": 8039924
+  },
+  {
+    "file": "GSE83586_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE83586&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 353777343
+  },
+  {
+    "file": "GSE83586_Processed_Data_Supplement.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE83nnn/GSE83586/suppl/GSE83586_Processed_Data_Supplement.txt.gz",
+    "status": "OK",
+    "bytes": 22915679
+  },
+  {
+    "file": "GSE222073_metadata.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE222073&targ=all&view=full&form=text",
+    "status": "OK",
+    "bytes": 39244153
+  },
+  {
+    "file": "GDSC1_fitted_dose_response_27Oct23.xlsx",
+    "url": "https://cog.sanger.ac.uk/cancerrxgene/GDSC_release8.5/GDSC1_fitted_dose_response_27Oct23.xlsx",
+    "status": "OK",
+    "bytes": 29353210
+  },
+  {
+    "file": "GDSC2_fitted_dose_response_27Oct23.xlsx",
+    "url": "https://cog.sanger.ac.uk/cancerrxgene/GDSC_release8.5/GDSC2_fitted_dose_response_27Oct23.xlsx",
+    "status": "OK",
+    "bytes": 21330376
+  },
+  {
+    "file": "Cell_line_RMA_proc_basalExp.txt.zip",
+    "url": "https://www.cancerrxgene.org/gdsc1000/GDSC1000_WebResources/Data/preprocessed/Cell_line_RMA_proc_basalExp.txt.zip",
+    "status": "FAILED       0      0                              0\ncurl: (22) The requested URL returned error: 410\nWarning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.\n\r  0      0   0      0   0      0      0      0                              0\ncurl: (22) The requested URL returned error: 410\n",
+    "bytes": 0
+  },
+  {
+    "file": "Cell_Lines_Details.xlsx",
+    "url": "https://cog.sanger.ac.uk/cancerrxgene/GDSC_release8.5/Cell_Lines_Details.xlsx",
+    "status": "OK",
+    "bytes": 117316
+  }
+]

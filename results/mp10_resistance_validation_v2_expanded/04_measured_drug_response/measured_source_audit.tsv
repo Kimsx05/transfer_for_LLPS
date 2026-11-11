@@ -1,0 +1,4 @@
+dataset	source	status	reason
+GSE171537	can-23-1976_supplementary_tables_suppst1-7.xlsx ST1	BLOCKED_DATA	ST1 contains maintenance concentrations ng/mL, not parental/resistant IC50; numerical dose-response fit table needed
+GSE285648	PMC13042512 Figure1A	COMPLETE	T24 and J82 exact linear IC50 matched; RT112 resistant expression absent
+GSE231835	PMC10653028 results	COMPLETE	published10uM/100uM baseline values recovered; one background only

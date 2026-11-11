@@ -1,0 +1,9 @@
+Warning message:
+In readLines(file.path(B, "00_plan_audit/frozen_config.sha256")) :
+  incomplete final line found on '/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/00_plan_audit/frozen_config.sha256'
+COMPLETE EpiPB_CNP0000460 12 89018 scores 33 
+COMPLETE EpiPB_GSE326225 8 89018 scores 33 
+COMPLETE EpiPB_HRA003620 14 89018 scores 33 
+COMPLETE EpiPB_InhouseData 12 89018 scores 33 
+COMPLETE EpiPB_PRJNA662018 11 89018 scores 33 
+PSEUDOBULK_COMPLETE

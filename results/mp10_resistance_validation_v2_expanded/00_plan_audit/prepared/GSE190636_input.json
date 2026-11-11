@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE190636",
+  "scale": "author_log2CPM",
+  "n_features_original": 39007,
+  "n_background": 38930,
+  "n_assays": 16,
+  "missing_values": 0,
+  "min": 0.0,
+  "median": 0.08,
+  "max": 14.57,
+  "note": ""
+}

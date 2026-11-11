@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE285648",
+  "scale": "linear_RPKM",
+  "n_features_original": 21490,
+  "n_background": 21489,
+  "n_assays": 36,
+  "missing_values": 0,
+  "min": 0.0,
+  "median": 3.6504210760711246,
+  "max": 2748.8802396204164,
+  "note": ""
+}

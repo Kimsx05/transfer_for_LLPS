@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE87304",
+  "scale": "SCAN",
+  "n_features_original": 46050,
+  "n_background": 45952,
+  "n_assays": 305,
+  "missing_values": 0,
+  "min": -2.09337706,
+  "median": 0.043570974,
+  "max": 12.757332625,
+  "note": "Data was normalized using SCAN (SCAN.UPC package from Bioconductor)."
+}

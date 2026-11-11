@@ -1,0 +1,14 @@
+label	color
+parental	#808080
+CisR	#d45087
+GemCisR	#984ea3
+GemR	#377eb8
+GemR_P3	#56B4E9
+GemR_P7	#0072B2
+GemR_P15	#009E73
+Response	#377eb8
+Nonresponse	#d45087
+raw	#808080
+depth_only	#009E73
+depth_cycle	#d45087
+nFeature_cycle	#377eb8

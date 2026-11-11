@@ -1,0 +1,152 @@
+check	passed	detail
+figure_index_nonempty	True	32
+B_MP10_points_GSE171537_PDF	True	
+B_MP10_points_GSE171537_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE217413_PDF	True	
+B_MP10_points_GSE217413_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE285648_PDF	True	
+B_MP10_points_GSE285648_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE313089_PDF	True	
+B_MP10_points_GSE313089_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE268855_PDF	True	
+B_MP10_points_GSE268855_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE231835_PDF	True	
+B_MP10_points_GSE231835_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE58624_PDF	True	
+B_MP10_points_GSE58624_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE190636_PDF	True	
+B_MP10_points_GSE190636_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE210921_PDF	True	
+B_MP10_points_GSE210921_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE210953_PDF	True	
+B_MP10_points_GSE210953_PNG300	True	(299.9994, 299.9994)
+B_MP10_points_GSE77883_PDF	True	
+B_MP10_points_GSE77883_PNG300	True	(299.9994, 299.9994)
+B_all_MP10_model_effects_PDF	True	
+B_all_MP10_model_effects_PNG300	True	(299.9994, 299.9994)
+B_all_MP10_model_effects_legend_only.pdf	True	
+B_all_MP10_model_effects_panel_only.pdf	True	
+B_all_signature_model_r_PDF	True	
+B_all_signature_model_r_PNG300	True	(299.9994, 299.9994)
+B_all_signature_model_r_legend_only.pdf	True	
+B_all_signature_model_r_panel_only.pdf	True	
+B_MP10_gene_changes_PDF	True	
+B_MP10_gene_changes_PNG300	True	(299.9994, 299.9994)
+B_MP10_gene_changes_legend_only.pdf	True	
+B_MP10_gene_changes_panel_only.pdf	True	
+C_clinical_points_GSE169455_PDF	True	
+C_clinical_points_GSE169455_PNG300	True	(299.9994, 299.9994)
+C_clinical_points_GSE212810_PDF	True	
+C_clinical_points_GSE212810_PNG300	True	(299.9994, 299.9994)
+C_clinical_points_GSE247185_PDF	True	
+C_clinical_points_GSE247185_PNG300	True	(299.9994, 299.9994)
+C_clinical_points_GSE52219_PDF	True	
+C_clinical_points_GSE52219_PNG300	True	(299.9994, 299.9994)
+C_clinical_points_GSE69795_PDF	True	
+C_clinical_points_GSE69795_PNG300	True	(299.9994, 299.9994)
+C_clinical_points_Taber2020_FL_PDF	True	
+C_clinical_points_Taber2020_FL_PNG300	True	(299.9994, 299.9994)
+C_clinical_points_Taber2020_NAC_PDF	True	
+C_clinical_points_Taber2020_NAC_PNG300	True	(299.9994, 299.9994)
+D_clinical_OR_unadjusted_PDF	True	
+D_clinical_OR_unadjusted_PNG300	True	(299.9994, 299.9994)
+D_clinical_OR_unadjusted_legend_only.pdf	True	
+D_clinical_OR_unadjusted_panel_only.pdf	True	
+D_clinical_OR_adjusted_PDF	True	
+D_clinical_OR_adjusted_PNG300	True	(299.9994, 299.9994)
+D_clinical_OR_adjusted_legend_only.pdf	True	
+D_clinical_OR_adjusted_panel_only.pdf	True	
+D_all_clinical_signature_OR_PDF	True	
+D_all_clinical_signature_OR_PNG300	True	(299.9994, 299.9994)
+D_all_clinical_signature_OR_legend_only.pdf	True	
+D_all_clinical_signature_OR_panel_only.pdf	True	
+A_verified_patient_all_signatures_PDF	True	
+A_verified_patient_all_signatures_PNG300	True	(299.9994, 299.9994)
+A_verified_patient_all_signatures_legend_only.pdf	True	
+A_verified_patient_all_signatures_panel_only.pdf	True	
+A_all_datasets_adjustments_PDF	True	
+A_all_datasets_adjustments_PNG300	True	(299.9994, 299.9994)
+A_all_datasets_adjustments_legend_only.pdf	True	
+A_all_datasets_adjustments_panel_only.pdf	True	
+A_Tsunoda_individual_patients_PDF	True	
+A_Tsunoda_individual_patients_PNG300	True	(299.9994, 299.9994)
+A_Tsunoda_individual_patients_legend_only.pdf	True	
+A_Tsunoda_individual_patients_panel_only.pdf	True	
+A_recorded_T_stage_all_signatures_PDF	True	
+A_recorded_T_stage_all_signatures_PNG300	True	(299.9994, 299.9994)
+A_recorded_T_stage_all_signatures_legend_only.pdf	True	
+A_recorded_T_stage_all_signatures_panel_only.pdf	True	
+E_GDSC_MP10_measured_IC50_PDF	True	
+E_GDSC_MP10_measured_IC50_PNG300	True	(299.9994, 299.9994)
+E_GDSC_all_signature_correlations_PDF	True	
+E_GDSC_all_signature_correlations_PNG300	True	(299.9994, 299.9994)
+E_GDSC_all_signature_correlations_legend_only.pdf	True	
+E_GDSC_all_signature_correlations_panel_only.pdf	True	
+F_actual_pre_post_pairs_PDF	True	
+F_actual_pre_post_pairs_PNG300	True	(299.9994, 299.9994)
+F_actual_pre_post_pairs_legend_only.pdf	True	
+F_actual_pre_post_pairs_panel_only.pdf	True	
+E_paired_measured_IC50_points_PDF	True	
+E_paired_measured_IC50_points_PNG300	True	(299.9994, 299.9994)
+E_paired_measured_IC50_points_legend_only.pdf	True	
+E_paired_measured_IC50_points_panel_only.pdf	True	
+report_link	True	../00_plan_audit/frozen_config.json
+report_link	True	../00_plan_audit/hypothesis_table.tsv
+report_link	True	../00_plan_audit/coverage.tsv
+report_link	True	../01_signatures/members.tsv
+report_link	True	../01_signatures/implementation_by_dataset.tsv
+report_link	True	../00_plan_audit/v1_protection_check.tsv
+report_link	True	../00_plan_audit/amendments/GSE285648_DMSO_reference.json
+report_link	True	figures/A_Tsunoda_individual_patients.pdf
+report_link	True	figures/A_Tsunoda_individual_patients.png
+report_link	True	figures/A_all_datasets_adjustments.pdf
+report_link	True	figures/A_all_datasets_adjustments.png
+report_link	True	../02_epi/random_control_associations.tsv
+report_link	True	../00_plan_audit/full_completion_check.json
+report_link	True	../00_plan_audit/full_execution_resource_verification.json
+report_link	True	../02_epi/method_score_concordance.tsv
+report_link	True	../00_plan_audit/official_full_QC.json
+report_link	True	figures/B_all_MP10_model_effects.pdf
+report_link	True	figures/B_all_MP10_model_effects.png
+report_link	True	figures/B_all_signature_model_r.pdf
+report_link	True	figures/B_all_signature_model_r.png
+report_link	True	figures/B_MP10_gene_changes.pdf
+report_link	True	figures/B_MP10_gene_changes.png
+report_link	True	figures/E_GDSC_MP10_measured_IC50.pdf
+report_link	True	figures/E_GDSC_MP10_measured_IC50.png
+report_link	True	figures/E_paired_measured_IC50_points.pdf
+report_link	True	figures/E_paired_measured_IC50_points.png
+report_link	True	../05_clinical/GSE212810_MP10_leave_one_patient.tsv
+report_link	True	figures/D_clinical_OR_unadjusted.pdf
+report_link	True	figures/D_clinical_OR_unadjusted.png
+report_link	True	figures/D_all_clinical_signature_OR.pdf
+report_link	True	figures/D_all_clinical_signature_OR.png
+report_link	True	figures/F_actual_pre_post_pairs.pdf
+report_link	True	figures/F_actual_pre_post_pairs.png
+report_link	True	../00_plan_audit/epi_stage_timing_audit.tsv
+report_link	True	../00_plan_audit/purity_adjustment_audit.tsv
+report_link	True	../00_plan_audit/GSE244266_repeat_QC.tsv
+report_link	True	../07_summary/evidence_matrix.tsv.gz
+report_link	True	../00_plan_audit/analysis_status.tsv.gz
+report_link	True	../00_plan_audit/FDR_actual_vs_plan.tsv
+report_link	True	../00_plan_audit/source_file_manifest.tsv
+report_link	True	../02_epi/patient_effects.tsv
+report_link	True	../03_cell_models/contrast_results.tsv
+report_link	True	../05_clinical/patient_endpoint_audit.tsv
+report_link	True	../05_clinical/model_patient_usage.tsv.gz
+report_link	True	../01_signatures/signature_manifest.tsv
+report_link	True	../scripts/run_all.sh
+report_link	True	../scripts/night_pipeline.sh
+ZIP_CRC	True	
+no_large_raw_matrix	True	
+self_contained_report	True	
+review_size_small	True	8662800
+all25_outcome_flips	True	25
+P_range	True	
+FDR_range	True	
+all_signatures_in_evidence	True	
+no_zero_for_blocked_P	True	
+official_full_count	True	6927144
+official_unique_cells	True	
+official_score_finite	True	
+real_night_supervisor	True	{'time': '2026-11-11T17:16:42.892681+08:00', 'state': 'worker_complete', 'returncode': 0, 'child_pid': 4133977, 'supervisor_pid': 4133976}

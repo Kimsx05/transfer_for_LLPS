@@ -1,0 +1,140 @@
+{
+  "title": [
+    "a phase 2 trial of DDMVAC and bevacizumab in urothelial cancer"
+  ],
+  "geo_accession": [
+    "GSE69795"
+  ],
+  "status": [
+    "Public on Aug 18 2015"
+  ],
+  "submission_date": [
+    "Jun 11 2015"
+  ],
+  "last_update_date": [
+    "Jul 03 2019"
+  ],
+  "pubmed_id": [
+    "26343003"
+  ],
+  "summary": [
+    "A prognostic gene expression signature in chemotherapy-na\u00efve bladder cancer is predictive of clinical outcomes from neoadjuvant chemotherapy"
+  ],
+  "overall_design": [
+    "61 FFPE bladder tumors were used to validate chemo-resistant subtype in bladder cancer"
+  ],
+  "type": [
+    "Expression profiling by array"
+  ],
+  "contributor": [
+    "Woonyoung,,Choi",
+    "I-ling,,Lee",
+    "Arlene,,Siefker-Radtke",
+    "David,,McConkey"
+  ],
+  "sample_id": [
+    "GSM1709066",
+    "GSM1709067",
+    "GSM1709068",
+    "GSM1709069",
+    "GSM1709070",
+    "GSM1709071",
+    "GSM1709072",
+    "GSM1709073",
+    "GSM1709074",
+    "GSM1709075",
+    "GSM1709076",
+    "GSM1709077",
+    "GSM1709078",
+    "GSM1709079",
+    "GSM1709080",
+    "GSM1709081",
+    "GSM1709082",
+    "GSM1709083",
+    "GSM1709084",
+    "GSM1709085",
+    "GSM1709086",
+    "GSM1709087",
+    "GSM1709088",
+    "GSM1709089",
+    "GSM1709090",
+    "GSM1709091",
+    "GSM1709092",
+    "GSM1709093",
+    "GSM1709094",
+    "GSM1709095",
+    "GSM1709096",
+    "GSM1709097",
+    "GSM1709098",
+    "GSM1709099",
+    "GSM1709100",
+    "GSM1709101",
+    "GSM1709102",
+    "GSM1709103",
+    "GSM1709104",
+    "GSM1709105",
+    "GSM1709106",
+    "GSM1709107",
+    "GSM1709108",
+    "GSM1709109",
+    "GSM1709110",
+    "GSM1709111",
+    "GSM1709112",
+    "GSM1709113",
+    "GSM1709114",
+    "GSM1709115",
+    "GSM1709116",
+    "GSM1709117",
+    "GSM1709118",
+    "GSM1709119",
+    "GSM1709120",
+    "GSM1709121",
+    "GSM1709122",
+    "GSM1709123",
+    "GSM1709124",
+    "GSM1709125",
+    "GSM1709126"
+  ],
+  "contact_name": [
+    "Woonyoung,,Choi"
+  ],
+  "contact_institute": [
+    "Md Anderson Cancer center"
+  ],
+  "contact_address": [
+    "1515 Holcombe"
+  ],
+  "contact_city": [
+    "Houston"
+  ],
+  "contact_state": [
+    "TX"
+  ],
+  "contact_zip/postal_code": [
+    "77030"
+  ],
+  "contact_country": [
+    "USA"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69795/suppl/GSE69795_non-normalized.txt.gz"
+  ],
+  "platform_id": [
+    "GPL14951"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA286784"
+  ]
+}

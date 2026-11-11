@@ -1,0 +1,26 @@
+CAM4-13-e70088-s001.xlsx OK 25377
+CAM4-13-e70088-s002.xlsx OK 56546
+CAM4-13-e70088-s003.xlsx OK 22583
+CAM4-13-e70088-s004.xlsx OK 21002
+PMC11310761.1.txt OK 49195
+PMC4775435.1.txt OK 36056
+MOL2-20-779-s002.xlsx OK 19978
+MOL2-20-779-s005.xlsx OK 95463
+MOL2-20-779-s006.xlsx OK 11212
+MOL2-20-779-s009.xlsx OK 239641
+MOL2-20-779-s012.xlsx OK 392268
+PMC13042512.1.txt OK 103254
+13062_2026_812_MOESM1_ESM.docx OK 3229261
+PMC13255384.1.txt OK 64739
+DTP_mmc7.xlsx FAILED       0      0                              0
+curl: (22) The requested URL returned error: 404
+Warning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.
+  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 404
+ 0
+DTP_mmc8.xlsx FAILED       0      0                              0
+curl: (22) The requested URL returned error: 404
+Warning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.
+  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 404
+ 0

@@ -1,0 +1,20 @@
+{
+  "cpu_affinity": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "R_workers": 3,
+  "compute_CPU_budget": 4,
+  "thread_env": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "OMP_THREAD_LIMIT": "1",
+    "MKL_NUM_THREADS": "1",
+    "RCPP_PARALLEL_NUM_THREADS": "1",
+    "R_PROFILE": "/dev/null",
+    "R_PROFILE_USER": "/dev/null"
+  },
+  "authorization": "/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/00_plan_audit/amendments/immediate_full_scoring.json"
+}

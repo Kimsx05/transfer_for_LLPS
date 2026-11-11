@@ -1,0 +1,14 @@
+GSE285648_Figure1.jpg OK 171243
+can-23-1976_supplementary_tables_suppst1-7.xlsx FAILED 0                              0  0 12.80M   0 101.5k   0      0  63797      0   03:30   00:01   03:29  92447  6 12.80M   6 798.5k   0      0 301.1k      0   00:43   00:02   00:41 372.0k
+curl: (56) OpenSSL SSL_read: OpenSSL/3.6.4: error:0A000126:SSL routines::unexpected eof while reading, errno 0
+ 0
+DTP_alternate_mmc7.xls FAILED reading, errno 0
+Warning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 404
+ 0
+DTP_alternate_mmc8.xls FAILED reading, errno 0
+Warning: Problem (retrying all errors). Retrying in 4 seconds. 1 retry left.
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0
+curl: (22) The requested URL returned error: 404
+ 0

@@ -1,0 +1,12 @@
+{
+  "dataset": "GDSC_BLCA",
+  "scale": "linear_TPM",
+  "n_features_original": 37602,
+  "n_background": 37501,
+  "n_assays": 18,
+  "missing_values": 6066,
+  "min": 0.0,
+  "median": 0.11,
+  "max": 89140.3,
+  "note": "CMP RNASeq20220624 TPM; stable SIDM linked to real release8.5 cisplatin fits; CisSig-GDSC training overlap"
+}

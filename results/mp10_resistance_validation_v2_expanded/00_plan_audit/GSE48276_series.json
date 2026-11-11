@@ -1,0 +1,198 @@
+{
+  "title": [
+    "Gene expression profiling of urothelial carcinoma"
+  ],
+  "geo_accession": [
+    "GSE48276"
+  ],
+  "status": [
+    "Public on Feb 10 2014"
+  ],
+  "submission_date": [
+    "Jun 25 2013"
+  ],
+  "last_update_date": [
+    "Dec 22 2017"
+  ],
+  "pubmed_id": [
+    "24525232"
+  ],
+  "summary": [
+    "Identification of bladder cancer subsets"
+  ],
+  "overall_design": [
+    "128 FFPE bladder tumors were used to validate the bladder cancer subsets"
+  ],
+  "type": [
+    "Expression profiling by array"
+  ],
+  "contributor": [
+    "Woonyoung,,Choi",
+    "Sima,,Porten",
+    "I-ling,,Lee",
+    "Elizabeth,,Plimack",
+    "Jean,,Hoffman-Censitis",
+    "David,,McConkey"
+  ],
+  "sample_id": [
+    "GSM1173901",
+    "GSM1173902",
+    "GSM1173903",
+    "GSM1173904",
+    "GSM1173905",
+    "GSM1173906",
+    "GSM1173907",
+    "GSM1173908",
+    "GSM1173909",
+    "GSM1173910",
+    "GSM1173911",
+    "GSM1173912",
+    "GSM1173913",
+    "GSM1173914",
+    "GSM1173915",
+    "GSM1173916",
+    "GSM1173917",
+    "GSM1173918",
+    "GSM1173919",
+    "GSM1173920",
+    "GSM1173921",
+    "GSM1173922",
+    "GSM1173923",
+    "GSM1173924",
+    "GSM1173925",
+    "GSM1173926",
+    "GSM1173927",
+    "GSM1173928",
+    "GSM1173929",
+    "GSM1173930",
+    "GSM1173931",
+    "GSM1173932",
+    "GSM1173933",
+    "GSM1173934",
+    "GSM1173935",
+    "GSM1173936",
+    "GSM1173937",
+    "GSM1173938",
+    "GSM1173939",
+    "GSM1173940",
+    "GSM1173941",
+    "GSM1173942",
+    "GSM1173943",
+    "GSM1173944",
+    "GSM1173945",
+    "GSM1173946",
+    "GSM1173947",
+    "GSM1173948",
+    "GSM1173949",
+    "GSM1173950",
+    "GSM1173951",
+    "GSM1173952",
+    "GSM1173953",
+    "GSM1173954",
+    "GSM1173955",
+    "GSM1173956",
+    "GSM1173957",
+    "GSM1173968",
+    "GSM1173969",
+    "GSM1173970",
+    "GSM1173971",
+    "GSM1173972",
+    "GSM1173973",
+    "GSM1173974",
+    "GSM1173975",
+    "GSM1173976",
+    "GSM1173977",
+    "GSM1173978",
+    "GSM1173979",
+    "GSM1173980",
+    "GSM1173981",
+    "GSM1173982",
+    "GSM1173983",
+    "GSM1173986",
+    "GSM1173987",
+    "GSM1173988",
+    "GSM1173989",
+    "GSM1173990",
+    "GSM1173991",
+    "GSM1173992",
+    "GSM1173993",
+    "GSM1173994",
+    "GSM1173995",
+    "GSM1173996",
+    "GSM1173997",
+    "GSM1173998",
+    "GSM1173999",
+    "GSM1174000",
+    "GSM1174001",
+    "GSM1174002",
+    "GSM1174003",
+    "GSM1174004",
+    "GSM1174005",
+    "GSM1174006",
+    "GSM1174007",
+    "GSM1174008",
+    "GSM1174009",
+    "GSM1174010",
+    "GSM1174011",
+    "GSM1174012",
+    "GSM1174013",
+    "GSM1174014",
+    "GSM1174015",
+    "GSM1174016",
+    "GSM1174017",
+    "GSM1174018",
+    "GSM1174019",
+    "GSM1174020",
+    "GSM1174021",
+    "GSM1174022",
+    "GSM1174023",
+    "GSM1174024",
+    "GSM1174025",
+    "GSM1174026",
+    "GSM1174027",
+    "GSM1174028"
+  ],
+  "contact_name": [
+    "Woonyoung,,Choi"
+  ],
+  "contact_institute": [
+    "Md Anderson Cancer center"
+  ],
+  "contact_address": [
+    "1515 Holcombe"
+  ],
+  "contact_city": [
+    "Houston"
+  ],
+  "contact_state": [
+    "TX"
+  ],
+  "contact_zip/postal_code": [
+    "77030"
+  ],
+  "contact_country": [
+    "USA"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48276/suppl/GSE48276_non-normalized.txt.gz"
+  ],
+  "platform_id": [
+    "GPL14951"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "SubSeries of: GSE48277",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA209486"
+  ]
+}

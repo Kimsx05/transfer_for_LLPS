@@ -1,0 +1,11 @@
+dataset	pmid	pmcid	title	doi	isOpenAccess	error
+CrM	39608442		Chemoresistance-motility signature of molecular evolution to chemotherapy in non-muscle-invasive bladder cancer and its clinical implications.	10.1016/j.canlet.2024.217339	N	NA
+GSE231835	NA	NA	NA	NA	NA	Remote end closed connection without response
+GSE247185	39119802	PMC11310761	Impact of intra-tumoral immunity on predicting response and survival after neoadjuvant cisplatin-based chemotherapy in patients with muscle invasive bladder cancer.	10.1002/cam4.70088	Y	NA
+GSE124305	30224344		Divergent Biological Response to Neoadjuvant Chemotherapy in Muscle-invasive Bladder Cancer.	10.1158/1078-0432.ccr-18-1106	N	NA
+GSE69795	26343003	PMC4775435	A Prognostic Gene Expression Signature in the Molecular Classification of Chemotherapy-naïve Urothelial Cancer is Predictive of Clinical Outcomes from Neoadjuvant Chemotherapy: A Phase 2 Trial of Dose-dense Methotrexate, Vinblastine, Doxorubicin, and Cisplatin with Bevacizumab in Urothelial Cancer.	10.1016/j.eururo.2015.08.034	N	NA
+GSE5287	17671123		Emmprin and survivin predict response and survival following cisplatin-containing chemotherapy in patients with advanced bladder cancer.	10.1158/1078-0432.ccr-07-0109	N	NA
+GSE285648	41216708	PMC13042512	Improving PARP inhibitor efficacy in bladder cancer without genetic BRCAness by combination with PLX51107.	10.1002/1878-0261.70148	Y	NA
+GSE313089	42045965	PMC13255384	A cyclin D1-CDK4/6-E2F dependency represents an acquired vulnerability in cisplatin-resistant bladder cancer.	10.1186/s13062-026-00812-5	Y	NA
+GSE190636	NA	NA	NA	NA	NA	Remote end closed connection without response
+GSE268855	41957134		ITGB4 up-regulated by STAT3 reduces the sensitivity of bladder cancer to cisplatin by suppressing p53.	10.1038/s41416-026-03364-7	N	NA

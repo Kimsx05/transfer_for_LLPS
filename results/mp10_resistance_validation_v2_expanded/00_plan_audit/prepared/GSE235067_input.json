@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE235067",
+  "scale": "panel_counts",
+  "n_features_original": 41,
+  "n_background": 41,
+  "n_assays": 84,
+  "missing_values": 0,
+  "min": 1.0,
+  "median": 60.0,
+  "max": 18551.0,
+  "note": "41-gene NanoString endogenous panel; no ssGSEA rank scoring"
+}

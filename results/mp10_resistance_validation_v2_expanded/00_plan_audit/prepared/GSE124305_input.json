@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE124305",
+  "scale": "SCAN",
+  "n_features_original": 46050,
+  "n_background": 45952,
+  "n_assays": 133,
+  "missing_values": 0,
+  "min": -1.907061175,
+  "median": 0.042125546985294096,
+  "max": 10.6682923,
+  "note": "Data was normalized uisng SCAN (SCAN.UPC package from Bioconductor) | HuEx-1_0-st-v2.r2.pgf | HuEx-1_0-st-v2.r2.dt1.hg38.core.mps"
+}

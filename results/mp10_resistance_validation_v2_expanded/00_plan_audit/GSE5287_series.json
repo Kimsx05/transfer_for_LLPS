@@ -1,0 +1,115 @@
+{
+  "title": [
+    "Prediction of response and survival following chemotherapy in patients with advanced bladder cancer"
+  ],
+  "geo_accession": [
+    "GSE5287"
+  ],
+  "status": [
+    "Public on Aug 01 2007"
+  ],
+  "submission_date": [
+    "Jul 11 2006"
+  ],
+  "last_update_date": [
+    "Aug 10 2018"
+  ],
+  "pubmed_id": [
+    "17671123"
+  ],
+  "summary": [
+    "BACKGROUND",
+    "Cisplatin-containing chemotherapy is the standard of care for patients with locally advanced and metastatic transitional cell carcinoma of the urothelium. ",
+    "The response rate is around 50% and tumor derived molecular prognostic markers are needed for estimation of response and survival. ",
+    "METHODS",
+    "Affymetrix GeneChip expression profiling was carried out using tumor material from 30 patients. A set of genes having an expression with high correlation to survival time after chemotherapy was identified.  Two of these genes were selected for validation by immunohistochemistry (IHC) in tumor tissue from 149 cisplatin treated patients having complete follow-up data.",
+    "RESULTS",
+    "Fifty-five differentially expressed genes correlated significantly to survival time. Two of these (Emmprin and Survivin) were validated using IHC, and multivariate analysis (n=145) identified Emmprin expression (hazard ratio 2.38; p<0.0001) and Survivin expression (hazard ratio 2.34; p<0.0001) as independent prognostic markers for poor outcome, together with the presence of visceral metastases (hazard ratio 2.72; p<0.0001). In the good prognosis group of patients without visceral metastases, both markers showed significant discriminating power as supplemental risk factors (p<0.0001). Within this group of patients, the subgroups of patients with no positive, one positive or two positive IHC stainings (Emmprin and Survivin) had estimated 5-year survival rates (+- SE) of 35.6+-?%, 6.3+-?%, and 0+?%, respectively. Response to chemotherapy could also be predicted with an OddsRatio of 4.60 (2.13-9.93) and 2.59 (1.25-5.38) for Emmprin and Survivin respectively.",
+    "CONCLUSION",
+    "Emmprin and Survivin proteins were identified as strong independent prognostic predictors for response and survival after cisplatin-containing chemotherapy in patients with bladder cancer.",
+    "Keywords: Analysis of gene expression differences between responders and non-responders to chemotherapy"
+  ],
+  "overall_design": [
+    "Tumors from 30 patients with advanced bladder cancer used in the study. A SAM analysis was used for identifying genes co-varying with treatment response. "
+  ],
+  "type": [
+    "Expression profiling by array"
+  ],
+  "sample_id": [
+    "GSM119491",
+    "GSM119492",
+    "GSM119493",
+    "GSM119494",
+    "GSM119495",
+    "GSM119497",
+    "GSM119498",
+    "GSM119499",
+    "GSM119500",
+    "GSM119501",
+    "GSM119502",
+    "GSM119711",
+    "GSM119712",
+    "GSM119713",
+    "GSM119714",
+    "GSM119716",
+    "GSM119720",
+    "GSM119721",
+    "GSM119722",
+    "GSM119723",
+    "GSM119724",
+    "GSM119725",
+    "GSM119726",
+    "GSM119727",
+    "GSM119728",
+    "GSM119729",
+    "GSM119730",
+    "GSM119731",
+    "GSM119732",
+    "GSM119733"
+  ],
+  "contact_name": [
+    "Lars,,Dyrskjot"
+  ],
+  "contact_email": [
+    "lars@clin.au.dk"
+  ],
+  "contact_department": [
+    "Department of Molecular Medicine"
+  ],
+  "contact_institute": [
+    "Aarhus University Hospital, Skejby"
+  ],
+  "contact_address": [
+    "Brendstrupgaardsvej"
+  ],
+  "contact_city": [
+    "Aarhus N"
+  ],
+  "contact_zip/postal_code": [
+    "8200"
+  ],
+  "contact_country": [
+    "Denmark"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE5nnn/GSE5287/suppl/GSE5287_RAW.tar"
+  ],
+  "platform_id": [
+    "GPL96"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA96407"
+  ]
+}

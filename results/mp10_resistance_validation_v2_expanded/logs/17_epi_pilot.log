@@ -1,0 +1,8 @@
+Warning message:
+In readLines(file.path(input, "genes.txt")) :
+  incomplete final line found on '/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/02_epi/pilot/genes.txt'
+Warning message:
+In readLines(file.path(input, "cells.txt")) :
+  incomplete final line found on '/home/data/t070721/codex_workspace/Bladder Metabolism/results/mp10_resistance_validation_v2_expanded/02_epi/pilot/cells.txt'
+ranking_seconds 11.496 n 256 
+total_seconds 11.858 

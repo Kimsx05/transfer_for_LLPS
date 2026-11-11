@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE244266",
+  "scale": "author_log2",
+  "n_features_original": 54675,
+  "n_background": 33738,
+  "n_assays": 189,
+  "missing_values": 0,
+  "min": 2.630123741,
+  "median": 5.103015720249999,
+  "max": 14.64431071,
+  "note": "CEL file intensities have been normalised to probeset level using Robust Multichip Average (RMA) consisting background adjustment, quantile normalisation and summarisation pre-processing (Bolstad et al, 2003)."
+}

@@ -1,0 +1,6 @@
+{
+  "time": "2026-11-11T10:51:05.926167",
+  "reason": "implementation correction discovered by auditing raw pstage strings after initial run; no rule/threshold/sample selection change",
+  "before_sha256": "43b5ada1aa44aa92e14d184687b51b0262e50e4e32025065b658dc0d8706c8b2",
+  "after_sha256": "9dd354a201f91503d0385e09b3e084c0036ecc3d248ac73ba9f88394b115924a"
+}

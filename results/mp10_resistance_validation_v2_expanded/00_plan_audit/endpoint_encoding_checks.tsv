@@ -1,0 +1,9 @@
+T	N	surgery	good	pCR	passed
+0	0	True	1.0	1.0	True
+A	0	True	1.0	0.0	True
+1	X	True	NA	0.0	True
+2	X	True	0.0	0.0	True
+X	1	True	0.0	0.0	True
+0	X	True	NA	NA	True
+X	0	True	NA	NA	True
+0	0	False	NA	NA	True

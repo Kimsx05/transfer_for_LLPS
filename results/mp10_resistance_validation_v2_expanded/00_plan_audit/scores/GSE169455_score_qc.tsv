@@ -1,0 +1,38 @@
+dataset	signature	status	reason	n_members_used	partial_after_geneSD	ssGSEA_range
+"GSE169455"	"TSUNODA_DN"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"TSUNODA_DN_no_C1S"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"CisSig19"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"CisSig_gene_set_adapted"	"BLOCKED_DESIGN"	"single-cell enrichment version only; use native CisSig19 for bulk"	NA	NA	NA
+"GSE169455"	"Xylinas9"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"NPEPPS_VRAC_ratio"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"KANG_CISPLATIN_RESISTANCE_UP"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"LI_CISPLATIN_RESISTANCE_DN"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"LI_CISPLATIN_RESISTANCE_UP"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"Tanaka49"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"CrM63_weighted_z"	"COMPLETE"	""	55	TRUE	NA
+"GSE169455"	"DTP124"	"BLOCKED_DATA"	"TableS6 download returns HTML/403/404; full signed member list and cross-species map not yet recovered"	NA	NA	NA
+"GSE169455"	"CLSPN_published_program"	"BLOCKED_DATA"	"PDF2 contains full13743-gene CPM table, no identified2284-UP membership; cannot call all rows UP"	NA	NA	NA
+"GSE169455"	"CLSPN_derived_program"	"BLOCKED_COVERAGE"	"requires >=80% overall and each signed part; ratio requires all6"	NA	NA	NA
+"GSE169455"	"Choi_p53_like_classifier"	"BLOCKED_DATA"	"Full original fitted classifier/centroids not recovered; existing author subtype labels retained where available; Hallmark P53 is distinct"	NA	NA	NA
+"GSE169455"	"MP10"	"COMPLETE"	""	18	NA	3159.68125029127
+"GSE169455"	"TSUNODA_UP"	"COMPLETE"	""	13	NA	4858.82739053086
+"GSE169455"	"TSUNODA_UP_no_INSIG1"	"COMPLETE"	""	12	NA	5543.4673681105
+"GSE169455"	"TSUNODA_UP_no_C1S"	"COMPLETE"	""	12	NA	5073.46618047281
+"GSE169455"	"TSUNODA_UP_no_INSIG1_C1S"	"COMPLETE"	""	11	NA	5860.46458692713
+"GSE169455"	"KANG_CISPLATIN_RESISTANCE_DN"	"COMPLETE"	""	8	NA	2893.95655221539
+"GSE169455"	"WHITESIDE_CISPLATIN_RESISTANCE_DN"	"COMPLETE"	""	11	NA	1697.50720940959
+"GSE169455"	"WHITESIDE_CISPLATIN_RESISTANCE_UP"	"COMPLETE"	""	11	NA	4852.7923242309
+"GSE169455"	"HALLMARK_CHOLESTEROL_HOMEOSTASIS"	"COMPLETE"	""	61	NA	1742.94669003707
+"GSE169455"	"HALLMARK_DNA_REPAIR"	"COMPLETE"	""	132	NA	1388.90804522114
+"GSE169455"	"HALLMARK_E2F_TARGETS"	"COMPLETE"	""	167	NA	3676.10589471525
+"GSE169455"	"HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION"	"COMPLETE"	""	183	NA	3203.85122753296
+"GSE169455"	"HALLMARK_G2M_CHECKPOINT"	"COMPLETE"	""	169	NA	3450.93922449846
+"GSE169455"	"HALLMARK_HYPOXIA"	"COMPLETE"	""	182	NA	1773.21853340819
+"GSE169455"	"HALLMARK_P53_PATHWAY"	"COMPLETE"	""	176	NA	1344.32654317523
+"GSE169455"	"HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY"	"COMPLETE"	""	46	NA	2247.31529775076
+"GSE169455"	"BENPORATH_ES_CORE_NINE"	"COMPLETE"	""	8	NA	2584.67778699673
+"GSE169455"	"TSUNODA_UP_noMP10_overlap"	"COMPLETE"	""	12	NA	5543.4673681105
+"GSE169455"	"TSUNODA_UP_no_C1S_noMP10_overlap"	"COMPLETE"	""	11	NA	5860.46458692713
+"GSE169455"	"HALLMARK_CHOLESTEROL_HOMEOSTASIS_noMP10_overlap"	"COMPLETE"	""	52	NA	1835.65975523799
+"GSE169455"	"HALLMARK_G2M_CHECKPOINT_noMP10_overlap"	"COMPLETE"	""	168	NA	3476.59598115207
+"GSE169455"	"HALLMARK_P53_PATHWAY_noMP10_overlap"	"COMPLETE"	""	175	NA	1323.51676940111

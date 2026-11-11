@@ -1,0 +1,128 @@
+{
+  "title": [
+    "MVAC treated tumors"
+  ],
+  "geo_accession": [
+    "GSE70691"
+  ],
+  "status": [
+    "Public on Aug 18 2015"
+  ],
+  "submission_date": [
+    "Jul 09 2015"
+  ],
+  "last_update_date": [
+    "Jul 03 2019"
+  ],
+  "pubmed_id": [
+    "26343003"
+  ],
+  "summary": [
+    "validation of the survival outcomes from MVAC-Avastin treated tumors"
+  ],
+  "overall_design": [
+    "22 NAC-MVAC and 27 adjuvant MVAC treated bladder cancer"
+  ],
+  "type": [
+    "Expression profiling by array"
+  ],
+  "contributor": [
+    "Woonyoung,,Choi",
+    "I-ling,,Lee",
+    "Arlene,,Siefker-Radtke",
+    "David,,McConkey"
+  ],
+  "sample_id": [
+    "GSM1816502",
+    "GSM1816503",
+    "GSM1816504",
+    "GSM1816505",
+    "GSM1816506",
+    "GSM1816507",
+    "GSM1816508",
+    "GSM1816509",
+    "GSM1816510",
+    "GSM1816511",
+    "GSM1816512",
+    "GSM1816513",
+    "GSM1816514",
+    "GSM1816515",
+    "GSM1816516",
+    "GSM1816517",
+    "GSM1816518",
+    "GSM1816519",
+    "GSM1816520",
+    "GSM1816521",
+    "GSM1816522",
+    "GSM1816523",
+    "GSM1816524",
+    "GSM1816525",
+    "GSM1816526",
+    "GSM1816527",
+    "GSM1816528",
+    "GSM1816529",
+    "GSM1816530",
+    "GSM1816531",
+    "GSM1816532",
+    "GSM1816533",
+    "GSM1816534",
+    "GSM1816535",
+    "GSM1816536",
+    "GSM1816537",
+    "GSM1816538",
+    "GSM1816539",
+    "GSM1816540",
+    "GSM1816541",
+    "GSM1816542",
+    "GSM1816543",
+    "GSM1816544",
+    "GSM1816545",
+    "GSM1816546",
+    "GSM1816547",
+    "GSM1816548",
+    "GSM1816549",
+    "GSM1816550"
+  ],
+  "contact_name": [
+    "Woonyoung,,Choi"
+  ],
+  "contact_institute": [
+    "Md Anderson Cancer center"
+  ],
+  "contact_address": [
+    "1515 Holcombe"
+  ],
+  "contact_city": [
+    "Houston"
+  ],
+  "contact_state": [
+    "TX"
+  ],
+  "contact_zip/postal_code": [
+    "77030"
+  ],
+  "contact_country": [
+    "USA"
+  ],
+  "supplementary_file": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70691/suppl/GSE70691_non-normalized_data.txt.gz"
+  ],
+  "platform_id": [
+    "GPL14951"
+  ],
+  "platform_organism": [
+    "Homo sapiens"
+  ],
+  "platform_taxid": [
+    "9606"
+  ],
+  "sample_organism": [
+    "Homo sapiens"
+  ],
+  "sample_taxid": [
+    "9606"
+  ],
+  "relation": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA289383"
+  ]
+}

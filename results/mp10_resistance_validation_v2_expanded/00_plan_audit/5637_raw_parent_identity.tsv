@@ -1,0 +1,5 @@
+matrix_id	common_original_geneIDs	fraction_equal	maximum_difference	interpretation
+5637.R1.P0	34080	0.9998826359955402	1.5499999999999998	requires source crosswalk
+5637.R2.P0	34080	0.9998826359955402	1.89	requires source crosswalk
+5637.R3.P0	34080	0.9998826359955402	1.93	requires source crosswalk
+5637.R4.P0	34080	0.9998826359955402	1.8199999999999998	requires source crosswalk
