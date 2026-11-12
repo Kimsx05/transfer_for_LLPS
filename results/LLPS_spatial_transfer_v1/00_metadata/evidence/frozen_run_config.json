@@ -1,0 +1,22 @@
+{
+  "reference_model_path": "/home/data/t070721/codex_workspace/Bladder Metabolism/subtype/v2/reference_training_v2/11_final_spatial_reference/30type_regression_model/model/model.pt",
+  "signature_matrix_path": "/home/data/t070721/codex_workspace/Bladder Metabolism/subtype/v2/reference_training_v2/11_final_spatial_reference/30type_regression_model/learned_signatures_30type.csv.gz",
+  "reference_input_path": "/home/data/t070721/codex_workspace/Bladder Metabolism/subtype/v2/reference_training_v2/11_final_spatial_reference/reference_v2_final_30type_regression_input.h5ad",
+  "frozen_cells": 300033,
+  "reference_genes": 17987,
+  "reference_batches": 58,
+  "spatial_labels": 30,
+  "eligible_sections": 63,
+  "N_cells_per_location": 20,
+  "detection_alpha": 20,
+  "max_epochs": 30000,
+  "batch_size": null,
+  "train_size": 1.0,
+  "learning_rate": 0.002,
+  "seed": 20260910,
+  "posterior_num_samples": 1000,
+  "posterior_batch_size_max": 2500,
+  "cpu_threads": 8,
+  "concurrency": 1,
+  "plot_upper_quantile": 0.992
+}

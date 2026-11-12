@@ -1,0 +1,31 @@
+factor,major_lineage,status,downstream_usage,reason
+Arterial EC,Endothelial,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+C1QC TAM,Myeloid,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+CD4 Helper/Conventional,T_NK,LOW_IDENTIFIABILITY,DO_NOT_INTERPRET_SEPARATELY,"High signature similarity, high posterior collinearity/overlap, low ratio variability, and few strong specificity markers."
+CD4 Naive/Memory-like,T_NK,LOW_IDENTIFIABILITY,DO_NOT_INTERPRET_SEPARATELY,"High signature similarity, high posterior collinearity/overlap, low ratio variability, and few strong specificity markers."
+CD8 Exhausted,T_NK,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+CD8 GZMK/Effector-memory-like,T_NK,LOW_IDENTIFIABILITY,DO_NOT_INTERPRET_SEPARATELY,"High signature similarity, high posterior collinearity/overlap, low ratio variability, and few strong specificity markers."
+Capillary EC,Endothelial,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Classical Mono,Myeloid,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Epithelial,Epithelial,WELL_SUPPORTED,USE_AS_IS,"Reference separation, empirical agreement, recurrence, and spatial behavior are collectively adequate."
+GC B,B,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+LAMP3 DC,Myeloid,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Lymphatic EC,Endothelial,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Mast,Mast,WELL_SUPPORTED,USE_AS_IS,"Reference separation, empirical agreement, recurrence, and spatial behavior are collectively adequate."
+Matrix_CAF,Fibroblast,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+NK,T_NK,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Naive/Memory B,B,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Neutrophil,Myeloid,INTERPRET_WITH_CAUTION,USE_WITH_CAUTION,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Pericyte,Mural,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Plasma,Plasma,WELL_SUPPORTED,USE_AS_IS,"Reference separation, empirical agreement, recurrence, and spatial behavior are collectively adequate."
+SMC,Mural,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+SPP1 TAM,Myeloid,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Tfh/CXCL13-like,T_NK,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Treg,T_NK,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+Venous EC,Endothelial,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+cDC1,Myeloid,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+cDC2,Myeloid,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+iCAF,Fibroblast,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+pDC,Myeloid,INTERPRET_WITH_CAUTION,USE_WITH_CAUTION,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+rCAF,Fibroblast,INTERPRET_WITH_CAUTION,MERGE_FOR_SENSITIVITY,Nearest-signature similarity and/or reference empirical agreement warrants caution.
+vCAF,Fibroblast,INTERPRET_WITH_CAUTION,USE_WITH_CAUTION,Nearest-signature similarity and/or reference empirical agreement warrants caution.

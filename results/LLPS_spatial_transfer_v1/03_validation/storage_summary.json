@@ -1,0 +1,8 @@
+{
+  "payload_bytes": 159838568,
+  "package_logical_bytes": 159846588,
+  "package_allocated_bytes": 159911936,
+  "source_abundance_bytes": 79488013,
+  "expression_not_copied_bytes": 5878247039,
+  "images_not_copied_bytes": 198982545
+}

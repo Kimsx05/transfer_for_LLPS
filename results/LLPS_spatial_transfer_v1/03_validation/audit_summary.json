@@ -1,0 +1,40 @@
+{
+  "n_sections": 63,
+  "n_spots": 265002,
+  "expected_sections_hint": 63,
+  "expected_spots_hint": 262520,
+  "spot_difference": 2482,
+  "source_abundance_bytes": 79488013,
+  "expression_bytes": 5878247039,
+  "optional_image_bytes": 198982545,
+  "posterior_bytes": 3187017413,
+  "free_bytes_before": 12179528691712,
+  "free_bytes_after": 12179308175360,
+  "export_float_conversion_error": 0,
+  "python": "3.12.14 | packaged by conda-forge | (main, Aug 21 2026, 22:48:28) [GCC 14.4.0]",
+  "dependencies": {
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "pyarrow": "25.0.1",
+    "h5py": "3.16.0"
+  },
+  "threads": 1,
+  "reference_checks": {
+    "reference_input_path": {
+      "exists": true,
+      "bytes": 1668737170,
+      "shape": [
+        300033,
+        17987
+      ]
+    },
+    "reference_model_path": {
+      "exists": true,
+      "bytes": 20936765
+    },
+    "signature_matrix_path": {
+      "exists": true,
+      "bytes": 2714706
+    }
+  }
+}
