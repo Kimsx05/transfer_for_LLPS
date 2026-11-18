@@ -1,0 +1,553 @@
+path	kind	status	width	height	dpi	fonts
+02_spatial_maps/CanDis_2026_Sample10_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample10_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample11_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample11_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample12_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample12_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample13_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample13_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample1_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample1_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample2_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample2_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample3_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample3_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample4_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample4_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample5_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample5_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample6_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample6_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample7_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample7_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample8_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample8_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample9_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample9_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE171351_A1_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE171351_A1_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE171351_B1_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE171351_B1_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE171351_C1_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE171351_C1_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE171351_D1_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE171351_D1_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B10_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B10_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B11_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B11_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B13_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B13_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B14_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B14_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B15_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B15_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B16_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B16_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B17_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B17_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B18_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B18_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B5_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B5_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE238145_B9_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE238145_B9_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE285715_N1_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE285715_N1_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE285715_N2_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE285715_N2_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE285715_N3_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE285715_N3_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE285715_T1_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE285715_T1_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE285715_T2_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE285715_T2_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE285715_T3_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE285715_T3_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC01_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC01_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC02_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC02_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC04_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC04_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC05_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC05_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC08_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC08_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC10_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC10_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC11_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC11_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC12_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC12_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC13_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC13_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC14_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC14_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC15_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC15_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC16_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC16_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC17_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC17_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC18_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC18_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC19_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC19_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/GSE319536_BC21_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/GSE319536_BC21_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/Inhousedata_T4384654_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/Inhousedata_T4384654_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/Inhousedata_T4398343_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/Inhousedata_T4398343_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/Inhousedata_T4413900_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/Inhousedata_T4413900_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/Inhousedata_T4463209_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/Inhousedata_T4463209_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/Inhousedata_T4465935_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/Inhousedata_T4465935_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/Inhousedata_T4469479_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/Inhousedata_T4469479_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/Inhousedata_T4471438_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/Inhousedata_T4471438_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/NPJ_sample1_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/NPJ_sample1_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/NPJ_sample2_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/NPJ_sample2_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/NPJ_sample3_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/NPJ_sample3_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/NPJ_sample4_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/NPJ_sample4_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/NPJ_sample5_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/NPJ_sample5_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/NPJ_sample6_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/NPJ_sample6_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/NPJ_sample7_HE_provisional.png	PNG	PASS	2400.0	2100.0	299.9994	
+02_spatial_maps/NPJ_sample7_overview.png	PNG	PASS	6000.0	2700.0	299.9994	
+02_spatial_maps/CanDis_2026_Sample10_HE_provisional.pdf	PDF	PASS				YKBUSH+ArialMT
+02_spatial_maps/CanDis_2026_Sample10_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample10_HE_provisional_panel_only.pdf	PDF	PASS				JODRCQ+ArialMT
+02_spatial_maps/CanDis_2026_Sample10_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample10_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample10_overview_panel_only.pdf	PDF	PASS				NBCZNY+ArialMT
+02_spatial_maps/CanDis_2026_Sample11_HE_provisional.pdf	PDF	PASS				YKBUSH+ArialMT
+02_spatial_maps/CanDis_2026_Sample11_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample11_HE_provisional_panel_only.pdf	PDF	PASS				JODRCQ+ArialMT
+02_spatial_maps/CanDis_2026_Sample11_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample11_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample11_overview_panel_only.pdf	PDF	PASS				NBCZNY+ArialMT
+02_spatial_maps/CanDis_2026_Sample12_HE_provisional.pdf	PDF	PASS				YKBUSH+ArialMT
+02_spatial_maps/CanDis_2026_Sample12_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample12_HE_provisional_panel_only.pdf	PDF	PASS				JODRCQ+ArialMT
+02_spatial_maps/CanDis_2026_Sample12_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample12_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample12_overview_panel_only.pdf	PDF	PASS				NBCZNY+ArialMT
+02_spatial_maps/CanDis_2026_Sample13_HE_provisional.pdf	PDF	PASS				SYJYKH+ArialMT
+02_spatial_maps/CanDis_2026_Sample13_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample13_HE_provisional_panel_only.pdf	PDF	PASS				DGRPGC+ArialMT
+02_spatial_maps/CanDis_2026_Sample13_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample13_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample13_overview_panel_only.pdf	PDF	PASS				YNYXBK+ArialMT
+02_spatial_maps/CanDis_2026_Sample1_HE_provisional.pdf	PDF	PASS				YKBUSH+ArialMT
+02_spatial_maps/CanDis_2026_Sample1_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample1_HE_provisional_panel_only.pdf	PDF	PASS				JODRCQ+ArialMT
+02_spatial_maps/CanDis_2026_Sample1_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample1_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample1_overview_panel_only.pdf	PDF	PASS				NBCZNY+ArialMT
+02_spatial_maps/CanDis_2026_Sample2_HE_provisional.pdf	PDF	PASS				YKBUSH+ArialMT
+02_spatial_maps/CanDis_2026_Sample2_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample2_HE_provisional_panel_only.pdf	PDF	PASS				PTSGNF+ArialMT
+02_spatial_maps/CanDis_2026_Sample2_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample2_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample2_overview_panel_only.pdf	PDF	PASS				NBCZNY+ArialMT
+02_spatial_maps/CanDis_2026_Sample3_HE_provisional.pdf	PDF	PASS				SYJYKH+ArialMT
+02_spatial_maps/CanDis_2026_Sample3_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample3_HE_provisional_panel_only.pdf	PDF	PASS				AEPJXT+ArialMT
+02_spatial_maps/CanDis_2026_Sample3_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample3_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample3_overview_panel_only.pdf	PDF	PASS				YNYXBK+ArialMT
+02_spatial_maps/CanDis_2026_Sample4_HE_provisional.pdf	PDF	PASS				HDGNGJ+ArialMT
+02_spatial_maps/CanDis_2026_Sample4_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample4_HE_provisional_panel_only.pdf	PDF	PASS				VHHGWR+ArialMT
+02_spatial_maps/CanDis_2026_Sample4_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample4_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample4_overview_panel_only.pdf	PDF	PASS				NBCZNY+ArialMT
+02_spatial_maps/CanDis_2026_Sample5_HE_provisional.pdf	PDF	PASS				YKBUSH+ArialMT
+02_spatial_maps/CanDis_2026_Sample5_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample5_HE_provisional_panel_only.pdf	PDF	PASS				KRGKFI+ArialMT
+02_spatial_maps/CanDis_2026_Sample5_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample5_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample5_overview_panel_only.pdf	PDF	PASS				NBCZNY+ArialMT
+02_spatial_maps/CanDis_2026_Sample6_HE_provisional.pdf	PDF	PASS				YKBUSH+ArialMT
+02_spatial_maps/CanDis_2026_Sample6_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample6_HE_provisional_panel_only.pdf	PDF	PASS				PTSGNF+ArialMT
+02_spatial_maps/CanDis_2026_Sample6_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample6_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample6_overview_panel_only.pdf	PDF	PASS				NBCZNY+ArialMT
+02_spatial_maps/CanDis_2026_Sample7_HE_provisional.pdf	PDF	PASS				YKBUSH+ArialMT
+02_spatial_maps/CanDis_2026_Sample7_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample7_HE_provisional_panel_only.pdf	PDF	PASS				JSPOPK+ArialMT
+02_spatial_maps/CanDis_2026_Sample7_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample7_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample7_overview_panel_only.pdf	PDF	PASS				BAZPOS+ArialMT
+02_spatial_maps/CanDis_2026_Sample8_HE_provisional.pdf	PDF	PASS				ANRTQG+ArialMT
+02_spatial_maps/CanDis_2026_Sample8_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample8_HE_provisional_panel_only.pdf	PDF	PASS				OYAZQE+ArialMT
+02_spatial_maps/CanDis_2026_Sample8_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample8_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample8_overview_panel_only.pdf	PDF	PASS				IQUAFI+ArialMT
+02_spatial_maps/CanDis_2026_Sample9_HE_provisional.pdf	PDF	PASS				ICUECR+ArialMT
+02_spatial_maps/CanDis_2026_Sample9_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/CanDis_2026_Sample9_HE_provisional_panel_only.pdf	PDF	PASS				JNXSFF+ArialMT
+02_spatial_maps/CanDis_2026_Sample9_overview.pdf	PDF	PASS				FCKWKX+ArialMT
+02_spatial_maps/CanDis_2026_Sample9_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/CanDis_2026_Sample9_overview_panel_only.pdf	PDF	PASS				NBCZNY+ArialMT
+02_spatial_maps/GSE171351_A1_HE_provisional.pdf	PDF	PASS				XLVVGX+ArialMT
+02_spatial_maps/GSE171351_A1_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE171351_A1_HE_provisional_panel_only.pdf	PDF	PASS				VZMLWI+ArialMT
+02_spatial_maps/GSE171351_A1_overview.pdf	PDF	PASS				ZSRDBO+ArialMT
+02_spatial_maps/GSE171351_A1_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE171351_A1_overview_panel_only.pdf	PDF	PASS				RATZKC+ArialMT
+02_spatial_maps/GSE171351_B1_HE_provisional.pdf	PDF	PASS				EHTMZK+ArialMT
+02_spatial_maps/GSE171351_B1_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE171351_B1_HE_provisional_panel_only.pdf	PDF	PASS				SKVHQJ+ArialMT
+02_spatial_maps/GSE171351_B1_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE171351_B1_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE171351_B1_overview_panel_only.pdf	PDF	PASS				MOFNNI+ArialMT
+02_spatial_maps/GSE171351_C1_HE_provisional.pdf	PDF	PASS				QAVFXP+ArialMT
+02_spatial_maps/GSE171351_C1_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE171351_C1_HE_provisional_panel_only.pdf	PDF	PASS				TYGPZJ+ArialMT
+02_spatial_maps/GSE171351_C1_overview.pdf	PDF	PASS				ZSRDBO+ArialMT
+02_spatial_maps/GSE171351_C1_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE171351_C1_overview_panel_only.pdf	PDF	PASS				RATZKC+ArialMT
+02_spatial_maps/GSE171351_D1_HE_provisional.pdf	PDF	PASS				DFCYEH+ArialMT
+02_spatial_maps/GSE171351_D1_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE171351_D1_HE_provisional_panel_only.pdf	PDF	PASS				XEOZLY+ArialMT
+02_spatial_maps/GSE171351_D1_overview.pdf	PDF	PASS				DOJIUB+ArialMT
+02_spatial_maps/GSE171351_D1_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE171351_D1_overview_panel_only.pdf	PDF	PASS				FXALTR+ArialMT
+02_spatial_maps/GSE238145_B10_HE_provisional.pdf	PDF	PASS				VYZOTC+ArialMT
+02_spatial_maps/GSE238145_B10_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B10_HE_provisional_panel_only.pdf	PDF	PASS				IHITGY+ArialMT
+02_spatial_maps/GSE238145_B10_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B10_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B10_overview_panel_only.pdf	PDF	PASS				JZIEDX+ArialMT
+02_spatial_maps/GSE238145_B11_HE_provisional.pdf	PDF	PASS				VYZOTC+ArialMT
+02_spatial_maps/GSE238145_B11_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B11_HE_provisional_panel_only.pdf	PDF	PASS				QCNRAP+ArialMT
+02_spatial_maps/GSE238145_B11_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B11_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B11_overview_panel_only.pdf	PDF	PASS				JZIEDX+ArialMT
+02_spatial_maps/GSE238145_B13_HE_provisional.pdf	PDF	PASS				VYZOTC+ArialMT
+02_spatial_maps/GSE238145_B13_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B13_HE_provisional_panel_only.pdf	PDF	PASS				QCNRAP+ArialMT
+02_spatial_maps/GSE238145_B13_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B13_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B13_overview_panel_only.pdf	PDF	PASS				JZIEDX+ArialMT
+02_spatial_maps/GSE238145_B14_HE_provisional.pdf	PDF	PASS				VYZOTC+ArialMT
+02_spatial_maps/GSE238145_B14_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B14_HE_provisional_panel_only.pdf	PDF	PASS				QCNRAP+ArialMT
+02_spatial_maps/GSE238145_B14_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B14_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B14_overview_panel_only.pdf	PDF	PASS				JZIEDX+ArialMT
+02_spatial_maps/GSE238145_B15_HE_provisional.pdf	PDF	PASS				VYZOTC+ArialMT
+02_spatial_maps/GSE238145_B15_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B15_HE_provisional_panel_only.pdf	PDF	PASS				QCNRAP+ArialMT
+02_spatial_maps/GSE238145_B15_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B15_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B15_overview_panel_only.pdf	PDF	PASS				JZIEDX+ArialMT
+02_spatial_maps/GSE238145_B16_HE_provisional.pdf	PDF	PASS				EMZZPM+ArialMT
+02_spatial_maps/GSE238145_B16_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B16_HE_provisional_panel_only.pdf	PDF	PASS				PROMYL+ArialMT
+02_spatial_maps/GSE238145_B16_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B16_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B16_overview_panel_only.pdf	PDF	PASS				JZIEDX+ArialMT
+02_spatial_maps/GSE238145_B17_HE_provisional.pdf	PDF	PASS				VYZOTC+ArialMT
+02_spatial_maps/GSE238145_B17_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B17_HE_provisional_panel_only.pdf	PDF	PASS				XRMDZH+ArialMT
+02_spatial_maps/GSE238145_B17_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B17_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B17_overview_panel_only.pdf	PDF	PASS				LDQBJT+ArialMT
+02_spatial_maps/GSE238145_B18_HE_provisional.pdf	PDF	PASS				VYZOTC+ArialMT
+02_spatial_maps/GSE238145_B18_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B18_HE_provisional_panel_only.pdf	PDF	PASS				QCNRAP+ArialMT
+02_spatial_maps/GSE238145_B18_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B18_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B18_overview_panel_only.pdf	PDF	PASS				JZIEDX+ArialMT
+02_spatial_maps/GSE238145_B5_HE_provisional.pdf	PDF	PASS				VYZOTC+ArialMT
+02_spatial_maps/GSE238145_B5_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B5_HE_provisional_panel_only.pdf	PDF	PASS				QCNRAP+ArialMT
+02_spatial_maps/GSE238145_B5_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B5_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B5_overview_panel_only.pdf	PDF	PASS				JZIEDX+ArialMT
+02_spatial_maps/GSE238145_B9_HE_provisional.pdf	PDF	PASS				JSWPEG+ArialMT
+02_spatial_maps/GSE238145_B9_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE238145_B9_HE_provisional_panel_only.pdf	PDF	PASS				NHLIOQ+ArialMT
+02_spatial_maps/GSE238145_B9_overview.pdf	PDF	PASS				UWQIUM+ArialMT
+02_spatial_maps/GSE238145_B9_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE238145_B9_overview_panel_only.pdf	PDF	PASS				JZIEDX+ArialMT
+02_spatial_maps/GSE285715_N1_HE_provisional.pdf	PDF	PASS				OPUJRO+ArialMT
+02_spatial_maps/GSE285715_N1_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE285715_N1_HE_provisional_panel_only.pdf	PDF	PASS				HCAGEN+ArialMT
+02_spatial_maps/GSE285715_N1_overview.pdf	PDF	PASS				LCBXBN+ArialMT
+02_spatial_maps/GSE285715_N1_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE285715_N1_overview_panel_only.pdf	PDF	PASS				OLHMPU+ArialMT
+02_spatial_maps/GSE285715_N2_HE_provisional.pdf	PDF	PASS				OPUJRO+ArialMT
+02_spatial_maps/GSE285715_N2_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE285715_N2_HE_provisional_panel_only.pdf	PDF	PASS				HCAGEN+ArialMT
+02_spatial_maps/GSE285715_N2_overview.pdf	PDF	PASS				LCBXBN+ArialMT
+02_spatial_maps/GSE285715_N2_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE285715_N2_overview_panel_only.pdf	PDF	PASS				OLHMPU+ArialMT
+02_spatial_maps/GSE285715_N3_HE_provisional.pdf	PDF	PASS				MLDRDH+ArialMT
+02_spatial_maps/GSE285715_N3_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE285715_N3_HE_provisional_panel_only.pdf	PDF	PASS				CWRBLO+ArialMT
+02_spatial_maps/GSE285715_N3_overview.pdf	PDF	PASS				LCBXBN+ArialMT
+02_spatial_maps/GSE285715_N3_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE285715_N3_overview_panel_only.pdf	PDF	PASS				ZXOWOW+ArialMT
+02_spatial_maps/GSE285715_T1_HE_provisional.pdf	PDF	PASS				LEEZDI+ArialMT
+02_spatial_maps/GSE285715_T1_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE285715_T1_HE_provisional_panel_only.pdf	PDF	PASS				XLLOEM+ArialMT
+02_spatial_maps/GSE285715_T1_overview.pdf	PDF	PASS				MZKPDV+ArialMT
+02_spatial_maps/GSE285715_T1_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE285715_T1_overview_panel_only.pdf	PDF	PASS				CLUUHH+ArialMT
+02_spatial_maps/GSE285715_T2_HE_provisional.pdf	PDF	PASS				LEEZDI+ArialMT
+02_spatial_maps/GSE285715_T2_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE285715_T2_HE_provisional_panel_only.pdf	PDF	PASS				XLLOEM+ArialMT
+02_spatial_maps/GSE285715_T2_overview.pdf	PDF	PASS				MZKPDV+ArialMT
+02_spatial_maps/GSE285715_T2_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE285715_T2_overview_panel_only.pdf	PDF	PASS				CLUUHH+ArialMT
+02_spatial_maps/GSE285715_T3_HE_provisional.pdf	PDF	PASS				TUNQUH+ArialMT
+02_spatial_maps/GSE285715_T3_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE285715_T3_HE_provisional_panel_only.pdf	PDF	PASS				ZRNITF+ArialMT
+02_spatial_maps/GSE285715_T3_overview.pdf	PDF	PASS				MZKPDV+ArialMT
+02_spatial_maps/GSE285715_T3_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE285715_T3_overview_panel_only.pdf	PDF	PASS				ILATEO+ArialMT
+02_spatial_maps/GSE319536_BC01_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC01_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC01_HE_provisional_panel_only.pdf	PDF	PASS				VHXRXO+ArialMT
+02_spatial_maps/GSE319536_BC01_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC01_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC01_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC02_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC02_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC02_HE_provisional_panel_only.pdf	PDF	PASS				JICCXG+ArialMT
+02_spatial_maps/GSE319536_BC02_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC02_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC02_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC04_HE_provisional.pdf	PDF	PASS				YPQCOA+ArialMT
+02_spatial_maps/GSE319536_BC04_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC04_HE_provisional_panel_only.pdf	PDF	PASS				SYSOVF+ArialMT
+02_spatial_maps/GSE319536_BC04_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC04_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC04_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC05_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC05_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC05_HE_provisional_panel_only.pdf	PDF	PASS				VHXRXO+ArialMT
+02_spatial_maps/GSE319536_BC05_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC05_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC05_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC08_HE_provisional.pdf	PDF	PASS				DUWQWK+ArialMT
+02_spatial_maps/GSE319536_BC08_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC08_HE_provisional_panel_only.pdf	PDF	PASS				EAUOSF+ArialMT
+02_spatial_maps/GSE319536_BC08_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC08_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC08_overview_panel_only.pdf	PDF	PASS				XJPJED+ArialMT
+02_spatial_maps/GSE319536_BC10_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC10_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC10_HE_provisional_panel_only.pdf	PDF	PASS				VHXRXO+ArialMT
+02_spatial_maps/GSE319536_BC10_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC10_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC10_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC11_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC11_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC11_HE_provisional_panel_only.pdf	PDF	PASS				ZEXNTI+ArialMT
+02_spatial_maps/GSE319536_BC11_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC11_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC11_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC12_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC12_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC12_HE_provisional_panel_only.pdf	PDF	PASS				PSQHHX+ArialMT
+02_spatial_maps/GSE319536_BC12_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC12_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC12_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC13_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC13_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC13_HE_provisional_panel_only.pdf	PDF	PASS				ZEXNTI+ArialMT
+02_spatial_maps/GSE319536_BC13_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC13_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC13_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC14_HE_provisional.pdf	PDF	PASS				YPQCOA+ArialMT
+02_spatial_maps/GSE319536_BC14_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC14_HE_provisional_panel_only.pdf	PDF	PASS				BUJBJQ+ArialMT
+02_spatial_maps/GSE319536_BC14_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC14_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC14_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC15_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC15_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC15_HE_provisional_panel_only.pdf	PDF	PASS				ZEXNTI+ArialMT
+02_spatial_maps/GSE319536_BC15_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC15_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC15_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC16_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC16_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC16_HE_provisional_panel_only.pdf	PDF	PASS				ZEXNTI+ArialMT
+02_spatial_maps/GSE319536_BC16_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC16_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC16_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC17_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC17_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC17_HE_provisional_panel_only.pdf	PDF	PASS				VKHPRH+ArialMT
+02_spatial_maps/GSE319536_BC17_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC17_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC17_overview_panel_only.pdf	PDF	PASS				PUXSYL+ArialMT
+02_spatial_maps/GSE319536_BC18_HE_provisional.pdf	PDF	PASS				DUWQWK+ArialMT
+02_spatial_maps/GSE319536_BC18_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC18_HE_provisional_panel_only.pdf	PDF	PASS				UNUNHS+ArialMT
+02_spatial_maps/GSE319536_BC18_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC18_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC18_overview_panel_only.pdf	PDF	PASS				XJPJED+ArialMT
+02_spatial_maps/GSE319536_BC19_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC19_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC19_HE_provisional_panel_only.pdf	PDF	PASS				ZEXNTI+ArialMT
+02_spatial_maps/GSE319536_BC19_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC19_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC19_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/GSE319536_BC21_HE_provisional.pdf	PDF	PASS				UIZIBR+ArialMT
+02_spatial_maps/GSE319536_BC21_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/GSE319536_BC21_HE_provisional_panel_only.pdf	PDF	PASS				PSQHHX+ArialMT
+02_spatial_maps/GSE319536_BC21_overview.pdf	PDF	PASS				HJAVMJ+ArialMT
+02_spatial_maps/GSE319536_BC21_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/GSE319536_BC21_overview_panel_only.pdf	PDF	PASS				AEBQRO+ArialMT
+02_spatial_maps/Inhousedata_T4384654_HE_provisional.pdf	PDF	PASS				VURKLB+ArialMT
+02_spatial_maps/Inhousedata_T4384654_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/Inhousedata_T4384654_HE_provisional_panel_only.pdf	PDF	PASS				RWEGFI+ArialMT
+02_spatial_maps/Inhousedata_T4384654_overview.pdf	PDF	PASS				WDYUJE+ArialMT
+02_spatial_maps/Inhousedata_T4384654_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/Inhousedata_T4384654_overview_panel_only.pdf	PDF	PASS				TVZGYP+ArialMT
+02_spatial_maps/Inhousedata_T4398343_HE_provisional.pdf	PDF	PASS				VCIKOL+ArialMT
+02_spatial_maps/Inhousedata_T4398343_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/Inhousedata_T4398343_HE_provisional_panel_only.pdf	PDF	PASS				KSEPCB+ArialMT
+02_spatial_maps/Inhousedata_T4398343_overview.pdf	PDF	PASS				WDYUJE+ArialMT
+02_spatial_maps/Inhousedata_T4398343_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/Inhousedata_T4398343_overview_panel_only.pdf	PDF	PASS				TVZGYP+ArialMT
+02_spatial_maps/Inhousedata_T4413900_HE_provisional.pdf	PDF	PASS				KKBIXH+ArialMT
+02_spatial_maps/Inhousedata_T4413900_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/Inhousedata_T4413900_HE_provisional_panel_only.pdf	PDF	PASS				KNIFDS+ArialMT
+02_spatial_maps/Inhousedata_T4413900_overview.pdf	PDF	PASS				WDYUJE+ArialMT
+02_spatial_maps/Inhousedata_T4413900_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/Inhousedata_T4413900_overview_panel_only.pdf	PDF	PASS				BAPIAO+ArialMT
+02_spatial_maps/Inhousedata_T4463209_HE_provisional.pdf	PDF	PASS				PCOQDB+ArialMT
+02_spatial_maps/Inhousedata_T4463209_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/Inhousedata_T4463209_HE_provisional_panel_only.pdf	PDF	PASS				NGQJDF+ArialMT
+02_spatial_maps/Inhousedata_T4463209_overview.pdf	PDF	PASS				WDYUJE+ArialMT
+02_spatial_maps/Inhousedata_T4463209_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/Inhousedata_T4463209_overview_panel_only.pdf	PDF	PASS				BAPIAO+ArialMT
+02_spatial_maps/Inhousedata_T4465935_HE_provisional.pdf	PDF	PASS				LJHBCR+ArialMT
+02_spatial_maps/Inhousedata_T4465935_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/Inhousedata_T4465935_HE_provisional_panel_only.pdf	PDF	PASS				WXJTUD+ArialMT
+02_spatial_maps/Inhousedata_T4465935_overview.pdf	PDF	PASS				WDYUJE+ArialMT
+02_spatial_maps/Inhousedata_T4465935_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/Inhousedata_T4465935_overview_panel_only.pdf	PDF	PASS				BAPIAO+ArialMT
+02_spatial_maps/Inhousedata_T4469479_HE_provisional.pdf	PDF	PASS				RSVTJB+ArialMT
+02_spatial_maps/Inhousedata_T4469479_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/Inhousedata_T4469479_HE_provisional_panel_only.pdf	PDF	PASS				XVOLPX+ArialMT
+02_spatial_maps/Inhousedata_T4469479_overview.pdf	PDF	PASS				WDYUJE+ArialMT
+02_spatial_maps/Inhousedata_T4469479_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/Inhousedata_T4469479_overview_panel_only.pdf	PDF	PASS				DZDKES+ArialMT
+02_spatial_maps/Inhousedata_T4471438_HE_provisional.pdf	PDF	PASS				YVJUKY+ArialMT
+02_spatial_maps/Inhousedata_T4471438_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/Inhousedata_T4471438_HE_provisional_panel_only.pdf	PDF	PASS				QDWTIE+ArialMT
+02_spatial_maps/Inhousedata_T4471438_overview.pdf	PDF	PASS				WDYUJE+ArialMT
+02_spatial_maps/Inhousedata_T4471438_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/Inhousedata_T4471438_overview_panel_only.pdf	PDF	PASS				NWEPCK+ArialMT
+02_spatial_maps/NPJ_sample1_HE_provisional.pdf	PDF	PASS				UBTBKS+ArialMT
+02_spatial_maps/NPJ_sample1_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/NPJ_sample1_HE_provisional_panel_only.pdf	PDF	PASS				DRHQBN+ArialMT
+02_spatial_maps/NPJ_sample1_overview.pdf	PDF	PASS				MQPUMR+ArialMT
+02_spatial_maps/NPJ_sample1_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/NPJ_sample1_overview_panel_only.pdf	PDF	PASS				JORNQD+ArialMT
+02_spatial_maps/NPJ_sample2_HE_provisional.pdf	PDF	PASS				UBTBKS+ArialMT
+02_spatial_maps/NPJ_sample2_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/NPJ_sample2_HE_provisional_panel_only.pdf	PDF	PASS				WXOKZJ+ArialMT
+02_spatial_maps/NPJ_sample2_overview.pdf	PDF	PASS				MQPUMR+ArialMT
+02_spatial_maps/NPJ_sample2_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/NPJ_sample2_overview_panel_only.pdf	PDF	PASS				JORNQD+ArialMT
+02_spatial_maps/NPJ_sample3_HE_provisional.pdf	PDF	PASS				LIENVQ+ArialMT
+02_spatial_maps/NPJ_sample3_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/NPJ_sample3_HE_provisional_panel_only.pdf	PDF	PASS				AAUZSB+ArialMT
+02_spatial_maps/NPJ_sample3_overview.pdf	PDF	PASS				MQPUMR+ArialMT
+02_spatial_maps/NPJ_sample3_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/NPJ_sample3_overview_panel_only.pdf	PDF	PASS				OFGXHL+ArialMT
+02_spatial_maps/NPJ_sample4_HE_provisional.pdf	PDF	PASS				XLPHMD+ArialMT
+02_spatial_maps/NPJ_sample4_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/NPJ_sample4_HE_provisional_panel_only.pdf	PDF	PASS				XPMABC+ArialMT
+02_spatial_maps/NPJ_sample4_overview.pdf	PDF	PASS				MQPUMR+ArialMT
+02_spatial_maps/NPJ_sample4_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/NPJ_sample4_overview_panel_only.pdf	PDF	PASS				JORNQD+ArialMT
+02_spatial_maps/NPJ_sample5_HE_provisional.pdf	PDF	PASS				UBTBKS+ArialMT
+02_spatial_maps/NPJ_sample5_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/NPJ_sample5_HE_provisional_panel_only.pdf	PDF	PASS				LATXOR+ArialMT
+02_spatial_maps/NPJ_sample5_overview.pdf	PDF	PASS				MQPUMR+ArialMT
+02_spatial_maps/NPJ_sample5_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/NPJ_sample5_overview_panel_only.pdf	PDF	PASS				JORNQD+ArialMT
+02_spatial_maps/NPJ_sample6_HE_provisional.pdf	PDF	PASS				PSMJBJ+ArialMT
+02_spatial_maps/NPJ_sample6_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/NPJ_sample6_HE_provisional_panel_only.pdf	PDF	PASS				POQHCP+ArialMT
+02_spatial_maps/NPJ_sample6_overview.pdf	PDF	PASS				MQPUMR+ArialMT
+02_spatial_maps/NPJ_sample6_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/NPJ_sample6_overview_panel_only.pdf	PDF	PASS				JORNQD+ArialMT
+02_spatial_maps/NPJ_sample7_HE_provisional.pdf	PDF	PASS				UBTBKS+ArialMT
+02_spatial_maps/NPJ_sample7_HE_provisional_legend_only.pdf	PDF	PASS				SBVDZX+ArialMT
+02_spatial_maps/NPJ_sample7_HE_provisional_panel_only.pdf	PDF	PASS				SZEBGS+ArialMT
+02_spatial_maps/NPJ_sample7_overview.pdf	PDF	PASS				MQPUMR+ArialMT
+02_spatial_maps/NPJ_sample7_overview_legend_only.pdf	PDF	PASS				XJNBNE+ArialMT;GJEBGT+Arial-BoldMT
+02_spatial_maps/NPJ_sample7_overview_panel_only.pdf	PDF	PASS				AFQQAC+ArialMT
+figures/CanDis__UNVERIFIED_atlas.png	PNG	PASS	4800.0	4800.0	299.9994	
+figures/GSE171351_atlas.png	PNG	PASS	4800.0	1500.0	299.9994	
+figures/GSE238145_atlas.png	PNG	PASS	4800.0	3600.0	299.9994	
+figures/GSE285715_atlas.png	PNG	PASS	4800.0	2400.0	299.9994	
+figures/GSE319536_atlas.png	PNG	PASS	4800.0	4800.0	299.9994	
+figures/Inhousedata__UNVERIFIED_atlas.png	PNG	PASS	4800.0	2400.0	299.9994	
+figures/NPJ__UNVERIFIED_atlas.png	PNG	PASS	4800.0	2400.0	299.9994	
+figures/all63_percentile_atlas.png	PNG	PASS	7200.0	8100.0	299.9994	
+figures/epithelial_distance_sensitivity.png	PNG	PASS	3000.0	2100.0	299.9994	
+figures/epithelial_matching_sensitivity.png	PNG	PASS	3600.0	2100.0	299.9994	
+figures/epithelial_rings.png	PNG	PASS	3000.0	2100.0	299.9994	
+figures/high_score_connectivity.png	PNG	PASS	2700.0	1800.0	299.9994	
+figures/matched_neighborhood_rings.png	PNG	PASS	3600.0	2100.0	299.9994	
+figures/moran_by_dataset.png	PNG	PASS	3000.0	1800.0	299.9994	
+figures/score_correlations.png	PNG	PASS	3600.0	2100.0	299.9994	
+figures/tissue_descriptive.png	PNG	PASS	2400.0	1800.0	299.9994	
+figures/CanDis__UNVERIFIED_atlas.pdf	PDF	PASS				ERIFUK+ArialMT
+figures/GSE171351_atlas.pdf	PDF	PASS				NRJHLT+ArialMT
+figures/GSE238145_atlas.pdf	PDF	PASS				WSAKTK+ArialMT
+figures/GSE285715_atlas.pdf	PDF	PASS				DJRQAY+ArialMT
+figures/GSE319536_atlas.pdf	PDF	PASS				AGUZUE+ArialMT
+figures/Inhousedata__UNVERIFIED_atlas.pdf	PDF	PASS				NVKIJE+ArialMT
+figures/NPJ__UNVERIFIED_atlas.pdf	PDF	PASS				ISYXOG+ArialMT
+figures/all63_percentile_atlas.pdf	PDF	PASS				LGXRDF+ArialMT
+figures/epithelial_distance_sensitivity.pdf	PDF	PASS				VIPTAW+ArialMT
+figures/epithelial_distance_sensitivity_legend_only.pdf	PDF	PASS				FEFYJX+ArialMT
+figures/epithelial_distance_sensitivity_panel_only.pdf	PDF	PASS				CYPAIB+ArialMT
+figures/epithelial_matching_sensitivity.pdf	PDF	PASS				XMSSKY+ArialMT
+figures/epithelial_matching_sensitivity_legend_only.pdf	PDF	PASS				FEFYJX+ArialMT
+figures/epithelial_matching_sensitivity_panel_only.pdf	PDF	PASS				WGAULC+ArialMT
+figures/epithelial_rings.pdf	PDF	PASS				NFUDDZ+ArialMT
+figures/epithelial_rings_legend_only.pdf	PDF	PASS				FEFYJX+ArialMT
+figures/epithelial_rings_panel_only.pdf	PDF	PASS				SBIJSY+ArialMT
+figures/high_score_connectivity.pdf	PDF	PASS				KSMUYW+ArialMT
+figures/high_score_connectivity_legend_only.pdf	PDF	PASS				FEFYJX+ArialMT
+figures/high_score_connectivity_panel_only.pdf	PDF	PASS				BLLBGX+ArialMT
+figures/matched_neighborhood_rings.pdf	PDF	PASS				EHWIGS+ArialMT
+figures/matched_neighborhood_rings_legend_only.pdf	PDF	PASS				FEFYJX+ArialMT
+figures/matched_neighborhood_rings_panel_only.pdf	PDF	PASS				ZNXHRS+ArialMT
+figures/moran_by_dataset.pdf	PDF	PASS				HKLQVV+ArialMT
+figures/moran_by_dataset_legend_only.pdf	PDF	PASS				SGHCIL+ArialMT
+figures/moran_by_dataset_panel_only.pdf	PDF	PASS				FAYHIB+ArialMT
+figures/score_correlations.pdf	PDF	PASS				WHTSVU+ArialMT
+figures/score_correlations_legend_only.pdf	PDF	PASS				FEFYJX+ArialMT
+figures/score_correlations_panel_only.pdf	PDF	PASS				ECWRCJ+ArialMT
+figures/tissue_descriptive.pdf	PDF	PASS				DXSWMC+ArialMT
+figures/tissue_descriptive_legend_only.pdf	PDF	PASS				BBTVQH+ArialMT
+figures/tissue_descriptive_panel_only.pdf	PDF	PASS				XVBGEV+ArialMT

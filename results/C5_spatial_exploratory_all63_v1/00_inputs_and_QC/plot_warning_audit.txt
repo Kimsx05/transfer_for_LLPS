@@ -1,0 +1,101 @@
+Warning messages:
+1: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+2: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+3: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+4: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+5: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+6: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+7: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+8: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+9: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+10: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+11: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+12: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+13: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+14: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+15: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+16: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+17: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+18: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+19: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+20: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+21: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+22: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+23: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+24: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+25: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+26: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+27: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+28: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+29: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+30: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+31: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+32: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+33: In grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Arial' not found in PostScript font database
+34: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+35: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+36: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+37: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+38: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+39: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+40: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+41: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+42: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+43: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+44: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+45: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+46: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+47: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+48: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+49: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database
+50: In grid.Call(C_textBounds, as.graphicsAnnot(x$label),  ... :
+  font family 'Arial' not found in PostScript font database

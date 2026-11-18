@@ -1,0 +1,18 @@
+{
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3",
+    "h5py": "3.16.0",
+    "pyarrow": "25.0.1"
+  },
+  "cpu_affinity": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "seed": 123,
+  "threads_per_worker": 1,
+  "max_scoring_workers": 3
+}

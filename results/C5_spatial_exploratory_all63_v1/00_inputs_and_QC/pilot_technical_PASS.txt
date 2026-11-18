@@ -1,0 +1,1 @@
+PASS: 7 prespecified sections, all spot IDs and counts matched, scores finite in range, prior score Spearman >0.99. No model performance gate.

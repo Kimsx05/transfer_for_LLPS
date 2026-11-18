@@ -1,0 +1,1 @@
+Single-cell-only existing v2 formula on full reference: mean(C2,C4)>=1; rank (mean(C2,C4)+0.1)/(C5+0.1); exclude MT-/ribosomal/ENSG; top20. Combined competing program, not separate C2/C4 abundances. Fixed before spatial scoring.

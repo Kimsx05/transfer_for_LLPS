@@ -1,0 +1,5 @@
+suppressPackageStartupMessages({library(ggplot2);library(data.table);library(png);library(grid)})
+setDTthreads(1)
+o='results/C5_spatial_exploratory_all63_v1';sid='CanDis_2026_Sample1';d=fread(file.path(o,'02_spatial_maps',paste0(sid,'_plot_data.tsv.gz')));im=readPNG('/home/jinshengxi/LLPS/spatial_data/LLPS_spatial_transfer_manual/histology/CanDis_2026_Sample1_lowres_HE.png')
+p=ggplot(d,aes(x,y,color=A26_UCell_percentile))+annotation_custom(rasterGrob(im,interpolate=FALSE),xmin=0,xmax=600,ymin=-600,ymax=0)+geom_point(size=.6,alpha=.7)+scale_color_viridis_c(limits=c(0,1))+scale_x_continuous(limits=c(0,600),expand=c(0,0))+scale_y_reverse(limits=c(600,0),expand=c(0,0))+coord_fixed()+theme_void()
+ggsave(file.path(o,'00_inputs_and_QC/HE_geometry_preview.png'),p,width=7,height=6,dpi=120)
