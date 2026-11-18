@@ -1,0 +1,5 @@
+from pathlib import Path
+import pandas as pd
+O=Path('results/C5_fivegene_LLPS77_spatial_v1');p=O/'COMPREHENSIVE_REPORT.md';s=p.read_text();d=pd.read_csv(O/'07_dataset_heterogeneity/patient_intervals.tsv',sep='\t');a=d.query("table=='rings_AUCell' and scope=='ALL_KNOWN' and ring==0 and subset=='all_matched'")
+s+='\n## 零分与AUCell邻域补充诊断\n\nFive UCell零分率的切片中位为35.3%，而五个基因counts均为零的比例中位为11.5%；有表达检出但UCell仍为零的比例中位为15.6%。这些是分别取的切片中位，不能相加分解。UCell零分既受稀疏表达影响，也受前1500排名截断影响；不能解释为Five基因完全未表达。Five每spot检出基因数的切片中位再取中位为2/5。见zero_score_vs_zero_counts.tsv及对应图。\n\nAUCell沿用top10%、同样Fib/UMI/Epi匹配、完整切片/患者处理，作为请求内的方法敏感性补充。主UCell结果不改动；AUCell邻域检验单列为探索性BH集合，避免与原主分析检验集合混淆。same-spot患者结果：\n\n```text\n'+a[['center','variable','n_patients','median','ci_low','ci_high','FDR_primary_scope_within_table']].round(5).to_csv(sep='\t',index=False)+'```\n\n完整ring0–3、平衡子集、匹配ID与SMD保存于rings_AUCell.tsv、AUCell_matching_balance.tsv和AUCell_matched_pairs.parquet；不同方法并不是独立空间真值验证。\n';p.write_text(s)
+print(a[['center','variable','n_patients','median','ci_low','ci_high','FDR_primary_scope_within_table']].to_string(index=False))

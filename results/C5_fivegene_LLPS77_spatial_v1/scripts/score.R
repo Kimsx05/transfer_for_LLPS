@@ -1,0 +1,10 @@
+options(mc.cores=1L)
+suppressPackageStartupMessages({library(Matrix);library(data.table);library(UCell);library(AUCell);library(BiocParallel);library(jsonlite)})
+setDTthreads(1);set.seed(123);register(SerialParam())
+a=commandArgs(TRUE);d=a[1];x=as(readMM(file.path(d,'counts.mtx')),'dgCMatrix');rownames(x)=readLines(file.path(d,'genes.txt'));colnames(x)=readLines(file.path(d,'barcodes.txt'))
+sig=fromJSON(a[3]);sig=lapply(sig,intersect,rownames(x));sig=sig[lengths(sig)>0]
+u=ScoreSignatures_UCell(x,features=sig,maxRank=1500,ncores=1,BPPARAM=SerialParam(),chunk.size=100)
+r=AUCell_buildRankings(as.matrix(x),plotStats=FALSE,verbose=FALSE,splitByBlocks=TRUE,BPPARAM=SerialParam(),keepZeroesAsNA=TRUE)
+au=t(getAUC(AUCell_calcAUC(sig,r,nCores=1,aucMaxRank=ceiling(.05*nrow(x)),verbose=FALSE)))
+colnames(au)=paste0(colnames(au),'_AUCell');fwrite(data.table(barcode=rownames(u),u,au),a[2],sep='\t')
+writeLines(capture.output(sessionInfo()),file.path(d,'R_session.txt'))

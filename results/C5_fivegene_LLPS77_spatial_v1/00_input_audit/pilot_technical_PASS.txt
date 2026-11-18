@@ -1,0 +1,1 @@
+All 7 prespecified pilots passed exact IDs/counts alignment, finite in-range scores, full-background Five UCell reconstruction <1e-7. No biological effect acceptance gate.
