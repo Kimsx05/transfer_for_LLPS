@@ -1,0 +1,30 @@
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Registered S3 method overwritten by 'pROC':
+  method   from            
+  plot.roc spatstat.explore
+Warning messages:
+1: In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+2: replacing previous import ‘e1071::element’ by ‘ggplot2::element’ when loading ‘nichenetr’ 
+ACTIVITY GOBP_BLOOD_VESSEL_REMODELING 21 
+RANDOM 1 
+RANDOM 2 
+RANDOM 3 
+RANDOM 4 
+RANDOM 5 
+RANDOM 6 
+RANDOM 7 
+RANDOM 8 
+RANDOM 9 
+RANDOM 10 
+RANDOM 11 
+RANDOM 12 
+RANDOM 13 
+RANDOM 14 
+RANDOM 15 
+RANDOM 16 
+RANDOM 17 
+RANDOM 18 
+RANDOM 19 
+RANDOM 20 
+GO_COMPLETE

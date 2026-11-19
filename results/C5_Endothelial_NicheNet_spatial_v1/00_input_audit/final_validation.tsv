@@ -1,0 +1,291 @@
+check	passed	detail
+63 spatial sections	True	63
+GSE238145_B17 unique spots	True	
+GSE238145_B17 done	True	
+NPJ_sample2 unique spots	True	
+NPJ_sample2 done	True	
+NPJ_sample4 unique spots	True	
+NPJ_sample4 done	True	
+GSE319536_BC15 unique spots	True	
+GSE319536_BC15 done	True	
+NPJ_sample3 unique spots	True	
+NPJ_sample3 done	True	
+GSE238145_B10 unique spots	True	
+GSE238145_B10 done	True	
+GSE319536_BC19 unique spots	True	
+GSE319536_BC19 done	True	
+GSE238145_B9 unique spots	True	
+GSE238145_B9 done	True	
+GSE285715_T2 unique spots	True	
+GSE285715_T2 done	True	
+GSE319536_BC16 unique spots	True	
+GSE319536_BC16 done	True	
+CanDis_2026_Sample1 unique spots	True	
+CanDis_2026_Sample1 done	True	
+Inhousedata_T4471438 unique spots	True	
+Inhousedata_T4471438 done	True	
+CanDis_2026_Sample12 unique spots	True	
+CanDis_2026_Sample12 done	True	
+CanDis_2026_Sample11 unique spots	True	
+CanDis_2026_Sample11 done	True	
+GSE285715_T3 unique spots	True	
+GSE285715_T3 done	True	
+NPJ_sample6 unique spots	True	
+NPJ_sample6 done	True	
+GSE238145_B11 unique spots	True	
+GSE238145_B11 done	True	
+GSE319536_BC01 unique spots	True	
+GSE319536_BC01 done	True	
+GSE171351_A1 unique spots	True	
+GSE171351_A1 done	True	
+NPJ_sample1 unique spots	True	
+NPJ_sample1 done	True	
+GSE171351_C1 unique spots	True	
+GSE171351_C1 done	True	
+CanDis_2026_Sample9 unique spots	True	
+CanDis_2026_Sample9 done	True	
+GSE319536_BC14 unique spots	True	
+GSE319536_BC14 done	True	
+GSE319536_BC02 unique spots	True	
+GSE319536_BC02 done	True	
+NPJ_sample7 unique spots	True	
+NPJ_sample7 done	True	
+NPJ_sample5 unique spots	True	
+NPJ_sample5 done	True	
+Inhousedata_T4413900 unique spots	True	
+Inhousedata_T4413900 done	True	
+CanDis_2026_Sample13 unique spots	True	
+CanDis_2026_Sample13 done	True	
+GSE238145_B18 unique spots	True	
+GSE238145_B18 done	True	
+Inhousedata_T4463209 unique spots	True	
+Inhousedata_T4463209 done	True	
+GSE319536_BC08 unique spots	True	
+GSE319536_BC08 done	True	
+CanDis_2026_Sample2 unique spots	True	
+CanDis_2026_Sample2 done	True	
+CanDis_2026_Sample4 unique spots	True	
+CanDis_2026_Sample4 done	True	
+GSE171351_D1 unique spots	True	
+GSE171351_D1 done	True	
+CanDis_2026_Sample8 unique spots	True	
+CanDis_2026_Sample8 done	True	
+CanDis_2026_Sample5 unique spots	True	
+CanDis_2026_Sample5 done	True	
+GSE319536_BC13 unique spots	True	
+GSE319536_BC13 done	True	
+CanDis_2026_Sample7 unique spots	True	
+CanDis_2026_Sample7 done	True	
+GSE238145_B14 unique spots	True	
+GSE238145_B14 done	True	
+GSE319536_BC18 unique spots	True	
+GSE319536_BC18 done	True	
+GSE171351_B1 unique spots	True	
+GSE171351_B1 done	True	
+GSE285715_T1 unique spots	True	
+GSE285715_T1 done	True	
+GSE238145_B13 unique spots	True	
+GSE238145_B13 done	True	
+GSE319536_BC05 unique spots	True	
+GSE319536_BC05 done	True	
+GSE319536_BC21 unique spots	True	
+GSE319536_BC21 done	True	
+GSE238145_B15 unique spots	True	
+GSE238145_B15 done	True	
+GSE319536_BC11 unique spots	True	
+GSE319536_BC11 done	True	
+GSE319536_BC10 unique spots	True	
+GSE319536_BC10 done	True	
+Inhousedata_T4469479 unique spots	True	
+Inhousedata_T4469479 done	True	
+GSE285715_N1 unique spots	True	
+GSE285715_N1 done	True	
+GSE319536_BC17 unique spots	True	
+GSE319536_BC17 done	True	
+CanDis_2026_Sample10 unique spots	True	
+CanDis_2026_Sample10 done	True	
+GSE238145_B16 unique spots	True	
+GSE238145_B16 done	True	
+GSE319536_BC04 unique spots	True	
+GSE319536_BC04 done	True	
+GSE319536_BC12 unique spots	True	
+GSE319536_BC12 done	True	
+GSE285715_N2 unique spots	True	
+GSE285715_N2 done	True	
+GSE238145_B5 unique spots	True	
+GSE238145_B5 done	True	
+CanDis_2026_Sample3 unique spots	True	
+CanDis_2026_Sample3 done	True	
+CanDis_2026_Sample6 unique spots	True	
+CanDis_2026_Sample6 done	True	
+Inhousedata_T4398343 unique spots	True	
+Inhousedata_T4398343 done	True	
+Inhousedata_T4384654 unique spots	True	
+Inhousedata_T4384654 done	True	
+GSE285715_N3 unique spots	True	
+GSE285715_N3 done	True	
+Inhousedata_T4465935 unique spots	True	
+Inhousedata_T4465935 done	True	
+265002 spots	True	265002
+3 evaluable curated programs	True	
+246 ligands per program	True	
+finite activity	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/llps_C5_distribution_audit_20261110_v1/v2/patient_sample_mapping_final.csv	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/llps_C5_distribution_audit_20261110_v1/v2/sample_celltype_counts.csv	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/fig2_like_C0/phase2_external/reference_validation/patient_celltype_pseudobulk.rds	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/fig2_like_C0/phase2_external/scripts/02_aggregate_reference.R	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/llps_C5_cellchat_v2/00_audit/sample_input_validation.csv	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/00_inputs_and_QC/spatial_tissue_patient_audit.tsv	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/00_inputs_and_QC/frozen_signatures.json	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE285715_T3.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B18.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/NPJ_sample6.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/Inhousedata_T4413900.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample4.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample8.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/Inhousedata_T4469479.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE285715_T1.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE285715_T2.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample12.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC19.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample1.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/NPJ_sample3.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample11.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample6.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE285715_N3.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC10.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC18.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC21.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC02.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/Inhousedata_T4384654.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B10.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/NPJ_sample1.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC05.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B17.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE285715_N2.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC13.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/NPJ_sample5.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC14.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B16.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample5.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC11.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE285715_N1.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC16.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC08.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/Inhousedata_T4471438.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC04.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample7.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B11.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B14.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC12.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B5.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B13.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC17.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample3.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE171351_C1.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B9.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE171351_B1.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/NPJ_sample2.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample10.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample13.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE171351_A1.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample2.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE171351_D1.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/Inhousedata_T4463209.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/CanDis_2026_Sample9.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE238145_B15.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/Inhousedata_T4465935.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/NPJ_sample4.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC15.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/GSE319536_BC01.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/Inhousedata_T4398343.parquet	True	
+source unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_exploratory_all63_v1/01_spatial_scores/NPJ_sample7.parquet	True	
+C_evidence_table.png 300dpi	True	(11811, 11811, 1)
+D_GSE285715_N1_WNT4.png 300dpi	True	(11811, 11811, 1)
+D_GSE319536_BC12_TGFB1.png 300dpi	True	(11811, 11811, 1)
+B_HALLMARK_ANGIOGENESIS.png 300dpi	True	(11811, 11811, 1)
+D_GSE171351_A1_WNT4.png 300dpi	True	(11811, 11811, 1)
+D_GSE285715_N1_TGFB1.png 300dpi	True	(11811, 11811, 1)
+D_Inhousedata_T4398343_WNT4.png 300dpi	True	(11811, 11811, 1)
+D_Inhousedata_T4398343_TGFB1.png 300dpi	True	(11811, 11811, 1)
+D_GSE238145_B10_TGFB1.png 300dpi	True	(11811, 11811, 1)
+D_CanDis_2026_Sample13_TGFB1.png 300dpi	True	(11811, 11811, 1)
+D_NPJ_sample4_TGFB1.png 300dpi	True	(11811, 11811, 1)
+D_CanDis_2026_Sample13_WNT4.png 300dpi	True	(11811, 11811, 1)
+D_GSE171351_A1_TGFB1.png 300dpi	True	(11811, 11811, 1)
+A_GOBP_BLOOD_VESSEL_REMODELING.png 300dpi	True	(11811, 11811, 1)
+D_NPJ_sample4_WNT4.png 300dpi	True	(11811, 11811, 1)
+C_evidence.png 300dpi	True	(11811, 11811, 1)
+A_HALLMARK_ANGIOGENESIS.png 300dpi	True	(11811, 11811, 1)
+D_GSE319536_BC12_WNT4.png 300dpi	True	(11811, 11811, 1)
+E_patient_effects.png 300dpi	True	(11811, 11811, 1)
+E_dataset_heterogeneity.png 300dpi	True	(11811, 11811, 1)
+B_HALLMARK_TGF_BETA_SIGNALING.png 300dpi	True	(11811, 11811, 1)
+B_GOBP_BLOOD_VESSEL_REMODELING.png 300dpi	True	(11811, 11811, 1)
+A_HALLMARK_TGF_BETA_SIGNALING.png 300dpi	True	(11811, 11811, 1)
+D_GSE238145_B10_WNT4.png 300dpi	True	(11811, 11811, 1)
+B_GOBP_BLOOD_VESSEL_REMODELING.pdf vector	True	
+D_GSE319536_BC12_WNT4_legend_only.pdf vector	True	
+B_HALLMARK_ANGIOGENESIS_legend_only.pdf vector	True	
+D_NPJ_sample4_TGFB1_panel_only.pdf vector	True	
+B_HALLMARK_TGF_BETA_SIGNALING_panel_only.pdf vector	True	
+D_GSE171351_A1_WNT4_legend_only.pdf vector	True	
+E_dataset_heterogeneity.pdf vector	True	
+D_CanDis_2026_Sample13_TGFB1.pdf vector	True	
+D_GSE319536_BC12_TGFB1.pdf vector	True	
+D_GSE319536_BC12_TGFB1_panel_only.pdf vector	True	
+D_GSE319536_BC12_WNT4_panel_only.pdf vector	True	
+D_NPJ_sample4_TGFB1.pdf vector	True	
+D_GSE238145_B10_WNT4.pdf vector	True	
+B_GOBP_BLOOD_VESSEL_REMODELING_legend_only.pdf vector	True	
+D_GSE171351_A1_WNT4_panel_only.pdf vector	True	
+D_Inhousedata_T4398343_TGFB1_legend_only.pdf vector	True	
+A_HALLMARK_ANGIOGENESIS_panel_only.pdf vector	True	
+D_GSE319536_BC12_TGFB1_legend_only.pdf vector	True	
+D_Inhousedata_T4398343_WNT4_legend_only.pdf vector	True	
+C_evidence.pdf vector	True	
+D_NPJ_sample4_TGFB1_legend_only.pdf vector	True	
+D_CanDis_2026_Sample13_TGFB1_legend_only.pdf vector	True	
+A_HALLMARK_TGF_BETA_SIGNALING_panel_only.pdf vector	True	
+A_HALLMARK_ANGIOGENESIS_legend_only.pdf vector	True	
+D_GSE285715_N1_TGFB1_legend_only.pdf vector	True	
+C_evidence_table.pdf vector	True	
+D_CanDis_2026_Sample13_TGFB1_panel_only.pdf vector	True	
+D_GSE285715_N1_TGFB1_panel_only.pdf vector	True	
+D_GSE238145_B10_WNT4_legend_only.pdf vector	True	
+D_NPJ_sample4_WNT4_panel_only.pdf vector	True	
+D_GSE285715_N1_TGFB1.pdf vector	True	
+D_GSE238145_B10_WNT4_panel_only.pdf vector	True	
+D_NPJ_sample4_WNT4.pdf vector	True	
+D_GSE319536_BC12_WNT4.pdf vector	True	
+D_Inhousedata_T4398343_WNT4_panel_only.pdf vector	True	
+D_GSE285715_N1_WNT4.pdf vector	True	
+D_GSE171351_A1_TGFB1_panel_only.pdf vector	True	
+B_HALLMARK_TGF_BETA_SIGNALING.pdf vector	True	
+D_Inhousedata_T4398343_TGFB1_panel_only.pdf vector	True	
+B_HALLMARK_ANGIOGENESIS_panel_only.pdf vector	True	
+A_HALLMARK_TGF_BETA_SIGNALING.pdf vector	True	
+A_GOBP_BLOOD_VESSEL_REMODELING_panel_only.pdf vector	True	
+D_CanDis_2026_Sample13_WNT4_legend_only.pdf vector	True	
+D_GSE171351_A1_TGFB1.pdf vector	True	
+E_patient_effects.pdf vector	True	
+D_GSE171351_A1_WNT4.pdf vector	True	
+D_GSE285715_N1_WNT4_panel_only.pdf vector	True	
+D_CanDis_2026_Sample13_WNT4.pdf vector	True	
+A_HALLMARK_TGF_BETA_SIGNALING_legend_only.pdf vector	True	
+D_Inhousedata_T4398343_WNT4.pdf vector	True	
+A_GOBP_BLOOD_VESSEL_REMODELING_legend_only.pdf vector	True	
+B_GOBP_BLOOD_VESSEL_REMODELING_panel_only.pdf vector	True	
+D_GSE238145_B10_TGFB1_legend_only.pdf vector	True	
+A_GOBP_BLOOD_VESSEL_REMODELING.pdf vector	True	
+D_GSE171351_A1_TGFB1_legend_only.pdf vector	True	
+D_GSE238145_B10_TGFB1.pdf vector	True	
+D_Inhousedata_T4398343_TGFB1.pdf vector	True	
+B_HALLMARK_ANGIOGENESIS.pdf vector	True	
+D_GSE238145_B10_TGFB1_panel_only.pdf vector	True	
+A_HALLMARK_ANGIOGENESIS.pdf vector	True	
+D_NPJ_sample4_WNT4_legend_only.pdf vector	True	
+B_HALLMARK_TGF_BETA_SIGNALING_legend_only.pdf vector	True	
+D_CanDis_2026_Sample13_WNT4_panel_only.pdf vector	True	
+D_GSE285715_N1_WNT4_legend_only.pdf vector	True	
+report	True	

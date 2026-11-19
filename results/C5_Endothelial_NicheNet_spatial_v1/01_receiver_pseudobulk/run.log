@@ -1,0 +1,13 @@
+Loading required package: limma
+       dataset     n eligible fraction_sd
+        <char> <int>    <int>       <num>
+1:  CNP0000460     7        3  0.02273128
+2:   GSE222315     9        8  0.03496055
+3:   GSE135337     7        1          NA
+4:   HRA003620     7        0          NA
+5: InhouseData    12        9  0.09005354
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Warning message:
+In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+RESPONSE_COMPLETE FALSE 0 

@@ -1,0 +1,3 @@
+program	original_genes	matched_genes	status	resource	sha256
+"GOBP_BLOOD_VESSEL_REMODELING"	54	21	"EVALUABLE"	"results/llps_C0_functional_state_v1/resources/c5.go.bp.v2025.1.Hs.symbols.gmt"	"7fb5d2513caf56cc35b810f4ae39b6e075e5140e6cc14bf89de3bceae79b34e2"
+"GOBP_ENDOTHELIAL_CELL_ACTIVATION"	11	5	"NOT_EVALUABLE_TOO_SMALL"	"results/llps_C0_functional_state_v1/resources/c5.go.bp.v2025.1.Hs.symbols.gmt"	"7fb5d2513caf56cc35b810f4ae39b6e075e5140e6cc14bf89de3bceae79b34e2"

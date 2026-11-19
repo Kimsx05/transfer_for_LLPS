@@ -1,0 +1,97 @@
+axis	metric	value
+"COL1A1
+ITGA1;ITGB1"	C5 detected (%)	98.8
+"COL1A1
+ITGA1;ITGB1"	C5 support patients	20
+"COL1A1
+ITGA1;ITGB1"	Endo min subunit (%)	48.4
+"COL1A1
+ITGA1;ITGB1"	CellChat strength (positive/eligible)	0.181 (12/12)
+"COL1A1
+ITGA1;ITGB1"	Ranks (Angio / TGF / Vascular)	16 / 170 / 157
+"COL1A1
+ITGA1;ITGB1"	NicheNet direct LR	Mapped subunits
+"COL1A2
+ITGA1;ITGB1"	C5 detected (%)	99.9
+"COL1A2
+ITGA1;ITGB1"	C5 support patients	20
+"COL1A2
+ITGA1;ITGB1"	Endo min subunit (%)	48.4
+"COL1A2
+ITGA1;ITGB1"	CellChat strength (positive/eligible)	0.181 (12/12)
+"COL1A2
+ITGA1;ITGB1"	Ranks (Angio / TGF / Vascular)	168 / 28 / 64
+"COL1A2
+ITGA1;ITGB1"	NicheNet direct LR	Mapped subunits
+"COL3A1
+ADGRG1"	C5 detected (%)	99.4
+"COL3A1
+ADGRG1"	C5 support patients	20
+"COL3A1
+ADGRG1"	Endo min subunit (%)	36.0
+"COL3A1
+ADGRG1"	CellChat strength (positive/eligible)	0.032 (12/12)
+"COL3A1
+ADGRG1"	Ranks (Angio / TGF / Vascular)	27 / 17 / 96
+"COL3A1
+ADGRG1"	NicheNet direct LR	No direct edge
+"FN1
+ITGA5;ITGB1"	C5 detected (%)	87.6
+"FN1
+ITGA5;ITGB1"	C5 support patients	20
+"FN1
+ITGA5;ITGB1"	Endo min subunit (%)	63.1
+"FN1
+ITGA5;ITGB1"	CellChat strength (positive/eligible)	0.144 (12/12)
+"FN1
+ITGA5;ITGB1"	Ranks (Angio / TGF / Vascular)	12 / 108 / 72
+"FN1
+ITGA5;ITGB1"	NicheNet direct LR	Mapped subunits
+"HSPG2
+DAG1"	C5 detected (%)	57.0
+"HSPG2
+DAG1"	C5 support patients	18
+"HSPG2
+DAG1"	Endo min subunit (%)	17.9
+"HSPG2
+DAG1"	CellChat strength (positive/eligible)	0.000 (7/12)
+"HSPG2
+DAG1"	Ranks (Angio / TGF / Vascular)	35 / 32 / 30
+"HSPG2
+DAG1"	NicheNet direct LR	Mapped subunits
+"LAMA1
+ITGA6;ITGB1"	C5 detected (%)	14.5
+"LAMA1
+ITGA6;ITGB1"	C5 support patients	10
+"LAMA1
+ITGA6;ITGB1"	Endo min subunit (%)	63.1
+"LAMA1
+ITGA6;ITGB1"	CellChat strength (positive/eligible)	0.002 (8/12)
+"LAMA1
+ITGA6;ITGB1"	Ranks (Angio / TGF / Vascular)	24 / 60 / 48
+"LAMA1
+ITGA6;ITGB1"	NicheNet direct LR	Mapped subunits
+"TGFB1
+ACVR1;TGFBR1;TGFBR2"	C5 detected (%)	46.6
+"TGFB1
+ACVR1;TGFBR1;TGFBR2"	C5 support patients	19
+"TGFB1
+ACVR1;TGFBR1;TGFBR2"	Endo min subunit (%)	11.2
+"TGFB1
+ACVR1;TGFBR1;TGFBR2"	CellChat strength (positive/eligible)	0.000 (2/12)
+"TGFB1
+ACVR1;TGFBR1;TGFBR2"	Ranks (Angio / TGF / Vascular)	23 / 1 / 47
+"TGFB1
+ACVR1;TGFBR1;TGFBR2"	NicheNet direct LR	Mapped subunits
+"WNT4
+FZD4;LRP5"	C5 detected (%)	10.5
+"WNT4
+FZD4;LRP5"	C5 support patients	7
+"WNT4
+FZD4;LRP5"	Endo min subunit (%)	12.7
+"WNT4
+FZD4;LRP5"	CellChat strength (positive/eligible)	0.000 (3/12)
+"WNT4
+FZD4;LRP5"	Ranks (Angio / TGF / Vascular)	28 / 61 / 5
+"WNT4
+FZD4;LRP5"	NicheNet direct LR	Mapped subunits
