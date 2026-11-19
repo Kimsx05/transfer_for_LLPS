@@ -1,0 +1,20 @@
+{
+  "section_id": "Inhousedata_T4471438",
+  "n_total": 4373,
+  "n_usable": 4373,
+  "missing": 0,
+  "excluded_isolates": 0,
+  "original_isolates": 0,
+  "components": 2,
+  "edges": 12674,
+  "degree_min": 1,
+  "degree_max": 6,
+  "largest_component": 4366,
+  "node_order_sha256": "cdec91d08528e79372186f1d4009957489958ec21b9e0b51a688424e861cb389",
+  "seconds": 8.805954217910767,
+  "max_RSS_MB": 497.03515625,
+  "quadrant_verified": true,
+  "simulations_retained": false,
+  "seed": 123,
+  "permutations": 999
+}

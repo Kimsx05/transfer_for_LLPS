@@ -1,0 +1,20 @@
+{
+  "section_id": "CanDis_2026_Sample5",
+  "n_total": 3125,
+  "n_usable": 3119,
+  "missing": 0,
+  "excluded_isolates": 6,
+  "original_isolates": 6,
+  "components": 5,
+  "edges": 8963,
+  "degree_min": 1,
+  "degree_max": 6,
+  "largest_component": 2945,
+  "node_order_sha256": "332399f52df659f42147024ab23c34f2d09dc2f9b64e8dd54174383dbc277849",
+  "seconds": 6.8009068965911865,
+  "max_RSS_MB": 466.15234375,
+  "quadrant_verified": true,
+  "simulations_retained": false,
+  "seed": 123,
+  "permutations": 999
+}

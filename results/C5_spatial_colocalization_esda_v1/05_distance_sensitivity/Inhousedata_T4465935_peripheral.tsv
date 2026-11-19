@@ -1,0 +1,5 @@
+section_id	partner	n_high	n_five_high_same_low_neighbor_high	fraction_high_same_low_neighbor_high	same_low_neighbor_high_all
+Inhousedata_T4465935	Endothelial	407	70	0.171990171990172	233
+Inhousedata_T4465935	Epithelial	407	1	0.002457002457002457	155
+Inhousedata_T4465935	Myeloid	407	10	0.02457002457002457	129
+Inhousedata_T4465935	T_NK	407	25	0.06142506142506143	175

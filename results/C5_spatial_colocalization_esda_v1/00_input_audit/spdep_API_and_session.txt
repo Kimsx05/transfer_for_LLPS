@@ -1,0 +1,153 @@
+R version 4.4.3 (2025-02-28)
+Platform: x86_64-pc-linux-gnu
+Running under: Ubuntu 22.04.2 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 
+LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.20.so;  LAPACK version 3.10.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Asia/Shanghai
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] spdep_1.4-2  sf_1.1-1     spData_2.3.5
+
+loaded via a namespace (and not attached):
+ [1] s2_1.1.11          lattice_0.22-5     e1071_1.7-17       KernSmooth_2.23-26
+ [5] deldir_2.0-4       wk_0.9.5           classInt_0.4-11    grid_4.4.3        
+ [9] DBI_1.3.0          proxy_0.4-29       class_7.3-23       compiler_4.4.3    
+[13] boot_1.3-31        tools_4.4.3        sp_2.2-1           Rcpp_1.1.2        
+[17] otel_0.2.0         units_1.0-1       
+function (x, y, listw, nsim, zero.policy = attr(listw, "zero.policy"), 
+    alternative = "greater", na.action = na.fail, spChk = NULL, 
+    return_boot = FALSE) 
+{
+    alternative <- match.arg(alternative, c("greater", "less", 
+        "two.sided"))
+    if (!inherits(listw, "listw")) 
+        stop(paste(deparse(substitute(listw)), "is not a listw object"))
+    if (!is.numeric(x) | !is.numeric(y)) 
+        stop(paste(deparse(substitute(x)), "is not a numeric vector"))
+    if (is.null(zero.policy)) 
+        zero.policy <- get.ZeroPolicyOption()
+    stopifnot(is.logical(zero.policy))
+    if (missing(nsim)) 
+        stop("nsim must be given")
+    if (is.null(spChk)) 
+        spChk <- get.spChkOption()
+    if (spChk && !chkIDs(x, listw) && !chkIDs(y, listw)) 
+        stop("Check of data and weights ID integrity failed")
+    cards <- card(listw$neighbours)
+    if (!zero.policy && any(cards == 0)) 
+        stop("regions with no neighbours found")
+    xname <- deparse(substitute(x))
+    yname <- deparse(substitute(y))
+    wname <- deparse(substitute(listw))
+    if (deparse(substitute(na.action)) == "na.pass") 
+        stop("na.pass not permitted")
+    na.act <- attr(na.action(cbind(x, y)), "na.action")
+    x[na.act] <- NA
+    y[na.act] <- NA
+    x <- na.action(x)
+    y <- na.action(y)
+    if (!is.null(na.act)) {
+        subset <- !(1:length(listw$neighbours) %in% na.act)
+        listw <- subset(listw, subset, zero.policy = zero.policy)
+    }
+    n <- length(listw$neighbours)
+    if ((n != length(x)) | (n != length(y))) 
+        stop("objects of different length")
+    gamres <- suppressWarnings(nsim > gamma(n + 1))
+    if (gamres) 
+        stop("nsim too large for this number of observations")
+    if (nsim < 1) 
+        stop("nsim too small")
+    S2 <- sum((unlist(lapply(listw$weights, sum)))^2)
+    xy <- data.frame(x, y)
+    if (return_boot) {
+        lee_boot <- function(var, i, ...) {
+            return(lee(x = var[i, 1], y = var[i, 2], ...)$L)
+        }
+        p_setup <- parallel_setup(NULL)
+        parallel <- p_setup$parallel
+        ncpus <- p_setup$ncpus
+        cl <- p_setup$cl
+        res <- boot(xy, statistic = lee_boot, R = nsim, sim = "permutation", 
+            listw = listw, n = n, S2 = S2, zero.policy = zero.policy, 
+            parallel = parallel, ncpus = ncpus, cl = cl)
+        return(res)
+    }
+    res <- numeric(length = nsim + 1)
+    for (i in 1:nsim) {
+        idx <- sample(1:n)
+        res[i] <- lee(x[idx], y[idx], listw, n, S2, zero.policy)$L
+    }
+    res[nsim + 1] <- lee(x, y, listw, n, S2, zero.policy)$L
+    rankres <- rank(res)
+    xrank <- rankres[length(res)]
+    diff <- nsim - xrank
+    diff <- ifelse(diff > 0, diff, 0)
+    if (alternative == "less") 
+        pval <- punif((diff + 1)/(nsim + 1), lower.tail = FALSE)
+    else if (alternative == "greater") 
+        pval <- punif((diff + 1)/(nsim + 1))
+    else pval <- punif(abs(xrank - (nsim + 1)/2)/(nsim + 1), 
+        0, 0.5, lower.tail = FALSE)
+    if (!is.finite(pval) || pval < 0 || pval > 1) 
+        warning("Out-of-range p-value: reconsider test arguments")
+    statistic <- res[nsim + 1]
+    names(statistic) <- "statistic"
+    parameter <- xrank
+    names(parameter) <- "observed rank"
+    method <- "Monte-Carlo simulation of Lee's L"
+    data.name <- paste(xname, ", ", yname, "\nweights:", wname, 
+        ifelse(is.null(na.act), "", paste("\nomitted:", paste(na.act, 
+            collapse = ", "))), "\nnumber of simulations + 1:", 
+        nsim + 1, "\n")
+    lres <- list(statistic = statistic, parameter = parameter, 
+        p.value = pval, alternative = alternative, method = method, 
+        data.name = data.name, res = res)
+    if (!is.null(na.act)) 
+        attr(lres, "na.action") <- na.act
+    class(lres) <- c("htest", "mc.sim")
+    lres
+}
+<bytecode: 0x5d46941860e8>
+<environment: namespace:spdep>
+function (x, y, listw, n, S2 = NULL, zero.policy = attr(listw, 
+    "zero.policy"), NAOK = FALSE) 
+{
+    if (is.null(zero.policy)) 
+        zero.policy <- get.ZeroPolicyOption()
+    stopifnot(is.logical(zero.policy))
+    n1 <- length(listw$neighbours)
+    x <- c(x)
+    y <- c(y)
+    if (n1 != length(x) | n1 != length(y)) 
+        stop("objects of different length")
+    xx <- mean(x, na.rm = NAOK)
+    yy <- mean(y, na.rm = NAOK)
+    z <- x - xx
+    zz <- sum(z^2, na.rm = NAOK)
+    zy <- y - yy
+    zzy <- sum(zy^2, na.rm = NAOK)
+    lz <- lag.listw(listw, z, zero.policy = zero.policy, NAOK = NAOK)
+    lzy <- lag.listw(listw, zy, zero.policy = zero.policy, NAOK = NAOK)
+    if (is.null(S2)) 
+        S2 <- sum((unlist(lapply(listw$weights, sum)))^2)
+    L <- (n/S2) * (sum(lz * lzy))/(sqrt(zz) * sqrt(zzy))
+    localL <- n * lz * lzy/(sqrt(zz) * sqrt(zzy))
+    res <- list(L = L, localL = localL)
+    return(res)
+}
+<bytecode: 0x5d4694125fb8>
+<environment: namespace:spdep>

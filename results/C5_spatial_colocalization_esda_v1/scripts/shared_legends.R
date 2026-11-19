@@ -1,0 +1,12 @@
+options(mc.cores=1L)
+suppressPackageStartupMessages(library(ggplot2))
+sk='/home/jinshengxi/.agents/skills/jins-routine-plotting';for(f in c('common/theme.R','common/palettes.R','common/export.R'))source(file.path(sk,f));jin_setup()
+nulls=character();cowplot::set_null_device(function(width,height){f=tempfile(fileext='.pdf');nulls<<-c(nulls,f);cairo_pdf(f,width=width,height=height,family='Arial')})
+o='results/C5_spatial_colocalization_esda_v1'
+p=ggplot(data.frame(x=c(0,.5,1),y=0),aes(x,y,color=x))+geom_point()+scale_color_viridis_c(name='Within-section abundance percentile',limits=c(0,1),breaks=c(0,.5,1),guide=guide_colorbar(display='rectangles',barwidth=unit(4,'cm')))+theme_void(base_family='Arial',base_size=12)+theme(legend.position='bottom')
+qcols=c(HH='#B2182B',HL='#EF8A62',LH='#67A9CF',LL='#2166AC','Not significant'='#D9D9D9',Excluded='#FFFFFF')
+q=ggplot(data.frame(x=seq_along(qcols),y=0,class=factor(names(qcols),levels=names(qcols))),aes(x,y,color=class))+geom_point()+scale_color_manual(values=qcols,name='Quadrants (descriptive maps: not significance)',drop=FALSE)+theme_void(base_family='Arial',base_size=12)+theme(legend.position='bottom')
+a=cowplot::get_legend(p);b=cowplot::get_legend(q);fig=cowplot::plot_grid(cowplot::ggdraw(a),cowplot::ggdraw(b),ncol=1)
+f=file.path(o,'figures/descriptive_shared_legends.pdf');ggsave(f,fig,device=cairo_pdf,width=10,height=3,bg='white')
+files=list.files(file.path(o,'figures'),pattern='_descriptive_quadrants_legend_only.pdf$',full.names=TRUE);for(dest in files)file.copy(f,dest,overwrite=TRUE)
+unlink(nulls)

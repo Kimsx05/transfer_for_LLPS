@@ -1,0 +1,21 @@
+{
+  "seed": 123,
+  "permutations": 999,
+  "n_jobs": 1,
+  "keep_simulations": false,
+  "geoda_quads": false,
+  "quadrants": {
+    "1": "HH",
+    "2": "LH",
+    "3": "LL",
+    "4": "HL"
+  },
+  "primary": "Five UCell -> raw major posterior mean; ring 1",
+  "p_value": "native folded/minimum-tail p_sim retained; conservative min(1,2*p_sim) used for primary BH",
+  "global_BH": "252 forward primary tests; each sensitivity and reverse separate 252-test family",
+  "local_BH": "per section: four partners times all valid graph-connected nodes; doubled p_sim",
+  "isolates": "all analyses exclude original isolates; no fake edges; missing required values excluded then newly isolated nodes excluded; local output NA for excluded nodes",
+  "patient": "only nonmissing audited patient_uid; mean per patient then bootstrap median 2000 replicates",
+  "rings": "exact shortest-path rings, never cumulative; per-ring isolates excluded",
+  "primary_frozen_before_pilot": true
+}

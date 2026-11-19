@@ -1,0 +1,5 @@
+section_id	partner	n_high	n_five_high_same_low_neighbor_high	fraction_high_same_low_neighbor_high	same_low_neighbor_high_all
+NPJ_sample4	Endothelial	264	27	0.10227272727272728	252
+NPJ_sample4	Epithelial	264	1	0.003787878787878788	96
+NPJ_sample4	Myeloid	264	1	0.003787878787878788	45
+NPJ_sample4	T_NK	264	18	0.06818181818181818	209

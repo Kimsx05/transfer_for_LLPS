@@ -1,0 +1,5 @@
+section_id	partner	n_high	n_five_high_same_low_neighbor_high	fraction_high_same_low_neighbor_high	same_low_neighbor_high_all
+Inhousedata_T4463209	Endothelial	444	45	0.10135135135135136	413
+Inhousedata_T4463209	Epithelial	444	8	0.018018018018018018	224
+Inhousedata_T4463209	Myeloid	444	7	0.015765765765765764	193
+Inhousedata_T4463209	T_NK	444	10	0.02252252252252252	294

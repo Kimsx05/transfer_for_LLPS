@@ -1,0 +1,12 @@
+{
+  "esda": "2.7.0",
+  "libpysal": "4.13.0",
+  "numpy": "2.2.6",
+  "scipy": "1.15.3",
+  "pandas": "2.3.3",
+  "numba": "0.61.2",
+  "pyarrow": "25.0.1",
+  "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+  "global_API": "(x, y, w, transformation='r', permutations=999)",
+  "local_API": "(x, y, w, transformation='r', permutations=999, geoda_quads=False, n_jobs=1, keep_simulations=True, seed=None, island_weight=0)"
+}

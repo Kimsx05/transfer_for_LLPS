@@ -1,0 +1,8 @@
+esda==2.7.0
+libpysal==4.13.0
+numba==0.61.2
+llvmlite==0.44.0
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+pyarrow==25.0.1

@@ -1,0 +1,5 @@
+section_id	partner	n_high	n_five_high_same_low_neighbor_high	fraction_high_same_low_neighbor_high	same_low_neighbor_high_all
+GSE319536_BC11	Endothelial	683	15	0.021961932650073207	242
+GSE319536_BC11	Epithelial	683	35	0.05124450951683748	293
+GSE319536_BC11	Myeloid	683	41	0.060029282576866766	254
+GSE319536_BC11	T_NK	683	28	0.040995607613469986	261

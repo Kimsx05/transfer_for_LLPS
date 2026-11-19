@@ -1,0 +1,69 @@
+also installing the dependency ‘spData’
+
+trying URL 'https://cloud.r-project.org/src/contrib/spData_2.3.5.tar.gz'
+Content type 'application/x-gzip' length 3806737 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/spdep_1.4-2.tar.gz'
+Content type 'application/x-gzip' length 4687167 bytes (4.5 MB)
+==================================================
+downloaded 4.5 MB
+
+* installing *source* package ‘spData’ ...
+** package ‘spData’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (spData)
+* installing *source* package ‘spdep’ ...
+** package ‘spdep’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c card.c -o card.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dfs_ncomp.c -o dfs_ncomp.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dnn.c -o dnn.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gabriel.c -o gabriel.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gearyw.c -o gearyw.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gsymtest.c -o gsymtest.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c insiders.c -o insiders.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c jc.c -o jc.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c knn.c -o knn.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c lagw.c -o lagw.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c listw2sn.c -o listw2sn.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nbdists.c -o nbdists.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c perm_no_replace.c -o perm_no_replace.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c polypoly.c -o polypoly.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c relative.c -o relative.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c skater.c -o skater.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-JpkSDg/r-base-4.4.3=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c symtest.c -o symtest.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o spdep.so card.o dfs_ncomp.o dnn.o gabriel.o gearyw.o gsymtest.o init.o insiders.o jc.o knn.o lagw.o listw2sn.o nbdists.o perm_no_replace.o polypoly.o relative.o skater.o symtest.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /home/jinshengxi/bladder_metabolism/results/C5_spatial_colocalization_esda_v1/.Rlib/00LOCK-spdep/00new/spdep/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (spdep)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp9TqNLf/downloaded_packages’

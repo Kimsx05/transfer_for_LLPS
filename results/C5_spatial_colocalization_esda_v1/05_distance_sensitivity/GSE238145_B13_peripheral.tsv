@@ -1,0 +1,5 @@
+section_id	partner	n_high	n_five_high_same_low_neighbor_high	fraction_high_same_low_neighbor_high	same_low_neighbor_high_all
+GSE238145_B13	Endothelial	487	52	0.10677618069815195	169
+GSE238145_B13	Epithelial	487	68	0.13963039014373715	160
+GSE238145_B13	Myeloid	487	46	0.0944558521560575	150
+GSE238145_B13	T_NK	487	45	0.09240246406570841	159

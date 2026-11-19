@@ -1,0 +1,20 @@
+{
+  "section_id": "GSE238145_B10",
+  "n_total": 7399,
+  "n_usable": 7399,
+  "missing": 0,
+  "excluded_isolates": 0,
+  "original_isolates": 0,
+  "components": 1,
+  "edges": 21559,
+  "degree_min": 1,
+  "degree_max": 6,
+  "largest_component": 7399,
+  "node_order_sha256": "8f07de146b4ee06a16027aae036208f55398ccd19a5650e0208dc432c2ce1192",
+  "seconds": 15.507244110107422,
+  "max_RSS_MB": 431.49609375,
+  "quadrant_verified": true,
+  "simulations_retained": false,
+  "seed": 123,
+  "permutations": 999
+}

@@ -1,0 +1,9 @@
+section_id	partner	method	n	L	p	permutations	seed
+CanDis_2026_Sample10	Endothelial	raw	2349	-0.299047294901357	0.002	999	123
+CanDis_2026_Sample10	Endothelial	adjusted	2349	0.0210977197767074	0.096	999	123
+CanDis_2026_Sample10	Epithelial	raw	2349	-0.360682566178688	0.002	999	123
+CanDis_2026_Sample10	Epithelial	adjusted	2349	-0.286626164123252	0.002	999	123
+CanDis_2026_Sample10	Myeloid	raw	2349	-0.321168411514688	0.002	999	123
+CanDis_2026_Sample10	Myeloid	adjusted	2349	0.0716463274649597	0	999	123
+CanDis_2026_Sample10	T_NK	raw	2349	-0.352084053632959	0.002	999	123
+CanDis_2026_Sample10	T_NK	adjusted	2349	-0.0343509867420899	0.002	999	123

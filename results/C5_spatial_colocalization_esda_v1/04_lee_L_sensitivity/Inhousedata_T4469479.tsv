@@ -1,0 +1,9 @@
+section_id	partner	method	n	L	p	permutations	seed
+Inhousedata_T4469479	Endothelial	raw	3899	0.320902015282826	0	999	123
+Inhousedata_T4469479	Endothelial	adjusted	3899	-0.115014321055029	0.002	999	123
+Inhousedata_T4469479	Epithelial	raw	3899	0.284813817535546	0	999	123
+Inhousedata_T4469479	Epithelial	adjusted	3899	-0.232292965937249	0.002	999	123
+Inhousedata_T4469479	Myeloid	raw	3899	0.336918840763978	0	999	123
+Inhousedata_T4469479	Myeloid	adjusted	3899	-0.186777567740952	0.002	999	123
+Inhousedata_T4469479	T_NK	raw	3899	0.484443826066124	0	999	123
+Inhousedata_T4469479	T_NK	adjusted	3899	-0.03794479610601	0.002	999	123

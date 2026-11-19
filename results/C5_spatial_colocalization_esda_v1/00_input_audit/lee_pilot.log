@@ -1,0 +1,16 @@
+Lee DONE CanDis_2026_Sample13
+Lee DONE GSE171351_A1
+Lee DONE GSE238145_B10
+Lee DONE GSE285715_N1
+Lee DONE GSE319536_BC12
+Lee DONE Inhousedata_T4398343
+Lee DONE NPJ_sample4
+Warning messages:
+1: In sn2listw(df, style = style, zero.policy = zero.policy, from_mat2listw = TRUE) :
+  neighbour object has 6 sub-graphs
+2: In mat2listw(A, style = "W", zero.policy = FALSE) :
+  neighbour object has 6 sub-graphs
+3: In sn2listw(df, style = style, zero.policy = zero.policy, from_mat2listw = TRUE) :
+  neighbour object has 3 sub-graphs
+4: In mat2listw(A, style = "W", zero.policy = FALSE) :
+  neighbour object has 3 sub-graphs

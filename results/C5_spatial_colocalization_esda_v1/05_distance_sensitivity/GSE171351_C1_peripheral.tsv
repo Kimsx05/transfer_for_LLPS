@@ -1,0 +1,5 @@
+section_id	partner	n_high	n_five_high_same_low_neighbor_high	fraction_high_same_low_neighbor_high	same_low_neighbor_high_all
+GSE171351_C1	Endothelial	147	19	0.1292517006802721	146
+GSE171351_C1	Epithelial	147	21	0.14285714285714285	149
+GSE171351_C1	Myeloid	147	16	0.10884353741496598	140
+GSE171351_C1	T_NK	147	24	0.16326530612244897	191

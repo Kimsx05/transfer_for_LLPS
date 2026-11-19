@@ -1,0 +1,5 @@
+section_id	partner	n_high	n_five_high_same_low_neighbor_high	fraction_high_same_low_neighbor_high	same_low_neighbor_high_all
+GSE285715_N1	Endothelial	142	0	0.0	66
+GSE285715_N1	Epithelial	142	2	0.014084507042253521	41
+GSE285715_N1	Myeloid	142	0	0.0	2
+GSE285715_N1	T_NK	142	0	0.0	57

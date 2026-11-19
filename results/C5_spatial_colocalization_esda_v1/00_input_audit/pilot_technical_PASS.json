@@ -1,0 +1,7 @@
+{
+  "all_7_pilot_technical_PASS": true,
+  "repeat_local_p_and_quadrant_exact": true,
+  "local_replicates_retained": false,
+  "permutations": 999,
+  "gate": "technical only, no biological significance criterion"
+}

@@ -1,0 +1,15 @@
+Collecting numba==0.61.2
+  Downloading numba-0.61.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (3.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.8/3.8 MB 5.5 MB/s eta 0:00:00
+Collecting llvmlite==0.44.0
+  Downloading llvmlite-0.44.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (42.4 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 42.4/42.4 MB 17.0 MB/s eta 0:00:00
+Collecting numpy<2.3,>=1.24
+  Downloading numpy-2.2.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (16.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.8/16.8 MB 15.1 MB/s eta 0:00:00
+Installing collected packages: numpy, llvmlite, numba
+Successfully installed llvmlite-0.44.0 numba-0.61.2 numpy-2.2.6
+WARNING: Target directory /tmp/c5_esda_deps/numpy-2.2.6.dist-info already exists. Specify --upgrade to force replacement.
+WARNING: Target directory /tmp/c5_esda_deps/numpy.libs already exists. Specify --upgrade to force replacement.
+WARNING: Target directory /tmp/c5_esda_deps/numpy already exists. Specify --upgrade to force replacement.
+WARNING: Target directory /tmp/c5_esda_deps/bin already exists. Specify --upgrade to force replacement.

@@ -1,0 +1,9 @@
+section_id	partner	method	n	L	p	permutations	seed
+NPJ_sample1	Endothelial	raw	2075	-0.16300960818133	0.002	999	123
+NPJ_sample1	Endothelial	adjusted	2075	-0.0468458246496627	0.002	999	123
+NPJ_sample1	Epithelial	raw	2075	-0.276767907235123	0.002	999	123
+NPJ_sample1	Epithelial	adjusted	2075	-0.296699230415788	0.002	999	123
+NPJ_sample1	Myeloid	raw	2075	-0.252364450692777	0.002	999	123
+NPJ_sample1	Myeloid	adjusted	2075	0.0102669459864911	0.02	999	123
+NPJ_sample1	T_NK	raw	2075	-0.00761869574793758	0.958	999	123
+NPJ_sample1	T_NK	adjusted	2075	0.0215885448285534	0.00800000000000001	999	123

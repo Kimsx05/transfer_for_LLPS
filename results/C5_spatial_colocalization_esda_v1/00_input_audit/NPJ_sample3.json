@@ -1,0 +1,20 @@
+{
+  "section_id": "NPJ_sample3",
+  "n_total": 4881,
+  "n_usable": 4881,
+  "missing": 0,
+  "excluded_isolates": 0,
+  "original_isolates": 0,
+  "components": 1,
+  "edges": 14246,
+  "degree_min": 1,
+  "degree_max": 6,
+  "largest_component": 4881,
+  "node_order_sha256": "332925b57e33fc6176e5656190b63047145d1715ae5f329a02f1ddff77fa6dfc",
+  "seconds": 10.20482087135315,
+  "max_RSS_MB": 497.03515625,
+  "quadrant_verified": true,
+  "simulations_retained": false,
+  "seed": 123,
+  "permutations": 999
+}

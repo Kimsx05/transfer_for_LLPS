@@ -1,0 +1,5 @@
+section_id	partner	n_high	n_five_high_same_low_neighbor_high	fraction_high_same_low_neighbor_high	same_low_neighbor_high_all
+CanDis_2026_Sample9	Endothelial	290	28	0.09655172413793103	293
+CanDis_2026_Sample9	Epithelial	290	8	0.027586206896551724	192
+CanDis_2026_Sample9	Myeloid	290	32	0.1103448275862069	257
+CanDis_2026_Sample9	T_NK	290	10	0.034482758620689655	137

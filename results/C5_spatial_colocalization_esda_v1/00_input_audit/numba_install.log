@@ -1,0 +1,13 @@
+Collecting numba
+  Downloading numba-0.68.1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (3.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.8/3.8 MB 1.6 MB/s eta 0:00:00
+Collecting numpy<2.6,>=1.22
+  Using cached numpy-2.2.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (16.8 MB)
+Collecting llvmlite<0.51,>=0.50.0dev0
+  Downloading llvmlite-0.50.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (59.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━           44.5/59.7 MB 341.2 kB/s eta 0:00:45
+ERROR: THESE PACKAGES DO NOT MATCH THE HASHES FROM THE REQUIREMENTS FILE. If you have updated the package versions, please update the hashes. Otherwise, examine the package contents carefully; someone may have tampered with them.
+    llvmlite<0.51,>=0.50.0dev0 from https://files.pythonhosted.org/packages/36/05/e24c01d88f671081ebf4ecfeee61b10ec7e2b9e5ab2c544ce6b57143420b/llvmlite-0.50.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl#sha256=c2b23236bd0d7ad56a94208263d791956f79c8c45f39458931df556206d4496a (from numba):
+        Expected sha256 c2b23236bd0d7ad56a94208263d791956f79c8c45f39458931df556206d4496a
+             Got        f8aece3b48852e6a78205c38149d45883838abd286b269310b1846d81b6eb46c
+
