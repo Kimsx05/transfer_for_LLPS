@@ -1,0 +1,6 @@
+model	input_genes	nonfinite	duplicate_symbols	ENSG	min_DE_FDR
+"primary"	11445	0	0	366	0.420835066577661
+"GSE222315"	12192	0	0	414	0.0722072004043914
+"InhouseData"	7558	0	0	0	0.345266606668538
+"stage_adjusted"	11445	0	0	366	0.443960472436185
+"sampling_adjusted"	11445	0	0	366	0.433922274046284

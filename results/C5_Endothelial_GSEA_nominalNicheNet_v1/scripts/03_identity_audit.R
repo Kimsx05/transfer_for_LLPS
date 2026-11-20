@@ -1,0 +1,11 @@
+source('results/C5_Endothelial_GSEA_nominalNicheNet_v1/scripts/common.R');library(edgeR)
+markers<-unique(c('PECAM1','VWF','CDH5','KDR','EMCN','ESAM',cfg$ECM_marker_exclusion))
+b<-readRDS(file.path(OLD,'01_receiver_pseudobulk/Endothelial_patient_pseudobulk.rds'));p<-as.data.table(b$metadata);sel<-which(p$eligible);y<-calcNormFactors(DGEList(as.matrix(b$counts[,sel,drop=FALSE])));cpmat<-cpm(y,log=FALSE);m<-intersect(markers,rownames(cpmat));z<-as.data.table(as.table(cpmat[m,,drop=FALSE]));setnames(z,c('gene','patient_id','CPM'));z<-merge(z,p[,.(patient_id,dataset,fraction,Endothelial,Fib_total,eligible)],by='patient_id');w(z,'02_nominal_response_genesets/identity_marker_patient_CPM.tsv')
+d<-rd('03_candidate_ligands/Endothelial_background_patient.tsv.gz');d<-d[gene%in%markers];w(d,'02_nominal_response_genesets/identity_marker_patient_detection.tsv')
+# Per-cell co-detection in frozen normalized cache, no new clustering or label changes.
+manifest<-fread('cellchat_nichechat_fibro7/01_metadata/per_sample_input_manifest.tsv');mp<-fread('results/llps_C5_distribution_audit_20261110_v1/v2/patient_sample_mapping_final.csv');s<-rd('00_input_audit/specimen_sampling.tsv');out<-list()
+for(i in seq_len(nrow(manifest))){ss<-manifest$sample[i];if(!ss%in%s[tissue_origin=='Tumor',specimen_id])next;pid<-mp$patient_id[match(ss,mp$specimen_id)];if(!pid%in%p[eligible==TRUE,patient_id])next
+ q<-qs2::qs_read(manifest$input_path[i],nthreads=1);md<-as.data.table(q$metadata);idx<-which(md$cellchat_group=='Endothelial');stopifnot(identical(colnames(q$expression),md$cell));if(!length(idx))next
+ mm<-intersect(markers,rownames(q$expression));a<-as.matrix(q$expression[mm,idx,drop=FALSE])>0;en<-intersect(c('PECAM1','VWF','CDH5','KDR'),mm);st<-intersect(c('FAP','COL1A1','COL1A2','POSTN','DCN','LUM'),mm);en_count<-colSums(a[en,,drop=FALSE]);st_count<-colSums(a[st,,drop=FALSE]);out[[ss]]<-data.table(sample=ss,patient_id=pid,dataset=manifest$dataset[i],n_endothelial=length(idx),n_endo_marker_ge1=sum(en_count>=1),n_endo_marker_ge2=sum(en_count>=2),n_stromal_marker_ge2=sum(st_count>=2),n_both_ge2=sum(en_count>=2&st_count>=2),n_stromal_ge2_endo0=sum(en_count==0&st_count>=2));rm(q,a);gc(FALSE)
+}
+w(rbindlist(out),'02_nominal_response_genesets/identity_co_detection_specimen.tsv');cat('IDENTITY_COMPLETE\n')

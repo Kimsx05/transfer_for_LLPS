@@ -1,0 +1,4 @@
+set	p_threshold	positive_primary	positive_both_cohorts	matched	ECM
+"A"	0.01	102	40	28	1
+"B"	0.05	351	167	123	1
+"C"	0.1	748	400	302	1

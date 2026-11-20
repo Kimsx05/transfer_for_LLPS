@@ -1,0 +1,56 @@
+{
+  "seed": 123,
+  "threads": 1,
+  "hallmark_version": "2026.1.Hs",
+  "GSEA": {
+    "minSize": 10,
+    "maxSize": 500,
+    "eps": 0,
+    "nPermSimple": 10000,
+    "rank": "moderated t",
+    "BH_family": "all eligible Hallmarks within each model"
+  },
+  "nominal_p": {
+    "A": 0.01,
+    "B": 0.05,
+    "C": 0.1
+  },
+  "required_directions": [
+    "primary positive",
+    "GSE222315 positive",
+    "InhouseData positive"
+  ],
+  "fixed_background": 7070,
+  "fixed_ligands": 246,
+  "minimum_geneset_size": 15,
+  "random_programs": 50,
+  "random_matching": "pooled endothelial detection deciles; size matched within bins, without replacement per program; original genes allowed",
+  "LOPO": "refit primary and both major cohort models without held-out patient; original filterByExpr/TMM/voom/robust eBayes; refit fraction SD; fixed background/ligands",
+  "ECM_marker_exclusion": [
+    "FAP",
+    "COL1A1",
+    "COL1A2",
+    "POSTN",
+    "COL11A1",
+    "DCN",
+    "LUM",
+    "COL3A1",
+    "COL5A1",
+    "COL5A2",
+    "COL6A1",
+    "COL6A2",
+    "COL6A3",
+    "COL10A1",
+    "CTHRC1",
+    "MMP11",
+    "PDGFRA",
+    "PDGFRB",
+    "ACTA2",
+    "TAGLN",
+    "FN1"
+  ],
+  "ECM_exclusion_interpretation": "prespecified stromal/ECM marker sensitivity; genes can also have authentic endothelial expression; exclusion not proof of contamination",
+  "EMT_gate": "primary NES>0 and BH<0.10, both major cohort NES>0; otherwise REFERENCE_ONLY",
+  "curves": "up to two largest positive and two most negative primary NES with BH<0.10; if none use prespecified EMT with nonsignificant label",
+  "optional_spatial": "at most first 3 Set B top20 ligands with t20 positive CellChat and not previously spatial-tested; best patient-median CC axis per ligand; coverage/expression audit only, no new full spatial inference"
+}

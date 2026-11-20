@@ -1,0 +1,42 @@
+Loading required package: limma
+GSEA primary 50 FDR10 12 
+GSEA GSE222315 50 FDR10 21 
+GSEA InhouseData 50 FDR10 14 
+GSEA stage_adjusted 50 FDR10 12 
+GSEA sampling_adjusted 50 FDR10 11 
+Warning messages:
+1: In preparePathwaysAndStats(pathways, stats, minSize, maxSize, gseaParam,  :
+  There are ties in the preranked stats (0.06% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results.
+2: In preparePathwaysAndStats(pathways, stats, minSize, maxSize, gseaParam,  :
+  There are ties in the preranked stats (0.35% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results.
+3: In preparePathwaysAndStats(pathways, stats, minSize, maxSize, gseaParam,  :
+  There are ties in the preranked stats (0.03% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results.
+LOPO CNP0000460::P05 130 
+LOPO CNP0000460::P06 121 
+LOPO CNP0000460::P07 120 
+LOPO GSE135337::BC5 139 
+LOPO GSE222315::P1 122 
+LOPO GSE222315::P3 117 
+LOPO GSE222315::P4 136 
+LOPO GSE222315::P5 105 
+LOPO GSE222315::P6 96 
+LOPO GSE222315::P7 107 
+LOPO GSE222315::P8 140 
+LOPO GSE222315::P9 136 
+LOPO InhouseData::T4091568 148 
+LOPO InhouseData::T4295396 128 
+LOPO InhouseData::T4398343 109 
+LOPO InhouseData::T4463209 152 
+LOPO InhouseData::T4465219 118 
+LOPO InhouseData::T4466585 104 
+LOPO InhouseData::T4469479 180 
+LOPO InhouseData::T4471438 110 
+LOPO InhouseData::T8009218 123 
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Warning message:
+In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+STAGE1_COMPLETE

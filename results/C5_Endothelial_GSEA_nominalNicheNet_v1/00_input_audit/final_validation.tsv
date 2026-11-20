@@ -1,0 +1,181 @@
+check	status	detail
+unchanged results/C5_Endothelial_NicheNet_spatial_v1/01_receiver_pseudobulk/DE_primary.tsv	PASS	
+unchanged results/C5_Endothelial_NicheNet_spatial_v1/01_receiver_pseudobulk/DE_GSE222315.tsv	PASS	
+unchanged results/C5_Endothelial_NicheNet_spatial_v1/01_receiver_pseudobulk/DE_InhouseData.tsv	PASS	
+unchanged results/C5_Endothelial_NicheNet_spatial_v1/01_receiver_pseudobulk/DE_stage_adjusted.tsv	PASS	
+unchanged results/C5_Endothelial_NicheNet_spatial_v1/01_receiver_pseudobulk/DE_sampling_adjusted.tsv	PASS	
+unchanged results/C5_Endothelial_NicheNet_spatial_v1/01_receiver_pseudobulk/Endothelial_patient_pseudobulk.rds	PASS	
+unchanged results/C5_Endothelial_NicheNet_spatial_v1/02_receiver_geneset/expressed_background.tsv	PASS	
+unchanged results/C5_Endothelial_NicheNet_spatial_v1/04_NicheNet_ligand_activity/all_program_activities.tsv	PASS	
+unchanged results/llps_C0_functional_signature_v2/resources/gene_sets.rds	PASS	
+unchanged results/llps_C0_functional_signature_v2/resources/gene_set_sources.tsv	PASS	
+resource /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/05_nichenet_preflight/ligand_target_matrix_nsga2r_final.rds	PASS	
+resource /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/05_nichenet_preflight/lr_network_human_21122021.rds	PASS	
+resource /home/jinshengxi/bladder_metabolism/cellchat_nichechat_fibro7/05_nichenet_preflight/weighted_networks_nsga2r_final.rds	PASS	
+250 Hallmark tests	PASS	
+GSEA BH GSE222315	PASS	
+finite GSE222315	PASS	
+rank descending GSE222315	PASS	
+gene uniqueness GSE222315	PASS	
+GSEA BH InhouseData	PASS	
+finite InhouseData	PASS	
+rank descending InhouseData	PASS	
+gene uniqueness InhouseData	PASS	
+GSEA BH primary	PASS	
+finite primary	PASS	
+rank descending primary	PASS	
+gene uniqueness primary	PASS	
+GSEA BH sampling_adjusted	PASS	
+finite sampling_adjusted	PASS	
+rank descending sampling_adjusted	PASS	
+gene uniqueness sampling_adjusted	PASS	
+GSEA BH stage_adjusted	PASS	
+finite stage_adjusted	PASS	
+rank descending stage_adjusted	PASS	
+gene uniqueness stage_adjusted	PASS	
+fixed background	PASS	
+genesets background	PASS	
+no duplicated sets	PASS	
+all246 EMT	PASS	
+all246 LOPO_CNP0000460::P05	PASS	
+all246 LOPO_CNP0000460::P06	PASS	
+all246 LOPO_CNP0000460::P07	PASS	
+all246 LOPO_GSE135337::BC5	PASS	
+all246 LOPO_GSE222315::P1	PASS	
+all246 LOPO_GSE222315::P3	PASS	
+all246 LOPO_GSE222315::P4	PASS	
+all246 LOPO_GSE222315::P5	PASS	
+all246 LOPO_GSE222315::P6	PASS	
+all246 LOPO_GSE222315::P7	PASS	
+all246 LOPO_GSE222315::P8	PASS	
+all246 LOPO_GSE222315::P9	PASS	
+all246 LOPO_InhouseData::T4091568	PASS	
+all246 LOPO_InhouseData::T4295396	PASS	
+all246 LOPO_InhouseData::T4398343	PASS	
+all246 LOPO_InhouseData::T4463209	PASS	
+all246 LOPO_InhouseData::T4465219	PASS	
+all246 LOPO_InhouseData::T4466585	PASS	
+all246 LOPO_InhouseData::T4469479	PASS	
+all246 LOPO_InhouseData::T4471438	PASS	
+all246 LOPO_InhouseData::T8009218	PASS	
+all246 Set_A	PASS	
+all246 Set_A_noECM	PASS	
+all246 Set_B	PASS	
+all246 Set_B_noECM	PASS	
+all246 Set_C	PASS	
+all246 Set_C_noECM	PASS	
+nominal rules A	PASS	
+no primary FDR DEG A	PASS	
+nominal rules B	PASS	
+no primary FDR DEG B	PASS	
+nominal rules C	PASS	
+no primary FDR DEG C	PASS	
+21 LOPO fits	PASS	
+21 LOPO activities	PASS	
+50 random programs	PASS	
+matched random RANDOM_01	PASS	
+matched random RANDOM_02	PASS	
+matched random RANDOM_03	PASS	
+matched random RANDOM_04	PASS	
+matched random RANDOM_05	PASS	
+matched random RANDOM_06	PASS	
+matched random RANDOM_07	PASS	
+matched random RANDOM_08	PASS	
+matched random RANDOM_09	PASS	
+matched random RANDOM_10	PASS	
+matched random RANDOM_11	PASS	
+matched random RANDOM_12	PASS	
+matched random RANDOM_13	PASS	
+matched random RANDOM_14	PASS	
+matched random RANDOM_15	PASS	
+matched random RANDOM_16	PASS	
+matched random RANDOM_17	PASS	
+matched random RANDOM_18	PASS	
+matched random RANDOM_19	PASS	
+matched random RANDOM_20	PASS	
+matched random RANDOM_21	PASS	
+matched random RANDOM_22	PASS	
+matched random RANDOM_23	PASS	
+matched random RANDOM_24	PASS	
+matched random RANDOM_25	PASS	
+matched random RANDOM_26	PASS	
+matched random RANDOM_27	PASS	
+matched random RANDOM_28	PASS	
+matched random RANDOM_29	PASS	
+matched random RANDOM_30	PASS	
+matched random RANDOM_31	PASS	
+matched random RANDOM_32	PASS	
+matched random RANDOM_33	PASS	
+matched random RANDOM_34	PASS	
+matched random RANDOM_35	PASS	
+matched random RANDOM_36	PASS	
+matched random RANDOM_37	PASS	
+matched random RANDOM_38	PASS	
+matched random RANDOM_39	PASS	
+matched random RANDOM_40	PASS	
+matched random RANDOM_41	PASS	
+matched random RANDOM_42	PASS	
+matched random RANDOM_43	PASS	
+matched random RANDOM_44	PASS	
+matched random RANDOM_45	PASS	
+matched random RANDOM_46	PASS	
+matched random RANDOM_47	PASS	
+matched random RANDOM_48	PASS	
+matched random RANDOM_49	PASS	
+matched random RANDOM_50	PASS	
+63x3 light audit	PASS	
+29 verified spatial patients	PASS	
+all246 retained integration	PASS	
+vector E_nominal_targets_legend_only.pdf	PASS	
+vector B_APICAL_SURFACE.pdf	PASS	
+vector F_program_ranks_legend_only.pdf	PASS	
+vector G_spatial_expression_audit.pdf	PASS	
+vector D_SetB_top20_legend_only.pdf	PASS	
+vector A_Hallmark_focus_panel_only.pdf	PASS	
+vector G_spatial_expression_audit_legend_only.pdf	PASS	
+vector F_program_ranks.pdf	PASS	
+vector B_OXIDATIVE_PHOSPHORYLATION.pdf	PASS	
+vector D_SetB_top20.pdf	PASS	
+vector B_MYC_TARGETS_V1.pdf	PASS	
+vector G_target_influence_legend_only.pdf	PASS	
+vector C_counts_legend_only.pdf	PASS	
+vector E_nominal_targets.pdf	PASS	
+vector A_Hallmark_all_panel_only.pdf	PASS	
+vector A_Hallmark_all_legend_only.pdf	PASS	
+vector D_random_calibration.pdf	PASS	
+vector A_Hallmark_all.pdf	PASS	
+vector G_target_influence_panel_only.pdf	PASS	
+vector A_Hallmark_focus.pdf	PASS	
+vector C_cohort_effects_panel_only.pdf	PASS	
+vector C_counts.pdf	PASS	
+vector C_cohort_effects_legend_only.pdf	PASS	
+vector G_target_influence.pdf	PASS	
+vector C_cohort_effects.pdf	PASS	
+vector D_threshold_ranks.pdf	PASS	
+vector G_spatial_expression_audit_panel_only.pdf	PASS	
+vector C_counts_panel_only.pdf	PASS	
+vector E_nominal_targets_panel_only.pdf	PASS	
+vector F_program_ranks_panel_only.pdf	PASS	
+vector A_Hallmark_focus_legend_only.pdf	PASS	
+vector G_identity.pdf	PASS	
+vector B_MITOTIC_SPINDLE.pdf	PASS	
+vector D_LOPO.pdf	PASS	
+vector D_SetB_top20_panel_only.pdf	PASS	
+300dpi D_threshold_ranks.png	PASS	
+300dpi D_random_calibration.png	PASS	
+300dpi G_target_influence.png	PASS	
+300dpi D_SetB_top20.png	PASS	
+300dpi C_cohort_effects.png	PASS	
+300dpi G_identity.png	PASS	
+300dpi F_program_ranks.png	PASS	
+300dpi C_counts.png	PASS	
+300dpi D_LOPO.png	PASS	
+300dpi A_Hallmark_focus.png	PASS	
+300dpi B_MITOTIC_SPINDLE.png	PASS	
+300dpi B_MYC_TARGETS_V1.png	PASS	
+300dpi B_APICAL_SURFACE.png	PASS	
+300dpi A_Hallmark_all.png	PASS	
+300dpi E_nominal_targets.png	PASS	
+300dpi G_spatial_expression_audit.png	PASS	
+300dpi B_OXIDATIVE_PHOSPHORYLATION.png	PASS	
+comprehensive report	PASS	

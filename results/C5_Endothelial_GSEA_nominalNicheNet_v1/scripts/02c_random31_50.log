@@ -1,0 +1,28 @@
+Failed to connect to bus: Operation not permitted (consider using --machine=<user>@.host --user to connect to bus of other user)
+Registered S3 method overwritten by 'pROC':
+  method   from            
+  plot.roc spatstat.explore
+Warning messages:
+1: In system("timedatectl", intern = TRUE) :
+  running command 'timedatectl' had status 1
+2: replacing previous import ‘e1071::element’ by ‘ggplot2::element’ when loading ‘nichenetr’ 
+WORKER RANDOM_50 
+WORKER RANDOM_49 
+WORKER RANDOM_48 
+WORKER RANDOM_47 
+WORKER RANDOM_46 
+WORKER RANDOM_45 
+WORKER RANDOM_44 
+WORKER RANDOM_43 
+WORKER RANDOM_42 
+WORKER RANDOM_41 
+WORKER RANDOM_40 
+WORKER RANDOM_39 
+WORKER RANDOM_38 
+WORKER RANDOM_37 
+WORKER RANDOM_36 
+WORKER RANDOM_35 
+WORKER RANDOM_34 
+WORKER RANDOM_33 
+Error: unexpected ',' in ","
+Execution halted

@@ -1,0 +1,1 @@
+Diagnostic rule: remove each unique largest prior-weight Set B target of each frozen Set B top10 ligand, one at a time. No re-selection or optimization. Prior-weight concentration is not a direct decomposition of activity.
