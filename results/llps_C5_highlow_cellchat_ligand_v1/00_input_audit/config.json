@@ -1,0 +1,62 @@
+{
+  "seed": 123,
+  "CPU_limit": 4,
+  "workers": 3,
+  "worker_cpu_affinity": [
+    0,
+    1,
+    2
+  ],
+  "helper_cpu_affinity": 3,
+  "math_threads_per_process": 1,
+  "CellChat_version": "2.1.2",
+  "type": "truncatedMean",
+  "trim": 0.1,
+  "population.size": false,
+  "nboot": 100,
+  "raw.use": true,
+  "thresholds": [
+    5,
+    10,
+    20,
+    30
+  ],
+  "grouping_methods": [
+    "within_median",
+    "exclude_median_ties",
+    "top_bottom30",
+    "global_tumor_median"
+  ],
+  "primary": "within_median / min.cells=10 / Tumor",
+  "bootstrap_replicates": 2000,
+  "min_patients_for_inference": 5,
+  "pseudobulk_min_cells": [
+    5,
+    10,
+    20
+  ],
+  "patient_model_min_residual_df": 3,
+  "nonconstant_sd_tolerance": 1e-08,
+  "pseudobulk_gene_min_detected_patients_for_P": 3,
+  "BH_families": "Communication method x threshold x kind x direction x stratum; focused22 and allDB ligand tests separate",
+  "inference_boundary": "n > min.cells",
+  "mutation_policy": "Original objects and prior result directories read-only",
+  "identity_priority": "User confirmed: all formal C5 retained; non-C5 atlas Pericyte separate; remaining C0-C4,C6 Other_fibroblasts",
+  "partners": [
+    "Epithelial",
+    "Endothelial",
+    "Myeloid",
+    "T_NK",
+    "B",
+    "Plasma",
+    "Mast",
+    "Other_fibroblasts",
+    "Pericyte"
+  ],
+  "max_analysis_processes": 4,
+  "max_R_workers": 3,
+  "math_threads_per_worker": 1,
+  "observed_peak_R_RSS_GiB": 6.412879943847656,
+  "normal_scope": "Exploratory only; separate from tumor",
+  "identity_decision": "00_input_audit/IDENTITY_DECISION_FINAL.md"
+}

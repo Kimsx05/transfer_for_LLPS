@@ -1,0 +1,25 @@
+failed to open the port 11830, trying a new port...
+failed to open the port 11366, trying a new port...
+failed to open the port 11979, trying a new port...
+failed to open the port 11120, trying a new port...
+failed to open the port 11013, trying a new port...
+'BiocParallel' did not register default BiocParallelParam:
+    cannot find an open port. For manually specifying the port, see
+  ?SnowParam
+SUMMARY within_median_t5 
+SUMMARY within_median_t10 
+SUMMARY within_median_t20 
+SUMMARY within_median_t30 
+SUMMARY exclude_median_ties_t5 
+SUMMARY exclude_median_ties_t10 
+SUMMARY exclude_median_ties_t20 
+SUMMARY exclude_median_ties_t30 
+SUMMARY top_bottom30_t5 
+SUMMARY top_bottom30_t10 
+SUMMARY top_bottom30_t20 
+SUMMARY top_bottom30_t30 
+SUMMARY global_tumor_median_t5 
+SUMMARY global_tumor_median_t10 
+SUMMARY global_tumor_median_t20 
+SUMMARY global_tumor_median_t30 
+ALL COMMUNICATION SUMMARIES COMPLETE

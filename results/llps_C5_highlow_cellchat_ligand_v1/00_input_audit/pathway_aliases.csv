@@ -1,0 +1,12 @@
+requested,actual_pathways,categories,n_interactions
+COLLAGEN,COLLAGEN,ECM-Receptor,187
+FN1,FN1,ECM-Receptor,13
+POSTN,PERIOSTIN,Secreted Signaling,2
+TGF-beta,TGFb,Secreted Signaling,12
+ACTIVIN,ACTIVIN,Secreted Signaling,20
+ANGPTL,ANGPTL,Secreted Signaling,15
+WNT,WNT;ncWNT,Secreted Signaling,351
+MDK,MK,Secreted Signaling,9
+ADM,ADM,Secreted Signaling,6
+SEMA3,SEMA3,Secreted Signaling,39
+SPP1,SPP1,Secreted Signaling,9

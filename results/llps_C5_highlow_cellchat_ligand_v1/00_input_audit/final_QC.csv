@@ -1,0 +1,1671 @@
+check,pass_
+59 specimens 42 patients,True
+716 C5 37 specimens 31 patients,True
+source unchanged major_annotated_with_LLPS77_AUC.qs,True
+source unchanged global_res012_object.qs,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/llps_C5_cellchat_v2/README.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/llps_C5_parallel_v1/C0_vs_C5_evidence_comparison.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/llps_C5_parallel_v1/README.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/llps_C5_parallel_v1/result_summary.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/C5_Endothelial_NicheNet_spatial_v1/COMPREHENSIVE_REPORT.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/C5_Endothelial_NicheNet_spatial_v1/README.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/C5_Endothelial_GSEA_nominalNicheNet_v1/COMPREHENSIVE_REPORT.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/C5_Endothelial_GSEA_nominalNicheNet_v1/README.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/C5_fivegene_LLPS77_spatial_v1/COMPREHENSIVE_REPORT.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/C5_fivegene_LLPS77_spatial_v1/README.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_colocalization_esda_v1/COMPREHENSIVE_REPORT.md,True
+history unchanged /home/jinshengxi/bladder_metabolism/results/C5_spatial_colocalization_esda_v1/README.md,True
+exact median rules,True
+within_median__S013 complete,True
+within_median__S013 t5 strict eligibility,True
+within_median__S013 t5 NA distinction,True
+within_median__S013 t5 LR sum reconciles network,True
+within_median__S013 t10 strict eligibility,True
+within_median__S013 t10 NA distinction,True
+within_median__S013 t10 LR sum reconciles network,True
+within_median__S013 t20 strict eligibility,True
+within_median__S013 t20 NA distinction,True
+within_median__S013 t20 LR sum reconciles network,True
+within_median__S013 t30 strict eligibility,True
+within_median__S013 t30 NA distinction,True
+within_median__S013 t30 LR sum reconciles network,True
+exclude_median_ties__S013 complete,True
+exclude_median_ties__S013 t5 strict eligibility,True
+exclude_median_ties__S013 t5 NA distinction,True
+exclude_median_ties__S013 t5 LR sum reconciles network,True
+exclude_median_ties__S013 t10 strict eligibility,True
+exclude_median_ties__S013 t10 NA distinction,True
+exclude_median_ties__S013 t10 LR sum reconciles network,True
+exclude_median_ties__S013 t20 strict eligibility,True
+exclude_median_ties__S013 t20 NA distinction,True
+exclude_median_ties__S013 t20 LR sum reconciles network,True
+exclude_median_ties__S013 t30 strict eligibility,True
+exclude_median_ties__S013 t30 NA distinction,True
+exclude_median_ties__S013 t30 LR sum reconciles network,True
+top_bottom30__S013 complete,True
+top_bottom30__S013 t5 strict eligibility,True
+top_bottom30__S013 t5 NA distinction,True
+top_bottom30__S013 t5 LR sum reconciles network,True
+top_bottom30__S013 t10 strict eligibility,True
+top_bottom30__S013 t10 NA distinction,True
+top_bottom30__S013 t10 LR sum reconciles network,True
+top_bottom30__S013 t20 strict eligibility,True
+top_bottom30__S013 t20 NA distinction,True
+top_bottom30__S013 t20 LR sum reconciles network,True
+top_bottom30__S013 t30 strict eligibility,True
+top_bottom30__S013 t30 NA distinction,True
+top_bottom30__S013 t30 LR sum reconciles network,True
+within_median__S017 complete,True
+within_median__S017 t5 strict eligibility,True
+within_median__S017 t5 NA distinction,True
+within_median__S017 t5 LR sum reconciles network,True
+within_median__S017 t10 strict eligibility,True
+within_median__S017 t10 NA distinction,True
+within_median__S017 t10 LR sum reconciles network,True
+within_median__S017 t20 strict eligibility,True
+within_median__S017 t20 NA distinction,True
+within_median__S017 t20 LR sum reconciles network,True
+within_median__S017 t30 strict eligibility,True
+within_median__S017 t30 NA distinction,True
+within_median__S017 t30 LR sum reconciles network,True
+exclude_median_ties__S017 complete,True
+exclude_median_ties__S017 t5 strict eligibility,True
+exclude_median_ties__S017 t5 NA distinction,True
+exclude_median_ties__S017 t5 LR sum reconciles network,True
+exclude_median_ties__S017 t10 strict eligibility,True
+exclude_median_ties__S017 t10 NA distinction,True
+exclude_median_ties__S017 t10 LR sum reconciles network,True
+exclude_median_ties__S017 t20 strict eligibility,True
+exclude_median_ties__S017 t20 NA distinction,True
+exclude_median_ties__S017 t20 LR sum reconciles network,True
+exclude_median_ties__S017 t30 strict eligibility,True
+exclude_median_ties__S017 t30 NA distinction,True
+exclude_median_ties__S017 t30 LR sum reconciles network,True
+top_bottom30__S017 complete,True
+top_bottom30__S017 t5 strict eligibility,True
+top_bottom30__S017 t5 NA distinction,True
+top_bottom30__S017 t5 LR sum reconciles network,True
+top_bottom30__S017 t10 strict eligibility,True
+top_bottom30__S017 t10 NA distinction,True
+top_bottom30__S017 t10 LR sum reconciles network,True
+top_bottom30__S017 t20 strict eligibility,True
+top_bottom30__S017 t20 NA distinction,True
+top_bottom30__S017 t20 LR sum reconciles network,True
+top_bottom30__S017 t30 strict eligibility,True
+top_bottom30__S017 t30 NA distinction,True
+top_bottom30__S017 t30 LR sum reconciles network,True
+global_tumor_median__S017 complete,True
+global_tumor_median__S017 t5 strict eligibility,True
+global_tumor_median__S017 t5 NA distinction,True
+global_tumor_median__S017 t5 LR sum reconciles network,True
+global_tumor_median__S017 t10 strict eligibility,True
+global_tumor_median__S017 t10 NA distinction,True
+global_tumor_median__S017 t10 LR sum reconciles network,True
+global_tumor_median__S017 t20 strict eligibility,True
+global_tumor_median__S017 t20 NA distinction,True
+global_tumor_median__S017 t20 LR sum reconciles network,True
+global_tumor_median__S017 t30 strict eligibility,True
+global_tumor_median__S017 t30 NA distinction,True
+global_tumor_median__S017 t30 LR sum reconciles network,True
+within_median__S018 complete,True
+within_median__S018 t5 strict eligibility,True
+within_median__S018 t5 NA distinction,True
+within_median__S018 t5 LR sum reconciles network,True
+within_median__S018 t10 strict eligibility,True
+within_median__S018 t10 NA distinction,True
+within_median__S018 t10 LR sum reconciles network,True
+within_median__S018 t20 strict eligibility,True
+within_median__S018 t20 NA distinction,True
+within_median__S018 t20 LR sum reconciles network,True
+within_median__S018 t30 strict eligibility,True
+within_median__S018 t30 NA distinction,True
+within_median__S018 t30 LR sum reconciles network,True
+exclude_median_ties__S018 complete,True
+exclude_median_ties__S018 t5 strict eligibility,True
+exclude_median_ties__S018 t5 NA distinction,True
+exclude_median_ties__S018 t5 LR sum reconciles network,True
+exclude_median_ties__S018 t10 strict eligibility,True
+exclude_median_ties__S018 t10 NA distinction,True
+exclude_median_ties__S018 t10 LR sum reconciles network,True
+exclude_median_ties__S018 t20 strict eligibility,True
+exclude_median_ties__S018 t20 NA distinction,True
+exclude_median_ties__S018 t20 LR sum reconciles network,True
+exclude_median_ties__S018 t30 strict eligibility,True
+exclude_median_ties__S018 t30 NA distinction,True
+exclude_median_ties__S018 t30 LR sum reconciles network,True
+top_bottom30__S018 complete,True
+top_bottom30__S018 t5 strict eligibility,True
+top_bottom30__S018 t5 NA distinction,True
+top_bottom30__S018 t5 LR sum reconciles network,True
+top_bottom30__S018 t10 strict eligibility,True
+top_bottom30__S018 t10 NA distinction,True
+top_bottom30__S018 t10 LR sum reconciles network,True
+top_bottom30__S018 t20 strict eligibility,True
+top_bottom30__S018 t20 NA distinction,True
+top_bottom30__S018 t20 LR sum reconciles network,True
+top_bottom30__S018 t30 strict eligibility,True
+top_bottom30__S018 t30 NA distinction,True
+top_bottom30__S018 t30 LR sum reconciles network,True
+within_median__S019 complete,True
+within_median__S019 t5 strict eligibility,True
+within_median__S019 t5 NA distinction,True
+within_median__S019 t5 LR sum reconciles network,True
+within_median__S019 t10 strict eligibility,True
+within_median__S019 t10 NA distinction,True
+within_median__S019 t10 LR sum reconciles network,True
+within_median__S019 t20 strict eligibility,True
+within_median__S019 t20 NA distinction,True
+within_median__S019 t20 LR sum reconciles network,True
+within_median__S019 t30 strict eligibility,True
+within_median__S019 t30 NA distinction,True
+within_median__S019 t30 LR sum reconciles network,True
+exclude_median_ties__S019 complete,True
+exclude_median_ties__S019 t5 strict eligibility,True
+exclude_median_ties__S019 t5 NA distinction,True
+exclude_median_ties__S019 t5 LR sum reconciles network,True
+exclude_median_ties__S019 t10 strict eligibility,True
+exclude_median_ties__S019 t10 NA distinction,True
+exclude_median_ties__S019 t10 LR sum reconciles network,True
+exclude_median_ties__S019 t20 strict eligibility,True
+exclude_median_ties__S019 t20 NA distinction,True
+exclude_median_ties__S019 t20 LR sum reconciles network,True
+exclude_median_ties__S019 t30 strict eligibility,True
+exclude_median_ties__S019 t30 NA distinction,True
+exclude_median_ties__S019 t30 LR sum reconciles network,True
+top_bottom30__S019 complete,True
+top_bottom30__S019 t5 strict eligibility,True
+top_bottom30__S019 t5 NA distinction,True
+top_bottom30__S019 t5 LR sum reconciles network,True
+top_bottom30__S019 t10 strict eligibility,True
+top_bottom30__S019 t10 NA distinction,True
+top_bottom30__S019 t10 LR sum reconciles network,True
+top_bottom30__S019 t20 strict eligibility,True
+top_bottom30__S019 t20 NA distinction,True
+top_bottom30__S019 t20 LR sum reconciles network,True
+top_bottom30__S019 t30 strict eligibility,True
+top_bottom30__S019 t30 NA distinction,True
+top_bottom30__S019 t30 LR sum reconciles network,True
+global_tumor_median__S019 complete,True
+global_tumor_median__S019 t5 strict eligibility,True
+global_tumor_median__S019 t5 NA distinction,True
+global_tumor_median__S019 t5 LR sum reconciles network,True
+global_tumor_median__S019 t10 strict eligibility,True
+global_tumor_median__S019 t10 NA distinction,True
+global_tumor_median__S019 t10 LR sum reconciles network,True
+global_tumor_median__S019 t20 strict eligibility,True
+global_tumor_median__S019 t20 NA distinction,True
+global_tumor_median__S019 t20 LR sum reconciles network,True
+global_tumor_median__S019 t30 strict eligibility,True
+global_tumor_median__S019 t30 NA distinction,True
+global_tumor_median__S019 t30 LR sum reconciles network,True
+within_median__S020 complete,True
+within_median__S020 t5 strict eligibility,True
+within_median__S020 t5 NA distinction,True
+within_median__S020 t5 LR sum reconciles network,True
+within_median__S020 t10 strict eligibility,True
+within_median__S020 t10 NA distinction,True
+within_median__S020 t10 LR sum reconciles network,True
+within_median__S020 t20 strict eligibility,True
+within_median__S020 t20 NA distinction,True
+within_median__S020 t20 LR sum reconciles network,True
+within_median__S020 t30 strict eligibility,True
+within_median__S020 t30 NA distinction,True
+within_median__S020 t30 LR sum reconciles network,True
+exclude_median_ties__S020 complete,True
+exclude_median_ties__S020 t5 strict eligibility,True
+exclude_median_ties__S020 t5 NA distinction,True
+exclude_median_ties__S020 t5 LR sum reconciles network,True
+exclude_median_ties__S020 t10 strict eligibility,True
+exclude_median_ties__S020 t10 NA distinction,True
+exclude_median_ties__S020 t10 LR sum reconciles network,True
+exclude_median_ties__S020 t20 strict eligibility,True
+exclude_median_ties__S020 t20 NA distinction,True
+exclude_median_ties__S020 t20 LR sum reconciles network,True
+exclude_median_ties__S020 t30 strict eligibility,True
+exclude_median_ties__S020 t30 NA distinction,True
+exclude_median_ties__S020 t30 LR sum reconciles network,True
+within_median__S022 complete,True
+within_median__S022 t5 strict eligibility,True
+within_median__S022 t5 NA distinction,True
+within_median__S022 t5 LR sum reconciles network,True
+within_median__S022 t10 strict eligibility,True
+within_median__S022 t10 NA distinction,True
+within_median__S022 t10 LR sum reconciles network,True
+within_median__S022 t20 strict eligibility,True
+within_median__S022 t20 NA distinction,True
+within_median__S022 t20 LR sum reconciles network,True
+within_median__S022 t30 strict eligibility,True
+within_median__S022 t30 NA distinction,True
+within_median__S022 t30 LR sum reconciles network,True
+exclude_median_ties__S022 complete,True
+exclude_median_ties__S022 t5 strict eligibility,True
+exclude_median_ties__S022 t5 NA distinction,True
+exclude_median_ties__S022 t5 LR sum reconciles network,True
+exclude_median_ties__S022 t10 strict eligibility,True
+exclude_median_ties__S022 t10 NA distinction,True
+exclude_median_ties__S022 t10 LR sum reconciles network,True
+exclude_median_ties__S022 t20 strict eligibility,True
+exclude_median_ties__S022 t20 NA distinction,True
+exclude_median_ties__S022 t20 LR sum reconciles network,True
+exclude_median_ties__S022 t30 strict eligibility,True
+exclude_median_ties__S022 t30 NA distinction,True
+exclude_median_ties__S022 t30 LR sum reconciles network,True
+top_bottom30__S022 complete,True
+top_bottom30__S022 t5 strict eligibility,True
+top_bottom30__S022 t5 NA distinction,True
+top_bottom30__S022 t5 LR sum reconciles network,True
+top_bottom30__S022 t10 strict eligibility,True
+top_bottom30__S022 t10 NA distinction,True
+top_bottom30__S022 t10 LR sum reconciles network,True
+top_bottom30__S022 t20 strict eligibility,True
+top_bottom30__S022 t20 NA distinction,True
+top_bottom30__S022 t20 LR sum reconciles network,True
+top_bottom30__S022 t30 strict eligibility,True
+top_bottom30__S022 t30 NA distinction,True
+top_bottom30__S022 t30 LR sum reconciles network,True
+within_median__S023 complete,True
+within_median__S023 t5 strict eligibility,True
+within_median__S023 t5 NA distinction,True
+within_median__S023 t5 LR sum reconciles network,True
+within_median__S023 t10 strict eligibility,True
+within_median__S023 t10 NA distinction,True
+within_median__S023 t10 LR sum reconciles network,True
+within_median__S023 t20 strict eligibility,True
+within_median__S023 t20 NA distinction,True
+within_median__S023 t20 LR sum reconciles network,True
+within_median__S023 t30 strict eligibility,True
+within_median__S023 t30 NA distinction,True
+within_median__S023 t30 LR sum reconciles network,True
+exclude_median_ties__S023 complete,True
+exclude_median_ties__S023 t5 strict eligibility,True
+exclude_median_ties__S023 t5 NA distinction,True
+exclude_median_ties__S023 t5 LR sum reconciles network,True
+exclude_median_ties__S023 t10 strict eligibility,True
+exclude_median_ties__S023 t10 NA distinction,True
+exclude_median_ties__S023 t10 LR sum reconciles network,True
+exclude_median_ties__S023 t20 strict eligibility,True
+exclude_median_ties__S023 t20 NA distinction,True
+exclude_median_ties__S023 t20 LR sum reconciles network,True
+exclude_median_ties__S023 t30 strict eligibility,True
+exclude_median_ties__S023 t30 NA distinction,True
+exclude_median_ties__S023 t30 LR sum reconciles network,True
+top_bottom30__S023 complete,True
+top_bottom30__S023 t5 strict eligibility,True
+top_bottom30__S023 t5 NA distinction,True
+top_bottom30__S023 t5 LR sum reconciles network,True
+top_bottom30__S023 t10 strict eligibility,True
+top_bottom30__S023 t10 NA distinction,True
+top_bottom30__S023 t10 LR sum reconciles network,True
+top_bottom30__S023 t20 strict eligibility,True
+top_bottom30__S023 t20 NA distinction,True
+top_bottom30__S023 t20 LR sum reconciles network,True
+top_bottom30__S023 t30 strict eligibility,True
+top_bottom30__S023 t30 NA distinction,True
+top_bottom30__S023 t30 LR sum reconciles network,True
+global_tumor_median__S023 complete,True
+global_tumor_median__S023 t5 strict eligibility,True
+global_tumor_median__S023 t5 NA distinction,True
+global_tumor_median__S023 t5 LR sum reconciles network,True
+global_tumor_median__S023 t10 strict eligibility,True
+global_tumor_median__S023 t10 NA distinction,True
+global_tumor_median__S023 t10 LR sum reconciles network,True
+global_tumor_median__S023 t20 strict eligibility,True
+global_tumor_median__S023 t20 NA distinction,True
+global_tumor_median__S023 t20 LR sum reconciles network,True
+global_tumor_median__S023 t30 strict eligibility,True
+global_tumor_median__S023 t30 NA distinction,True
+global_tumor_median__S023 t30 LR sum reconciles network,True
+within_median__S029 complete,True
+within_median__S029 t5 strict eligibility,True
+within_median__S029 t5 NA distinction,True
+within_median__S029 t5 LR sum reconciles network,True
+within_median__S029 t10 strict eligibility,True
+within_median__S029 t10 NA distinction,True
+within_median__S029 t10 LR sum reconciles network,True
+within_median__S029 t20 strict eligibility,True
+within_median__S029 t20 NA distinction,True
+within_median__S029 t20 LR sum reconciles network,True
+within_median__S029 t30 strict eligibility,True
+within_median__S029 t30 NA distinction,True
+within_median__S029 t30 LR sum reconciles network,True
+exclude_median_ties__S029 complete,True
+exclude_median_ties__S029 t5 strict eligibility,True
+exclude_median_ties__S029 t5 NA distinction,True
+exclude_median_ties__S029 t5 LR sum reconciles network,True
+exclude_median_ties__S029 t10 strict eligibility,True
+exclude_median_ties__S029 t10 NA distinction,True
+exclude_median_ties__S029 t10 LR sum reconciles network,True
+exclude_median_ties__S029 t20 strict eligibility,True
+exclude_median_ties__S029 t20 NA distinction,True
+exclude_median_ties__S029 t20 LR sum reconciles network,True
+exclude_median_ties__S029 t30 strict eligibility,True
+exclude_median_ties__S029 t30 NA distinction,True
+exclude_median_ties__S029 t30 LR sum reconciles network,True
+top_bottom30__S029 complete,True
+top_bottom30__S029 t5 strict eligibility,True
+top_bottom30__S029 t5 NA distinction,True
+top_bottom30__S029 t5 LR sum reconciles network,True
+top_bottom30__S029 t10 strict eligibility,True
+top_bottom30__S029 t10 NA distinction,True
+top_bottom30__S029 t10 LR sum reconciles network,True
+top_bottom30__S029 t20 strict eligibility,True
+top_bottom30__S029 t20 NA distinction,True
+top_bottom30__S029 t20 LR sum reconciles network,True
+top_bottom30__S029 t30 strict eligibility,True
+top_bottom30__S029 t30 NA distinction,True
+top_bottom30__S029 t30 LR sum reconciles network,True
+within_median__S047 complete,True
+within_median__S047 t5 strict eligibility,True
+within_median__S047 t5 NA distinction,True
+within_median__S047 t5 LR sum reconciles network,True
+within_median__S047 t10 strict eligibility,True
+within_median__S047 t10 NA distinction,True
+within_median__S047 t10 LR sum reconciles network,True
+within_median__S047 t20 strict eligibility,True
+within_median__S047 t20 NA distinction,True
+within_median__S047 t20 LR sum reconciles network,True
+within_median__S047 t30 strict eligibility,True
+within_median__S047 t30 NA distinction,True
+within_median__S047 t30 LR sum reconciles network,True
+exclude_median_ties__S047 complete,True
+exclude_median_ties__S047 t5 strict eligibility,True
+exclude_median_ties__S047 t5 NA distinction,True
+exclude_median_ties__S047 t5 LR sum reconciles network,True
+exclude_median_ties__S047 t10 strict eligibility,True
+exclude_median_ties__S047 t10 NA distinction,True
+exclude_median_ties__S047 t10 LR sum reconciles network,True
+exclude_median_ties__S047 t20 strict eligibility,True
+exclude_median_ties__S047 t20 NA distinction,True
+exclude_median_ties__S047 t20 LR sum reconciles network,True
+exclude_median_ties__S047 t30 strict eligibility,True
+exclude_median_ties__S047 t30 NA distinction,True
+exclude_median_ties__S047 t30 LR sum reconciles network,True
+top_bottom30__S047 complete,True
+top_bottom30__S047 t5 strict eligibility,True
+top_bottom30__S047 t5 NA distinction,True
+top_bottom30__S047 t5 LR sum reconciles network,True
+top_bottom30__S047 t10 strict eligibility,True
+top_bottom30__S047 t10 NA distinction,True
+top_bottom30__S047 t10 LR sum reconciles network,True
+top_bottom30__S047 t20 strict eligibility,True
+top_bottom30__S047 t20 NA distinction,True
+top_bottom30__S047 t20 LR sum reconciles network,True
+top_bottom30__S047 t30 strict eligibility,True
+top_bottom30__S047 t30 NA distinction,True
+top_bottom30__S047 t30 LR sum reconciles network,True
+global_tumor_median__S047 complete,True
+global_tumor_median__S047 t5 strict eligibility,True
+global_tumor_median__S047 t5 NA distinction,True
+global_tumor_median__S047 t5 LR sum reconciles network,True
+global_tumor_median__S047 t10 strict eligibility,True
+global_tumor_median__S047 t10 NA distinction,True
+global_tumor_median__S047 t10 LR sum reconciles network,True
+global_tumor_median__S047 t20 strict eligibility,True
+global_tumor_median__S047 t20 NA distinction,True
+global_tumor_median__S047 t20 LR sum reconciles network,True
+global_tumor_median__S047 t30 strict eligibility,True
+global_tumor_median__S047 t30 NA distinction,True
+global_tumor_median__S047 t30 LR sum reconciles network,True
+within_median__S048 complete,True
+within_median__S048 t5 strict eligibility,True
+within_median__S048 t5 NA distinction,True
+within_median__S048 t5 LR sum reconciles network,True
+within_median__S048 t10 strict eligibility,True
+within_median__S048 t10 NA distinction,True
+within_median__S048 t10 LR sum reconciles network,True
+within_median__S048 t20 strict eligibility,True
+within_median__S048 t20 NA distinction,True
+within_median__S048 t20 LR sum reconciles network,True
+within_median__S048 t30 strict eligibility,True
+within_median__S048 t30 NA distinction,True
+within_median__S048 t30 LR sum reconciles network,True
+exclude_median_ties__S048 complete,True
+exclude_median_ties__S048 t5 strict eligibility,True
+exclude_median_ties__S048 t5 NA distinction,True
+exclude_median_ties__S048 t5 LR sum reconciles network,True
+exclude_median_ties__S048 t10 strict eligibility,True
+exclude_median_ties__S048 t10 NA distinction,True
+exclude_median_ties__S048 t10 LR sum reconciles network,True
+exclude_median_ties__S048 t20 strict eligibility,True
+exclude_median_ties__S048 t20 NA distinction,True
+exclude_median_ties__S048 t20 LR sum reconciles network,True
+exclude_median_ties__S048 t30 strict eligibility,True
+exclude_median_ties__S048 t30 NA distinction,True
+exclude_median_ties__S048 t30 LR sum reconciles network,True
+top_bottom30__S048 complete,True
+top_bottom30__S048 t5 strict eligibility,True
+top_bottom30__S048 t5 NA distinction,True
+top_bottom30__S048 t5 LR sum reconciles network,True
+top_bottom30__S048 t10 strict eligibility,True
+top_bottom30__S048 t10 NA distinction,True
+top_bottom30__S048 t10 LR sum reconciles network,True
+top_bottom30__S048 t20 strict eligibility,True
+top_bottom30__S048 t20 NA distinction,True
+top_bottom30__S048 t20 LR sum reconciles network,True
+top_bottom30__S048 t30 strict eligibility,True
+top_bottom30__S048 t30 NA distinction,True
+top_bottom30__S048 t30 LR sum reconciles network,True
+within_median__S050 complete,True
+within_median__S050 t5 strict eligibility,True
+within_median__S050 t5 NA distinction,True
+within_median__S050 t5 LR sum reconciles network,True
+within_median__S050 t10 strict eligibility,True
+within_median__S050 t10 NA distinction,True
+within_median__S050 t10 LR sum reconciles network,True
+within_median__S050 t20 strict eligibility,True
+within_median__S050 t20 NA distinction,True
+within_median__S050 t20 LR sum reconciles network,True
+within_median__S050 t30 strict eligibility,True
+within_median__S050 t30 NA distinction,True
+within_median__S050 t30 LR sum reconciles network,True
+exclude_median_ties__S050 complete,True
+exclude_median_ties__S050 t5 strict eligibility,True
+exclude_median_ties__S050 t5 NA distinction,True
+exclude_median_ties__S050 t5 LR sum reconciles network,True
+exclude_median_ties__S050 t10 strict eligibility,True
+exclude_median_ties__S050 t10 NA distinction,True
+exclude_median_ties__S050 t10 LR sum reconciles network,True
+exclude_median_ties__S050 t20 strict eligibility,True
+exclude_median_ties__S050 t20 NA distinction,True
+exclude_median_ties__S050 t20 LR sum reconciles network,True
+exclude_median_ties__S050 t30 strict eligibility,True
+exclude_median_ties__S050 t30 NA distinction,True
+exclude_median_ties__S050 t30 LR sum reconciles network,True
+top_bottom30__S050 complete,True
+top_bottom30__S050 t5 strict eligibility,True
+top_bottom30__S050 t5 NA distinction,True
+top_bottom30__S050 t5 LR sum reconciles network,True
+top_bottom30__S050 t10 strict eligibility,True
+top_bottom30__S050 t10 NA distinction,True
+top_bottom30__S050 t10 LR sum reconciles network,True
+top_bottom30__S050 t20 strict eligibility,True
+top_bottom30__S050 t20 NA distinction,True
+top_bottom30__S050 t20 LR sum reconciles network,True
+top_bottom30__S050 t30 strict eligibility,True
+top_bottom30__S050 t30 NA distinction,True
+top_bottom30__S050 t30 LR sum reconciles network,True
+global_tumor_median__S050 complete,True
+global_tumor_median__S050 t5 strict eligibility,True
+global_tumor_median__S050 t5 NA distinction,True
+global_tumor_median__S050 t5 LR sum reconciles network,True
+global_tumor_median__S050 t10 strict eligibility,True
+global_tumor_median__S050 t10 NA distinction,True
+global_tumor_median__S050 t10 LR sum reconciles network,True
+global_tumor_median__S050 t20 strict eligibility,True
+global_tumor_median__S050 t20 NA distinction,True
+global_tumor_median__S050 t20 LR sum reconciles network,True
+global_tumor_median__S050 t30 strict eligibility,True
+global_tumor_median__S050 t30 NA distinction,True
+global_tumor_median__S050 t30 LR sum reconciles network,True
+within_median__S054 complete,True
+within_median__S054 t5 strict eligibility,True
+within_median__S054 t5 NA distinction,True
+within_median__S054 t5 LR sum reconciles network,True
+within_median__S054 t10 strict eligibility,True
+within_median__S054 t10 NA distinction,True
+within_median__S054 t10 LR sum reconciles network,True
+within_median__S054 t20 strict eligibility,True
+within_median__S054 t20 NA distinction,True
+within_median__S054 t20 LR sum reconciles network,True
+within_median__S054 t30 strict eligibility,True
+within_median__S054 t30 NA distinction,True
+within_median__S054 t30 LR sum reconciles network,True
+exclude_median_ties__S054 complete,True
+exclude_median_ties__S054 t5 strict eligibility,True
+exclude_median_ties__S054 t5 NA distinction,True
+exclude_median_ties__S054 t5 LR sum reconciles network,True
+exclude_median_ties__S054 t10 strict eligibility,True
+exclude_median_ties__S054 t10 NA distinction,True
+exclude_median_ties__S054 t10 LR sum reconciles network,True
+exclude_median_ties__S054 t20 strict eligibility,True
+exclude_median_ties__S054 t20 NA distinction,True
+exclude_median_ties__S054 t20 LR sum reconciles network,True
+exclude_median_ties__S054 t30 strict eligibility,True
+exclude_median_ties__S054 t30 NA distinction,True
+exclude_median_ties__S054 t30 LR sum reconciles network,True
+top_bottom30__S054 complete,True
+top_bottom30__S054 t5 strict eligibility,True
+top_bottom30__S054 t5 NA distinction,True
+top_bottom30__S054 t5 LR sum reconciles network,True
+top_bottom30__S054 t10 strict eligibility,True
+top_bottom30__S054 t10 NA distinction,True
+top_bottom30__S054 t10 LR sum reconciles network,True
+top_bottom30__S054 t20 strict eligibility,True
+top_bottom30__S054 t20 NA distinction,True
+top_bottom30__S054 t20 LR sum reconciles network,True
+top_bottom30__S054 t30 strict eligibility,True
+top_bottom30__S054 t30 NA distinction,True
+top_bottom30__S054 t30 LR sum reconciles network,True
+within_median__S056 complete,True
+within_median__S056 t5 strict eligibility,True
+within_median__S056 t5 NA distinction,True
+within_median__S056 t5 LR sum reconciles network,True
+within_median__S056 t10 strict eligibility,True
+within_median__S056 t10 NA distinction,True
+within_median__S056 t10 LR sum reconciles network,True
+within_median__S056 t20 strict eligibility,True
+within_median__S056 t20 NA distinction,True
+within_median__S056 t20 LR sum reconciles network,True
+within_median__S056 t30 strict eligibility,True
+within_median__S056 t30 NA distinction,True
+within_median__S056 t30 LR sum reconciles network,True
+exclude_median_ties__S056 complete,True
+exclude_median_ties__S056 t5 strict eligibility,True
+exclude_median_ties__S056 t5 NA distinction,True
+exclude_median_ties__S056 t5 LR sum reconciles network,True
+exclude_median_ties__S056 t10 strict eligibility,True
+exclude_median_ties__S056 t10 NA distinction,True
+exclude_median_ties__S056 t10 LR sum reconciles network,True
+exclude_median_ties__S056 t20 strict eligibility,True
+exclude_median_ties__S056 t20 NA distinction,True
+exclude_median_ties__S056 t20 LR sum reconciles network,True
+exclude_median_ties__S056 t30 strict eligibility,True
+exclude_median_ties__S056 t30 NA distinction,True
+exclude_median_ties__S056 t30 LR sum reconciles network,True
+top_bottom30__S056 complete,True
+top_bottom30__S056 t5 strict eligibility,True
+top_bottom30__S056 t5 NA distinction,True
+top_bottom30__S056 t5 LR sum reconciles network,True
+top_bottom30__S056 t10 strict eligibility,True
+top_bottom30__S056 t10 NA distinction,True
+top_bottom30__S056 t10 LR sum reconciles network,True
+top_bottom30__S056 t20 strict eligibility,True
+top_bottom30__S056 t20 NA distinction,True
+top_bottom30__S056 t20 LR sum reconciles network,True
+top_bottom30__S056 t30 strict eligibility,True
+top_bottom30__S056 t30 NA distinction,True
+top_bottom30__S056 t30 LR sum reconciles network,True
+global_tumor_median__S056 complete,True
+global_tumor_median__S056 t5 strict eligibility,True
+global_tumor_median__S056 t5 NA distinction,True
+global_tumor_median__S056 t5 LR sum reconciles network,True
+global_tumor_median__S056 t10 strict eligibility,True
+global_tumor_median__S056 t10 NA distinction,True
+global_tumor_median__S056 t10 LR sum reconciles network,True
+global_tumor_median__S056 t20 strict eligibility,True
+global_tumor_median__S056 t20 NA distinction,True
+global_tumor_median__S056 t20 LR sum reconciles network,True
+global_tumor_median__S056 t30 strict eligibility,True
+global_tumor_median__S056 t30 NA distinction,True
+global_tumor_median__S056 t30 LR sum reconciles network,True
+within_median__S057 complete,True
+within_median__S057 t5 strict eligibility,True
+within_median__S057 t5 NA distinction,True
+within_median__S057 t5 LR sum reconciles network,True
+within_median__S057 t10 strict eligibility,True
+within_median__S057 t10 NA distinction,True
+within_median__S057 t10 LR sum reconciles network,True
+within_median__S057 t20 strict eligibility,True
+within_median__S057 t20 NA distinction,True
+within_median__S057 t20 LR sum reconciles network,True
+within_median__S057 t30 strict eligibility,True
+within_median__S057 t30 NA distinction,True
+within_median__S057 t30 LR sum reconciles network,True
+exclude_median_ties__S057 complete,True
+exclude_median_ties__S057 t5 strict eligibility,True
+exclude_median_ties__S057 t5 NA distinction,True
+exclude_median_ties__S057 t5 LR sum reconciles network,True
+exclude_median_ties__S057 t10 strict eligibility,True
+exclude_median_ties__S057 t10 NA distinction,True
+exclude_median_ties__S057 t10 LR sum reconciles network,True
+exclude_median_ties__S057 t20 strict eligibility,True
+exclude_median_ties__S057 t20 NA distinction,True
+exclude_median_ties__S057 t20 LR sum reconciles network,True
+exclude_median_ties__S057 t30 strict eligibility,True
+exclude_median_ties__S057 t30 NA distinction,True
+exclude_median_ties__S057 t30 LR sum reconciles network,True
+top_bottom30__S057 complete,True
+top_bottom30__S057 t5 strict eligibility,True
+top_bottom30__S057 t5 NA distinction,True
+top_bottom30__S057 t5 LR sum reconciles network,True
+top_bottom30__S057 t10 strict eligibility,True
+top_bottom30__S057 t10 NA distinction,True
+top_bottom30__S057 t10 LR sum reconciles network,True
+top_bottom30__S057 t20 strict eligibility,True
+top_bottom30__S057 t20 NA distinction,True
+top_bottom30__S057 t20 LR sum reconciles network,True
+top_bottom30__S057 t30 strict eligibility,True
+top_bottom30__S057 t30 NA distinction,True
+top_bottom30__S057 t30 LR sum reconciles network,True
+within_median__S058 complete,True
+within_median__S058 t5 strict eligibility,True
+within_median__S058 t5 NA distinction,True
+within_median__S058 t5 LR sum reconciles network,True
+within_median__S058 t10 strict eligibility,True
+within_median__S058 t10 NA distinction,True
+within_median__S058 t10 LR sum reconciles network,True
+within_median__S058 t20 strict eligibility,True
+within_median__S058 t20 NA distinction,True
+within_median__S058 t20 LR sum reconciles network,True
+within_median__S058 t30 strict eligibility,True
+within_median__S058 t30 NA distinction,True
+within_median__S058 t30 LR sum reconciles network,True
+exclude_median_ties__S058 complete,True
+exclude_median_ties__S058 t5 strict eligibility,True
+exclude_median_ties__S058 t5 NA distinction,True
+exclude_median_ties__S058 t5 LR sum reconciles network,True
+exclude_median_ties__S058 t10 strict eligibility,True
+exclude_median_ties__S058 t10 NA distinction,True
+exclude_median_ties__S058 t10 LR sum reconciles network,True
+exclude_median_ties__S058 t20 strict eligibility,True
+exclude_median_ties__S058 t20 NA distinction,True
+exclude_median_ties__S058 t20 LR sum reconciles network,True
+exclude_median_ties__S058 t30 strict eligibility,True
+exclude_median_ties__S058 t30 NA distinction,True
+exclude_median_ties__S058 t30 LR sum reconciles network,True
+top_bottom30__S058 complete,True
+top_bottom30__S058 t5 strict eligibility,True
+top_bottom30__S058 t5 NA distinction,True
+top_bottom30__S058 t5 LR sum reconciles network,True
+top_bottom30__S058 t10 strict eligibility,True
+top_bottom30__S058 t10 NA distinction,True
+top_bottom30__S058 t10 LR sum reconciles network,True
+top_bottom30__S058 t20 strict eligibility,True
+top_bottom30__S058 t20 NA distinction,True
+top_bottom30__S058 t20 LR sum reconciles network,True
+top_bottom30__S058 t30 strict eligibility,True
+top_bottom30__S058 t30 NA distinction,True
+top_bottom30__S058 t30 LR sum reconciles network,True
+global_tumor_median__S058 complete,True
+global_tumor_median__S058 t5 strict eligibility,True
+global_tumor_median__S058 t5 NA distinction,True
+global_tumor_median__S058 t5 LR sum reconciles network,True
+global_tumor_median__S058 t10 strict eligibility,True
+global_tumor_median__S058 t10 NA distinction,True
+global_tumor_median__S058 t10 LR sum reconciles network,True
+global_tumor_median__S058 t20 strict eligibility,True
+global_tumor_median__S058 t20 NA distinction,True
+global_tumor_median__S058 t20 LR sum reconciles network,True
+global_tumor_median__S058 t30 strict eligibility,True
+global_tumor_median__S058 t30 NA distinction,True
+global_tumor_median__S058 t30 LR sum reconciles network,True
+within_median__S059 complete,True
+within_median__S059 t5 strict eligibility,True
+within_median__S059 t5 NA distinction,True
+within_median__S059 t5 LR sum reconciles network,True
+within_median__S059 t10 strict eligibility,True
+within_median__S059 t10 NA distinction,True
+within_median__S059 t10 LR sum reconciles network,True
+within_median__S059 t20 strict eligibility,True
+within_median__S059 t20 NA distinction,True
+within_median__S059 t20 LR sum reconciles network,True
+within_median__S059 t30 strict eligibility,True
+within_median__S059 t30 NA distinction,True
+within_median__S059 t30 LR sum reconciles network,True
+exclude_median_ties__S059 complete,True
+exclude_median_ties__S059 t5 strict eligibility,True
+exclude_median_ties__S059 t5 NA distinction,True
+exclude_median_ties__S059 t5 LR sum reconciles network,True
+exclude_median_ties__S059 t10 strict eligibility,True
+exclude_median_ties__S059 t10 NA distinction,True
+exclude_median_ties__S059 t10 LR sum reconciles network,True
+exclude_median_ties__S059 t20 strict eligibility,True
+exclude_median_ties__S059 t20 NA distinction,True
+exclude_median_ties__S059 t20 LR sum reconciles network,True
+exclude_median_ties__S059 t30 strict eligibility,True
+exclude_median_ties__S059 t30 NA distinction,True
+exclude_median_ties__S059 t30 LR sum reconciles network,True
+top_bottom30__S059 complete,True
+top_bottom30__S059 t5 strict eligibility,True
+top_bottom30__S059 t5 NA distinction,True
+top_bottom30__S059 t5 LR sum reconciles network,True
+top_bottom30__S059 t10 strict eligibility,True
+top_bottom30__S059 t10 NA distinction,True
+top_bottom30__S059 t10 LR sum reconciles network,True
+top_bottom30__S059 t20 strict eligibility,True
+top_bottom30__S059 t20 NA distinction,True
+top_bottom30__S059 t20 LR sum reconciles network,True
+top_bottom30__S059 t30 strict eligibility,True
+top_bottom30__S059 t30 NA distinction,True
+top_bottom30__S059 t30 LR sum reconciles network,True
+global_tumor_median__S059 complete,True
+global_tumor_median__S059 t5 strict eligibility,True
+global_tumor_median__S059 t5 NA distinction,True
+global_tumor_median__S059 t5 LR sum reconciles network,True
+global_tumor_median__S059 t10 strict eligibility,True
+global_tumor_median__S059 t10 NA distinction,True
+global_tumor_median__S059 t10 LR sum reconciles network,True
+global_tumor_median__S059 t20 strict eligibility,True
+global_tumor_median__S059 t20 NA distinction,True
+global_tumor_median__S059 t20 LR sum reconciles network,True
+global_tumor_median__S059 t30 strict eligibility,True
+global_tumor_median__S059 t30 NA distinction,True
+global_tumor_median__S059 t30 LR sum reconciles network,True
+within_median_t10_statistics.csv.gz small n withheld,True
+within_median_t10_statistics.csv.gz patient positivity bounded,True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'incoming', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'incoming', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'incoming', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'incoming', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'incoming', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'incoming', 'exclude:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'outgoing', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'outgoing', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'incoming', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'incoming', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'incoming', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'incoming', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'incoming', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'incoming', 'exclude:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'outgoing', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'outgoing', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'category', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'incoming', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'outgoing', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'incoming', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'incoming', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'incoming', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'incoming', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'incoming', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'incoming', 'exclude:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'outgoing', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'outgoing', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'network', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'incoming', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'incoming', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'outgoing', 'Normal')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t10_statistics.csv.gz BH ('within_median', np.int64(10), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+global_tumor_median_t5_statistics.csv.gz small n withheld,True
+global_tumor_median_t5_statistics.csv.gz patient positivity bounded,True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'category', 'outgoing', 'exclude:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'network', 'outgoing', 'exclude:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t5_statistics.csv.gz BH ('global_tumor_median', np.int64(5), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+top_bottom30_t30_statistics.csv.gz small n withheld,True
+top_bottom30_t30_statistics.csv.gz patient positivity bounded,True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'LR', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'LR', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'LR', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'category', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'category', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'category', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'category', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'network', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'network', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'network', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'network', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'pathway', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t30_statistics.csv.gz BH ('top_bottom30', np.int64(30), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+within_median_t20_statistics.csv.gz small n withheld,True
+within_median_t20_statistics.csv.gz patient positivity bounded,True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'incoming', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'incoming', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'incoming', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'incoming', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'incoming', 'exclude:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'outgoing', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'incoming', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'incoming', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'incoming', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'incoming', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'incoming', 'exclude:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'outgoing', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'category', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'incoming', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'incoming', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'incoming', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'incoming', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'incoming', 'exclude:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'outgoing', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'network', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'incoming', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t20_statistics.csv.gz BH ('within_median', np.int64(20), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+exclude_median_ties_t30_statistics.csv.gz small n withheld,True
+exclude_median_ties_t30_statistics.csv.gz patient positivity bounded,True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'category', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'network', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t30_statistics.csv.gz BH ('exclude_median_ties', np.int64(30), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+exclude_median_ties_t5_statistics.csv.gz small n withheld,True
+exclude_median_ties_t5_statistics.csv.gz patient positivity bounded,True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'incoming', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'incoming', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'incoming', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'outgoing', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'outgoing', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'outgoing', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'incoming', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'incoming', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'incoming', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'outgoing', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'outgoing', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'outgoing', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'category', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'incoming', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'incoming', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'incoming', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'outgoing', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'outgoing', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'outgoing', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'incoming', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'incoming', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'incoming', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'outgoing', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'outgoing', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'outgoing', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'network', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'incoming', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'incoming', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'incoming', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'outgoing', 'Normal')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'outgoing', 'dataset:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'outgoing', 'exclude:GSE135337')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t5_statistics.csv.gz BH ('exclude_median_ties', np.int64(5), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+exclude_median_ties_t10_statistics.csv.gz small n withheld,True
+exclude_median_ties_t10_statistics.csv.gz patient positivity bounded,True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'incoming', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'outgoing', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'incoming', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'outgoing', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'category', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'incoming', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'outgoing', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'incoming', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'outgoing', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'network', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'incoming', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'outgoing', 'Normal')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t10_statistics.csv.gz BH ('exclude_median_ties', np.int64(10), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+top_bottom30_t10_statistics.csv.gz small n withheld,True
+top_bottom30_t10_statistics.csv.gz patient positivity bounded,True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'category', 'outgoing', 'exclude:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'network', 'outgoing', 'exclude:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t10_statistics.csv.gz BH ('top_bottom30', np.int64(10), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+global_tumor_median_t10_statistics.csv.gz small n withheld,True
+global_tumor_median_t10_statistics.csv.gz patient positivity bounded,True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'category', 'outgoing', 'exclude:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'network', 'outgoing', 'exclude:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"global_tumor_median_t10_statistics.csv.gz BH ('global_tumor_median', np.int64(10), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+top_bottom30_t5_statistics.csv.gz small n withheld,True
+top_bottom30_t5_statistics.csv.gz patient positivity bounded,True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'incoming', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'incoming', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'incoming', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'outgoing', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'outgoing', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'outgoing', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'incoming', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'incoming', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'incoming', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'outgoing', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'outgoing', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'outgoing', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'category', 'outgoing', 'exclude:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'incoming', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'incoming', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'incoming', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'outgoing', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'outgoing', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'outgoing', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'incoming', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'incoming', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'incoming', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'outgoing', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'outgoing', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'outgoing', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'network', 'outgoing', 'exclude:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'incoming', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'incoming', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'incoming', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'outgoing', 'Normal')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'outgoing', 'dataset:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'outgoing', 'exclude:GSE135337')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"top_bottom30_t5_statistics.csv.gz BH ('top_bottom30', np.int64(5), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+exclude_median_ties_t20_statistics.csv.gz small n withheld,True
+exclude_median_ties_t20_statistics.csv.gz patient positivity bounded,True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'category', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'network', 'outgoing', 'exclude:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'incoming', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"exclude_median_ties_t20_statistics.csv.gz BH ('exclude_median_ties', np.int64(20), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+top_bottom30_t20_statistics.csv.gz small n withheld,True
+top_bottom30_t20_statistics.csv.gz patient positivity bounded,True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'LR', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'LR', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'LR', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'category', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'category', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'category', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'category', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'network', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'network', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'network', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'network', 'outgoing', 'dataset:InhouseData')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'pathway', 'incoming', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"top_bottom30_t20_statistics.csv.gz BH ('top_bottom30', np.int64(20), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+within_median_t30_statistics.csv.gz small n withheld,True
+within_median_t30_statistics.csv.gz patient positivity bounded,True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'incoming', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'incoming', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'incoming', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'incoming', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'incoming', 'exclude:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'outgoing', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'incoming', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'incoming', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'incoming', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'incoming', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'incoming', 'exclude:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'outgoing', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'category', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'incoming', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'incoming', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'incoming', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'incoming', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'incoming', 'exclude:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'outgoing', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'network', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'incoming', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t30_statistics.csv.gz BH ('within_median', np.int64(30), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+global_tumor_median_t20_statistics.csv.gz small n withheld,True
+global_tumor_median_t20_statistics.csv.gz patient positivity bounded,True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'LR', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'LR', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'LR', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'category', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'category', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'category', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'category', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'network', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'network', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'network', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'network', 'outgoing', 'dataset:InhouseData')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'pathway', 'incoming', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"global_tumor_median_t20_statistics.csv.gz BH ('global_tumor_median', np.int64(20), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+within_median_t5_statistics.csv.gz small n withheld,True
+within_median_t5_statistics.csv.gz patient positivity bounded,True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'incoming', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'incoming', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'incoming', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'incoming', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'incoming', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'incoming', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'incoming', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'incoming', 'exclude:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'outgoing', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'outgoing', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'outgoing', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'outgoing', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'LR', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'incoming', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'incoming', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'incoming', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'incoming', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'incoming', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'incoming', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'incoming', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'incoming', 'exclude:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'outgoing', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'outgoing', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'outgoing', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'outgoing', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'category', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'incoming', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'incoming', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'incoming', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'incoming', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'incoming', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'incoming', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'incoming', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'incoming', 'exclude:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'outgoing', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'outgoing', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'outgoing', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'outgoing', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'interaction_count', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'incoming', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'incoming', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'incoming', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'incoming', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'incoming', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'incoming', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'incoming', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'incoming', 'exclude:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'outgoing', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'outgoing', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'outgoing', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'outgoing', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'network', 'outgoing', 'exclude:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'incoming', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'incoming', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'incoming', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'incoming', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'incoming', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'incoming', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'incoming', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'incoming', 'exclude:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'outgoing', 'Normal')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'outgoing', 'Tumor_ALL')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'outgoing', 'dataset:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'outgoing', 'dataset:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'outgoing', 'dataset:InhouseData')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'outgoing', 'exclude:GSE135337')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'outgoing', 'exclude:GSE222315')",True
+"within_median_t5_statistics.csv.gz BH ('within_median', np.int64(5), 'pathway', 'outgoing', 'exclude:InhouseData')",True
+vector PDF CellChat_circle_high.pdf,True
+vector PDF CellChat_circle_high_legend_only.pdf,True
+vector PDF CellChat_circle_high_panel_only.pdf,True
+vector PDF CellChat_circle_low.pdf,True
+vector PDF CellChat_circle_low_legend_only.pdf,True
+vector PDF CellChat_circle_low_panel_only.pdf,True
+vector PDF LLPS_ligand_correlation_heatmap.pdf,True
+vector PDF LLPS_ligand_correlation_heatmap_legend_only.pdf,True
+vector PDF LLPS_ligand_correlation_heatmap_panel_only.pdf,True
+vector PDF LR_high_low_bubble.pdf,True
+vector PDF LR_high_low_bubble_legend_only.pdf,True
+vector PDF LR_high_low_bubble_panel_only.pdf,True
+vector PDF communication_difference_forest.pdf,True
+vector PDF communication_dual_triangle.pdf,True
+vector PDF communication_dual_triangle_legend_only.pdf,True
+vector PDF communication_dual_triangle_panel_only.pdf,True
+vector PDF integration_CellChat.pdf,True
+vector PDF integration_CellChat_legend_only.pdf,True
+vector PDF integration_CellChat_panel_only.pdf,True
+vector PDF integration_NicheNet_rank.pdf,True
+vector PDF integration_NicheNet_rank_legend_only.pdf,True
+vector PDF integration_NicheNet_rank_panel_only.pdf,True
+vector PDF integration_correlation.pdf,True
+vector PDF integration_correlation_legend_only.pdf,True
+vector PDF integration_correlation_panel_only.pdf,True
+vector PDF integration_expression.pdf,True
+vector PDF integration_expression_legend_only.pdf,True
+vector PDF integration_expression_panel_only.pdf,True
+vector PDF integration_spatial.pdf,True
+vector PDF integration_spatial_legend_only.pdf,True
+vector PDF integration_spatial_panel_only.pdf,True
+vector PDF ligand_ANGPTL4_cell_scatter.pdf,True
+vector PDF ligand_ANGPTL4_cell_scatter_legend_only.pdf,True
+vector PDF ligand_ANGPTL4_cell_scatter_panel_only.pdf,True
+vector PDF ligand_ANGPTL4_patient_scatter.pdf,True
+vector PDF ligand_ANGPTL4_patient_scatter_legend_only.pdf,True
+vector PDF ligand_ANGPTL4_patient_scatter_panel_only.pdf,True
+vector PDF ligand_COL1A2_cell_scatter.pdf,True
+vector PDF ligand_COL1A2_cell_scatter_legend_only.pdf,True
+vector PDF ligand_COL1A2_cell_scatter_panel_only.pdf,True
+vector PDF ligand_COL1A2_patient_scatter.pdf,True
+vector PDF ligand_COL1A2_patient_scatter_legend_only.pdf,True
+vector PDF ligand_COL1A2_patient_scatter_panel_only.pdf,True
+vector PDF ligand_FN1_cell_scatter.pdf,True
+vector PDF ligand_FN1_cell_scatter_legend_only.pdf,True
+vector PDF ligand_FN1_cell_scatter_panel_only.pdf,True
+vector PDF ligand_FN1_patient_scatter.pdf,True
+vector PDF ligand_FN1_patient_scatter_legend_only.pdf,True
+vector PDF ligand_FN1_patient_scatter_panel_only.pdf,True
+vector PDF ligand_HSPG2_cell_scatter.pdf,True
+vector PDF ligand_HSPG2_cell_scatter_legend_only.pdf,True
+vector PDF ligand_HSPG2_cell_scatter_panel_only.pdf,True
+vector PDF ligand_HSPG2_patient_scatter.pdf,True
+vector PDF ligand_HSPG2_patient_scatter_legend_only.pdf,True
+vector PDF ligand_HSPG2_patient_scatter_panel_only.pdf,True
+vector PDF ligand_INHBA_cell_scatter.pdf,True
+vector PDF ligand_INHBA_cell_scatter_legend_only.pdf,True
+vector PDF ligand_INHBA_cell_scatter_panel_only.pdf,True
+vector PDF ligand_INHBA_patient_scatter.pdf,True
+vector PDF ligand_INHBA_patient_scatter_legend_only.pdf,True
+vector PDF ligand_INHBA_patient_scatter_panel_only.pdf,True
+vector PDF ligand_POSTN_cell_scatter.pdf,True
+vector PDF ligand_POSTN_cell_scatter_legend_only.pdf,True
+vector PDF ligand_POSTN_cell_scatter_panel_only.pdf,True
+vector PDF ligand_POSTN_patient_scatter.pdf,True
+vector PDF ligand_POSTN_patient_scatter_legend_only.pdf,True
+vector PDF ligand_POSTN_patient_scatter_panel_only.pdf,True
+vector PDF ligand_TGFB1_cell_scatter.pdf,True
+vector PDF ligand_TGFB1_cell_scatter_legend_only.pdf,True
+vector PDF ligand_TGFB1_cell_scatter_panel_only.pdf,True
+vector PDF ligand_TGFB1_patient_scatter.pdf,True
+vector PDF ligand_TGFB1_patient_scatter_legend_only.pdf,True
+vector PDF ligand_TGFB1_patient_scatter_panel_only.pdf,True
+vector PDF multi_evidence_integration.pdf,True
+vector PDF multi_evidence_integration_legend_only.pdf,True
+vector PDF multi_evidence_integration_panel_only.pdf,True
+vector PDF pathway_high_low_heatmap.pdf,True
+vector PDF pathway_high_low_heatmap_legend_only.pdf,True
+vector PDF pathway_high_low_heatmap_panel_only.pdf,True
+vector PDF technical_covariate_paired_QC.pdf,True
+vector PDF technical_covariate_paired_QC_legend_only.pdf,True
+vector PDF technical_covariate_paired_QC_panel_only.pdf,True
+PNG300 CellChat_circle_high.png,True
+plot data CellChat_circle_high.png,True
+PNG300 CellChat_circle_low.png,True
+plot data CellChat_circle_low.png,True
+PNG300 LLPS_ligand_correlation_heatmap.png,True
+plot data LLPS_ligand_correlation_heatmap.png,True
+PNG300 LR_high_low_bubble.png,True
+plot data LR_high_low_bubble.png,True
+PNG300 communication_difference_forest.png,True
+plot data communication_difference_forest.png,True
+PNG300 communication_dual_triangle.png,True
+plot data communication_dual_triangle.png,True
+PNG300 integration_CellChat.png,True
+plot data integration_CellChat.png,True
+PNG300 integration_NicheNet_rank.png,True
+plot data integration_NicheNet_rank.png,True
+PNG300 integration_correlation.png,True
+plot data integration_correlation.png,True
+PNG300 integration_expression.png,True
+plot data integration_expression.png,True
+PNG300 integration_spatial.png,True
+plot data integration_spatial.png,True
+PNG300 ligand_ANGPTL4_cell_scatter.png,True
+plot data ligand_ANGPTL4_cell_scatter.png,True
+PNG300 ligand_ANGPTL4_patient_scatter.png,True
+plot data ligand_ANGPTL4_patient_scatter.png,True
+PNG300 ligand_COL1A2_cell_scatter.png,True
+plot data ligand_COL1A2_cell_scatter.png,True
+PNG300 ligand_COL1A2_patient_scatter.png,True
+plot data ligand_COL1A2_patient_scatter.png,True
+PNG300 ligand_FN1_cell_scatter.png,True
+plot data ligand_FN1_cell_scatter.png,True
+PNG300 ligand_FN1_patient_scatter.png,True
+plot data ligand_FN1_patient_scatter.png,True
+PNG300 ligand_HSPG2_cell_scatter.png,True
+plot data ligand_HSPG2_cell_scatter.png,True
+PNG300 ligand_HSPG2_patient_scatter.png,True
+plot data ligand_HSPG2_patient_scatter.png,True
+PNG300 ligand_INHBA_cell_scatter.png,True
+plot data ligand_INHBA_cell_scatter.png,True
+PNG300 ligand_INHBA_patient_scatter.png,True
+plot data ligand_INHBA_patient_scatter.png,True
+PNG300 ligand_POSTN_cell_scatter.png,True
+plot data ligand_POSTN_cell_scatter.png,True
+PNG300 ligand_POSTN_patient_scatter.png,True
+plot data ligand_POSTN_patient_scatter.png,True
+PNG300 ligand_TGFB1_cell_scatter.png,True
+plot data ligand_TGFB1_cell_scatter.png,True
+PNG300 ligand_TGFB1_patient_scatter.png,True
+plot data ligand_TGFB1_patient_scatter.png,True
+PNG300 multi_evidence_integration.png,True
+plot data multi_evidence_integration.png,True
+PNG300 pathway_high_low_heatmap.png,True
+plot data pathway_high_low_heatmap.png,True
+PNG300 technical_covariate_paired_QC.png,True
+plot data technical_covariate_paired_QC.png,True

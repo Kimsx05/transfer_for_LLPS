@@ -1,0 +1,2 @@
+The 'meta' data does not have a column named `samples`. We now add this column and all cells are assumed to belong to `sample1`! 
+

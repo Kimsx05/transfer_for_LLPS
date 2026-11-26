@@ -1,0 +1,10 @@
+Warning message:
+In .AUCell_buildRankings(exprMat = exprMat, featureType = featureType,  :
+  nCores is no longer used. It will be deprecated in the next AUCell version.
+           used  (Mb) gc trigger  (Mb) max used  (Mb)
+Ncells 10426084 556.9   17066127 911.5 15074895 805.1
+Vcells 25976014 198.2   85938720 655.7 89175655 680.4
+Error in `[.data.table`(all, , stat(value), by = .(gene, sensitivity,  : 
+  Column 3 of result for group 28 is type 'logical' but expecting type 'double'. Column types must be consistent for each group.
+Calls: [ -> [.data.table
+Execution halted

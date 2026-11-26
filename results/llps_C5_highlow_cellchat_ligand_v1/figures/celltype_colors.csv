@@ -1,0 +1,11 @@
+group,color
+"C5","#FF7F00"
+"Epithelial","#E59662"
+"Endothelial","#637BA8"
+"Myeloid","#B86F83"
+"T_NK","#805B9B"
+"B","#619DAE"
+"Plasma","#A3998C"
+"Mast","#AF8660"
+"Other_fibroblasts","#CAB2D6"
+"Pericyte","#6A3D9A"

@@ -1,0 +1,2 @@
+Pearson,max_absolute_difference,reason
+0.922861873999665,0.0527550721126258,"C5-only reconstruction uses fixed seed 123; original chunk-wise tied ranks used seed+chunk. LOO contrasts share reconstructed ranks; original score preserved for primary analysis."

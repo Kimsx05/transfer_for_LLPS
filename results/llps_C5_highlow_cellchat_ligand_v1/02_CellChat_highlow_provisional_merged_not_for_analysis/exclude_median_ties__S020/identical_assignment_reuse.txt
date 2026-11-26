@@ -1,0 +1,2 @@
+/home/jinshengxi/bladder_metabolism/results/llps_C5_highlow_cellchat_ligand_v1/02_CellChat_highlow/within_median__S020/unfiltered.rds
+Exact barcode/state labels and expression, seed, parameters identical. Threshold exports remain separate.

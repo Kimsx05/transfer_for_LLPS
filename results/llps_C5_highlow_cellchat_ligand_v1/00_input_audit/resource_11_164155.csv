@@ -1,0 +1,2 @@
+pid,affinity,OS_threads,DT_threads,future_workers,OMP,OPENBLAS
+11,"Cpus_allowed_list:	0","Threads:	2",1,1,"1","1"
