@@ -1,0 +1,9 @@
+patient_id,dataset,clinical_group,partner,direction,subgroup,strength
+"InhouseData::T4091568","InhouseData","MIBC","Epithelial","outgoing","C0",4.68277459900185
+"InhouseData::T4295396","InhouseData","MIBC","Epithelial","outgoing","C0",1.67662400194918
+"InhouseData::T4398343","InhouseData","MIBC","Epithelial","outgoing","C0",1.35661176460535
+"InhouseData::T8009218","InhouseData","MIBC","Epithelial","outgoing","C0",4.42819871152231
+"InhouseData::T4091568","InhouseData","MIBC","Epithelial","outgoing","C5",5.63418609037116
+"InhouseData::T4295396","InhouseData","MIBC","Epithelial","outgoing","C5",1.8832392186967
+"InhouseData::T4398343","InhouseData","MIBC","Epithelial","outgoing","C5",1.96318082933965
+"InhouseData::T8009218","InhouseData","MIBC","Epithelial","outgoing","C5",5.52826972231766

@@ -1,0 +1,11 @@
+patient_id,dataset,clinical_group,partner,direction,subgroup,strength
+"GSE222315::P8","GSE222315","NMIBC","Endothelial","outgoing","C0",3.14727207025964
+"InhouseData::T4091568","InhouseData","MIBC","Endothelial","outgoing","C0",2.7547607840884
+"InhouseData::T4398343","InhouseData","MIBC","Endothelial","outgoing","C0",4.55264198702573
+"InhouseData::T4466585","InhouseData","MIBC","Endothelial","outgoing","C0",2.79603847007611
+"InhouseData::T8009218","InhouseData","MIBC","Endothelial","outgoing","C0",3.58588961352667
+"GSE222315::P8","GSE222315","NMIBC","Endothelial","outgoing","C5",3.4294640567513
+"InhouseData::T4091568","InhouseData","MIBC","Endothelial","outgoing","C5",3.19670596384413
+"InhouseData::T4398343","InhouseData","MIBC","Endothelial","outgoing","C5",5.69462176651494
+"InhouseData::T4466585","InhouseData","MIBC","Endothelial","outgoing","C5",2.91778511044981
+"InhouseData::T8009218","InhouseData","MIBC","Endothelial","outgoing","C5",4.39896097477527

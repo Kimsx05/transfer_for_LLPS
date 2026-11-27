@@ -1,0 +1,11 @@
+source,program,ligands,targets,missing_prior
+"standard","HALLMARK_ANGIOGENESIS",246,20,0
+"standard","HALLMARK_TGF_BETA_SIGNALING",246,47,0
+"standard","GOBP_BLOOD_VESSEL_REMODELING",246,21,0
+"nominal","Set_A",246,28,0
+"nominal","Set_A_noECM",246,27,0
+"nominal","Set_B",246,123,0
+"nominal","Set_B_noECM",246,122,0
+"nominal","Set_C",246,302,0
+"nominal","Set_C_noECM",246,301,0
+"nominal","EMT",246,98,0

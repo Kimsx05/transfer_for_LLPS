@@ -1,0 +1,25 @@
+FIGURE  C5_outgoing_pathway_top15 
+FIGURE  C5_incoming_pathway_top15 
+FIGURE  C5_Endothelial_pathway_candidate 
+FIGURE  C5_Endothelial_pathway_compact 
+FIGURE  C5_Endothelial_pathway_full_page1 
+FIGURE  C5_Endothelial_pathway_full_page2 
+FIGURE  C5_Endothelial_pathway_full_page3 
+FIGURE  category_TME_absolute 
+FIGURE  category_TME_relative 
+FIGURE  category_Endothelial_absolute 
+FIGURE  category_Endothelial_relative 
+FIGURE  C5_outgoing_data_driven 
+FIGURE  C5_Endothelial_outgoing_data_driven 
+FIGURE  C5_outgoing_hypothesis 
+FIGURE  C5_Endothelial_outgoing_hypothesis 
+FIGURE  C5_incoming_data_driven 
+FIGURE  C5_Endothelial_incoming_data_driven 
+FIGURE  C5_incoming_hypothesis 
+FIGURE  C5_Endothelial_incoming_hypothesis 
+FIGURE  C5_Endothelial_bidirectional_hypothesis 
+FIGURE  Endothelial_LR_threshold_support 
+FIGURE  Endothelial_LR_dataset_patient_prevalence 
+FIGURE  Endothelial_LR_dataset_patient_condition_median 
+FIGURE  C5_threshold_coverage 
+PATHWAY LR COMPLETE

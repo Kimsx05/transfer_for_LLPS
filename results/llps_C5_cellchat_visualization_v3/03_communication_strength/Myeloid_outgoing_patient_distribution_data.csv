@@ -1,0 +1,14 @@
+patient_id,dataset,clinical_group,sender,receiver,eligible,weight,positive_specimens,eligible_specimens
+"GSE222315::P1","GSE222315","NMIBC","Fibro_C5","Myeloid",TRUE,2.80037095054095,1,1
+"GSE222315::P4","GSE222315","NMIBC","Fibro_C5","Myeloid",TRUE,3.76212002377834,1,1
+"GSE222315::P5","GSE222315","NMIBC","Fibro_C5","Myeloid",TRUE,2.49484066495171,1,1
+"GSE222315::P7","GSE222315","NMIBC","Fibro_C5","Myeloid",TRUE,0.359508898628543,1,1
+"GSE222315::P8","GSE222315","NMIBC","Fibro_C5","Myeloid",TRUE,3.63117594660995,1,1
+"InhouseData::T4091568","InhouseData","MIBC","Fibro_C5","Myeloid",TRUE,2.4193231609021,1,1
+"InhouseData::T4295396","InhouseData","MIBC","Fibro_C5","Myeloid",TRUE,3.38549670127061,1,1
+"InhouseData::T4398343","InhouseData","MIBC","Fibro_C5","Myeloid",TRUE,3.12028254744518,1,1
+"InhouseData::T4465219","InhouseData","MIBC","Fibro_C5","Myeloid",TRUE,2.12724540351538,1,1
+"InhouseData::T4466585","InhouseData","MIBC","Fibro_C5","Myeloid",TRUE,2.40005941466041,1,1
+"InhouseData::T4469479","InhouseData","MIBC","Fibro_C5","Myeloid",TRUE,1.60165812250386,1,1
+"InhouseData::T4471438","InhouseData","MIBC","Fibro_C5","Myeloid",TRUE,3.27059223696109,1,1
+"InhouseData::T8009218","InhouseData","MIBC","Fibro_C5","Myeloid",TRUE,4.80600341617988,1,1

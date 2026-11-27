@@ -1,0 +1,10 @@
+patient_id,dataset,clinical_group,sender,receiver,eligible,weight,positive_specimens,eligible_specimens
+"GSE222315::P5","GSE222315","NMIBC","Fibro_C5","Epithelial",TRUE,2.62340819953101,1,1
+"GSE222315::P7","GSE222315","NMIBC","Fibro_C5","Epithelial",TRUE,2.71020669885138,1,1
+"InhouseData::T4091568","InhouseData","MIBC","Fibro_C5","Epithelial",TRUE,5.63418609037116,1,1
+"InhouseData::T4295396","InhouseData","MIBC","Fibro_C5","Epithelial",TRUE,1.8832392186967,1,1
+"InhouseData::T4398343","InhouseData","MIBC","Fibro_C5","Epithelial",TRUE,1.96318082933965,1,1
+"InhouseData::T4465219","InhouseData","MIBC","Fibro_C5","Epithelial",TRUE,2.65254487447851,1,1
+"InhouseData::T4469479","InhouseData","MIBC","Fibro_C5","Epithelial",TRUE,3.06926940578124,1,1
+"InhouseData::T4471438","InhouseData","MIBC","Fibro_C5","Epithelial",TRUE,5.02546132374921,1,1
+"InhouseData::T8009218","InhouseData","MIBC","Fibro_C5","Epithelial",TRUE,5.52826972231766,1,1

@@ -1,0 +1,13 @@
+patient_id,dataset,clinical_group,sender,receiver,eligible,weight,positive_specimens,eligible_specimens
+"GSE222315::P1","GSE222315","NMIBC","T_NK","Fibro_C5",TRUE,0.224841098273182,1,1
+"GSE222315::P4","GSE222315","NMIBC","T_NK","Fibro_C5",TRUE,0.443227151759605,1,1
+"GSE222315::P5","GSE222315","NMIBC","T_NK","Fibro_C5",TRUE,0.182840097464752,1,1
+"GSE222315::P8","GSE222315","NMIBC","T_NK","Fibro_C5",TRUE,0.347585316315356,1,1
+"InhouseData::T4091568","InhouseData","MIBC","T_NK","Fibro_C5",TRUE,0.29516360097126,1,1
+"InhouseData::T4295396","InhouseData","MIBC","T_NK","Fibro_C5",TRUE,0.503858965939941,1,1
+"InhouseData::T4398343","InhouseData","MIBC","T_NK","Fibro_C5",TRUE,0.38504142449613,1,1
+"InhouseData::T4465219","InhouseData","MIBC","T_NK","Fibro_C5",TRUE,0.269934505947081,1,1
+"InhouseData::T4466585","InhouseData","MIBC","T_NK","Fibro_C5",TRUE,0.325714214566515,1,1
+"InhouseData::T4469479","InhouseData","MIBC","T_NK","Fibro_C5",TRUE,0.411700979007793,1,1
+"InhouseData::T4471438","InhouseData","MIBC","T_NK","Fibro_C5",TRUE,0.422417731913091,1,1
+"InhouseData::T8009218","InhouseData","MIBC","T_NK","Fibro_C5",TRUE,0.848850547095543,1,1

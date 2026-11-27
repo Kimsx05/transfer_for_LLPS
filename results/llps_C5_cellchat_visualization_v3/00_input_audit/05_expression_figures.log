@@ -1,0 +1,22 @@
+FIGURE  ligand_dotplot_cell_level 
+FIGURE  receptor_dotplot_cell_level_page1 
+FIGURE  receptor_dotplot_cell_level_page2 
+FIGURE  ligand_dotplot_patient_balanced 
+FIGURE  receptor_dotplot_patient_balanced_page1 
+FIGURE  receptor_dotplot_patient_balanced_page2 
+FIGURE  ligand_POSTN_violin 
+FIGURE  ligand_FN1_violin 
+FIGURE  ligand_HSPG2_violin 
+FIGURE  ligand_SEMA3C_violin 
+FIGURE  ligand_MDK_violin 
+FIGURE  ligand_ADM_violin 
+FIGURE  ligand_POSTN_C5_C0_common_patients 
+FIGURE  ligand_FN1_C5_C0_common_patients 
+FIGURE  ligand_HSPG2_C5_C0_common_patients 
+FIGURE  ligand_SEMA3C_C5_C0_common_patients 
+FIGURE  ligand_MDK_C5_C0_common_patients 
+FIGURE  ligand_ADM_C5_C0_common_patients 
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+FIGURE  C5_common_patient_expression_specificity 
+EXPRESSION FIGURES COMPLETE

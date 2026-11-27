@@ -1,0 +1,9 @@
+sender,receiver,direction,partner,category,median_strength,mean_fraction,n_patients,n_fraction_patients,edge
+"Endothelial","Fibro_C5","incoming","Endothelial","Cell-Cell Contact",0.316947461199302,0.159947722503661,12,12,"Endothelial | incoming"
+"Endothelial","Fibro_C5","incoming","Endothelial","ECM-Receptor",1.47027919326673,0.655317453828959,12,12,"Endothelial | incoming"
+"Endothelial","Fibro_C5","incoming","Endothelial","Non-protein Signaling",0.00937849079449989,0.00503313286199081,12,12,"Endothelial | incoming"
+"Endothelial","Fibro_C5","incoming","Endothelial","Secreted Signaling",0.350461443826994,0.179701690805389,12,12,"Endothelial | incoming"
+"Fibro_C5","Endothelial","outgoing","Endothelial","Cell-Cell Contact",0.372980119679411,0.0898414931602486,12,12,"Endothelial | outgoing"
+"Fibro_C5","Endothelial","outgoing","Endothelial","ECM-Receptor",2.80551819924431,0.749226828171461,12,12,"Endothelial | outgoing"
+"Fibro_C5","Endothelial","outgoing","Endothelial","Non-protein Signaling",0.00021409836523763,0.000313669747637543,12,12,"Endothelial | outgoing"
+"Fibro_C5","Endothelial","outgoing","Endothelial","Secreted Signaling",0.63674963542041,0.160618008920654,12,12,"Endothelial | outgoing"

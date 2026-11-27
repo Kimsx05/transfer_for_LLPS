@@ -1,0 +1,13 @@
+patient_id,dataset,clinical_group,partner,direction,subgroup,strength
+"GSE222315::P8","GSE222315","NMIBC","Myeloid","incoming","C0",0.77614216218327
+"InhouseData::T4091568","InhouseData","MIBC","Myeloid","incoming","C0",0.580743940926963
+"InhouseData::T4295396","InhouseData","MIBC","Myeloid","incoming","C0",0.714523736375458
+"InhouseData::T4398343","InhouseData","MIBC","Myeloid","incoming","C0",0.345262799269481
+"InhouseData::T4466585","InhouseData","MIBC","Myeloid","incoming","C0",0.420097572126771
+"InhouseData::T8009218","InhouseData","MIBC","Myeloid","incoming","C0",0.834912097956688
+"GSE222315::P8","GSE222315","NMIBC","Myeloid","incoming","C5",0.91671606285696
+"InhouseData::T4091568","InhouseData","MIBC","Myeloid","incoming","C5",0.542182665864557
+"InhouseData::T4295396","InhouseData","MIBC","Myeloid","incoming","C5",0.731173753344243
+"InhouseData::T4398343","InhouseData","MIBC","Myeloid","incoming","C5",0.527295239361449
+"InhouseData::T4466585","InhouseData","MIBC","Myeloid","incoming","C5",0.426634179929494
+"InhouseData::T8009218","InhouseData","MIBC","Myeloid","incoming","C5",1.61542736957264

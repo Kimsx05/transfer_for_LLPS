@@ -1,0 +1,8 @@
+fibro,partner,direction,strength,n,xx,yy
+"Fibro_C5","B","outgoing",2.36983964673791,11,5,1
+"Fibro_C5","Endothelial","outgoing",3.57650730636812,12,2,1
+"Fibro_C5","Epithelial","outgoing",2.71020669885138,9,1,1
+"Fibro_C5","Mast","outgoing",3.09216470524186,9,7,1
+"Fibro_C5","Myeloid","outgoing",2.80037095054095,13,3,1
+"Fibro_C5","Plasma","outgoing",1.25848796610068,9,6,1
+"Fibro_C5","T_NK","outgoing",3.23088552017491,12,4,1

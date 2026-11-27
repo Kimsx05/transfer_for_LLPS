@@ -1,0 +1,8 @@
+parameter,value
+"seed","123"
+"main_threshold","20"
+"main_condition","Tumor"
+"threads","1"
+"inference_rerun","NO"
+"patient_rule","median within patient x clinical_group, original v2"
+"positive_rule","any eligible specimen positive, original v2"

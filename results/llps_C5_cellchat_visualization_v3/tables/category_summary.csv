@@ -1,0 +1,105 @@
+sender,receiver,direction,partner,category,median_strength,mean_fraction,n_patients,n_fraction_patients
+"B","Fibro_C5","incoming","B","Cell-Cell Contact",0.0478592214715778,0.211535169016999,11,11
+"B","Fibro_C5","incoming","B","ECM-Receptor",0.0630879413918734,0.189872097367972,11,11
+"B","Fibro_C5","incoming","B","Non-protein Signaling",0.00916405720397418,0.0296017629800951,11,11
+"B","Fibro_C5","incoming","B","Secreted Signaling",0.145102250834977,0.568990970634934,11,11
+"Endothelial","Fibro_C5","incoming","Endothelial","Cell-Cell Contact",0.316947461199302,0.159947722503661,12,12
+"Endothelial","Fibro_C5","incoming","Endothelial","ECM-Receptor",1.47027919326673,0.655317453828959,12,12
+"Endothelial","Fibro_C5","incoming","Endothelial","Non-protein Signaling",0.00937849079449989,0.00503313286199081,12,12
+"Endothelial","Fibro_C5","incoming","Endothelial","Secreted Signaling",0.350461443826994,0.179701690805389,12,12
+"Epithelial","Fibro_C5","incoming","Epithelial","Cell-Cell Contact",0.0841083934997907,0.12223753035779,9,9
+"Epithelial","Fibro_C5","incoming","Epithelial","ECM-Receptor",0.293455088255785,0.280985325237448,9,9
+"Epithelial","Fibro_C5","incoming","Epithelial","Non-protein Signaling",0.0287229297968598,0.0331641269423911,9,9
+"Epithelial","Fibro_C5","incoming","Epithelial","Secreted Signaling",0.440957906264852,0.563613017462371,9,9
+"Fibro_C0","Fibro_C5","incoming","Fibro_C0","Cell-Cell Contact",0.291491848685657,0.0652713441507734,6,6
+"Fibro_C0","Fibro_C5","incoming","Fibro_C0","ECM-Receptor",3.76461013169242,0.795219016702151,6,6
+"Fibro_C0","Fibro_C5","incoming","Fibro_C0","Non-protein Signaling",0.0198854148458415,0.00511589163891411,6,6
+"Fibro_C0","Fibro_C5","incoming","Fibro_C0","Secreted Signaling",0.591849024151842,0.134393747508161,6,6
+"Fibro_C1","Fibro_C5","incoming","Fibro_C1","Cell-Cell Contact",0.261132922538083,0.0657257400457971,12,12
+"Fibro_C1","Fibro_C5","incoming","Fibro_C1","ECM-Receptor",3.93049437654764,0.836391767272122,12,12
+"Fibro_C1","Fibro_C5","incoming","Fibro_C1","Non-protein Signaling",0.00907149343277641,0.00276796817575849,12,12
+"Fibro_C1","Fibro_C5","incoming","Fibro_C1","Secreted Signaling",0.368703334581375,0.0951145245063224,12,12
+"Fibro_C2","Fibro_C5","incoming","Fibro_C2","Cell-Cell Contact",0.145561835474519,0.0491767156266924,9,9
+"Fibro_C2","Fibro_C5","incoming","Fibro_C2","ECM-Receptor",2.24686138405219,0.841793919477849,9,9
+"Fibro_C2","Fibro_C5","incoming","Fibro_C2","Non-protein Signaling",0.00725732915435853,0.00238465058489782,9,9
+"Fibro_C2","Fibro_C5","incoming","Fibro_C2","Secreted Signaling",0.343927220649735,0.106644714310561,9,9
+"Fibro_C3","Fibro_C5","incoming","Fibro_C3","Cell-Cell Contact",0.208586122890831,0.0713369547663732,8,8
+"Fibro_C3","Fibro_C5","incoming","Fibro_C3","ECM-Receptor",2.74767651288183,0.818572362696195,8,8
+"Fibro_C3","Fibro_C5","incoming","Fibro_C3","Non-protein Signaling",0.00783288169200612,0.00277275535698251,8,8
+"Fibro_C3","Fibro_C5","incoming","Fibro_C3","Secreted Signaling",0.330319812320096,0.107317927180449,8,8
+"Fibro_C4","Fibro_C5","incoming","Fibro_C4","Cell-Cell Contact",0.258568690309775,0.0412433985329592,5,5
+"Fibro_C4","Fibro_C5","incoming","Fibro_C4","ECM-Receptor",3.17444597458933,0.846238623547866,5,5
+"Fibro_C4","Fibro_C5","incoming","Fibro_C4","Non-protein Signaling",0.0219107235248783,0.00664352268293955,5,5
+"Fibro_C4","Fibro_C5","incoming","Fibro_C4","Secreted Signaling",0.599241332057289,0.105874455236235,5,5
+"Fibro_C5","B","outgoing","B","Cell-Cell Contact",0.324831334052768,0.134554298639376,11,11
+"Fibro_C5","B","outgoing","B","ECM-Receptor",1.57258929792615,0.629162726023446,11,11
+"Fibro_C5","B","outgoing","B","Non-protein Signaling",8.3188334572169e-05,9.18630862251464e-05,11,11
+"Fibro_C5","B","outgoing","B","Secreted Signaling",0.522991322793485,0.236191112250952,11,11
+"Fibro_C5","Endothelial","outgoing","Endothelial","Cell-Cell Contact",0.372980119679411,0.0898414931602486,12,12
+"Fibro_C5","Endothelial","outgoing","Endothelial","ECM-Receptor",2.80551819924431,0.749226828171461,12,12
+"Fibro_C5","Endothelial","outgoing","Endothelial","Non-protein Signaling",0.00021409836523763,0.000313669747637543,12,12
+"Fibro_C5","Endothelial","outgoing","Endothelial","Secreted Signaling",0.63674963542041,0.160618008920654,12,12
+"Fibro_C5","Epithelial","outgoing","Epithelial","Cell-Cell Contact",0.218493913763459,0.0716819860453873,9,9
+"Fibro_C5","Epithelial","outgoing","Epithelial","ECM-Receptor",2.47096613630957,0.846481595392861,9,9
+"Fibro_C5","Epithelial","outgoing","Epithelial","Non-protein Signaling",0.00141923201320709,0.00109431189993348,9,9
+"Fibro_C5","Epithelial","outgoing","Epithelial","Secreted Signaling",0.283578323059249,0.0807421066618179,9,9
+"Fibro_C5","Fibro_C0","outgoing","Fibro_C0","Cell-Cell Contact",0.240840825930248,0.0626138643619091,6,6
+"Fibro_C5","Fibro_C0","outgoing","Fibro_C0","ECM-Receptor",3.08665749594782,0.775103357640684,6,6
+"Fibro_C5","Fibro_C0","outgoing","Fibro_C0","Non-protein Signaling",0.0239809832586743,0.00584455336018149,6,6
+"Fibro_C5","Fibro_C0","outgoing","Fibro_C0","Secreted Signaling",0.608766717378094,0.156438224637225,6,6
+"Fibro_C5","Fibro_C1","outgoing","Fibro_C1","Cell-Cell Contact",0.316167791934425,0.0691639920012301,12,12
+"Fibro_C5","Fibro_C1","outgoing","Fibro_C1","ECM-Receptor",3.70676014545826,0.816356244268201,12,12
+"Fibro_C5","Fibro_C1","outgoing","Fibro_C1","Non-protein Signaling",0.00627576370142415,0.00306288392706139,12,12
+"Fibro_C5","Fibro_C1","outgoing","Fibro_C1","Secreted Signaling",0.478771716519721,0.111416879803508,12,12
+"Fibro_C5","Fibro_C2","outgoing","Fibro_C2","Cell-Cell Contact",0.160012962346302,0.0879256836354827,9,9
+"Fibro_C5","Fibro_C2","outgoing","Fibro_C2","ECM-Receptor",1.27219816459175,0.77074544375755,9,9
+"Fibro_C5","Fibro_C2","outgoing","Fibro_C2","Non-protein Signaling",0.000435849599540562,0.00170795711717489,9,9
+"Fibro_C5","Fibro_C2","outgoing","Fibro_C2","Secreted Signaling",0.237109120008762,0.139620915489792,9,9
+"Fibro_C5","Fibro_C3","outgoing","Fibro_C3","Cell-Cell Contact",0.287828331218724,0.0634411284845587,8,8
+"Fibro_C5","Fibro_C3","outgoing","Fibro_C3","ECM-Receptor",3.50610959764291,0.815803773496484,8,8
+"Fibro_C5","Fibro_C3","outgoing","Fibro_C3","Non-protein Signaling",0.000895991994608204,0.00105574826323004,8,8
+"Fibro_C5","Fibro_C3","outgoing","Fibro_C3","Secreted Signaling",0.533444233542714,0.119699349755728,8,8
+"Fibro_C5","Fibro_C4","outgoing","Fibro_C4","Cell-Cell Contact",0.289792890051179,0.0386320264202508,5,5
+"Fibro_C5","Fibro_C4","outgoing","Fibro_C4","ECM-Receptor",4.00790053019603,0.865579595157224,5,5
+"Fibro_C5","Fibro_C4","outgoing","Fibro_C4","Non-protein Signaling",0.012100863491705,0.00386458954826649,5,5
+"Fibro_C5","Fibro_C4","outgoing","Fibro_C4","Secreted Signaling",0.575783833971964,0.0919237888742587,5,5
+"Fibro_C5","Fibro_C6","outgoing","Fibro_C6","Cell-Cell Contact",0.424103809148671,0.0776222143231253,4,4
+"Fibro_C5","Fibro_C6","outgoing","Fibro_C6","ECM-Receptor",3.96168177795286,0.790714431052467,4,4
+"Fibro_C5","Fibro_C6","outgoing","Fibro_C6","Non-protein Signaling",0.00248837749954928,0.00119195976175806,4,4
+"Fibro_C5","Fibro_C6","outgoing","Fibro_C6","Secreted Signaling",0.596625748109937,0.13047139486265,4,4
+"Fibro_C5","Mast","outgoing","Mast","Cell-Cell Contact",0.332192027532888,0.103501744430594,9,9
+"Fibro_C5","Mast","outgoing","Mast","ECM-Receptor",2.47781764990736,0.809152227152211,9,9
+"Fibro_C5","Mast","outgoing","Mast","Non-protein Signaling",6.07345957094336e-05,0.000377593008251208,9,9
+"Fibro_C5","Mast","outgoing","Mast","Secreted Signaling",0.273577757553317,0.0869684354089445,9,9
+"Fibro_C5","Myeloid","outgoing","Myeloid","Cell-Cell Contact",0.571234251124956,0.239671324691939,13,13
+"Fibro_C5","Myeloid","outgoing","Myeloid","ECM-Receptor",1.86816944968502,0.555342002759703,13,13
+"Fibro_C5","Myeloid","outgoing","Myeloid","Non-protein Signaling",0.00179741164235724,0.00156450213429767,13,13
+"Fibro_C5","Myeloid","outgoing","Myeloid","Secreted Signaling",0.604312361627111,0.20342217041406,13,13
+"Fibro_C5","Plasma","outgoing","Plasma","Cell-Cell Contact",0.0894283106493565,0.0997113944542465,9,9
+"Fibro_C5","Plasma","outgoing","Plasma","ECM-Receptor",1.01849424813595,0.818794545963798,9,9
+"Fibro_C5","Plasma","outgoing","Plasma","Non-protein Signaling",0,0.00027537879863999,9,9
+"Fibro_C5","Plasma","outgoing","Plasma","Secreted Signaling",0.0966284360404021,0.0812186807833161,9,9
+"Fibro_C5","T_NK","outgoing","T_NK","Cell-Cell Contact",0.474243400469544,0.208273762459306,12,12
+"Fibro_C5","T_NK","outgoing","T_NK","ECM-Receptor",1.96001661393663,0.651207796739869,12,12
+"Fibro_C5","T_NK","outgoing","T_NK","Non-protein Signaling",0.00966816350907536,0.00482082920377237,12,12
+"Fibro_C5","T_NK","outgoing","T_NK","Secreted Signaling",0.4399793025918,0.135697611597053,12,12
+"Fibro_C6","Fibro_C5","incoming","Fibro_C6","Cell-Cell Contact",0.347929976794432,0.0722143579251954,4,4
+"Fibro_C6","Fibro_C5","incoming","Fibro_C6","ECM-Receptor",3.70662741694719,0.792927729704999,4,4
+"Fibro_C6","Fibro_C5","incoming","Fibro_C6","Non-protein Signaling",0.00876252463221199,0.00308571498100158,4,4
+"Fibro_C6","Fibro_C5","incoming","Fibro_C6","Secreted Signaling",0.561189303775357,0.131772197388804,4,4
+"Mast","Fibro_C5","incoming","Mast","Cell-Cell Contact",0.105924959949785,0.283795929180205,9,9
+"Mast","Fibro_C5","incoming","Mast","ECM-Receptor",0.0238549543151992,0.106755814754838,9,9
+"Mast","Fibro_C5","incoming","Mast","Non-protein Signaling",0.0235532632639146,0.0958943996815226,9,9
+"Mast","Fibro_C5","incoming","Mast","Secreted Signaling",0.255599538783755,0.513553856383435,9,9
+"Myeloid","Fibro_C5","incoming","Myeloid","Cell-Cell Contact",0.0541398005104244,0.128083563872729,13,13
+"Myeloid","Fibro_C5","incoming","Myeloid","ECM-Receptor",0.0355535920833515,0.0833445347890715,13,13
+"Myeloid","Fibro_C5","incoming","Myeloid","Non-protein Signaling",0.0409503649248058,0.0664198624975959,13,13
+"Myeloid","Fibro_C5","incoming","Myeloid","Secreted Signaling",0.35844229672221,0.722152038840604,13,13
+"Plasma","Fibro_C5","incoming","Plasma","Cell-Cell Contact",0.0231022416822686,0.261859368349793,9,9
+"Plasma","Fibro_C5","incoming","Plasma","ECM-Receptor",0.033724823859164,0.289729181690935,9,9
+"Plasma","Fibro_C5","incoming","Plasma","Non-protein Signaling",0.0056874150434001,0.0464429584643662,9,9
+"Plasma","Fibro_C5","incoming","Plasma","Secreted Signaling",0.0658593850280666,0.401968491494906,9,9
+"T_NK","Fibro_C5","incoming","T_NK","Cell-Cell Contact",0.117161098575056,0.298247324764291,12,12
+"T_NK","Fibro_C5","incoming","T_NK","ECM-Receptor",0,0.0524056437220342,12,12
+"T_NK","Fibro_C5","incoming","T_NK","Non-protein Signaling",0.0102578091705576,0.0323815134882207,12,12
+"T_NK","Fibro_C5","incoming","T_NK","Secreted Signaling",0.213907504144717,0.616965518025454,12,12

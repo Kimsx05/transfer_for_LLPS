@@ -1,0 +1,221 @@
+gene,metric,r
+"POSTN","Cell Pearson
+(descriptive)",0.392173167904581
+"INHBA","Cell Pearson
+(descriptive)",0.277808249849181
+"ANGPTL4","Cell Pearson
+(descriptive)",0.147833015372687
+"IGF2","Cell Pearson
+(descriptive)",-0.220330733530889
+"TGFB1","Cell Pearson
+(descriptive)",0.0751760645677381
+"TGFB2","Cell Pearson
+(descriptive)",0.0344292196290964
+"FN1","Cell Pearson
+(descriptive)",0.546213843040046
+"COL1A1","Cell Pearson
+(descriptive)",0.416921582812987
+"COL1A2","Cell Pearson
+(descriptive)",0.407910859054529
+"COL3A1","Cell Pearson
+(descriptive)",0.376552462060846
+"MDK","Cell Pearson
+(descriptive)",-0.041022847914599
+"ADM","Cell Pearson
+(descriptive)",0.0231148899612876
+"WNT2","Cell Pearson
+(descriptive)",0.1039058274726
+"WNT4","Cell Pearson
+(descriptive)",-0.0848612294261471
+"WNT5A","Cell Pearson
+(descriptive)",-0.223861519872929
+"SEMA3C","Cell Pearson
+(descriptive)",0.192560047547533
+"VEGFA","Cell Pearson
+(descriptive)",0.162710544749614
+"FGF1","Cell Pearson
+(descriptive)",0.00401418891474034
+"FGF2","Cell Pearson
+(descriptive)",0.0573854452552037
+"HSPG2","Cell Pearson
+(descriptive)",0.42767628309055
+"LAMA1","Cell Pearson
+(descriptive)",0.109107838452315
+"TNFSF12","Cell Pearson
+(descriptive)",-0.0080365422713961
+"POSTN","Cell Spearman
+(descriptive)",0.392778999633942
+"INHBA","Cell Spearman
+(descriptive)",0.298306471446965
+"ANGPTL4","Cell Spearman
+(descriptive)",0.175709052866168
+"IGF2","Cell Spearman
+(descriptive)",-0.20701313188273
+"TGFB1","Cell Spearman
+(descriptive)",0.118857162774075
+"TGFB2","Cell Spearman
+(descriptive)",0.0543914381407038
+"FN1","Cell Spearman
+(descriptive)",0.548870946291588
+"COL1A1","Cell Spearman
+(descriptive)",0.449452412541493
+"COL1A2","Cell Spearman
+(descriptive)",0.4251581139371
+"COL3A1","Cell Spearman
+(descriptive)",0.383554094247492
+"MDK","Cell Spearman
+(descriptive)",-0.0422192710724153
+"ADM","Cell Spearman
+(descriptive)",0.0661419235669898
+"WNT2","Cell Spearman
+(descriptive)",0.144276531219672
+"WNT4","Cell Spearman
+(descriptive)",-0.0580600897883793
+"WNT5A","Cell Spearman
+(descriptive)",-0.192609761615078
+"SEMA3C","Cell Spearman
+(descriptive)",0.272275082517129
+"VEGFA","Cell Spearman
+(descriptive)",0.221688232683292
+"FGF1","Cell Spearman
+(descriptive)",0.0626684945650572
+"FGF2","Cell Spearman
+(descriptive)",0.0808547268648675
+"HSPG2","Cell Spearman
+(descriptive)",0.440936604696317
+"LAMA1","Cell Spearman
+(descriptive)",0.14558713977193
+"TNFSF12","Cell Spearman
+(descriptive)",0.07920959961598
+"POSTN","Within-specimen adjusted
+(patient median)",0.164291630223143
+"INHBA","Within-specimen adjusted
+(patient median)",-0.0754382507016889
+"ANGPTL4","Within-specimen adjusted
+(patient median)",0.0234456963075439
+"IGF2","Within-specimen adjusted
+(patient median)",-0.0483752662209258
+"TGFB1","Within-specimen adjusted
+(patient median)",0.00966000434032935
+"TGFB2","Within-specimen adjusted
+(patient median)",0.0539361223994147
+"FN1","Within-specimen adjusted
+(patient median)",0.219444649275186
+"COL1A1","Within-specimen adjusted
+(patient median)",0.258456530871682
+"COL1A2","Within-specimen adjusted
+(patient median)",0.328745454922044
+"COL3A1","Within-specimen adjusted
+(patient median)",0.275161809501799
+"MDK","Within-specimen adjusted
+(patient median)",-0.0889806226272444
+"ADM","Within-specimen adjusted
+(patient median)",-0.0459891438882531
+"WNT2","Within-specimen adjusted
+(patient median)",0.0392267546344582
+"WNT4","Within-specimen adjusted
+(patient median)",-0.002139314348182
+"WNT5A","Within-specimen adjusted
+(patient median)",-0.0555301800043792
+"SEMA3C","Within-specimen adjusted
+(patient median)",0.218667306210474
+"VEGFA","Within-specimen adjusted
+(patient median)",-0.0401439081437318
+"FGF1","Within-specimen adjusted
+(patient median)",0.043291718229688
+"FGF2","Within-specimen adjusted
+(patient median)",0.00547138879537199
+"HSPG2","Within-specimen adjusted
+(patient median)",0.239606665810519
+"LAMA1","Within-specimen adjusted
+(patient median)",-0.111597818709563
+"TNFSF12","Within-specimen adjusted
+(patient median)",0.0115189113776616
+"POSTN","Patient Pearson",0.643725723864558
+"INHBA","Patient Pearson",0.214795217176972
+"ANGPTL4","Patient Pearson",0.359785011947901
+"IGF2","Patient Pearson",-0.324483929907739
+"TGFB1","Patient Pearson",0.196015041691841
+"TGFB2","Patient Pearson",-0.158935896631102
+"FN1","Patient Pearson",0.750128972443411
+"COL1A1","Patient Pearson",0.689158582401436
+"COL1A2","Patient Pearson",0.694796411306599
+"COL3A1","Patient Pearson",0.68551446470791
+"MDK","Patient Pearson",0.0590858497939388
+"ADM","Patient Pearson",0.162555125874265
+"WNT2","Patient Pearson",0.206431608669433
+"WNT4","Patient Pearson",-0.162170810878719
+"WNT5A","Patient Pearson",-0.504024146953345
+"SEMA3C","Patient Pearson",0.278216258705687
+"VEGFA","Patient Pearson",0.489372713521226
+"FGF1","Patient Pearson",-0.536364127420965
+"FGF2","Patient Pearson",0.373217582835547
+"HSPG2","Patient Pearson",0.792694499237393
+"LAMA1","Patient Pearson",0.737987386813827
+"TNFSF12","Patient Pearson",0.130757713094793
+"POSTN","Patient Spearman",0.710714285714286
+"INHBA","Patient Spearman",0.235714285714286
+"ANGPTL4","Patient Spearman",0.360059518889387
+"IGF2","Patient Spearman",-0.261271864181712
+"TGFB1","Patient Spearman",0.317857142857143
+"TGFB2","Patient Spearman",-0.2
+"FN1","Patient Spearman",0.75
+"COL1A1","Patient Spearman",0.767857142857143
+"COL1A2","Patient Spearman",0.725
+"COL3A1","Patient Spearman",0.742857142857143
+"MDK","Patient Spearman",0.0321428571428571
+"ADM","Patient Spearman",0.214285714285714
+"WNT2","Patient Spearman",0.210714285714286
+"WNT4","Patient Spearman",-0.0677630927178939
+"WNT5A","Patient Spearman",-0.414285714285714
+"SEMA3C","Patient Spearman",0.260714285714286
+"VEGFA","Patient Spearman",0.460714285714286
+"FGF1","Patient Spearman",-0.553571428571429
+"FGF2","Patient Spearman",0.279571688265735
+"HSPG2","Patient Spearman",0.867857142857143
+"LAMA1","Patient Spearman",0.672099347170887
+"TNFSF12","Patient Spearman",-0.0464285714285714
+"POSTN","Patient GSE222315",0.542857142857143
+"INHBA","Patient GSE222315",0.142857142857143
+"ANGPTL4","Patient GSE222315",0.608759587435071
+"IGF2","Patient GSE222315",-0.314285714285714
+"TGFB1","Patient GSE222315",0.771428571428571
+"TGFB2","Patient GSE222315",-0.371428571428571
+"FN1","Patient GSE222315",0.2
+"COL1A1","Patient GSE222315",0.828571428571429
+"COL1A2","Patient GSE222315",0.428571428571429
+"COL3A1","Patient GSE222315",0.257142857142857
+"MDK","Patient GSE222315",0.714285714285714
+"ADM","Patient GSE222315",-0.142857142857143
+"WNT2","Patient GSE222315",0.714285714285714
+"WNT4","Patient GSE222315",-0.144942758913112
+"WNT5A","Patient GSE222315",-0.828571428571429
+"SEMA3C","Patient GSE222315",-0.428571428571429
+"VEGFA","Patient GSE222315",0.6
+"FGF1","Patient GSE222315",-0.2
+"FGF2","Patient GSE222315",0.0869656553478673
+"HSPG2","Patient GSE222315",0.942857142857143
+"LAMA1","Patient GSE222315",0.550782483869826
+"TNFSF12","Patient GSE222315",0.314285714285714
+"POSTN","Patient InhouseData",0.904761904761905
+"INHBA","Patient InhouseData",-0.0476190476190476
+"ANGPTL4","Patient InhouseData",0.239525252382652
+"IGF2","Patient InhouseData",0.494662632196045
+"TGFB1","Patient InhouseData",0.523809523809524
+"TGFB2","Patient InhouseData",-0.833333333333334
+"FN1","Patient InhouseData",0.880952380952381
+"COL1A1","Patient InhouseData",0.928571428571429
+"COL1A2","Patient InhouseData",0.928571428571429
+"COL3A1","Patient InhouseData",0.904761904761905
+"MDK","Patient InhouseData",-0.0476190476190476
+"ADM","Patient InhouseData",0.333333333333333
+"WNT2","Patient InhouseData",0.142857142857143
+"WNT4","Patient InhouseData",-0.329775088130697
+"WNT5A","Patient InhouseData",-0.452380952380953
+"SEMA3C","Patient InhouseData",-0.0238095238095238
+"VEGFA","Patient InhouseData",0.404761904761905
+"FGF1","Patient InhouseData",-0.476190476190476
+"FGF2","Patient InhouseData",-0.30952380952381
+"HSPG2","Patient InhouseData",0.904761904761905
+"LAMA1","Patient InhouseData",0.595238095238095
+"TNFSF12","Patient InhouseData",-0.190476190476191

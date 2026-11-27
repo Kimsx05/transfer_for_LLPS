@@ -1,0 +1,13 @@
+patient_id,dataset,clinical_group,partner,direction,subgroup,strength
+"GSE222315::P8","GSE222315","NMIBC","T_NK","outgoing","C0",2.68634381619847
+"InhouseData::T4091568","InhouseData","MIBC","T_NK","outgoing","C0",2.02646757338598
+"InhouseData::T4295396","InhouseData","MIBC","T_NK","outgoing","C0",3.19769323156447
+"InhouseData::T4398343","InhouseData","MIBC","T_NK","outgoing","C0",1.86361227151874
+"InhouseData::T4466585","InhouseData","MIBC","T_NK","outgoing","C0",3.09222178450756
+"InhouseData::T8009218","InhouseData","MIBC","T_NK","outgoing","C0",2.66499376513142
+"GSE222315::P8","GSE222315","NMIBC","T_NK","outgoing","C5",2.76476904643635
+"InhouseData::T4091568","InhouseData","MIBC","T_NK","outgoing","C5",2.48521879750668
+"InhouseData::T4295396","InhouseData","MIBC","T_NK","outgoing","C5",3.45745199912713
+"InhouseData::T4398343","InhouseData","MIBC","T_NK","outgoing","C5",2.95478415038678
+"InhouseData::T4466585","InhouseData","MIBC","T_NK","outgoing","C5",3.31911374792007
+"InhouseData::T8009218","InhouseData","MIBC","T_NK","outgoing","C5",3.23020414494625

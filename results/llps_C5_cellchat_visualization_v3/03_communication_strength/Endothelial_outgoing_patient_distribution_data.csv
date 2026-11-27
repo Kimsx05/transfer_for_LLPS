@@ -1,0 +1,13 @@
+patient_id,dataset,clinical_group,sender,receiver,eligible,weight,positive_specimens,eligible_specimens
+"GSE222315::P1","GSE222315","NMIBC","Fibro_C5","Endothelial",TRUE,4.0328032391779,1,1
+"GSE222315::P4","GSE222315","NMIBC","Fibro_C5","Endothelial",TRUE,5.29005901251282,1,1
+"GSE222315::P5","GSE222315","NMIBC","Fibro_C5","Endothelial",TRUE,3.04432912021953,1,1
+"GSE222315::P7","GSE222315","NMIBC","Fibro_C5","Endothelial",TRUE,2.32621760990653,1,1
+"GSE222315::P8","GSE222315","NMIBC","Fibro_C5","Endothelial",TRUE,3.4294640567513,1,1
+"InhouseData::T4091568","InhouseData","MIBC","Fibro_C5","Endothelial",TRUE,3.19670596384413,1,1
+"InhouseData::T4398343","InhouseData","MIBC","Fibro_C5","Endothelial",TRUE,5.69462176651494,1,1
+"InhouseData::T4465219","InhouseData","MIBC","Fibro_C5","Endothelial",TRUE,3.48679331477515,1,1
+"InhouseData::T4466585","InhouseData","MIBC","Fibro_C5","Endothelial",TRUE,2.91778511044981,1,1
+"InhouseData::T4469479","InhouseData","MIBC","Fibro_C5","Endothelial",TRUE,3.66622129796109,1,1
+"InhouseData::T4471438","InhouseData","MIBC","Fibro_C5","Endothelial",TRUE,6.70721383528872,1,1
+"InhouseData::T8009218","InhouseData","MIBC","Fibro_C5","Endothelial",TRUE,4.39896097477527,1,1

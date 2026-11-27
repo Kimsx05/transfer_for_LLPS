@@ -1,0 +1,18 @@
+FIGURE  evidence_Expression_difference 
+FIGURE  evidence_Historical_DEG 
+FIGURE  evidence_Expression_level 
+FIGURE  evidence_Detection 
+FIGURE  evidence_CellChat_strength 
+FIGURE  evidence_Patient_support 
+FIGURE  evidence_Cohort_support 
+FIGURE  evidence_NicheNet_activity 
+FIGURE  evidence_NicheNet_rank 
+FIGURE  evidence_NicheNet_stability 
+FIGURE  evidence_Spatial 
+FIGURE  evidence_Exploratory_correlation 
+FIGURE  multi_evidence_complete_C5 
+FIGURE  multi_evidence_with_exploratory_LLPS 
+INTEGRATION COMPLETE
+Warning message:
+In melt.data.table(ev, id.vars = "gene", measure.vars = unlist(families),  :
+  'measure.vars' [C5_C0_difference, historical_C5_rest_logFC, C5_mean, C5_detection, ...] are not all of the same type. By order of hierarchy, the molten data value column will be of type 'double'. All measure variables not of type 'double' will be coerced too. Check DETAILS in ?melt.data.table for more on coercion.

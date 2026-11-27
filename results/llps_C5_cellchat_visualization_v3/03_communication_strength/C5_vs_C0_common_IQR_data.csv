@@ -1,0 +1,9 @@
+other,partner,direction,median_difference,q25,q75,n_patients,n_units,fraction_C5_greater,label
+"Fibro_C0","Epithelial","outgoing",0.778990278051805,0.506580602737605,0.98857637122582,4,4,1,"Epithelial (n=4)"
+"Fibro_C0","Epithelial","incoming",0.234427631695365,0.188570442627829,0.359592675250919,4,4,1,"Epithelial (n=4)"
+"Fibro_C0","Endothelial","outgoing",0.44194517975573,0.28219198649166,0.8130713612486,5,5,1,"Endothelial (n=5)"
+"Fibro_C0","Endothelial","incoming",0.21801994348254,0.09811317427122,0.60474500406621,5,5,0.8,"Endothelial (n=5)"
+"Fibro_C0","Myeloid","outgoing",0.46380101243669,0.276687807226515,0.566349527676213,6,6,1,"Myeloid (n=6)"
+"Fibro_C0","Myeloid","incoming",0.0786119588212375,0.00906496009423848,0.171667805237399,6,6,0.833333333333333,"Myeloid (n=6)"
+"Fibro_C0","T_NK","outgoing",0.35925499584168,0.235108664450048,0.538595590891298,6,6,1,"T/NK (n=6)"
+"Fibro_C0","T_NK","incoming",0.0617441916227605,0.00816765012594277,0.200111425753186,6,6,0.833333333333333,"T/NK (n=6)"
