@@ -1,0 +1,4 @@
+radius	n_unique_profiles	fraction_spots_in_profiles_with_at_least_30_copies	n_clusters	median_cluster_size	n_clusters_below_100_spots	fraction_spots_in_clusters_below_100
+1	3661	0.9383363144429099	353	122.0	156	0.0327129606569007
+2	34048	0.708624840567241	532	81.0	305	0.06143349861510479
+3	74576	0.5337620093433257	531	66.0	344	0.061773118693443825

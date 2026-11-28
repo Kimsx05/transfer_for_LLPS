@@ -1,0 +1,25 @@
+model	feature	positive_ids	negative_ids	adjusted_positive_ids	n_estimable_niches	n_niches
+R2_representative_niche	Endothelial_abundance__z		2;5	not evaluated	8	11
+R2_representative_niche	LLPS77_UCell__z	0;2	1;4;6;7	0	8	11
+R2_representative_niche	five_UCell__z	2	4;5;6		8	11
+R3_representative_niche	Endothelial_abundance__z	4	5;6;7	not evaluated	8	13
+R3_representative_niche	LLPS77_UCell__z	0;5	3;7	0	8	13
+R3_representative_niche	five_UCell__z	4			8	13
+kmeans_niche	Endothelial_abundance__z	1;3	0;4	not evaluated	5	5
+kmeans_niche	LLPS77_UCell__z	0;2	1;3;4	2;4	5	5
+kmeans_niche	five_UCell__z	0	1;4		5	5
+native_R1	Endothelial_abundance__z	0	205;44;82	not evaluated	96	230
+native_R1	LLPS77_UCell__z	2;43;48	0	not evaluated	96	230
+native_R1	five_UCell__z	48;80		not evaluated	96	230
+native_R2	Endothelial_abundance__z	0	293	not evaluated	99	308
+native_R2	LLPS77_UCell__z	1;217;255;7	0	not evaluated	99	308
+native_R2	five_UCell__z	217;7	0	not evaluated	99	308
+native_R3	Endothelial_abundance__z		18;309	not evaluated	71	263
+native_R3	LLPS77_UCell__z	1;60	0	not evaluated	71	263
+native_R3	five_UCell__z	1;24	0	not evaluated	71	263
+recommended_niche	Endothelial_abundance__z	2;6	0;5	not evaluated	8	9
+recommended_niche	LLPS77_UCell__z	0;1	2;5	1	8	9
+recommended_niche	five_UCell__z		2;5		8	9
+subtype_best_niche	Endothelial_abundance__z		4	not evaluated	9	16
+subtype_best_niche	LLPS77_UCell__z	0	3;6	0	9	16
+subtype_best_niche	five_UCell__z	2	3;6		9	16

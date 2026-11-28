@@ -1,0 +1,2107 @@
+niche	kind	scale	balance	celltype	fraction
+0	major	center	pooled	B	0.12230050563812256
+0	major	center	pooled	Endothelial	0.08935435116291046
+0	major	center	pooled	Epithelial	0.050844959914684296
+0	major	center	pooled	Fibroblast	0.16104528307914734
+0	major	center	pooled	Mast	0.020607301965355873
+0	major	center	pooled	Mural	0.05353168770670891
+0	major	center	pooled	Myeloid	0.16808758676052094
+0	major	center	pooled	Plasma	0.08328527212142944
+0	major	center	pooled	T_NK	0.25094303488731384
+1	major	center	pooled	B	0.06263507902622223
+1	major	center	pooled	Endothelial	0.09307853877544403
+1	major	center	pooled	Epithelial	0.09281272441148758
+1	major	center	pooled	Fibroblast	0.16276386380195618
+1	major	center	pooled	Mast	0.019375689327716827
+1	major	center	pooled	Mural	0.28758686780929565
+1	major	center	pooled	Myeloid	0.11247457563877106
+1	major	center	pooled	Plasma	0.023218287155032158
+1	major	center	pooled	T_NK	0.14605437219142914
+2	major	center	pooled	B	0.05417310446500778
+2	major	center	pooled	Endothelial	0.02821674384176731
+2	major	center	pooled	Epithelial	0.6915134787559509
+2	major	center	pooled	Fibroblast	0.031645022332668304
+2	major	center	pooled	Mast	0.01091211661696434
+2	major	center	pooled	Mural	0.014940505847334862
+2	major	center	pooled	Myeloid	0.08109664916992188
+2	major	center	pooled	Plasma	0.009792338125407696
+2	major	center	pooled	T_NK	0.07771006971597672
+3	major	center	pooled	B	0.21747572720050812
+3	major	center	pooled	Endothelial	0.02095135673880577
+3	major	center	pooled	Epithelial	0.515561580657959
+3	major	center	pooled	Fibroblast	0.010887060314416885
+3	major	center	pooled	Mast	0.016665490344166756
+3	major	center	pooled	Mural	0.0056452760472893715
+3	major	center	pooled	Myeloid	0.10731927305459976
+3	major	center	pooled	Plasma	0.026055019348859787
+3	major	center	pooled	T_NK	0.07943923026323318
+4	major	center	pooled	B	0.09103406220674515
+4	major	center	pooled	Endothelial	0.06521761417388916
+4	major	center	pooled	Epithelial	0.3327653706073761
+4	major	center	pooled	Fibroblast	0.0860174223780632
+4	major	center	pooled	Mast	0.0195000097155571
+4	major	center	pooled	Mural	0.029580356553196907
+4	major	center	pooled	Myeloid	0.1687537282705307
+4	major	center	pooled	Plasma	0.028906771913170815
+4	major	center	pooled	T_NK	0.17822465300559998
+5	major	center	pooled	B	0.056344691663980484
+5	major	center	pooled	Endothelial	0.025176014751195908
+5	major	center	pooled	Epithelial	0.05467614158987999
+5	major	center	pooled	Fibroblast	0.030776111409068108
+5	major	center	pooled	Mast	0.016267409548163414
+5	major	center	pooled	Mural	0.011014667339622974
+5	major	center	pooled	Myeloid	0.6737219095230103
+5	major	center	pooled	Plasma	0.006118396297097206
+5	major	center	pooled	T_NK	0.1259046494960785
+6	major	center	pooled	B	0.04901953414082527
+6	major	center	pooled	Endothelial	0.10806948691606522
+6	major	center	pooled	Epithelial	0.4405876696109772
+6	major	center	pooled	Fibroblast	0.12107932567596436
+6	major	center	pooled	Mast	0.017825139686465263
+6	major	center	pooled	Mural	0.027205418795347214
+6	major	center	pooled	Myeloid	0.14433136582374573
+6	major	center	pooled	Plasma	0.009917219169437885
+6	major	center	pooled	T_NK	0.08196482062339783
+7	major	center	pooled	B	0.02516919933259487
+7	major	center	pooled	Endothelial	0.04471640661358833
+7	major	center	pooled	Epithelial	0.0073783863335847855
+7	major	center	pooled	Fibroblast	0.10522565245628357
+7	major	center	pooled	Mast	0.008679516613483429
+7	major	center	pooled	Mural	0.7141767740249634
+7	major	center	pooled	Myeloid	0.03328542038798332
+7	major	center	pooled	Plasma	0.0033011864870786667
+7	major	center	pooled	T_NK	0.05806742236018181
+8	major	center	pooled	B	0.25752750039100647
+8	major	center	pooled	Endothelial	0.07919944077730179
+8	major	center	pooled	Epithelial	0.23539862036705017
+8	major	center	pooled	Fibroblast	0.030200006440281868
+8	major	center	pooled	Mast	0.02341502346098423
+8	major	center	pooled	Mural	0.01926526427268982
+8	major	center	pooled	Myeloid	0.1936720907688141
+8	major	center	pooled	Plasma	0.03920040652155876
+8	major	center	pooled	T_NK	0.1221216470003128
+0	major	center	section	B	0.11962578445672989
+0	major	center	section	Endothelial	0.08613532036542892
+0	major	center	section	Epithelial	0.06134144216775894
+0	major	center	section	Fibroblast	0.17134034633636475
+0	major	center	section	Mast	0.018528558313846588
+0	major	center	section	Mural	0.05168924853205681
+0	major	center	section	Myeloid	0.16658300161361694
+0	major	center	section	Plasma	0.06835062056779861
+0	major	center	section	T_NK	0.25640568137168884
+1	major	center	section	B	0.0618465431034565
+1	major	center	section	Endothelial	0.1038084477186203
+1	major	center	section	Epithelial	0.12342806160449982
+1	major	center	section	Fibroblast	0.16760574281215668
+1	major	center	section	Mast	0.015452833846211433
+1	major	center	section	Mural	0.2582954466342926
+1	major	center	section	Myeloid	0.10903065651655197
+1	major	center	section	Plasma	0.02741151675581932
+1	major	center	section	T_NK	0.13312074542045593
+2	major	center	section	B	0.06280258297920227
+2	major	center	section	Endothelial	0.02897358499467373
+2	major	center	section	Epithelial	0.6526886224746704
+2	major	center	section	Fibroblast	0.030439486727118492
+2	major	center	section	Mast	0.011664636433124542
+2	major	center	section	Mural	0.015834040939807892
+2	major	center	section	Myeloid	0.10156241059303284
+2	major	center	section	Plasma	0.01355451438575983
+2	major	center	section	T_NK	0.08248010277748108
+3	major	center	section	B	0.19451826810836792
+3	major	center	section	Endothelial	0.025081299245357513
+3	major	center	section	Epithelial	0.44432690739631653
+3	major	center	section	Fibroblast	0.018222488462924957
+3	major	center	section	Mast	0.013330652378499508
+3	major	center	section	Mural	0.009008718654513359
+3	major	center	section	Myeloid	0.13477253913879395
+3	major	center	section	Plasma	0.04674607142806053
+3	major	center	section	T_NK	0.11399304121732712
+4	major	center	section	B	0.09437568485736847
+4	major	center	section	Endothelial	0.0673971027135849
+4	major	center	section	Epithelial	0.30584391951560974
+4	major	center	section	Fibroblast	0.10642608255147934
+4	major	center	section	Mast	0.017162632197141647
+4	major	center	section	Mural	0.03469390422105789
+4	major	center	section	Myeloid	0.15820738673210144
+4	major	center	section	Plasma	0.03533054143190384
+4	major	center	section	T_NK	0.18056273460388184
+5	major	center	section	B	0.06682774424552917
+5	major	center	section	Endothelial	0.031573791056871414
+5	major	center	section	Epithelial	0.06471209973096848
+5	major	center	section	Fibroblast	0.03688651695847511
+5	major	center	section	Mast	0.015935136005282402
+5	major	center	section	Mural	0.01427988801151514
+5	major	center	section	Myeloid	0.6048576235771179
+5	major	center	section	Plasma	0.010064162313938141
+5	major	center	section	T_NK	0.15486307442188263
+6	major	center	section	B	0.05235171318054199
+6	major	center	section	Endothelial	0.11063146591186523
+6	major	center	section	Epithelial	0.41320350766181946
+6	major	center	section	Fibroblast	0.10837442427873611
+6	major	center	section	Mast	0.013449415564537048
+6	major	center	section	Mural	0.04611267149448395
+6	major	center	section	Myeloid	0.1305876225233078
+6	major	center	section	Plasma	0.02093357779085636
+6	major	center	section	T_NK	0.10435560345649719
+7	major	center	section	B	0.033313505351543427
+7	major	center	section	Endothelial	0.054806482046842575
+7	major	center	section	Epithelial	0.011148889549076557
+7	major	center	section	Fibroblast	0.09493278712034225
+7	major	center	section	Mast	0.01284141093492508
+7	major	center	section	Mural	0.6606952548027039
+7	major	center	section	Myeloid	0.04620881378650665
+7	major	center	section	Plasma	0.016708949580788612
+7	major	center	section	T_NK	0.06934387981891632
+8	major	center	section	B	0.23865854740142822
+8	major	center	section	Endothelial	0.057502176612615585
+8	major	center	section	Epithelial	0.24596115946769714
+8	major	center	section	Fibroblast	0.05415104702115059
+8	major	center	section	Mast	0.016820399090647697
+8	major	center	section	Mural	0.037285737693309784
+8	major	center	section	Myeloid	0.12973017990589142
+8	major	center	section	Plasma	0.038049209862947464
+8	major	center	section	T_NK	0.18184155225753784
+0	major	center	patient	B	0.11057533323764801
+0	major	center	patient	Endothelial	0.07668793946504593
+0	major	center	patient	Epithelial	0.0649094358086586
+0	major	center	patient	Fibroblast	0.16121409833431244
+0	major	center	patient	Mast	0.02083907276391983
+0	major	center	patient	Mural	0.04900825023651123
+0	major	center	patient	Myeloid	0.19076210260391235
+0	major	center	patient	Plasma	0.049321454018354416
+0	major	center	patient	T_NK	0.2766823172569275
+1	major	center	patient	B	0.06258850544691086
+1	major	center	patient	Endothelial	0.09210816770792007
+1	major	center	patient	Epithelial	0.11894479393959045
+1	major	center	patient	Fibroblast	0.17994394898414612
+1	major	center	patient	Mast	0.015929635614156723
+1	major	center	patient	Mural	0.25473788380622864
+1	major	center	patient	Myeloid	0.12131138145923615
+1	major	center	patient	Plasma	0.021824469789862633
+1	major	center	patient	T_NK	0.1326112300157547
+2	major	center	patient	B	0.07018811255693436
+2	major	center	patient	Endothelial	0.032124049961566925
+2	major	center	patient	Epithelial	0.6255459785461426
+2	major	center	patient	Fibroblast	0.029680881649255753
+2	major	center	patient	Mast	0.013580546714365482
+2	major	center	patient	Mural	0.01632465235888958
+2	major	center	patient	Myeloid	0.11405391246080399
+2	major	center	patient	Plasma	0.007314835209399462
+2	major	center	patient	T_NK	0.09118705987930298
+3	major	center	patient	B	0.1460408717393875
+3	major	center	patient	Endothelial	0.02674282155930996
+3	major	center	patient	Epithelial	0.4154755771160126
+3	major	center	patient	Fibroblast	0.020134272053837776
+3	major	center	patient	Mast	0.012179592624306679
+3	major	center	patient	Mural	0.007178683299571276
+3	major	center	patient	Myeloid	0.2493055909872055
+3	major	center	patient	Plasma	0.017314735800027847
+3	major	center	patient	T_NK	0.1056278720498085
+4	major	center	patient	B	0.08317958563566208
+4	major	center	patient	Endothelial	0.06921867281198502
+4	major	center	patient	Epithelial	0.3045385479927063
+4	major	center	patient	Fibroblast	0.10414762049913406
+4	major	center	patient	Mast	0.01815972849726677
+4	major	center	patient	Mural	0.036242567002773285
+4	major	center	patient	Myeloid	0.1742461770772934
+4	major	center	patient	Plasma	0.027836767956614494
+4	major	center	patient	T_NK	0.18243035674095154
+5	major	center	patient	B	0.06178221106529236
+5	major	center	patient	Endothelial	0.02934245392680168
+5	major	center	patient	Epithelial	0.05669012293219566
+5	major	center	patient	Fibroblast	0.03696088865399361
+5	major	center	patient	Mast	0.01730586588382721
+5	major	center	patient	Mural	0.014274685643613338
+5	major	center	patient	Myeloid	0.6267292499542236
+5	major	center	patient	Plasma	0.0064597660675644875
+5	major	center	patient	T_NK	0.15045475959777832
+6	major	center	patient	B	0.05536562204360962
+6	major	center	patient	Endothelial	0.10517216473817825
+6	major	center	patient	Epithelial	0.42642685770988464
+6	major	center	patient	Fibroblast	0.10686364769935608
+6	major	center	patient	Mast	0.015191374346613884
+6	major	center	patient	Mural	0.04415038600564003
+6	major	center	patient	Myeloid	0.13150280714035034
+6	major	center	patient	Plasma	0.011284288950264454
+6	major	center	patient	T_NK	0.10404283553361893
+7	major	center	patient	B	0.034359849989414215
+7	major	center	patient	Endothelial	0.0534297376871109
+7	major	center	patient	Epithelial	0.00757193099707365
+7	major	center	patient	Fibroblast	0.10755190253257751
+7	major	center	patient	Mast	0.014245186001062393
+7	major	center	patient	Mural	0.6431247591972351
+7	major	center	patient	Myeloid	0.051481593400239944
+7	major	center	patient	Plasma	0.014133685268461704
+7	major	center	patient	T_NK	0.07410132884979248
+8	major	center	patient	B	0.19113746285438538
+8	major	center	patient	Endothelial	0.08180686831474304
+8	major	center	patient	Epithelial	0.23538388311862946
+8	major	center	patient	Fibroblast	0.05513907968997955
+8	major	center	patient	Mast	0.01252177357673645
+8	major	center	patient	Mural	0.030097564682364464
+8	major	center	patient	Myeloid	0.18773281574249268
+8	major	center	patient	Plasma	0.010193566791713238
+8	major	center	patient	T_NK	0.19598700106143951
+0	major	neighborhood	pooled	B	0.1224529817700386
+0	major	neighborhood	pooled	Endothelial	0.0886271670460701
+0	major	neighborhood	pooled	Epithelial	0.05485003441572189
+0	major	neighborhood	pooled	Fibroblast	0.1591147929430008
+0	major	neighborhood	pooled	Mast	0.0204461719840765
+0	major	neighborhood	pooled	Mural	0.055095791816711426
+0	major	neighborhood	pooled	Myeloid	0.16823209822177887
+0	major	neighborhood	pooled	Plasma	0.08288930356502533
+0	major	neighborhood	pooled	T_NK	0.24829165637493134
+1	major	neighborhood	pooled	B	0.06386644393205643
+1	major	neighborhood	pooled	Endothelial	0.09180062264204025
+1	major	neighborhood	pooled	Epithelial	0.09662605822086334
+1	major	neighborhood	pooled	Fibroblast	0.161048024892807
+1	major	neighborhood	pooled	Mast	0.019277187064290047
+1	major	neighborhood	pooled	Mural	0.28357070684432983
+1	major	neighborhood	pooled	Myeloid	0.11217591166496277
+1	major	neighborhood	pooled	Plasma	0.02440142072737217
+1	major	neighborhood	pooled	T_NK	0.14723362028598785
+2	major	neighborhood	pooled	B	0.054187532514333725
+2	major	neighborhood	pooled	Endothelial	0.027719572186470032
+2	major	neighborhood	pooled	Epithelial	0.6985403895378113
+2	major	neighborhood	pooled	Fibroblast	0.030433397740125656
+2	major	neighborhood	pooled	Mast	0.01093401201069355
+2	major	neighborhood	pooled	Mural	0.014281625859439373
+2	major	neighborhood	pooled	Myeloid	0.08009057492017746
+2	major	neighborhood	pooled	Plasma	0.008879459463059902
+2	major	neighborhood	pooled	T_NK	0.07493341714143753
+3	major	neighborhood	pooled	B	0.21960514783859253
+3	major	neighborhood	pooled	Endothelial	0.018545733764767647
+3	major	neighborhood	pooled	Epithelial	0.5207810401916504
+3	major	neighborhood	pooled	Fibroblast	0.009989592246711254
+3	major	neighborhood	pooled	Mast	0.016858644783496857
+3	major	neighborhood	pooled	Mural	0.004844284150749445
+3	major	neighborhood	pooled	Myeloid	0.10570909827947617
+3	major	neighborhood	pooled	Plasma	0.026030316948890686
+3	major	neighborhood	pooled	T_NK	0.07763612270355225
+4	major	neighborhood	pooled	B	0.09111209213733673
+4	major	neighborhood	pooled	Endothelial	0.06432469934225082
+4	major	neighborhood	pooled	Epithelial	0.34709593653678894
+4	major	neighborhood	pooled	Fibroblast	0.08316616714000702
+4	major	neighborhood	pooled	Mast	0.0194481760263443
+4	major	neighborhood	pooled	Mural	0.02886311337351799
+4	major	neighborhood	pooled	Myeloid	0.16613613069057465
+4	major	neighborhood	pooled	Plasma	0.027293527498841286
+4	major	neighborhood	pooled	T_NK	0.17256014049053192
+5	major	neighborhood	pooled	B	0.055585138499736786
+5	major	neighborhood	pooled	Endothelial	0.026167994365096092
+5	major	neighborhood	pooled	Epithelial	0.061912454664707184
+5	major	neighborhood	pooled	Fibroblast	0.03190447762608528
+5	major	neighborhood	pooled	Mast	0.01610051468014717
+5	major	neighborhood	pooled	Mural	0.011707405559718609
+5	major	neighborhood	pooled	Myeloid	0.6658087372779846
+5	major	neighborhood	pooled	Plasma	0.006469078361988068
+5	major	neighborhood	pooled	T_NK	0.12434422224760056
+6	major	neighborhood	pooled	B	0.04913690313696861
+6	major	neighborhood	pooled	Endothelial	0.10766588896512985
+6	major	neighborhood	pooled	Epithelial	0.4491831660270691
+6	major	neighborhood	pooled	Fibroblast	0.12055850028991699
+6	major	neighborhood	pooled	Mast	0.017930597066879272
+6	major	neighborhood	pooled	Mural	0.02568269893527031
+6	major	neighborhood	pooled	Myeloid	0.14145489037036896
+6	major	neighborhood	pooled	Plasma	0.009667821228504181
+6	major	neighborhood	pooled	T_NK	0.07871955633163452
+7	major	neighborhood	pooled	B	0.026248812675476074
+7	major	neighborhood	pooled	Endothelial	0.045915499329566956
+7	major	neighborhood	pooled	Epithelial	0.0074160960502922535
+7	major	neighborhood	pooled	Fibroblast	0.10594309121370316
+7	major	neighborhood	pooled	Mast	0.008860180154442787
+7	major	neighborhood	pooled	Mural	0.7078717350959778
+7	major	neighborhood	pooled	Myeloid	0.03391100838780403
+7	major	neighborhood	pooled	Plasma	0.0036337468773126602
+7	major	neighborhood	pooled	T_NK	0.06019984185695648
+8	major	neighborhood	pooled	B	0.2617892920970917
+8	major	neighborhood	pooled	Endothelial	0.07244192808866501
+8	major	neighborhood	pooled	Epithelial	0.24558916687965393
+8	major	neighborhood	pooled	Fibroblast	0.026125764474272728
+8	major	neighborhood	pooled	Mast	0.024842558428645134
+8	major	neighborhood	pooled	Mural	0.014793198555707932
+8	major	neighborhood	pooled	Myeloid	0.19017332792282104
+8	major	neighborhood	pooled	Plasma	0.04082594811916351
+8	major	neighborhood	pooled	T_NK	0.12341882288455963
+0	major	neighborhood	section	B	0.12034719437360764
+0	major	neighborhood	section	Endothelial	0.08566900342702866
+0	major	neighborhood	section	Epithelial	0.07043714821338654
+0	major	neighborhood	section	Fibroblast	0.16697032749652863
+0	major	neighborhood	section	Mast	0.018157275393605232
+0	major	neighborhood	section	Mural	0.054109323769807816
+0	major	neighborhood	section	Myeloid	0.16462863981723785
+0	major	neighborhood	section	Plasma	0.0675358772277832
+0	major	neighborhood	section	T_NK	0.2521451711654663
+1	major	neighborhood	section	B	0.0645868182182312
+1	major	neighborhood	section	Endothelial	0.09815441817045212
+1	major	neighborhood	section	Epithelial	0.13837102055549622
+1	major	neighborhood	section	Fibroblast	0.16240748763084412
+1	major	neighborhood	section	Mast	0.015723561868071556
+1	major	neighborhood	section	Mural	0.2457660287618637
+1	major	neighborhood	section	Myeloid	0.1094730943441391
+1	major	neighborhood	section	Plasma	0.029229335486888885
+1	major	neighborhood	section	T_NK	0.13628822565078735
+2	major	neighborhood	section	B	0.06700936704874039
+2	major	neighborhood	section	Endothelial	0.029788034036755562
+2	major	neighborhood	section	Epithelial	0.6429694890975952
+2	major	neighborhood	section	Fibroblast	0.03240745887160301
+2	major	neighborhood	section	Mast	0.011977504938840866
+2	major	neighborhood	section	Mural	0.016717039048671722
+2	major	neighborhood	section	Myeloid	0.10145654529333115
+2	major	neighborhood	section	Plasma	0.01279815100133419
+2	major	neighborhood	section	T_NK	0.0848764106631279
+3	major	neighborhood	section	B	0.1775652915239334
+3	major	neighborhood	section	Endothelial	0.024949433282017708
+3	major	neighborhood	section	Epithelial	0.49736258387565613
+3	major	neighborhood	section	Fibroblast	0.020080039277672768
+3	major	neighborhood	section	Mast	0.013499102555215359
+3	major	neighborhood	section	Mural	0.009038889780640602
+3	major	neighborhood	section	Myeloid	0.11532830446958542
+3	major	neighborhood	section	Plasma	0.04191749542951584
+3	major	neighborhood	section	T_NK	0.10025889426469803
+4	major	neighborhood	section	B	0.09494167566299438
+4	major	neighborhood	section	Endothelial	0.06585460156202316
+4	major	neighborhood	section	Epithelial	0.3253864347934723
+4	major	neighborhood	section	Fibroblast	0.10040143877267838
+4	major	neighborhood	section	Mast	0.016982847824692726
+4	major	neighborhood	section	Mural	0.03444739431142807
+4	major	neighborhood	section	Myeloid	0.1553020477294922
+4	major	neighborhood	section	Plasma	0.03293697163462639
+4	major	neighborhood	section	T_NK	0.17374661564826965
+5	major	neighborhood	section	B	0.0672588050365448
+5	major	neighborhood	section	Endothelial	0.03199116885662079
+5	major	neighborhood	section	Epithelial	0.07165849953889847
+5	major	neighborhood	section	Fibroblast	0.039260417222976685
+5	major	neighborhood	section	Mast	0.01602349989116192
+5	major	neighborhood	section	Mural	0.015381856821477413
+5	major	neighborhood	section	Myeloid	0.5954826474189758
+5	major	neighborhood	section	Plasma	0.011366388760507107
+5	major	neighborhood	section	T_NK	0.1515766978263855
+6	major	neighborhood	section	B	0.05397829785943031
+6	major	neighborhood	section	Endothelial	0.1017775610089302
+6	major	neighborhood	section	Epithelial	0.44013673067092896
+6	major	neighborhood	section	Fibroblast	0.10193397104740143
+6	major	neighborhood	section	Mast	0.013889147900044918
+6	major	neighborhood	section	Mural	0.04183362051844597
+6	major	neighborhood	section	Myeloid	0.12816078960895538
+6	major	neighborhood	section	Plasma	0.018670301884412766
+6	major	neighborhood	section	T_NK	0.09961956739425659
+7	major	neighborhood	section	B	0.033667027950286865
+7	major	neighborhood	section	Endothelial	0.05689043179154396
+7	major	neighborhood	section	Epithelial	0.012749592773616314
+7	major	neighborhood	section	Fibroblast	0.10027428716421127
+7	major	neighborhood	section	Mast	0.012851905077695847
+7	major	neighborhood	section	Mural	0.6428101062774658
+7	major	neighborhood	section	Myeloid	0.04934883117675781
+7	major	neighborhood	section	Plasma	0.01802957057952881
+7	major	neighborhood	section	T_NK	0.07337825000286102
+8	major	neighborhood	section	B	0.2664150297641754
+8	major	neighborhood	section	Endothelial	0.05371391773223877
+8	major	neighborhood	section	Epithelial	0.2674587070941925
+8	major	neighborhood	section	Fibroblast	0.044115398079156876
+8	major	neighborhood	section	Mast	0.01628325693309307
+8	major	neighborhood	section	Mural	0.026060689240694046
+8	major	neighborhood	section	Myeloid	0.12545408308506012
+8	major	neighborhood	section	Plasma	0.030728096142411232
+8	major	neighborhood	section	T_NK	0.16977079212665558
+0	major	neighborhood	patient	B	0.11161260306835175
+0	major	neighborhood	patient	Endothelial	0.0776984691619873
+0	major	neighborhood	patient	Epithelial	0.07067028433084488
+0	major	neighborhood	patient	Fibroblast	0.16061393916606903
+0	major	neighborhood	patient	Mast	0.020626118406653404
+0	major	neighborhood	patient	Mural	0.05065084993839264
+0	major	neighborhood	patient	Myeloid	0.18957927823066711
+0	major	neighborhood	patient	Plasma	0.05011395364999771
+0	major	neighborhood	patient	T_NK	0.2684344947338104
+1	major	neighborhood	patient	B	0.06502602994441986
+1	major	neighborhood	patient	Endothelial	0.0883990228176117
+1	major	neighborhood	patient	Epithelial	0.12902604043483734
+1	major	neighborhood	patient	Fibroblast	0.17673827707767487
+1	major	neighborhood	patient	Mast	0.016259385272860527
+1	major	neighborhood	patient	Mural	0.2431153953075409
+1	major	neighborhood	patient	Myeloid	0.12101972848176956
+1	major	neighborhood	patient	Plasma	0.023596106097102165
+1	major	neighborhood	patient	T_NK	0.136819988489151
+2	major	neighborhood	patient	B	0.07269886136054993
+2	major	neighborhood	patient	Endothelial	0.03242531046271324
+2	major	neighborhood	patient	Epithelial	0.6236088275909424
+2	major	neighborhood	patient	Fibroblast	0.030340883880853653
+2	major	neighborhood	patient	Mast	0.013506627641618252
+2	major	neighborhood	patient	Mural	0.01599934510886669
+2	major	neighborhood	patient	Myeloid	0.1130683422088623
+2	major	neighborhood	patient	Plasma	0.007563136518001556
+2	major	neighborhood	patient	T_NK	0.09078872203826904
+3	major	neighborhood	patient	B	0.1422983556985855
+3	major	neighborhood	patient	Endothelial	0.026517705991864204
+3	major	neighborhood	patient	Epithelial	0.48943430185317993
+3	major	neighborhood	patient	Fibroblast	0.02322685718536377
+3	major	neighborhood	patient	Mast	0.013190379366278648
+3	major	neighborhood	patient	Mural	0.007332016248255968
+3	major	neighborhood	patient	Myeloid	0.1859559267759323
+3	major	neighborhood	patient	Plasma	0.012871642597019672
+3	major	neighborhood	patient	T_NK	0.09917277842760086
+4	major	neighborhood	patient	B	0.08320212364196777
+4	major	neighborhood	patient	Endothelial	0.06861798465251923
+4	major	neighborhood	patient	Epithelial	0.3204863965511322
+4	major	neighborhood	patient	Fibroblast	0.10119157284498215
+4	major	neighborhood	patient	Mast	0.017852619290351868
+4	major	neighborhood	patient	Mural	0.03559497371315956
+4	major	neighborhood	patient	Myeloid	0.17076046764850616
+4	major	neighborhood	patient	Plasma	0.026485146954655647
+4	major	neighborhood	patient	T_NK	0.17580871284008026
+5	major	neighborhood	patient	B	0.06256018579006195
+5	major	neighborhood	patient	Endothelial	0.030322059988975525
+5	major	neighborhood	patient	Epithelial	0.06313489377498627
+5	major	neighborhood	patient	Fibroblast	0.038672808557748795
+5	major	neighborhood	patient	Mast	0.017323050647974014
+5	major	neighborhood	patient	Mural	0.015057365410029888
+5	major	neighborhood	patient	Myeloid	0.616737425327301
+5	major	neighborhood	patient	Plasma	0.006664670538157225
+5	major	neighborhood	patient	T_NK	0.14952751994132996
+6	major	neighborhood	patient	B	0.05702441558241844
+6	major	neighborhood	patient	Endothelial	0.10039952397346497
+6	major	neighborhood	patient	Epithelial	0.4388086795806885
+6	major	neighborhood	patient	Fibroblast	0.10216514766216278
+6	major	neighborhood	patient	Mast	0.01557444129139185
+6	major	neighborhood	patient	Mural	0.04219842702150345
+6	major	neighborhood	patient	Myeloid	0.1302962303161621
+6	major	neighborhood	patient	Plasma	0.011927921324968338
+6	major	neighborhood	patient	T_NK	0.10160523653030396
+7	major	neighborhood	patient	B	0.03576890751719475
+7	major	neighborhood	patient	Endothelial	0.057666100561618805
+7	major	neighborhood	patient	Epithelial	0.00838551763445139
+7	major	neighborhood	patient	Fibroblast	0.11141445487737656
+7	major	neighborhood	patient	Mast	0.014617180451750755
+7	major	neighborhood	patient	Mural	0.6252157688140869
+7	major	neighborhood	patient	Myeloid	0.05457400903105736
+7	major	neighborhood	patient	Plasma	0.015142382122576237
+7	major	neighborhood	patient	T_NK	0.07721567153930664
+8	major	neighborhood	patient	B	0.25730064511299133
+8	major	neighborhood	patient	Endothelial	0.06253761053085327
+8	major	neighborhood	patient	Epithelial	0.24954845011234283
+8	major	neighborhood	patient	Fibroblast	0.04771026596426964
+8	major	neighborhood	patient	Mast	0.015880106016993523
+8	major	neighborhood	patient	Mural	0.0243288055062294
+8	major	neighborhood	patient	Myeloid	0.16663877665996552
+8	major	neighborhood	patient	Plasma	0.010264991782605648
+8	major	neighborhood	patient	T_NK	0.1657903492450714
+0	subtype	center	pooled	Arterial EC	0.014274812303483486
+0	subtype	center	pooled	C1QC TAM	0.037120528519153595
+0	subtype	center	pooled	CD4 Helper/Conventional	0.03946514055132866
+0	subtype	center	pooled	CD4 Naive/Memory-like	0.04114743694663048
+0	subtype	center	pooled	CD8 Exhausted	0.0367194339632988
+0	subtype	center	pooled	CD8 GZMK/Effector-memory-like	0.038307107985019684
+0	subtype	center	pooled	Capillary EC	0.026800258085131645
+0	subtype	center	pooled	Classical Mono	0.016106262803077698
+0	subtype	center	pooled	Epithelial	0.050844959914684296
+0	subtype	center	pooled	GC B	0.03233068063855171
+0	subtype	center	pooled	LAMP3 DC	0.014363361522555351
+0	subtype	center	pooled	Lymphatic EC	0.01900690793991089
+0	subtype	center	pooled	Mast	0.020607301965355873
+0	subtype	center	pooled	Matrix_CAF	0.05584767088294029
+0	subtype	center	pooled	NK	0.029311656951904297
+0	subtype	center	pooled	Naive/Memory B	0.08996982127428055
+0	subtype	center	pooled	Neutrophil	0.04102174937725067
+0	subtype	center	pooled	Pericyte	0.012694474309682846
+0	subtype	center	pooled	Plasma	0.08328527212142944
+0	subtype	center	pooled	SMC	0.04083721339702606
+0	subtype	center	pooled	SPP1 TAM	0.01873769611120224
+0	subtype	center	pooled	Tfh/CXCL13-like	0.030241692438721657
+0	subtype	center	pooled	Treg	0.03575057536363602
+0	subtype	center	pooled	Venous EC	0.029272370040416718
+0	subtype	center	pooled	cDC1	0.012026472948491573
+0	subtype	center	pooled	cDC2	0.014962476678192616
+0	subtype	center	pooled	iCAF	0.0546078160405159
+0	subtype	center	pooled	pDC	0.01374903880059719
+0	subtype	center	pooled	rCAF	0.019978482276201248
+0	subtype	center	pooled	vCAF	0.030611323192715645
+1	subtype	center	pooled	Arterial EC	0.022794052958488464
+1	subtype	center	pooled	C1QC TAM	0.02506408281624317
+1	subtype	center	pooled	CD4 Helper/Conventional	0.021171072497963905
+1	subtype	center	pooled	CD4 Naive/Memory-like	0.02270573377609253
+1	subtype	center	pooled	CD8 Exhausted	0.020064475014805794
+1	subtype	center	pooled	CD8 GZMK/Effector-memory-like	0.024280471727252007
+1	subtype	center	pooled	Capillary EC	0.022113485261797905
+1	subtype	center	pooled	Classical Mono	0.011710713617503643
+1	subtype	center	pooled	Epithelial	0.09281272441148758
+1	subtype	center	pooled	GC B	0.02131451480090618
+1	subtype	center	pooled	LAMP3 DC	0.009829974733293056
+1	subtype	center	pooled	Lymphatic EC	0.019965918734669685
+1	subtype	center	pooled	Mast	0.019375689327716827
+1	subtype	center	pooled	Matrix_CAF	0.037498589605093
+1	subtype	center	pooled	NK	0.019506772980093956
+1	subtype	center	pooled	Naive/Memory B	0.041320569813251495
+1	subtype	center	pooled	Neutrophil	0.021207839250564575
+1	subtype	center	pooled	Pericyte	0.015332377515733242
+1	subtype	center	pooled	Plasma	0.023218287155032158
+1	subtype	center	pooled	SMC	0.27225446701049805
+1	subtype	center	pooled	SPP1 TAM	0.011577758938074112
+1	subtype	center	pooled	Tfh/CXCL13-like	0.01821993477642536
+1	subtype	center	pooled	Treg	0.020105909556150436
+1	subtype	center	pooled	Venous EC	0.028205081820487976
+1	subtype	center	pooled	cDC1	0.010179409757256508
+1	subtype	center	pooled	cDC2	0.012045200914144516
+1	subtype	center	pooled	iCAF	0.060318972915410995
+1	subtype	center	pooled	pDC	0.010859598405659199
+1	subtype	center	pooled	rCAF	0.01896805316209793
+1	subtype	center	pooled	vCAF	0.04597825929522514
+2	subtype	center	pooled	Arterial EC	0.0039170668460428715
+2	subtype	center	pooled	C1QC TAM	0.008346284739673138
+2	subtype	center	pooled	CD4 Helper/Conventional	0.010862309485673904
+2	subtype	center	pooled	CD4 Naive/Memory-like	0.011874631978571415
+2	subtype	center	pooled	CD8 Exhausted	0.011710467748343945
+2	subtype	center	pooled	CD8 GZMK/Effector-memory-like	0.011515251360833645
+2	subtype	center	pooled	Capillary EC	0.011154198087751865
+2	subtype	center	pooled	Classical Mono	0.007501890882849693
+2	subtype	center	pooled	Epithelial	0.6915134787559509
+2	subtype	center	pooled	GC B	0.03445720672607422
+2	subtype	center	pooled	LAMP3 DC	0.007009559776633978
+2	subtype	center	pooled	Lymphatic EC	0.008211541920900345
+2	subtype	center	pooled	Mast	0.01091211661696434
+2	subtype	center	pooled	Matrix_CAF	0.014493581838905811
+2	subtype	center	pooled	NK	0.010018021799623966
+2	subtype	center	pooled	Naive/Memory B	0.019715892150998116
+2	subtype	center	pooled	Neutrophil	0.02316366322338581
+2	subtype	center	pooled	Pericyte	0.008039114996790886
+2	subtype	center	pooled	Plasma	0.009792338125407696
+2	subtype	center	pooled	SMC	0.006901391316205263
+2	subtype	center	pooled	SPP1 TAM	0.00835108570754528
+2	subtype	center	pooled	Tfh/CXCL13-like	0.009943384677171707
+2	subtype	center	pooled	Treg	0.011786005459725857
+2	subtype	center	pooled	Venous EC	0.004933938384056091
+2	subtype	center	pooled	cDC1	0.007698016706854105
+2	subtype	center	pooled	cDC2	0.005177091341465712
+2	subtype	center	pooled	iCAF	0.0035939039662480354
+2	subtype	center	pooled	pDC	0.013849054463207722
+2	subtype	center	pooled	rCAF	0.003129553282633424
+2	subtype	center	pooled	vCAF	0.010427982546389103
+3	subtype	center	pooled	Arterial EC	0.0027467196341603994
+3	subtype	center	pooled	C1QC TAM	0.006367488298565149
+3	subtype	center	pooled	CD4 Helper/Conventional	0.010323582217097282
+3	subtype	center	pooled	CD4 Naive/Memory-like	0.014334715902805328
+3	subtype	center	pooled	CD8 Exhausted	0.01017781812697649
+3	subtype	center	pooled	CD8 GZMK/Effector-memory-like	0.011067787185311317
+3	subtype	center	pooled	Capillary EC	0.009806491434574127
+3	subtype	center	pooled	Classical Mono	0.015251181088387966
+3	subtype	center	pooled	Epithelial	0.515561580657959
+3	subtype	center	pooled	GC B	0.1388714462518692
+3	subtype	center	pooled	LAMP3 DC	0.008638743311166763
+3	subtype	center	pooled	Lymphatic EC	0.00514253368601203
+3	subtype	center	pooled	Mast	0.016665490344166756
+3	subtype	center	pooled	Matrix_CAF	0.002693071262910962
+3	subtype	center	pooled	NK	0.01021264586597681
+3	subtype	center	pooled	Naive/Memory B	0.07860427349805832
+3	subtype	center	pooled	Neutrophil	0.02605959214270115
+3	subtype	center	pooled	Pericyte	0.0032809036783874035
+3	subtype	center	pooled	Plasma	0.026055019348859787
+3	subtype	center	pooled	SMC	0.0023643726017326117
+3	subtype	center	pooled	SPP1 TAM	0.007458163425326347
+3	subtype	center	pooled	Tfh/CXCL13-like	0.011293606832623482
+3	subtype	center	pooled	Treg	0.012029075995087624
+3	subtype	center	pooled	Venous EC	0.0032556133810430765
+3	subtype	center	pooled	cDC1	0.012227545492351055
+3	subtype	center	pooled	cDC2	0.0069857407361269
+3	subtype	center	pooled	iCAF	0.0016806164057925344
+3	subtype	center	pooled	pDC	0.02433081530034542
+3	subtype	center	pooled	rCAF	0.0014448813162744045
+3	subtype	center	pooled	vCAF	0.00506849167868495
+4	subtype	center	pooled	Arterial EC	0.009669055230915546
+4	subtype	center	pooled	C1QC TAM	0.023179545998573303
+4	subtype	center	pooled	CD4 Helper/Conventional	0.025397587567567825
+4	subtype	center	pooled	CD4 Naive/Memory-like	0.02459864504635334
+4	subtype	center	pooled	CD8 Exhausted	0.028721414506435394
+4	subtype	center	pooled	CD8 GZMK/Effector-memory-like	0.02626093290746212
+4	subtype	center	pooled	Capillary EC	0.017536643892526627
+4	subtype	center	pooled	Classical Mono	0.01907009817659855
+4	subtype	center	pooled	Epithelial	0.3327653706073761
+4	subtype	center	pooled	GC B	0.045422427356243134
+4	subtype	center	pooled	LAMP3 DC	0.016137033700942993
+4	subtype	center	pooled	Lymphatic EC	0.02351030893623829
+4	subtype	center	pooled	Mast	0.0195000097155571
+4	subtype	center	pooled	Matrix_CAF	0.034556303173303604
+4	subtype	center	pooled	NK	0.02417399361729622
+4	subtype	center	pooled	Naive/Memory B	0.045611634850502014
+4	subtype	center	pooled	Neutrophil	0.041833627969026566
+4	subtype	center	pooled	Pericyte	0.01179424300789833
+4	subtype	center	pooled	Plasma	0.028906771913170815
+4	subtype	center	pooled	SMC	0.017786111682653427
+4	subtype	center	pooled	SPP1 TAM	0.021394874900579453
+4	subtype	center	pooled	Tfh/CXCL13-like	0.02104419656097889
+4	subtype	center	pooled	Treg	0.028027888387441635
+4	subtype	center	pooled	Venous EC	0.014501605182886124
+4	subtype	center	pooled	cDC1	0.015934130176901817
+4	subtype	center	pooled	cDC2	0.013812409713864326
+4	subtype	center	pooled	iCAF	0.013607324101030827
+4	subtype	center	pooled	pDC	0.017392009496688843
+4	subtype	center	pooled	rCAF	0.00969887338578701
+4	subtype	center	pooled	vCAF	0.028154920786619186
+5	subtype	center	pooled	Arterial EC	0.004186510108411312
+5	subtype	center	pooled	C1QC TAM	0.016939854249358177
+5	subtype	center	pooled	CD4 Helper/Conventional	0.01658639684319496
+5	subtype	center	pooled	CD4 Naive/Memory-like	0.02075107954442501
+5	subtype	center	pooled	CD8 Exhausted	0.02081659436225891
+5	subtype	center	pooled	CD8 GZMK/Effector-memory-like	0.019300537183880806
+5	subtype	center	pooled	Capillary EC	0.0069803292863070965
+5	subtype	center	pooled	Classical Mono	0.038311805576086044
+5	subtype	center	pooled	Epithelial	0.05467614158987999
+5	subtype	center	pooled	GC B	0.023638639599084854
+5	subtype	center	pooled	LAMP3 DC	0.005939963739365339
+5	subtype	center	pooled	Lymphatic EC	0.008501875214278698
+5	subtype	center	pooled	Mast	0.016267409548163414
+5	subtype	center	pooled	Matrix_CAF	0.014004100114107132
+5	subtype	center	pooled	NK	0.0175462756305933
+5	subtype	center	pooled	Naive/Memory B	0.03270604833960533
+5	subtype	center	pooled	Neutrophil	0.4337822496891022
+5	subtype	center	pooled	Pericyte	0.003633111482486129
+5	subtype	center	pooled	Plasma	0.006118396297097206
+5	subtype	center	pooled	SMC	0.007381555158644915
+5	subtype	center	pooled	SPP1 TAM	0.15310536324977875
+5	subtype	center	pooled	Tfh/CXCL13-like	0.014260483905673027
+5	subtype	center	pooled	Treg	0.016643276438117027
+5	subtype	center	pooled	Venous EC	0.005507301539182663
+5	subtype	center	pooled	cDC1	0.008553657680749893
+5	subtype	center	pooled	cDC2	0.009440182708203793
+5	subtype	center	pooled	iCAF	0.004503244999796152
+5	subtype	center	pooled	pDC	0.007648845203220844
+5	subtype	center	pooled	rCAF	0.004570389166474342
+5	subtype	center	pooled	vCAF	0.007698376197367907
+6	subtype	center	pooled	Arterial EC	0.0140764145180583
+6	subtype	center	pooled	C1QC TAM	0.014046454802155495
+6	subtype	center	pooled	CD4 Helper/Conventional	0.0112374909222126
+6	subtype	center	pooled	CD4 Naive/Memory-like	0.010645774193108082
+6	subtype	center	pooled	CD8 Exhausted	0.016158556565642357
+6	subtype	center	pooled	CD8 GZMK/Effector-memory-like	0.011863344348967075
+6	subtype	center	pooled	Capillary EC	0.02037735842168331
+6	subtype	center	pooled	Classical Mono	0.011251334100961685
+6	subtype	center	pooled	Epithelial	0.4405876696109772
+6	subtype	center	pooled	GC B	0.032587725669145584
+6	subtype	center	pooled	LAMP3 DC	0.016182174906134605
+6	subtype	center	pooled	Lymphatic EC	0.05836690217256546
+6	subtype	center	pooled	Mast	0.017825139686465263
+6	subtype	center	pooled	Matrix_CAF	0.02297029457986355
+6	subtype	center	pooled	NK	0.01043579913675785
+6	subtype	center	pooled	Naive/Memory B	0.01643180660903454
+6	subtype	center	pooled	Neutrophil	0.035625945776700974
+6	subtype	center	pooled	Pericyte	0.013096917420625687
+6	subtype	center	pooled	Plasma	0.009917219169437885
+6	subtype	center	pooled	SMC	0.014108502306044102
+6	subtype	center	pooled	SPP1 TAM	0.026723796501755714
+6	subtype	center	pooled	Tfh/CXCL13-like	0.010170549154281616
+6	subtype	center	pooled	Treg	0.01145330909639597
+6	subtype	center	pooled	Venous EC	0.01524880900979042
+6	subtype	center	pooled	cDC1	0.011500359512865543
+6	subtype	center	pooled	cDC2	0.008418489247560501
+6	subtype	center	pooled	iCAF	0.024271178990602493
+6	subtype	center	pooled	pDC	0.020582817494869232
+6	subtype	center	pooled	rCAF	0.007947689853608608
+6	subtype	center	pooled	vCAF	0.06589016318321228
+7	subtype	center	pooled	Arterial EC	0.008958202786743641
+7	subtype	center	pooled	C1QC TAM	0.007650775834918022
+7	subtype	center	pooled	CD4 Helper/Conventional	0.007976040244102478
+7	subtype	center	pooled	CD4 Naive/Memory-like	0.01098985318094492
+7	subtype	center	pooled	CD8 Exhausted	0.00669307354837656
+7	subtype	center	pooled	CD8 GZMK/Effector-memory-like	0.009843655861914158
+7	subtype	center	pooled	Capillary EC	0.012467147782444954
+7	subtype	center	pooled	Classical Mono	0.0037112808786332607
+7	subtype	center	pooled	Epithelial	0.0073783863335847855
+7	subtype	center	pooled	GC B	0.009091603569686413
+7	subtype	center	pooled	LAMP3 DC	0.002605342073366046
+7	subtype	center	pooled	Lymphatic EC	0.008991897106170654
+7	subtype	center	pooled	Mast	0.008679516613483429
+7	subtype	center	pooled	Matrix_CAF	0.015712955966591835
+7	subtype	center	pooled	NK	0.006877679843455553
+7	subtype	center	pooled	Naive/Memory B	0.016077594831585884
+7	subtype	center	pooled	Neutrophil	0.008023296482861042
+7	subtype	center	pooled	Pericyte	0.01014704443514347
+7	subtype	center	pooled	Plasma	0.0033011864870786667
+7	subtype	center	pooled	SMC	0.7040297985076904
+7	subtype	center	pooled	SPP1 TAM	0.002195077482610941
+7	subtype	center	pooled	Tfh/CXCL13-like	0.00878870114684105
+7	subtype	center	pooled	Treg	0.006898419000208378
+7	subtype	center	pooled	Venous EC	0.014299159869551659
+7	subtype	center	pooled	cDC1	0.0030296349432319403
+7	subtype	center	pooled	cDC2	0.0032785097137093544
+7	subtype	center	pooled	iCAF	0.04197406396269798
+7	subtype	center	pooled	pDC	0.002791506238281727
+7	subtype	center	pooled	rCAF	0.017142200842499733
+7	subtype	center	pooled	vCAF	0.03039642982184887
+8	subtype	center	pooled	Arterial EC	0.007586078252643347
+8	subtype	center	pooled	C1QC TAM	0.034007053822278976
+8	subtype	center	pooled	CD4 Helper/Conventional	0.013983163051307201
+8	subtype	center	pooled	CD4 Naive/Memory-like	0.023950807750225067
+8	subtype	center	pooled	CD8 Exhausted	0.01974143274128437
+8	subtype	center	pooled	CD8 GZMK/Effector-memory-like	0.01432750467211008
+8	subtype	center	pooled	Capillary EC	0.03373098000884056
+8	subtype	center	pooled	Classical Mono	0.024256641045212746
+8	subtype	center	pooled	Epithelial	0.23539862036705017
+8	subtype	center	pooled	GC B	0.14844532310962677
+8	subtype	center	pooled	LAMP3 DC	0.011985530145466328
+8	subtype	center	pooled	Lymphatic EC	0.02601035125553608
+8	subtype	center	pooled	Mast	0.02341502346098423
+8	subtype	center	pooled	Matrix_CAF	0.011166825890541077
+8	subtype	center	pooled	NK	0.016204487532377243
+8	subtype	center	pooled	Naive/Memory B	0.1090821772813797
+8	subtype	center	pooled	Neutrophil	0.03687581419944763
+8	subtype	center	pooled	Pericyte	0.01380185503512621
+8	subtype	center	pooled	Plasma	0.03920040652155876
+8	subtype	center	pooled	SMC	0.00546340923756361
+8	subtype	center	pooled	SPP1 TAM	0.0197895560413599
+8	subtype	center	pooled	Tfh/CXCL13-like	0.019178250804543495
+8	subtype	center	pooled	Treg	0.014735996723175049
+8	subtype	center	pooled	Venous EC	0.011872032657265663
+8	subtype	center	pooled	cDC1	0.01398332417011261
+8	subtype	center	pooled	cDC2	0.018844109028577805
+8	subtype	center	pooled	iCAF	0.002017201390117407
+8	subtype	center	pooled	pDC	0.03393007814884186
+8	subtype	center	pooled	rCAF	0.0033664023503661156
+8	subtype	center	pooled	vCAF	0.013649576343595982
+0	subtype	center	section	Arterial EC	0.013515557162463665
+0	subtype	center	section	C1QC TAM	0.03645114600658417
+0	subtype	center	section	CD4 Helper/Conventional	0.03936656937003136
+0	subtype	center	section	CD4 Naive/Memory-like	0.03780932351946831
+0	subtype	center	section	CD8 Exhausted	0.038358621299266815
+0	subtype	center	section	CD8 GZMK/Effector-memory-like	0.041662704199552536
+0	subtype	center	section	Capillary EC	0.025472721084952354
+0	subtype	center	section	Classical Mono	0.022704316303133965
+0	subtype	center	section	Epithelial	0.06134144216775894
+0	subtype	center	section	GC B	0.03036605753004551
+0	subtype	center	section	LAMP3 DC	0.012108052149415016
+0	subtype	center	section	Lymphatic EC	0.01631147414445877
+0	subtype	center	section	Mast	0.018528558313846588
+0	subtype	center	section	Matrix_CAF	0.05946546420454979
+0	subtype	center	section	NK	0.0326206348836422
+0	subtype	center	section	Naive/Memory B	0.08925972878932953
+0	subtype	center	section	Neutrophil	0.04136976599693298
+0	subtype	center	section	Pericyte	0.013078256510198116
+0	subtype	center	section	Plasma	0.06835062056779861
+0	subtype	center	section	SMC	0.03861099109053612
+0	subtype	center	section	SPP1 TAM	0.014759792014956474
+0	subtype	center	section	Tfh/CXCL13-like	0.028852300718426704
+0	subtype	center	section	Treg	0.03773552179336548
+0	subtype	center	section	Venous EC	0.03083556517958641
+0	subtype	center	section	cDC1	0.009994437918066978
+0	subtype	center	section	cDC2	0.014560118317604065
+0	subtype	center	section	iCAF	0.05325755849480629
+0	subtype	center	section	pDC	0.014635375700891018
+0	subtype	center	section	rCAF	0.018031202256679535
+0	subtype	center	section	vCAF	0.04058611020445824
+1	subtype	center	section	Arterial EC	0.026526011526584625
+1	subtype	center	section	C1QC TAM	0.022526610642671585
+1	subtype	center	section	CD4 Helper/Conventional	0.0190355833619833
+1	subtype	center	section	CD4 Naive/Memory-like	0.019519735127687454
+1	subtype	center	section	CD8 Exhausted	0.019340109080076218
+1	subtype	center	section	CD8 GZMK/Effector-memory-like	0.02238386496901512
+1	subtype	center	section	Capillary EC	0.03750292584300041
+1	subtype	center	section	Classical Mono	0.013328291475772858
+1	subtype	center	section	Epithelial	0.12342806160449982
+1	subtype	center	section	GC B	0.021042531356215477
+1	subtype	center	section	LAMP3 DC	0.008002515882253647
+1	subtype	center	section	Lymphatic EC	0.01638897880911827
+1	subtype	center	section	Mast	0.015452833846211433
+1	subtype	center	section	Matrix_CAF	0.058505646884441376
+1	subtype	center	section	NK	0.018458716571331024
+1	subtype	center	section	Naive/Memory B	0.04080401360988617
+1	subtype	center	section	Neutrophil	0.022887814790010452
+1	subtype	center	section	Pericyte	0.027338361367583275
+1	subtype	center	section	Plasma	0.02741151675581932
+1	subtype	center	section	SMC	0.23095709085464478
+1	subtype	center	section	SPP1 TAM	0.011958434246480465
+1	subtype	center	section	Tfh/CXCL13-like	0.016569139435887337
+1	subtype	center	section	Treg	0.017813602462410927
+1	subtype	center	section	Venous EC	0.023390525951981544
+1	subtype	center	section	cDC1	0.008751197718083858
+1	subtype	center	section	cDC2	0.011338244192302227
+1	subtype	center	section	iCAF	0.04493873938918114
+1	subtype	center	section	pDC	0.010237548500299454
+1	subtype	center	section	rCAF	0.01862957701086998
+1	subtype	center	section	vCAF	0.045531779527664185
+2	subtype	center	section	Arterial EC	0.005218325182795525
+2	subtype	center	section	C1QC TAM	0.009586664848029613
+2	subtype	center	section	CD4 Helper/Conventional	0.010677355341613293
+2	subtype	center	section	CD4 Naive/Memory-like	0.013578755781054497
+2	subtype	center	section	CD8 Exhausted	0.011868682689964771
+2	subtype	center	section	CD8 GZMK/Effector-memory-like	0.01215420849621296
+2	subtype	center	section	Capillary EC	0.008529642596840858
+2	subtype	center	section	Classical Mono	0.012678147293627262
+2	subtype	center	section	Epithelial	0.6526886820793152
+2	subtype	center	section	GC B	0.036169715225696564
+2	subtype	center	section	LAMP3 DC	0.008035567589104176
+2	subtype	center	section	Lymphatic EC	0.00968687143176794
+2	subtype	center	section	Mast	0.011664636433124542
+2	subtype	center	section	Matrix_CAF	0.009805777110159397
+2	subtype	center	section	NK	0.011616860516369343
+2	subtype	center	section	Naive/Memory B	0.026632869616150856
+2	subtype	center	section	Neutrophil	0.029158446937799454
+2	subtype	center	section	Pericyte	0.007449410390108824
+2	subtype	center	section	Plasma	0.01355451438575983
+2	subtype	center	section	SMC	0.008384631015360355
+2	subtype	center	section	SPP1 TAM	0.009936622343957424
+2	subtype	center	section	Tfh/CXCL13-like	0.009987232275307178
+2	subtype	center	section	Treg	0.012597007676959038
+2	subtype	center	section	Venous EC	0.005538745317608118
+2	subtype	center	section	cDC1	0.009558577090501785
+2	subtype	center	section	cDC2	0.00806981511414051
+2	subtype	center	section	iCAF	0.004451347980648279
+2	subtype	center	section	pDC	0.014538572169840336
+2	subtype	center	section	rCAF	0.0037594062741845846
+2	subtype	center	section	vCAF	0.0124229546636343
+3	subtype	center	section	Arterial EC	0.004056402947753668
+3	subtype	center	section	C1QC TAM	0.011322123929858208
+3	subtype	center	section	CD4 Helper/Conventional	0.014541688375175
+3	subtype	center	section	CD4 Naive/Memory-like	0.020941244438290596
+3	subtype	center	section	CD8 Exhausted	0.014689605683088303
+3	subtype	center	section	CD8 GZMK/Effector-memory-like	0.017631331458687782
+3	subtype	center	section	Capillary EC	0.008416198194026947
+3	subtype	center	section	Classical Mono	0.013870283961296082
+3	subtype	center	section	Epithelial	0.44432690739631653
+3	subtype	center	section	GC B	0.08359848707914352
+3	subtype	center	section	LAMP3 DC	0.007479981053620577
+3	subtype	center	section	Lymphatic EC	0.007348070852458477
+3	subtype	center	section	Mast	0.013330652378499508
+3	subtype	center	section	Matrix_CAF	0.0038154481444507837
+3	subtype	center	section	NK	0.01177169755101204
+3	subtype	center	section	Naive/Memory B	0.1109197661280632
+3	subtype	center	section	Neutrophil	0.057510700076818466
+3	subtype	center	section	Pericyte	0.004180775489658117
+3	subtype	center	section	Plasma	0.04674607142806053
+3	subtype	center	section	SMC	0.004827942233532667
+3	subtype	center	section	SPP1 TAM	0.01536304410547018
+3	subtype	center	section	Tfh/CXCL13-like	0.01592063158750534
+3	subtype	center	section	Treg	0.018496843054890633
+3	subtype	center	section	Venous EC	0.0052606272511184216
+3	subtype	center	section	cDC1	0.008584471419453621
+3	subtype	center	section	cDC2	0.006691468879580498
+3	subtype	center	section	iCAF	0.003786810440942645
+3	subtype	center	section	pDC	0.013950467109680176
+3	subtype	center	section	rCAF	0.0035423100925982
+3	subtype	center	section	vCAF	0.007077919319272041
+4	subtype	center	section	Arterial EC	0.010551109910011292
+4	subtype	center	section	C1QC TAM	0.024663452059030533
+4	subtype	center	section	CD4 Helper/Conventional	0.024729110300540924
+4	subtype	center	section	CD4 Naive/Memory-like	0.024585405364632607
+4	subtype	center	section	CD8 Exhausted	0.02890770509839058
+4	subtype	center	section	CD8 GZMK/Effector-memory-like	0.0271935872733593
+4	subtype	center	section	Capillary EC	0.021262379363179207
+4	subtype	center	section	Classical Mono	0.02097157947719097
+4	subtype	center	section	Epithelial	0.30584391951560974
+4	subtype	center	section	GC B	0.040734004229307175
+4	subtype	center	section	LAMP3 DC	0.013435336761176586
+4	subtype	center	section	Lymphatic EC	0.016237111762166023
+4	subtype	center	section	Mast	0.017162632197141647
+4	subtype	center	section	Matrix_CAF	0.03648009151220322
+4	subtype	center	section	NK	0.025564804673194885
+4	subtype	center	section	Naive/Memory B	0.053641680628061295
+4	subtype	center	section	Neutrophil	0.040345460176467896
+4	subtype	center	section	Pericyte	0.012605139054358006
+4	subtype	center	section	Plasma	0.03533054143190384
+4	subtype	center	section	SMC	0.02208876609802246
+4	subtype	center	section	SPP1 TAM	0.016689592972397804
+4	subtype	center	section	Tfh/CXCL13-like	0.020499376580119133
+4	subtype	center	section	Treg	0.029082749038934708
+4	subtype	center	section	Venous EC	0.01934650167822838
+4	subtype	center	section	cDC1	0.012249345891177654
+4	subtype	center	section	cDC2	0.012966867536306381
+4	subtype	center	section	iCAF	0.02076948620378971
+4	subtype	center	section	pDC	0.016885751858353615
+4	subtype	center	section	rCAF	0.012065831571817398
+4	subtype	center	section	vCAF	0.037110671401023865
+5	subtype	center	section	Arterial EC	0.004743689205497503
+5	subtype	center	section	C1QC TAM	0.02694527618587017
+5	subtype	center	section	CD4 Helper/Conventional	0.02148599550127983
+5	subtype	center	section	CD4 Naive/Memory-like	0.02272462658584118
+5	subtype	center	section	CD8 Exhausted	0.023434346541762352
+5	subtype	center	section	CD8 GZMK/Effector-memory-like	0.02744884043931961
+5	subtype	center	section	Capillary EC	0.009936057962477207
+5	subtype	center	section	Classical Mono	0.05685342848300934
+5	subtype	center	section	Epithelial	0.06471209228038788
+5	subtype	center	section	GC B	0.021463338285684586
+5	subtype	center	section	LAMP3 DC	0.008688117377460003
+5	subtype	center	section	Lymphatic EC	0.00958431325852871
+5	subtype	center	section	Mast	0.015935136005282402
+5	subtype	center	section	Matrix_CAF	0.01357185747474432
+5	subtype	center	section	NK	0.022229624912142754
+5	subtype	center	section	Naive/Memory B	0.04536440595984459
+5	subtype	center	section	Neutrophil	0.2931402921676636
+5	subtype	center	section	Pericyte	0.005567898508161306
+5	subtype	center	section	Plasma	0.010064161382615566
+5	subtype	center	section	SMC	0.008711989969015121
+5	subtype	center	section	SPP1 TAM	0.18032750487327576
+5	subtype	center	section	Tfh/CXCL13-like	0.015797387808561325
+5	subtype	center	section	Treg	0.02174225263297558
+5	subtype	center	section	Venous EC	0.007309732027351856
+5	subtype	center	section	cDC1	0.009852557443082333
+5	subtype	center	section	cDC2	0.017991580069065094
+5	subtype	center	section	iCAF	0.005406479351222515
+5	subtype	center	section	pDC	0.011058837175369263
+5	subtype	center	section	rCAF	0.0065011088736355305
+5	subtype	center	section	vCAF	0.011407068930566311
+6	subtype	center	section	Arterial EC	0.013280661776661873
+6	subtype	center	section	C1QC TAM	0.020108629018068314
+6	subtype	center	section	CD4 Helper/Conventional	0.014729782938957214
+6	subtype	center	section	CD4 Naive/Memory-like	0.014381677843630314
+6	subtype	center	section	CD8 Exhausted	0.016608264297246933
+6	subtype	center	section	CD8 GZMK/Effector-memory-like	0.015310634858906269
+6	subtype	center	section	Capillary EC	0.04753377288579941
+6	subtype	center	section	Classical Mono	0.017318038269877434
+6	subtype	center	section	Epithelial	0.41320350766181946
+6	subtype	center	section	GC B	0.029446067288517952
+6	subtype	center	section	LAMP3 DC	0.01084603276103735
+6	subtype	center	section	Lymphatic EC	0.023815546184778214
+6	subtype	center	section	Mast	0.013449415564537048
+6	subtype	center	section	Matrix_CAF	0.037818312644958496
+6	subtype	center	section	NK	0.014439246617257595
+6	subtype	center	section	Naive/Memory B	0.02290564402937889
+6	subtype	center	section	Neutrophil	0.028884796425700188
+6	subtype	center	section	Pericyte	0.027297334745526314
+6	subtype	center	section	Plasma	0.020933575928211212
+6	subtype	center	section	SMC	0.018815336748957634
+6	subtype	center	section	SPP1 TAM	0.021612077951431274
+6	subtype	center	section	Tfh/CXCL13-like	0.012247096747159958
+6	subtype	center	section	Treg	0.016638899222016335
+6	subtype	center	section	Venous EC	0.026001490652561188
+6	subtype	center	section	cDC1	0.00988786295056343
+6	subtype	center	section	cDC2	0.00938543863594532
+6	subtype	center	section	iCAF	0.023906830698251724
+6	subtype	center	section	pDC	0.012544750235974789
+6	subtype	center	section	rCAF	0.008895318023860455
+6	subtype	center	section	vCAF	0.03775396570563316
+7	subtype	center	section	Arterial EC	0.01882694661617279
+7	subtype	center	section	C1QC TAM	0.0101673798635602
+7	subtype	center	section	CD4 Helper/Conventional	0.010126677341759205
+7	subtype	center	section	CD4 Naive/Memory-like	0.012097146362066269
+7	subtype	center	section	CD8 Exhausted	0.008402332663536072
+7	subtype	center	section	CD8 GZMK/Effector-memory-like	0.012332928366959095
+7	subtype	center	section	Capillary EC	0.012728420086205006
+7	subtype	center	section	Classical Mono	0.004114004783332348
+7	subtype	center	section	Epithelial	0.011148889549076557
+7	subtype	center	section	GC B	0.007112890016287565
+7	subtype	center	section	LAMP3 DC	0.003955581691116095
+7	subtype	center	section	Lymphatic EC	0.009356108494102955
+7	subtype	center	section	Mast	0.01284141093492508
+7	subtype	center	section	Matrix_CAF	0.01601169817149639
+7	subtype	center	section	NK	0.009509953670203686
+7	subtype	center	section	Naive/Memory B	0.026200614869594574
+7	subtype	center	section	Neutrophil	0.01131527405232191
+7	subtype	center	section	Pericyte	0.004365917295217514
+7	subtype	center	section	Plasma	0.016708949580788612
+7	subtype	center	section	SMC	0.656329333782196
+7	subtype	center	section	SPP1 TAM	0.002282889559864998
+7	subtype	center	section	Tfh/CXCL13-like	0.009385533630847931
+7	subtype	center	section	Treg	0.0074893101118505
+7	subtype	center	section	Venous EC	0.013895007781684399
+7	subtype	center	section	cDC1	0.004808973986655474
+7	subtype	center	section	cDC2	0.0053072585724294186
+7	subtype	center	section	iCAF	0.041029371321201324
+7	subtype	center	section	pDC	0.004257449880242348
+7	subtype	center	section	rCAF	0.01348322257399559
+7	subtype	center	section	vCAF	0.024408498778939247
+8	subtype	center	section	Arterial EC	0.007338775787502527
+8	subtype	center	section	C1QC TAM	0.02475803904235363
+8	subtype	center	section	CD4 Helper/Conventional	0.026467496529221535
+8	subtype	center	section	CD4 Naive/Memory-like	0.02714362181723118
+8	subtype	center	section	CD8 Exhausted	0.028652360662817955
+8	subtype	center	section	CD8 GZMK/Effector-memory-like	0.028189435601234436
+8	subtype	center	section	Capillary EC	0.02347530424594879
+8	subtype	center	section	Classical Mono	0.018155330792069435
+8	subtype	center	section	Epithelial	0.24596115946769714
+8	subtype	center	section	GC B	0.11044567823410034
+8	subtype	center	section	LAMP3 DC	0.009235065430402756
+8	subtype	center	section	Lymphatic EC	0.012697176076471806
+8	subtype	center	section	Mast	0.016820399090647697
+8	subtype	center	section	Matrix_CAF	0.019634101539850235
+8	subtype	center	section	NK	0.020923512056469917
+8	subtype	center	section	Naive/Memory B	0.12821286916732788
+8	subtype	center	section	Neutrophil	0.024278022348880768
+8	subtype	center	section	Pericyte	0.010996166616678238
+8	subtype	center	section	Plasma	0.038049209862947464
+8	subtype	center	section	SMC	0.026289569213986397
+8	subtype	center	section	SPP1 TAM	0.013619179837405682
+8	subtype	center	section	Tfh/CXCL13-like	0.02322397194802761
+8	subtype	center	section	Treg	0.027241161093115807
+8	subtype	center	section	Venous EC	0.013990922830998898
+8	subtype	center	section	cDC1	0.009442691691219807
+8	subtype	center	section	cDC2	0.01389131136238575
+8	subtype	center	section	iCAF	0.011332851834595203
+8	subtype	center	section	pDC	0.016350548714399338
+8	subtype	center	section	rCAF	0.008973445743322372
+8	subtype	center	section	vCAF	0.014210646040737629
+0	subtype	center	patient	Arterial EC	0.011739545501768589
+0	subtype	center	patient	C1QC TAM	0.04464652016758919
+0	subtype	center	patient	CD4 Helper/Conventional	0.0448523685336113
+0	subtype	center	patient	CD4 Naive/Memory-like	0.039151087403297424
+0	subtype	center	patient	CD8 Exhausted	0.045090001076459885
+0	subtype	center	patient	CD8 GZMK/Effector-memory-like	0.04130842164158821
+0	subtype	center	patient	Capillary EC	0.025573251768946648
+0	subtype	center	patient	Classical Mono	0.018986929208040237
+0	subtype	center	patient	Epithelial	0.0649094358086586
+0	subtype	center	patient	GC B	0.029447881504893303
+0	subtype	center	patient	LAMP3 DC	0.013638337142765522
+0	subtype	center	patient	Lymphatic EC	0.01690024510025978
+0	subtype	center	patient	Mast	0.02083907276391983
+0	subtype	center	patient	Matrix_CAF	0.0785381868481636
+0	subtype	center	patient	NK	0.03319849446415901
+0	subtype	center	patient	Naive/Memory B	0.08112745732069016
+0	subtype	center	patient	Neutrophil	0.04802755266427994
+0	subtype	center	patient	Pericyte	0.015011330135166645
+0	subtype	center	patient	Plasma	0.049321454018354416
+0	subtype	center	patient	SMC	0.03399691730737686
+0	subtype	center	patient	SPP1 TAM	0.021758751943707466
+0	subtype	center	patient	Tfh/CXCL13-like	0.033275194466114044
+0	subtype	center	patient	Treg	0.03980674594640732
+0	subtype	center	patient	Venous EC	0.022474901750683784
+0	subtype	center	patient	cDC1	0.011629068292677402
+0	subtype	center	patient	cDC2	0.015679383650422096
+0	subtype	center	patient	iCAF	0.032225459814071655
+0	subtype	center	patient	pDC	0.016395557671785355
+0	subtype	center	patient	rCAF	0.015120635740458965
+0	subtype	center	patient	vCAF	0.03532981872558594
+1	subtype	center	patient	Arterial EC	0.017416542395949364
+1	subtype	center	patient	C1QC TAM	0.0286959670484066
+1	subtype	center	patient	CD4 Helper/Conventional	0.019035812467336655
+1	subtype	center	patient	CD4 Naive/Memory-like	0.019687214866280556
+1	subtype	center	patient	CD8 Exhausted	0.020222865045070648
+1	subtype	center	patient	CD8 GZMK/Effector-memory-like	0.020661963149905205
+1	subtype	center	patient	Capillary EC	0.030986187979578972
+1	subtype	center	patient	Classical Mono	0.012033113278448582
+1	subtype	center	patient	Epithelial	0.11894479393959045
+1	subtype	center	patient	GC B	0.01994582638144493
+1	subtype	center	patient	LAMP3 DC	0.00933039654046297
+1	subtype	center	patient	Lymphatic EC	0.019264403730630875
+1	subtype	center	patient	Mast	0.015929635614156723
+1	subtype	center	patient	Matrix_CAF	0.0703779086470604
+1	subtype	center	patient	NK	0.01787467487156391
+1	subtype	center	patient	Naive/Memory B	0.04264267906546593
+1	subtype	center	patient	Neutrophil	0.023365173488855362
+1	subtype	center	patient	Pericyte	0.021806873381137848
+1	subtype	center	patient	Plasma	0.021824469789862633
+1	subtype	center	patient	SMC	0.2329310029745102
+1	subtype	center	patient	SPP1 TAM	0.014647681266069412
+1	subtype	center	patient	Tfh/CXCL13-like	0.017924431711435318
+1	subtype	center	patient	Treg	0.01720425859093666
+1	subtype	center	patient	Venous EC	0.024441035464406013
+1	subtype	center	patient	cDC1	0.009877004660665989
+1	subtype	center	patient	cDC2	0.012699092738330364
+1	subtype	center	patient	iCAF	0.04527741298079491
+1	subtype	center	patient	pDC	0.010662954300642014
+1	subtype	center	patient	rCAF	0.022839855402708054
+1	subtype	center	patient	vCAF	0.041448768228292465
+2	subtype	center	patient	Arterial EC	0.006234126631170511
+2	subtype	center	patient	C1QC TAM	0.012434969656169415
+2	subtype	center	patient	CD4 Helper/Conventional	0.0113819045946002
+2	subtype	center	patient	CD4 Naive/Memory-like	0.016132736578583717
+2	subtype	center	patient	CD8 Exhausted	0.013274581171572208
+2	subtype	center	patient	CD8 GZMK/Effector-memory-like	0.012573274783790112
+2	subtype	center	patient	Capillary EC	0.006622205022722483
+2	subtype	center	patient	Classical Mono	0.011545674875378609
+2	subtype	center	patient	Epithelial	0.6255459785461426
+2	subtype	center	patient	GC B	0.04414813220500946
+2	subtype	center	patient	LAMP3 DC	0.009924691170454025
+2	subtype	center	patient	Lymphatic EC	0.012735355645418167
+2	subtype	center	patient	Mast	0.013580546714365482
+2	subtype	center	patient	Matrix_CAF	0.01074977871030569
+2	subtype	center	patient	NK	0.012386100366711617
+2	subtype	center	patient	Naive/Memory B	0.026039978489279747
+2	subtype	center	patient	Neutrophil	0.03206692636013031
+2	subtype	center	patient	Pericyte	0.006577794440090656
+2	subtype	center	patient	Plasma	0.007314834278076887
+2	subtype	center	patient	SMC	0.009746857918798923
+2	subtype	center	patient	SPP1 TAM	0.012446262873709202
+2	subtype	center	patient	Tfh/CXCL13-like	0.011586357839405537
+2	subtype	center	patient	Treg	0.013852100819349289
+2	subtype	center	patient	Venous EC	0.006532363593578339
+2	subtype	center	patient	cDC1	0.01146148145198822
+2	subtype	center	patient	cDC2	0.006593731697648764
+2	subtype	center	patient	iCAF	0.0036563824396580458
+2	subtype	center	patient	pDC	0.017580175772309303
+2	subtype	center	patient	rCAF	0.00422013271600008
+2	subtype	center	patient	vCAF	0.011054586619138718
+3	subtype	center	patient	Arterial EC	0.004203584976494312
+3	subtype	center	patient	C1QC TAM	0.010943380184471607
+3	subtype	center	patient	CD4 Helper/Conventional	0.011283079162240028
+3	subtype	center	patient	CD4 Naive/Memory-like	0.03080136515200138
+3	subtype	center	patient	CD8 Exhausted	0.010936832055449486
+3	subtype	center	patient	CD8 GZMK/Effector-memory-like	0.013391933403909206
+3	subtype	center	patient	Capillary EC	0.00400481978431344
+3	subtype	center	patient	Classical Mono	0.021980559453368187
+3	subtype	center	patient	Epithelial	0.4154755771160126
+3	subtype	center	patient	GC B	0.0593380443751812
+3	subtype	center	patient	LAMP3 DC	0.008417625911533833
+3	subtype	center	patient	Lymphatic EC	0.011973346583545208
+3	subtype	center	patient	Mast	0.012179593555629253
+3	subtype	center	patient	Matrix_CAF	0.003460394451394677
+3	subtype	center	patient	NK	0.01366791408509016
+3	subtype	center	patient	Naive/Memory B	0.08670281618833542
+3	subtype	center	patient	Neutrophil	0.1463492065668106
+3	subtype	center	patient	Pericyte	0.0022083434741944075
+3	subtype	center	patient	Plasma	0.017314735800027847
+3	subtype	center	patient	SMC	0.004970340523868799
+3	subtype	center	patient	SPP1 TAM	0.03496766835451126
+3	subtype	center	patient	Tfh/CXCL13-like	0.01150450762361288
+3	subtype	center	patient	Treg	0.014042234979569912
+3	subtype	center	patient	Venous EC	0.0065610697492957115
+3	subtype	center	patient	cDC1	0.008411036804318428
+3	subtype	center	patient	cDC2	0.006495301146060228
+3	subtype	center	patient	iCAF	0.004298727493733168
+3	subtype	center	patient	pDC	0.011740806512534618
+3	subtype	center	patient	rCAF	0.004361066035926342
+3	subtype	center	patient	vCAF	0.00801408477127552
+4	subtype	center	patient	Arterial EC	0.010174465365707874
+4	subtype	center	patient	C1QC TAM	0.02853930927813053
+4	subtype	center	patient	CD4 Helper/Conventional	0.02544906921684742
+4	subtype	center	patient	CD4 Naive/Memory-like	0.025253375992178917
+4	subtype	center	patient	CD8 Exhausted	0.03120030090212822
+4	subtype	center	patient	CD8 GZMK/Effector-memory-like	0.02594785951077938
+4	subtype	center	patient	Capillary EC	0.020171571522951126
+4	subtype	center	patient	Classical Mono	0.018404854461550713
+4	subtype	center	patient	Epithelial	0.3045385479927063
+4	subtype	center	patient	GC B	0.0375981442630291
+4	subtype	center	patient	LAMP3 DC	0.015199802815914154
+4	subtype	center	patient	Lymphatic EC	0.019518226385116577
+4	subtype	center	patient	Mast	0.01815972849726677
+4	subtype	center	patient	Matrix_CAF	0.04281764104962349
+4	subtype	center	patient	NK	0.023875875398516655
+4	subtype	center	patient	Naive/Memory B	0.04558143764734268
+4	subtype	center	patient	Neutrophil	0.04709967225790024
+4	subtype	center	patient	Pericyte	0.012644664384424686
+4	subtype	center	patient	Plasma	0.027836767956614494
+4	subtype	center	patient	SMC	0.023597899824380875
+4	subtype	center	patient	SPP1 TAM	0.021468685939908028
+4	subtype	center	patient	Tfh/CXCL13-like	0.02221420593559742
+4	subtype	center	patient	Treg	0.02848966419696808
+4	subtype	center	patient	Venous EC	0.019354404881596565
+4	subtype	center	patient	cDC1	0.01314508356153965
+4	subtype	center	patient	cDC2	0.013123546727001667
+4	subtype	center	patient	iCAF	0.013915374875068665
+4	subtype	center	patient	pDC	0.017265215516090393
+4	subtype	center	patient	rCAF	0.009853824973106384
+4	subtype	center	patient	vCAF	0.03756078705191612
+5	subtype	center	patient	Arterial EC	0.004977138713002205
+5	subtype	center	patient	C1QC TAM	0.022924039512872696
+5	subtype	center	patient	CD4 Helper/Conventional	0.02176901511847973
+5	subtype	center	patient	CD4 Naive/Memory-like	0.023227263242006302
+5	subtype	center	patient	CD8 Exhausted	0.022198591381311417
+5	subtype	center	patient	CD8 GZMK/Effector-memory-like	0.02612043358385563
+5	subtype	center	patient	Capillary EC	0.008693491108715534
+5	subtype	center	patient	Classical Mono	0.05201032757759094
+5	subtype	center	patient	Epithelial	0.05669012293219566
+5	subtype	center	patient	GC B	0.016634812578558922
+5	subtype	center	patient	LAMP3 DC	0.008445990271866322
+5	subtype	center	patient	Lymphatic EC	0.008039954118430614
+5	subtype	center	patient	Mast	0.01730586588382721
+5	subtype	center	patient	Matrix_CAF	0.013733619824051857
+5	subtype	center	patient	NK	0.021095722913742065
+5	subtype	center	patient	Naive/Memory B	0.04514739662408829
+5	subtype	center	patient	Neutrophil	0.3199937045574188
+5	subtype	center	patient	Pericyte	0.005152316763997078
+5	subtype	center	patient	Plasma	0.0064597660675644875
+5	subtype	center	patient	SMC	0.00912236887961626
+5	subtype	center	patient	SPP1 TAM	0.1879591941833496
+5	subtype	center	patient	Tfh/CXCL13-like	0.0161117073148489
+5	subtype	center	patient	Treg	0.01993202418088913
+5	subtype	center	patient	Venous EC	0.0076318709179759026
+5	subtype	center	patient	cDC1	0.0094751613214612
+5	subtype	center	patient	cDC2	0.015672869980335236
+5	subtype	center	patient	iCAF	0.006116966716945171
+5	subtype	center	patient	pDC	0.010247991420328617
+5	subtype	center	patient	rCAF	0.0066032567992806435
+5	subtype	center	patient	vCAF	0.01050704438239336
+6	subtype	center	patient	Arterial EC	0.013628610409796238
+6	subtype	center	patient	C1QC TAM	0.015363437123596668
+6	subtype	center	patient	CD4 Helper/Conventional	0.01331742201000452
+6	subtype	center	patient	CD4 Naive/Memory-like	0.015515005216002464
+6	subtype	center	patient	CD8 Exhausted	0.016663355752825737
+6	subtype	center	patient	CD8 GZMK/Effector-memory-like	0.0143946697935462
+6	subtype	center	patient	Capillary EC	0.03437816724181175
+6	subtype	center	patient	Classical Mono	0.012651745229959488
+6	subtype	center	patient	Epithelial	0.42642688751220703
+6	subtype	center	patient	GC B	0.037786416709423065
+6	subtype	center	patient	LAMP3 DC	0.016123712062835693
+6	subtype	center	patient	Lymphatic EC	0.03142736852169037
+6	subtype	center	patient	Mast	0.015191374346613884
+6	subtype	center	patient	Matrix_CAF	0.0388241671025753
+6	subtype	center	patient	NK	0.013850116170942783
+6	subtype	center	patient	Naive/Memory B	0.017579207196831703
+6	subtype	center	patient	Neutrophil	0.026549000293016434
+6	subtype	center	patient	Pericyte	0.017263038083910942
+6	subtype	center	patient	Plasma	0.011284288950264454
+6	subtype	center	patient	SMC	0.026887349784374237
+6	subtype	center	patient	SPP1 TAM	0.02178811840713024
+6	subtype	center	patient	Tfh/CXCL13-like	0.013913009315729141
+6	subtype	center	patient	Treg	0.016389261931180954
+6	subtype	center	patient	Venous EC	0.02573801577091217
+6	subtype	center	patient	cDC1	0.013290339149534702
+6	subtype	center	patient	cDC2	0.010102709755301476
+6	subtype	center	patient	iCAF	0.016656817868351936
+6	subtype	center	patient	pDC	0.015633752569556236
+6	subtype	center	patient	rCAF	0.008531039580702782
+6	subtype	center	patient	vCAF	0.04285162314772606
+7	subtype	center	patient	Arterial EC	0.011810850352048874
+7	subtype	center	patient	C1QC TAM	0.01407028641551733
+7	subtype	center	patient	CD4 Helper/Conventional	0.01083541102707386
+7	subtype	center	patient	CD4 Naive/Memory-like	0.013889294117689133
+7	subtype	center	patient	CD8 Exhausted	0.00907769426703453
+7	subtype	center	patient	CD8 GZMK/Effector-memory-like	0.012219637632369995
+7	subtype	center	patient	Capillary EC	0.01671731472015381
+7	subtype	center	patient	Classical Mono	0.004163812380284071
+7	subtype	center	patient	Epithelial	0.00757193099707365
+7	subtype	center	patient	GC B	0.004602497443556786
+7	subtype	center	patient	LAMP3 DC	0.004521951545029879
+7	subtype	center	patient	Lymphatic EC	0.009025024250149727
+7	subtype	center	patient	Mast	0.014245186001062393
+7	subtype	center	patient	Matrix_CAF	0.01833079569041729
+7	subtype	center	patient	NK	0.010304909199476242
+7	subtype	center	patient	Naive/Memory B	0.029757356271147728
+7	subtype	center	patient	Neutrophil	0.012713596224784851
+7	subtype	center	patient	Pericyte	0.0036575368139892817
+7	subtype	center	patient	Plasma	0.014133685268461704
+7	subtype	center	patient	SMC	0.6394672393798828
+7	subtype	center	patient	SPP1 TAM	0.0023789650294929743
+7	subtype	center	patient	Tfh/CXCL13-like	0.010136670432984829
+7	subtype	center	patient	Treg	0.007637716364115477
+7	subtype	center	patient	Venous EC	0.01587654836475849
+7	subtype	center	patient	cDC1	0.004574433900415897
+7	subtype	center	patient	cDC2	0.005007634870707989
+7	subtype	center	patient	iCAF	0.050593432039022446
+7	subtype	center	patient	pDC	0.004050916060805321
+7	subtype	center	patient	rCAF	0.017176553606987
+7	subtype	center	patient	vCAF	0.021451126784086227
+8	subtype	center	patient	Arterial EC	0.00644049234688282
+8	subtype	center	patient	C1QC TAM	0.0501125268638134
+8	subtype	center	patient	CD4 Helper/Conventional	0.03582453727722168
+8	subtype	center	patient	CD4 Naive/Memory-like	0.02733558602631092
+8	subtype	center	patient	CD8 Exhausted	0.029778774827718735
+8	subtype	center	patient	CD8 GZMK/Effector-memory-like	0.02771245688199997
+8	subtype	center	patient	Capillary EC	0.04708104953169823
+8	subtype	center	patient	Classical Mono	0.0273155327886343
+8	subtype	center	patient	Epithelial	0.23538389801979065
+8	subtype	center	patient	GC B	0.07499387860298157
+8	subtype	center	patient	LAMP3 DC	0.008037346415221691
+8	subtype	center	patient	Lymphatic EC	0.01548970676958561
+8	subtype	center	patient	Mast	0.0125217754393816
+8	subtype	center	patient	Matrix_CAF	0.02741856314241886
+8	subtype	center	patient	NK	0.024542778730392456
+8	subtype	center	patient	Naive/Memory B	0.11614358425140381
+8	subtype	center	patient	Neutrophil	0.03125280886888504
+8	subtype	center	patient	Pericyte	0.018301932141184807
+8	subtype	center	patient	Plasma	0.010193566791713238
+8	subtype	center	patient	SMC	0.01179563533514738
+8	subtype	center	patient	SPP1 TAM	0.03630195930600166
+8	subtype	center	patient	Tfh/CXCL13-like	0.016716280952095985
+8	subtype	center	patient	Treg	0.034076593816280365
+8	subtype	center	patient	Venous EC	0.012795619666576385
+8	subtype	center	patient	cDC1	0.009183288551867008
+8	subtype	center	patient	cDC2	0.011203337460756302
+8	subtype	center	patient	iCAF	0.002784182783216238
+8	subtype	center	patient	pDC	0.014326022937893867
+8	subtype	center	patient	rCAF	0.009005649015307426
+8	subtype	center	patient	vCAF	0.01593068428337574
+0	subtype	neighborhood	pooled	Arterial EC	0.014269290491938591
+0	subtype	neighborhood	pooled	C1QC TAM	0.03681854158639908
+0	subtype	neighborhood	pooled	CD4 Helper/Conventional	0.03894560784101486
+0	subtype	neighborhood	pooled	CD4 Naive/Memory-like	0.04072468355298042
+0	subtype	neighborhood	pooled	CD8 Exhausted	0.0364452563226223
+0	subtype	neighborhood	pooled	CD8 GZMK/Effector-memory-like	0.037817034870386124
+0	subtype	neighborhood	pooled	Capillary EC	0.026332823559641838
+0	subtype	neighborhood	pooled	Classical Mono	0.016016781330108643
+0	subtype	neighborhood	pooled	Epithelial	0.05485003441572189
+0	subtype	neighborhood	pooled	GC B	0.03260331228375435
+0	subtype	neighborhood	pooled	LAMP3 DC	0.014461810700595379
+0	subtype	neighborhood	pooled	Lymphatic EC	0.01911153458058834
+0	subtype	neighborhood	pooled	Mast	0.0204461719840765
+0	subtype	neighborhood	pooled	Matrix_CAF	0.0549839586019516
+0	subtype	neighborhood	pooled	NK	0.02895800583064556
+0	subtype	neighborhood	pooled	Naive/Memory B	0.08984966576099396
+0	subtype	neighborhood	pooled	Neutrophil	0.0410311259329319
+0	subtype	neighborhood	pooled	Pericyte	0.012561630457639694
+0	subtype	neighborhood	pooled	Plasma	0.08288930356502533
+0	subtype	neighborhood	pooled	SMC	0.04253416135907173
+0	subtype	neighborhood	pooled	SPP1 TAM	0.01927265152335167
+0	subtype	neighborhood	pooled	Tfh/CXCL13-like	0.03001134656369686
+0	subtype	neighborhood	pooled	Treg	0.03538970649242401
+0	subtype	neighborhood	pooled	Venous EC	0.028913524001836777
+0	subtype	neighborhood	pooled	cDC1	0.012061637826263905
+0	subtype	neighborhood	pooled	cDC2	0.01488962210714817
+0	subtype	neighborhood	pooled	iCAF	0.05396735295653343
+0	subtype	neighborhood	pooled	pDC	0.01367992628365755
+0	subtype	neighborhood	pooled	rCAF	0.01968616060912609
+0	subtype	neighborhood	pooled	vCAF	0.030477330088615417
+1	subtype	neighborhood	pooled	Arterial EC	0.021668514236807823
+1	subtype	neighborhood	pooled	C1QC TAM	0.02500447817146778
+1	subtype	neighborhood	pooled	CD4 Helper/Conventional	0.02139332704246044
+1	subtype	neighborhood	pooled	CD4 Naive/Memory-like	0.02284751646220684
+1	subtype	neighborhood	pooled	CD8 Exhausted	0.020337892696261406
+1	subtype	neighborhood	pooled	CD8 GZMK/Effector-memory-like	0.024415258318185806
+1	subtype	neighborhood	pooled	Capillary EC	0.021714583039283752
+1	subtype	neighborhood	pooled	Classical Mono	0.011638469994068146
+1	subtype	neighborhood	pooled	Epithelial	0.09662605822086334
+1	subtype	neighborhood	pooled	GC B	0.021767864003777504
+1	subtype	neighborhood	pooled	LAMP3 DC	0.009938640519976616
+1	subtype	neighborhood	pooled	Lymphatic EC	0.02020668238401413
+1	subtype	neighborhood	pooled	Mast	0.019277187064290047
+1	subtype	neighborhood	pooled	Matrix_CAF	0.037175022065639496
+1	subtype	neighborhood	pooled	NK	0.0195277351886034
+1	subtype	neighborhood	pooled	Naive/Memory B	0.042098574340343475
+1	subtype	neighborhood	pooled	Neutrophil	0.020901313051581383
+1	subtype	neighborhood	pooled	Pericyte	0.015031179413199425
+1	subtype	neighborhood	pooled	Plasma	0.02440142072737217
+1	subtype	neighborhood	pooled	SMC	0.26853951811790466
+1	subtype	neighborhood	pooled	SPP1 TAM	0.011518517509102821
+1	subtype	neighborhood	pooled	Tfh/CXCL13-like	0.018363196402788162
+1	subtype	neighborhood	pooled	Treg	0.020348692312836647
+1	subtype	neighborhood	pooled	Venous EC	0.028210842981934547
+1	subtype	neighborhood	pooled	cDC1	0.010183988139033318
+1	subtype	neighborhood	pooled	cDC2	0.01200050488114357
+1	subtype	neighborhood	pooled	iCAF	0.05939595773816109
+1	subtype	neighborhood	pooled	pDC	0.010989997535943985
+1	subtype	neighborhood	pooled	rCAF	0.018834704533219337
+1	subtype	neighborhood	pooled	vCAF	0.04564234986901283
+2	subtype	neighborhood	pooled	Arterial EC	0.003812092123553157
+2	subtype	neighborhood	pooled	C1QC TAM	0.007878191769123077
+2	subtype	neighborhood	pooled	CD4 Helper/Conventional	0.0104684354737401
+2	subtype	neighborhood	pooled	CD4 Naive/Memory-like	0.011602476239204407
+2	subtype	neighborhood	pooled	CD8 Exhausted	0.011135200969874859
+2	subtype	neighborhood	pooled	CD8 GZMK/Effector-memory-like	0.01111153606325388
+2	subtype	neighborhood	pooled	Capillary EC	0.010879013687372208
+2	subtype	neighborhood	pooled	Classical Mono	0.00720788910984993
+2	subtype	neighborhood	pooled	Epithelial	0.6985403895378113
+2	subtype	neighborhood	pooled	GC B	0.0350252166390419
+2	subtype	neighborhood	pooled	LAMP3 DC	0.006941780913621187
+2	subtype	neighborhood	pooled	Lymphatic EC	0.008113933727145195
+2	subtype	neighborhood	pooled	Mast	0.01093401201069355
+2	subtype	neighborhood	pooled	Matrix_CAF	0.013382060453295708
+2	subtype	neighborhood	pooled	NK	0.009715037420392036
+2	subtype	neighborhood	pooled	Naive/Memory B	0.019162314012646675
+2	subtype	neighborhood	pooled	Neutrophil	0.0232219435274601
+2	subtype	neighborhood	pooled	Pericyte	0.007492552977055311
+2	subtype	neighborhood	pooled	Plasma	0.008879459463059902
+2	subtype	neighborhood	pooled	SMC	0.006789073348045349
+2	subtype	neighborhood	pooled	SPP1 TAM	0.008153489790856838
+2	subtype	neighborhood	pooled	Tfh/CXCL13-like	0.009715831838548183
+2	subtype	neighborhood	pooled	Treg	0.01118490006774664
+2	subtype	neighborhood	pooled	Venous EC	0.004914532881230116
+2	subtype	neighborhood	pooled	cDC1	0.0076849632896482944
+2	subtype	neighborhood	pooled	cDC2	0.004960284102708101
+2	subtype	neighborhood	pooled	iCAF	0.003569681430235505
+2	subtype	neighborhood	pooled	pDC	0.014042031019926071
+2	subtype	neighborhood	pooled	rCAF	0.0030065656173974276
+2	subtype	neighborhood	pooled	vCAF	0.010475088842213154
+3	subtype	neighborhood	pooled	Arterial EC	0.002484838478267193
+3	subtype	neighborhood	pooled	C1QC TAM	0.005964324343949556
+3	subtype	neighborhood	pooled	CD4 Helper/Conventional	0.010025798343122005
+3	subtype	neighborhood	pooled	CD4 Naive/Memory-like	0.014286470599472523
+3	subtype	neighborhood	pooled	CD8 Exhausted	0.009816594421863556
+3	subtype	neighborhood	pooled	CD8 GZMK/Effector-memory-like	0.010738922283053398
+3	subtype	neighborhood	pooled	Capillary EC	0.008047009818255901
+3	subtype	neighborhood	pooled	Classical Mono	0.014923515729606152
+3	subtype	neighborhood	pooled	Epithelial	0.5207810401916504
+3	subtype	neighborhood	pooled	GC B	0.14133359491825104
+3	subtype	neighborhood	pooled	LAMP3 DC	0.008410030044615269
+3	subtype	neighborhood	pooled	Lymphatic EC	0.00498800678178668
+3	subtype	neighborhood	pooled	Mast	0.016858644783496857
+3	subtype	neighborhood	pooled	Matrix_CAF	0.002242246177047491
+3	subtype	neighborhood	pooled	NK	0.009962181560695171
+3	subtype	neighborhood	pooled	Naive/Memory B	0.07827156782150269
+3	subtype	neighborhood	pooled	Neutrophil	0.025468859821558
+3	subtype	neighborhood	pooled	Pericyte	0.0026628945488482714
+3	subtype	neighborhood	pooled	Plasma	0.026030316948890686
+3	subtype	neighborhood	pooled	SMC	0.0021813898347318172
+3	subtype	neighborhood	pooled	SPP1 TAM	0.007165573071688414
+3	subtype	neighborhood	pooled	Tfh/CXCL13-like	0.011118653230369091
+3	subtype	neighborhood	pooled	Treg	0.011687506921589375
+3	subtype	neighborhood	pooled	Venous EC	0.0030258805491030216
+3	subtype	neighborhood	pooled	cDC1	0.012370998039841652
+3	subtype	neighborhood	pooled	cDC2	0.006773006170988083
+3	subtype	neighborhood	pooled	iCAF	0.0016400247113779187
+3	subtype	neighborhood	pooled	pDC	0.024632785469293594
+3	subtype	neighborhood	pooled	rCAF	0.0013550015864893794
+3	subtype	neighborhood	pooled	vCAF	0.004752319771796465
+4	subtype	neighborhood	pooled	Arterial EC	0.009525633417069912
+4	subtype	neighborhood	pooled	C1QC TAM	0.022259561344981194
+4	subtype	neighborhood	pooled	CD4 Helper/Conventional	0.02437255159020424
+4	subtype	neighborhood	pooled	CD4 Naive/Memory-like	0.024049704894423485
+4	subtype	neighborhood	pooled	CD8 Exhausted	0.027765335515141487
+4	subtype	neighborhood	pooled	CD8 GZMK/Effector-memory-like	0.025281960144639015
+4	subtype	neighborhood	pooled	Capillary EC	0.01663699932396412
+4	subtype	neighborhood	pooled	Classical Mono	0.018869418650865555
+4	subtype	neighborhood	pooled	Epithelial	0.34709593653678894
+4	subtype	neighborhood	pooled	GC B	0.04645415022969246
+4	subtype	neighborhood	pooled	LAMP3 DC	0.016123313456773758
+4	subtype	neighborhood	pooled	Lymphatic EC	0.023957327008247375
+4	subtype	neighborhood	pooled	Mast	0.0194481760263443
+4	subtype	neighborhood	pooled	Matrix_CAF	0.032537590712308884
+4	subtype	neighborhood	pooled	NK	0.02356540784239769
+4	subtype	neighborhood	pooled	Naive/Memory B	0.04465794563293457
+4	subtype	neighborhood	pooled	Neutrophil	0.04066932201385498
+4	subtype	neighborhood	pooled	Pericyte	0.011347556486725807
+4	subtype	neighborhood	pooled	Plasma	0.027293527498841286
+4	subtype	neighborhood	pooled	SMC	0.017515556886792183
+4	subtype	neighborhood	pooled	SPP1 TAM	0.021114470437169075
+4	subtype	neighborhood	pooled	Tfh/CXCL13-like	0.020486624911427498
+4	subtype	neighborhood	pooled	Treg	0.02703855000436306
+4	subtype	neighborhood	pooled	Venous EC	0.014204738661646843
+4	subtype	neighborhood	pooled	cDC1	0.016036221757531166
+4	subtype	neighborhood	pooled	cDC2	0.013288188725709915
+4	subtype	neighborhood	pooled	iCAF	0.013374680653214455
+4	subtype	neighborhood	pooled	pDC	0.01777563989162445
+4	subtype	neighborhood	pooled	rCAF	0.009417636319994926
+4	subtype	neighborhood	pooled	vCAF	0.027836263179779053
+5	subtype	neighborhood	pooled	Arterial EC	0.004201072268188
+5	subtype	neighborhood	pooled	C1QC TAM	0.0173939298838377
+5	subtype	neighborhood	pooled	CD4 Helper/Conventional	0.01636487990617752
+5	subtype	neighborhood	pooled	CD4 Naive/Memory-like	0.0202118381857872
+5	subtype	neighborhood	pooled	CD8 Exhausted	0.020948976278305054
+5	subtype	neighborhood	pooled	CD8 GZMK/Effector-memory-like	0.018918663263320923
+5	subtype	neighborhood	pooled	Capillary EC	0.00713909137994051
+5	subtype	neighborhood	pooled	Classical Mono	0.038670800626277924
+5	subtype	neighborhood	pooled	Epithelial	0.061912454664707184
+5	subtype	neighborhood	pooled	GC B	0.023527204990386963
+5	subtype	neighborhood	pooled	LAMP3 DC	0.006052137352526188
+5	subtype	neighborhood	pooled	Lymphatic EC	0.0092842448502779
+5	subtype	neighborhood	pooled	Mast	0.01610051468014717
+5	subtype	neighborhood	pooled	Matrix_CAF	0.014939320273697376
+5	subtype	neighborhood	pooled	NK	0.017351852729916573
+5	subtype	neighborhood	pooled	Naive/Memory B	0.03205793350934982
+5	subtype	neighborhood	pooled	Neutrophil	0.42488762736320496
+5	subtype	neighborhood	pooled	Pericyte	0.0038781724870204926
+5	subtype	neighborhood	pooled	Plasma	0.006469078361988068
+5	subtype	neighborhood	pooled	SMC	0.007829233072698116
+5	subtype	neighborhood	pooled	SPP1 TAM	0.1528008133172989
+5	subtype	neighborhood	pooled	Tfh/CXCL13-like	0.014035995118319988
+5	subtype	neighborhood	pooled	Treg	0.016512008383870125
+5	subtype	neighborhood	pooled	Venous EC	0.005543585401028395
+5	subtype	neighborhood	pooled	cDC1	0.008811380714178085
+5	subtype	neighborhood	pooled	cDC2	0.009533080272376537
+5	subtype	neighborhood	pooled	iCAF	0.004494510591030121
+5	subtype	neighborhood	pooled	pDC	0.007658936083316803
+5	subtype	neighborhood	pooled	rCAF	0.00469413073733449
+5	subtype	neighborhood	pooled	vCAF	0.007776515558362007
+6	subtype	neighborhood	pooled	Arterial EC	0.014081179164350033
+6	subtype	neighborhood	pooled	C1QC TAM	0.01296527124941349
+6	subtype	neighborhood	pooled	CD4 Helper/Conventional	0.010607737116515636
+6	subtype	neighborhood	pooled	CD4 Naive/Memory-like	0.010423077270388603
+6	subtype	neighborhood	pooled	CD8 Exhausted	0.015486713498830795
+6	subtype	neighborhood	pooled	CD8 GZMK/Effector-memory-like	0.01126076653599739
+6	subtype	neighborhood	pooled	Capillary EC	0.019177772104740143
+6	subtype	neighborhood	pooled	Classical Mono	0.010853799059987068
+6	subtype	neighborhood	pooled	Epithelial	0.4491831660270691
+6	subtype	neighborhood	pooled	GC B	0.03303734213113785
+6	subtype	neighborhood	pooled	LAMP3 DC	0.01628565415740013
+6	subtype	neighborhood	pooled	Lymphatic EC	0.0594264380633831
+6	subtype	neighborhood	pooled	Mast	0.017930597066879272
+6	subtype	neighborhood	pooled	Matrix_CAF	0.02168300375342369
+6	subtype	neighborhood	pooled	NK	0.009991568513214588
+6	subtype	neighborhood	pooled	Naive/Memory B	0.016099561005830765
+6	subtype	neighborhood	pooled	Neutrophil	0.035768281668424606
+6	subtype	neighborhood	pooled	Pericyte	0.012248973362147808
+6	subtype	neighborhood	pooled	Plasma	0.009667821228504181
+6	subtype	neighborhood	pooled	SMC	0.013433724641799927
+6	subtype	neighborhood	pooled	SPP1 TAM	0.025309471413493156
+6	subtype	neighborhood	pooled	Tfh/CXCL13-like	0.00992643740028143
+6	subtype	neighborhood	pooled	Treg	0.011023259721696377
+6	subtype	neighborhood	pooled	Venous EC	0.014980500563979149
+6	subtype	neighborhood	pooled	cDC1	0.011424894444644451
+6	subtype	neighborhood	pooled	cDC2	0.007815301418304443
+6	subtype	neighborhood	pooled	iCAF	0.024813050404191017
+6	subtype	neighborhood	pooled	pDC	0.02103220671415329
+6	subtype	neighborhood	pooled	rCAF	0.007628750056028366
+6	subtype	neighborhood	pooled	vCAF	0.06643369793891907
+7	subtype	neighborhood	pooled	Arterial EC	0.008804508484899998
+7	subtype	neighborhood	pooled	C1QC TAM	0.007849924266338348
+7	subtype	neighborhood	pooled	CD4 Helper/Conventional	0.008242230862379074
+7	subtype	neighborhood	pooled	CD4 Naive/Memory-like	0.011384645476937294
+7	subtype	neighborhood	pooled	CD8 Exhausted	0.006964974571019411
+7	subtype	neighborhood	pooled	CD8 GZMK/Effector-memory-like	0.010155772790312767
+7	subtype	neighborhood	pooled	Capillary EC	0.012485018000006676
+7	subtype	neighborhood	pooled	Classical Mono	0.0036855738144367933
+7	subtype	neighborhood	pooled	Epithelial	0.0074160960502922535
+7	subtype	neighborhood	pooled	GC B	0.009698735550045967
+7	subtype	neighborhood	pooled	LAMP3 DC	0.002652855822816491
+7	subtype	neighborhood	pooled	Lymphatic EC	0.009414853528141975
+7	subtype	neighborhood	pooled	Mast	0.008860180154442787
+7	subtype	neighborhood	pooled	Matrix_CAF	0.015625717118382454
+7	subtype	neighborhood	pooled	NK	0.007087555713951588
+7	subtype	neighborhood	pooled	Naive/Memory B	0.016550077125430107
+7	subtype	neighborhood	pooled	Neutrophil	0.00822406355291605
+7	subtype	neighborhood	pooled	Pericyte	0.010148240253329277
+7	subtype	neighborhood	pooled	Plasma	0.0036337468773126602
+7	subtype	neighborhood	pooled	SMC	0.6977235078811646
+7	subtype	neighborhood	pooled	SPP1 TAM	0.002153117209672928
+7	subtype	neighborhood	pooled	Tfh/CXCL13-like	0.009106973186135292
+7	subtype	neighborhood	pooled	Treg	0.007257689256221056
+7	subtype	neighborhood	pooled	Venous EC	0.015211121179163456
+7	subtype	neighborhood	pooled	cDC1	0.003135175909847021
+7	subtype	neighborhood	pooled	cDC2	0.003358162008225918
+7	subtype	neighborhood	pooled	iCAF	0.04305049031972885
+7	subtype	neighborhood	pooled	pDC	0.002852133708074689
+7	subtype	neighborhood	pooled	rCAF	0.017857082188129425
+7	subtype	neighborhood	pooled	vCAF	0.029409797862172127
+8	subtype	neighborhood	pooled	Arterial EC	0.007357054390013218
+8	subtype	neighborhood	pooled	C1QC TAM	0.032738734036684036
+8	subtype	neighborhood	pooled	CD4 Helper/Conventional	0.013148567639291286
+8	subtype	neighborhood	pooled	CD4 Naive/Memory-like	0.025234360247850418
+8	subtype	neighborhood	pooled	CD8 Exhausted	0.020378952845931053
+8	subtype	neighborhood	pooled	CD8 GZMK/Effector-memory-like	0.01377374492585659
+8	subtype	neighborhood	pooled	Capillary EC	0.026563048362731934
+8	subtype	neighborhood	pooled	Classical Mono	0.022817613556981087
+8	subtype	neighborhood	pooled	Epithelial	0.24558916687965393
+8	subtype	neighborhood	pooled	GC B	0.14914321899414062
+8	subtype	neighborhood	pooled	LAMP3 DC	0.012392654083669186
+8	subtype	neighborhood	pooled	Lymphatic EC	0.02659594640135765
+8	subtype	neighborhood	pooled	Mast	0.024842558428645134
+8	subtype	neighborhood	pooled	Matrix_CAF	0.008522109128534794
+8	subtype	neighborhood	pooled	NK	0.01634426973760128
+8	subtype	neighborhood	pooled	Naive/Memory B	0.11264608055353165
+8	subtype	neighborhood	pooled	Neutrophil	0.03717336803674698
+8	subtype	neighborhood	pooled	Pericyte	0.009905168786644936
+8	subtype	neighborhood	pooled	Plasma	0.04082594811916351
+8	subtype	neighborhood	pooled	SMC	0.004888029303401709
+8	subtype	neighborhood	pooled	SPP1 TAM	0.018637700006365776
+8	subtype	neighborhood	pooled	Tfh/CXCL13-like	0.020197493955492973
+8	subtype	neighborhood	pooled	Treg	0.014341430738568306
+8	subtype	neighborhood	pooled	Venous EC	0.011925880797207355
+8	subtype	neighborhood	pooled	cDC1	0.014502783305943012
+8	subtype	neighborhood	pooled	cDC2	0.015982573851943016
+8	subtype	neighborhood	pooled	iCAF	0.0018746110145002604
+8	subtype	neighborhood	pooled	pDC	0.035927895456552505
+8	subtype	neighborhood	pooled	rCAF	0.0032207269687205553
+8	subtype	neighborhood	pooled	vCAF	0.01250831875950098
+0	subtype	neighborhood	section	Arterial EC	0.013760476373136044
+0	subtype	neighborhood	section	C1QC TAM	0.0355105884373188
+0	subtype	neighborhood	section	CD4 Helper/Conventional	0.03795415163040161
+0	subtype	neighborhood	section	CD4 Naive/Memory-like	0.0376967117190361
+0	subtype	neighborhood	section	CD8 Exhausted	0.03742970898747444
+0	subtype	neighborhood	section	CD8 GZMK/Effector-memory-like	0.041075199842453
+0	subtype	neighborhood	section	Capillary EC	0.02526906505227089
+0	subtype	neighborhood	section	Classical Mono	0.02179059386253357
+0	subtype	neighborhood	section	Epithelial	0.07043714821338654
+0	subtype	neighborhood	section	GC B	0.030789269134402275
+0	subtype	neighborhood	section	LAMP3 DC	0.012230480089783669
+0	subtype	neighborhood	section	Lymphatic EC	0.016416460275650024
+0	subtype	neighborhood	section	Mast	0.018157273530960083
+0	subtype	neighborhood	section	Matrix_CAF	0.057078469544649124
+0	subtype	neighborhood	section	NK	0.03206963092088699
+0	subtype	neighborhood	section	Naive/Memory B	0.08955792337656021
+0	subtype	neighborhood	section	Neutrophil	0.04110349342226982
+0	subtype	neighborhood	section	Pericyte	0.013057325966656208
+0	subtype	neighborhood	section	Plasma	0.0675358772277832
+0	subtype	neighborhood	section	SMC	0.041051995009183884
+0	subtype	neighborhood	section	SPP1 TAM	0.015345564112067223
+0	subtype	neighborhood	section	Tfh/CXCL13-like	0.02863187901675701
+0	subtype	neighborhood	section	Treg	0.03728790581226349
+0	subtype	neighborhood	section	Venous EC	0.030222997069358826
+0	subtype	neighborhood	section	cDC1	0.010083964094519615
+0	subtype	neighborhood	section	cDC2	0.01442435197532177
+0	subtype	neighborhood	section	iCAF	0.05157405510544777
+0	subtype	neighborhood	section	pDC	0.014139612205326557
+0	subtype	neighborhood	section	rCAF	0.01786072365939617
+0	subtype	neighborhood	section	vCAF	0.040457095950841904
+1	subtype	neighborhood	section	Arterial EC	0.02368972636759281
+1	subtype	neighborhood	section	C1QC TAM	0.022495632991194725
+1	subtype	neighborhood	section	CD4 Helper/Conventional	0.019495965912938118
+1	subtype	neighborhood	section	CD4 Naive/Memory-like	0.020035909488797188
+1	subtype	neighborhood	section	CD8 Exhausted	0.01976911723613739
+1	subtype	neighborhood	section	CD8 GZMK/Effector-memory-like	0.022815054282546043
+1	subtype	neighborhood	section	Capillary EC	0.03498000651597977
+1	subtype	neighborhood	section	Classical Mono	0.013470156118273735
+1	subtype	neighborhood	section	Epithelial	0.13837102055549622
+1	subtype	neighborhood	section	GC B	0.022404756397008896
+1	subtype	neighborhood	section	LAMP3 DC	0.008383356034755707
+1	subtype	neighborhood	section	Lymphatic EC	0.015819692984223366
+1	subtype	neighborhood	section	Mast	0.015723561868071556
+1	subtype	neighborhood	section	Matrix_CAF	0.05593215301632881
+1	subtype	neighborhood	section	NK	0.01885109394788742
+1	subtype	neighborhood	section	Naive/Memory B	0.04218205809593201
+1	subtype	neighborhood	section	Neutrophil	0.022684434428811073
+1	subtype	neighborhood	section	Pericyte	0.025345876812934875
+1	subtype	neighborhood	section	Plasma	0.029229335486888885
+1	subtype	neighborhood	section	SMC	0.22042015194892883
+1	subtype	neighborhood	section	SPP1 TAM	0.011898614466190338
+1	subtype	neighborhood	section	Tfh/CXCL13-like	0.016882868483662605
+1	subtype	neighborhood	section	Treg	0.018438218161463737
+1	subtype	neighborhood	section	Venous EC	0.02366499975323677
+1	subtype	neighborhood	section	cDC1	0.008906460367143154
+1	subtype	neighborhood	section	cDC2	0.011238989420235157
+1	subtype	neighborhood	section	iCAF	0.04436524957418442
+1	subtype	neighborhood	section	pDC	0.010395454242825508
+1	subtype	neighborhood	section	rCAF	0.018192507326602936
+1	subtype	neighborhood	section	vCAF	0.04391757398843765
+2	subtype	neighborhood	section	Arterial EC	0.005456759128719568
+2	subtype	neighborhood	section	C1QC TAM	0.00929130706936121
+2	subtype	neighborhood	section	CD4 Helper/Conventional	0.011046595871448517
+2	subtype	neighborhood	section	CD4 Naive/Memory-like	0.014124753884971142
+2	subtype	neighborhood	section	CD8 Exhausted	0.012111152522265911
+2	subtype	neighborhood	section	CD8 GZMK/Effector-memory-like	0.012606325559318066
+2	subtype	neighborhood	section	Capillary EC	0.008528213948011398
+2	subtype	neighborhood	section	Classical Mono	0.012083415873348713
+2	subtype	neighborhood	section	Epithelial	0.6429694890975952
+2	subtype	neighborhood	section	GC B	0.038481734693050385
+2	subtype	neighborhood	section	LAMP3 DC	0.008171486668288708
+2	subtype	neighborhood	section	Lymphatic EC	0.00970055814832449
+2	subtype	neighborhood	section	Mast	0.011977504938840866
+2	subtype	neighborhood	section	Matrix_CAF	0.009759095497429371
+2	subtype	neighborhood	section	NK	0.011697221547365189
+2	subtype	neighborhood	section	Naive/Memory B	0.028527628630399704
+2	subtype	neighborhood	section	Neutrophil	0.02810671366751194
+2	subtype	neighborhood	section	Pericyte	0.007260079495608807
+2	subtype	neighborhood	section	Plasma	0.012798151932656765
+2	subtype	neighborhood	section	SMC	0.009456958621740341
+2	subtype	neighborhood	section	SPP1 TAM	0.009906809777021408
+2	subtype	neighborhood	section	Tfh/CXCL13-like	0.010371134616434574
+2	subtype	neighborhood	section	Treg	0.012919234111905098
+2	subtype	neighborhood	section	Venous EC	0.006102502811700106
+2	subtype	neighborhood	section	cDC1	0.009780863299965858
+2	subtype	neighborhood	section	cDC2	0.008339637890458107
+2	subtype	neighborhood	section	iCAF	0.005194715689867735
+2	subtype	neighborhood	section	pDC	0.015776313841342926
+2	subtype	neighborhood	section	rCAF	0.003992502577602863
+2	subtype	neighborhood	section	vCAF	0.013461146503686905
+3	subtype	neighborhood	section	Arterial EC	0.00372279342263937
+3	subtype	neighborhood	section	C1QC TAM	0.010823797434568405
+3	subtype	neighborhood	section	CD4 Helper/Conventional	0.012894609943032265
+3	subtype	neighborhood	section	CD4 Naive/Memory-like	0.01728830486536026
+3	subtype	neighborhood	section	CD8 Exhausted	0.01353099662810564
+3	subtype	neighborhood	section	CD8 GZMK/Effector-memory-like	0.015266355127096176
+3	subtype	neighborhood	section	Capillary EC	0.007858178578317165
+3	subtype	neighborhood	section	Classical Mono	0.012945130467414856
+3	subtype	neighborhood	section	Epithelial	0.49736258387565613
+3	subtype	neighborhood	section	GC B	0.082260362803936
+3	subtype	neighborhood	section	LAMP3 DC	0.007904695346951485
+3	subtype	neighborhood	section	Lymphatic EC	0.007226015906780958
+3	subtype	neighborhood	section	Mast	0.013499102555215359
+3	subtype	neighborhood	section	Matrix_CAF	0.004741736222058535
+3	subtype	neighborhood	section	NK	0.011476632207632065
+3	subtype	neighborhood	section	Naive/Memory B	0.0953049436211586
+3	subtype	neighborhood	section	Neutrophil	0.039373401552438736
+3	subtype	neighborhood	section	Pericyte	0.0036180748138576746
+3	subtype	neighborhood	section	Plasma	0.04191749542951584
+3	subtype	neighborhood	section	SMC	0.005420814733952284
+3	subtype	neighborhood	section	SPP1 TAM	0.012750914320349693
+3	subtype	neighborhood	section	Tfh/CXCL13-like	0.013075629249215126
+3	subtype	neighborhood	section	Treg	0.016726361587643623
+3	subtype	neighborhood	section	Venous EC	0.006142446305602789
+3	subtype	neighborhood	section	cDC1	0.009010698646306992
+3	subtype	neighborhood	section	cDC2	0.006692319642752409
+3	subtype	neighborhood	section	iCAF	0.0039247311651706696
+3	subtype	neighborhood	section	pDC	0.015827344730496407
+3	subtype	neighborhood	section	rCAF	0.0033820944372564554
+3	subtype	neighborhood	section	vCAF	0.008031478151679039
+4	subtype	neighborhood	section	Arterial EC	0.010304201394319534
+4	subtype	neighborhood	section	C1QC TAM	0.023899225518107414
+4	subtype	neighborhood	section	CD4 Helper/Conventional	0.02395348809659481
+4	subtype	neighborhood	section	CD4 Naive/Memory-like	0.024053378030657768
+4	subtype	neighborhood	section	CD8 Exhausted	0.02770419232547283
+4	subtype	neighborhood	section	CD8 GZMK/Effector-memory-like	0.025959987193346024
+4	subtype	neighborhood	section	Capillary EC	0.02033921703696251
+4	subtype	neighborhood	section	Classical Mono	0.02025536261498928
+4	subtype	neighborhood	section	Epithelial	0.3253864347934723
+4	subtype	neighborhood	section	GC B	0.04256557673215866
+4	subtype	neighborhood	section	LAMP3 DC	0.013374882750213146
+4	subtype	neighborhood	section	Lymphatic EC	0.01680098846554756
+4	subtype	neighborhood	section	Mast	0.016982847824692726
+4	subtype	neighborhood	section	Matrix_CAF	0.03391685709357262
+4	subtype	neighborhood	section	NK	0.024218598380684853
+4	subtype	neighborhood	section	Naive/Memory B	0.05237610265612602
+4	subtype	neighborhood	section	Neutrophil	0.03932391479611397
+4	subtype	neighborhood	section	Pericyte	0.012024600990116596
+4	subtype	neighborhood	section	Plasma	0.03293697163462639
+4	subtype	neighborhood	section	SMC	0.02242279052734375
+4	subtype	neighborhood	section	SPP1 TAM	0.016369875520467758
+4	subtype	neighborhood	section	Tfh/CXCL13-like	0.02005625143647194
+4	subtype	neighborhood	section	Treg	0.027800707146525383
+4	subtype	neighborhood	section	Venous EC	0.018410194665193558
+4	subtype	neighborhood	section	cDC1	0.012290451675653458
+4	subtype	neighborhood	section	cDC2	0.012390890158712864
+4	subtype	neighborhood	section	iCAF	0.020249485969543457
+4	subtype	neighborhood	section	pDC	0.0173974446952343
+4	subtype	neighborhood	section	rCAF	0.010960063897073269
+4	subtype	neighborhood	section	vCAF	0.03527503460645676
+5	subtype	neighborhood	section	Arterial EC	0.004987320397049189
+5	subtype	neighborhood	section	C1QC TAM	0.02861245907843113
+5	subtype	neighborhood	section	CD4 Helper/Conventional	0.021497443318367004
+5	subtype	neighborhood	section	CD4 Naive/Memory-like	0.022610770538449287
+5	subtype	neighborhood	section	CD8 Exhausted	0.023215286433696747
+5	subtype	neighborhood	section	CD8 GZMK/Effector-memory-like	0.026295391842722893
+5	subtype	neighborhood	section	Capillary EC	0.010272172279655933
+5	subtype	neighborhood	section	Classical Mono	0.058130696415901184
+5	subtype	neighborhood	section	Epithelial	0.07165849953889847
+5	subtype	neighborhood	section	GC B	0.021076412871479988
+5	subtype	neighborhood	section	LAMP3 DC	0.008726469241082668
+5	subtype	neighborhood	section	Lymphatic EC	0.009054613299667835
+5	subtype	neighborhood	section	Mast	0.01602349989116192
+5	subtype	neighborhood	section	Matrix_CAF	0.015351909212768078
+5	subtype	neighborhood	section	NK	0.02131461165845394
+5	subtype	neighborhood	section	Naive/Memory B	0.04618239402770996
+5	subtype	neighborhood	section	Neutrophil	0.2893276810646057
+5	subtype	neighborhood	section	Pericyte	0.0063424380496144295
+5	subtype	neighborhood	section	Plasma	0.011366388760507107
+5	subtype	neighborhood	section	SMC	0.009039417840540409
+5	subtype	neighborhood	section	SPP1 TAM	0.17059670388698578
+5	subtype	neighborhood	section	Tfh/CXCL13-like	0.015788914635777473
+5	subtype	neighborhood	section	Treg	0.02085428684949875
+5	subtype	neighborhood	section	Venous EC	0.007677061483263969
+5	subtype	neighborhood	section	cDC1	0.009986478835344315
+5	subtype	neighborhood	section	cDC2	0.018404046073555946
+5	subtype	neighborhood	section	iCAF	0.005475848447531462
+5	subtype	neighborhood	section	pDC	0.01169812586158514
+5	subtype	neighborhood	section	rCAF	0.006693138275295496
+5	subtype	neighborhood	section	vCAF	0.011739518493413925
+6	subtype	neighborhood	section	Arterial EC	0.013846947811543941
+6	subtype	neighborhood	section	C1QC TAM	0.018417363986372948
+6	subtype	neighborhood	section	CD4 Helper/Conventional	0.0133504718542099
+6	subtype	neighborhood	section	CD4 Naive/Memory-like	0.01461296621710062
+6	subtype	neighborhood	section	CD8 Exhausted	0.01538332924246788
+6	subtype	neighborhood	section	CD8 GZMK/Effector-memory-like	0.014581168070435524
+6	subtype	neighborhood	section	Capillary EC	0.04026571661233902
+6	subtype	neighborhood	section	Classical Mono	0.016719968989491463
+6	subtype	neighborhood	section	Epithelial	0.44013673067092896
+6	subtype	neighborhood	section	GC B	0.030627546831965446
+6	subtype	neighborhood	section	LAMP3 DC	0.010755914263427258
+6	subtype	neighborhood	section	Lymphatic EC	0.023072976619005203
+6	subtype	neighborhood	section	Mast	0.013889147900044918
+6	subtype	neighborhood	section	Matrix_CAF	0.03320203721523285
+6	subtype	neighborhood	section	NK	0.013708031736314297
+6	subtype	neighborhood	section	Naive/Memory B	0.023350749164819717
+6	subtype	neighborhood	section	Neutrophil	0.03012801520526409
+6	subtype	neighborhood	section	Pericyte	0.022777829319238663
+6	subtype	neighborhood	section	Plasma	0.018670301884412766
+6	subtype	neighborhood	section	SMC	0.019055791199207306
+6	subtype	neighborhood	section	SPP1 TAM	0.019514717161655426
+6	subtype	neighborhood	section	Tfh/CXCL13-like	0.012134728953242302
+6	subtype	neighborhood	section	Treg	0.01584886573255062
+6	subtype	neighborhood	section	Venous EC	0.024591922760009766
+6	subtype	neighborhood	section	cDC1	0.009987046010792255
+6	subtype	neighborhood	section	cDC2	0.00922611728310585
+6	subtype	neighborhood	section	iCAF	0.022647447884082794
+6	subtype	neighborhood	section	pDC	0.013411641120910645
+6	subtype	neighborhood	section	rCAF	0.008834903128445148
+6	subtype	neighborhood	section	vCAF	0.03724959120154381
+7	subtype	neighborhood	section	Arterial EC	0.01830420084297657
+7	subtype	neighborhood	section	C1QC TAM	0.011130728758871555
+7	subtype	neighborhood	section	CD4 Helper/Conventional	0.01086184848099947
+7	subtype	neighborhood	section	CD4 Naive/Memory-like	0.01279623806476593
+7	subtype	neighborhood	section	CD8 Exhausted	0.009101301431655884
+7	subtype	neighborhood	section	CD8 GZMK/Effector-memory-like	0.01304077822715044
+7	subtype	neighborhood	section	Capillary EC	0.013899029232561588
+7	subtype	neighborhood	section	Classical Mono	0.004534834995865822
+7	subtype	neighborhood	section	Epithelial	0.012749592773616314
+7	subtype	neighborhood	section	GC B	0.00700880354270339
+7	subtype	neighborhood	section	LAMP3 DC	0.003981997724622488
+7	subtype	neighborhood	section	Lymphatic EC	0.010479521006345749
+7	subtype	neighborhood	section	Mast	0.012851906009018421
+7	subtype	neighborhood	section	Matrix_CAF	0.017171377316117287
+7	subtype	neighborhood	section	NK	0.010108181275427341
+7	subtype	neighborhood	section	Naive/Memory B	0.026658223941922188
+7	subtype	neighborhood	section	Neutrophil	0.011739271692931652
+7	subtype	neighborhood	section	Pericyte	0.0046403734013438225
+7	subtype	neighborhood	section	Plasma	0.018029572442173958
+7	subtype	neighborhood	section	SMC	0.6381697058677673
+7	subtype	neighborhood	section	SPP1 TAM	0.0026353371795266867
+7	subtype	neighborhood	section	Tfh/CXCL13-like	0.00966362189501524
+7	subtype	neighborhood	section	Treg	0.007806279230862856
+7	subtype	neighborhood	section	Venous EC	0.014207682572305202
+7	subtype	neighborhood	section	cDC1	0.0049689412117004395
+7	subtype	neighborhood	section	cDC2	0.005669046193361282
+7	subtype	neighborhood	section	iCAF	0.045358698815107346
+7	subtype	neighborhood	section	pDC	0.004688675049692392
+7	subtype	neighborhood	section	rCAF	0.01468656212091446
+7	subtype	neighborhood	section	vCAF	0.023057641461491585
+8	subtype	neighborhood	section	Arterial EC	0.007293126080185175
+8	subtype	neighborhood	section	C1QC TAM	0.020635759457945824
+8	subtype	neighborhood	section	CD4 Helper/Conventional	0.024182146415114403
+8	subtype	neighborhood	section	CD4 Naive/Memory-like	0.02384253591299057
+8	subtype	neighborhood	section	CD8 Exhausted	0.025615466758608818
+8	subtype	neighborhood	section	CD8 GZMK/Effector-memory-like	0.025816110894083977
+8	subtype	neighborhood	section	Capillary EC	0.01969839632511139
+8	subtype	neighborhood	section	Classical Mono	0.01728885807096958
+8	subtype	neighborhood	section	Epithelial	0.2674587070941925
+8	subtype	neighborhood	section	GC B	0.1085398718714714
+8	subtype	neighborhood	section	LAMP3 DC	0.01080243568867445
+8	subtype	neighborhood	section	Lymphatic EC	0.014213713817298412
+8	subtype	neighborhood	section	Mast	0.016283255070447922
+8	subtype	neighborhood	section	Matrix_CAF	0.013497001491487026
+8	subtype	neighborhood	section	NK	0.01982834003865719
+8	subtype	neighborhood	section	Naive/Memory B	0.1578751504421234
+8	subtype	neighborhood	section	Neutrophil	0.024348195642232895
+8	subtype	neighborhood	section	Pericyte	0.009225256741046906
+8	subtype	neighborhood	section	Plasma	0.030728096142411232
+8	subtype	neighborhood	section	SMC	0.01683543249964714
+8	subtype	neighborhood	section	SPP1 TAM	0.011942830868065357
+8	subtype	neighborhood	section	Tfh/CXCL13-like	0.02365325577557087
+8	subtype	neighborhood	section	Treg	0.026832938194274902
+8	subtype	neighborhood	section	Venous EC	0.012508678250014782
+8	subtype	neighborhood	section	cDC1	0.010592147707939148
+8	subtype	neighborhood	section	cDC2	0.011777162551879883
+8	subtype	neighborhood	section	iCAF	0.008827200159430504
+8	subtype	neighborhood	section	pDC	0.01806670054793358
+8	subtype	neighborhood	section	rCAF	0.007303392514586449
+8	subtype	neighborhood	section	vCAF	0.014487804844975471
+0	subtype	neighborhood	patient	Arterial EC	0.012350364588201046
+0	subtype	neighborhood	patient	C1QC TAM	0.043571725487709045
+0	subtype	neighborhood	patient	CD4 Helper/Conventional	0.04164890572428703
+0	subtype	neighborhood	patient	CD4 Naive/Memory-like	0.03863927349448204
+0	subtype	neighborhood	patient	CD8 Exhausted	0.043429017066955566
+0	subtype	neighborhood	patient	CD8 GZMK/Effector-memory-like	0.04046344384551048
+0	subtype	neighborhood	patient	Capillary EC	0.025359533727169037
+0	subtype	neighborhood	patient	Classical Mono	0.01854274980723858
+0	subtype	neighborhood	patient	Epithelial	0.07067028433084488
+0	subtype	neighborhood	patient	GC B	0.029755940660834312
+0	subtype	neighborhood	patient	LAMP3 DC	0.013933910056948662
+0	subtype	neighborhood	patient	Lymphatic EC	0.017138488590717316
+0	subtype	neighborhood	patient	Mast	0.020626118406653404
+0	subtype	neighborhood	patient	Matrix_CAF	0.07720489799976349
+0	subtype	neighborhood	patient	NK	0.032799046486616135
+0	subtype	neighborhood	patient	Naive/Memory B	0.08185666054487228
+0	subtype	neighborhood	patient	Neutrophil	0.04859507456421852
+0	subtype	neighborhood	patient	Pericyte	0.014923959039151669
+0	subtype	neighborhood	patient	Plasma	0.05011395364999771
+0	subtype	neighborhood	patient	SMC	0.035726889967918396
+0	subtype	neighborhood	patient	SPP1 TAM	0.022674409672617912
+0	subtype	neighborhood	patient	Tfh/CXCL13-like	0.03250833600759506
+0	subtype	neighborhood	patient	Treg	0.03894645720720291
+0	subtype	neighborhood	patient	Venous EC	0.022850079461932182
+0	subtype	neighborhood	patient	cDC1	0.011566463857889175
+0	subtype	neighborhood	patient	cDC2	0.015612595714628696
+0	subtype	neighborhood	patient	iCAF	0.03190863877534866
+0	subtype	neighborhood	patient	pDC	0.015082367695868015
+0	subtype	neighborhood	patient	rCAF	0.015404858626425266
+0	subtype	neighborhood	patient	vCAF	0.036095552146434784
+1	subtype	neighborhood	patient	Arterial EC	0.01678149215877056
+1	subtype	neighborhood	patient	C1QC TAM	0.029048651456832886
+1	subtype	neighborhood	patient	CD4 Helper/Conventional	0.01980438455939293
+1	subtype	neighborhood	patient	CD4 Naive/Memory-like	0.01990547962486744
+1	subtype	neighborhood	patient	CD8 Exhausted	0.02079741284251213
+1	subtype	neighborhood	patient	CD8 GZMK/Effector-memory-like	0.021240081638097763
+1	subtype	neighborhood	patient	Capillary EC	0.02909792587161064
+1	subtype	neighborhood	patient	Classical Mono	0.011792213656008244
+1	subtype	neighborhood	patient	Epithelial	0.12902604043483734
+1	subtype	neighborhood	patient	GC B	0.02165650576353073
+1	subtype	neighborhood	patient	LAMP3 DC	0.009694729000329971
+1	subtype	neighborhood	patient	Lymphatic EC	0.017783863469958305
+1	subtype	neighborhood	patient	Mast	0.016259385272860527
+1	subtype	neighborhood	patient	Matrix_CAF	0.06861093640327454
+1	subtype	neighborhood	patient	NK	0.018677907064557076
+1	subtype	neighborhood	patient	Naive/Memory B	0.04336952418088913
+1	subtype	neighborhood	patient	Neutrophil	0.022188136354088783
+1	subtype	neighborhood	patient	Pericyte	0.02117922715842724
+1	subtype	neighborhood	patient	Plasma	0.023596106097102165
+1	subtype	neighborhood	patient	SMC	0.2219361662864685
+1	subtype	neighborhood	patient	SPP1 TAM	0.014924373477697372
+1	subtype	neighborhood	patient	Tfh/CXCL13-like	0.018231723457574844
+1	subtype	neighborhood	patient	Treg	0.018163010478019714
+1	subtype	neighborhood	patient	Venous EC	0.024735746905207634
+1	subtype	neighborhood	patient	cDC1	0.010223250836133957
+1	subtype	neighborhood	patient	cDC2	0.012541308999061584
+1	subtype	neighborhood	patient	iCAF	0.04503309354186058
+1	subtype	neighborhood	patient	pDC	0.01060706377029419
+1	subtype	neighborhood	patient	rCAF	0.02165757305920124
+1	subtype	neighborhood	patient	vCAF	0.04143668711185455
+2	subtype	neighborhood	patient	Arterial EC	0.0061999293975532055
+2	subtype	neighborhood	patient	C1QC TAM	0.01141918171197176
+2	subtype	neighborhood	patient	CD4 Helper/Conventional	0.011257546953856945
+2	subtype	neighborhood	patient	CD4 Naive/Memory-like	0.01622386835515499
+2	subtype	neighborhood	patient	CD8 Exhausted	0.013181079179048538
+2	subtype	neighborhood	patient	CD8 GZMK/Effector-memory-like	0.01243695616722107
+2	subtype	neighborhood	patient	Capillary EC	0.006604356225579977
+2	subtype	neighborhood	patient	Classical Mono	0.011384285986423492
+2	subtype	neighborhood	patient	Epithelial	0.6236088275909424
+2	subtype	neighborhood	patient	GC B	0.04677433893084526
+2	subtype	neighborhood	patient	LAMP3 DC	0.009766295552253723
+2	subtype	neighborhood	patient	Lymphatic EC	0.012950675562024117
+2	subtype	neighborhood	patient	Mast	0.013506627641618252
+2	subtype	neighborhood	patient	Matrix_CAF	0.010668311268091202
+2	subtype	neighborhood	patient	NK	0.012213174253702164
+2	subtype	neighborhood	patient	Naive/Memory B	0.025924522429704666
+2	subtype	neighborhood	patient	Neutrophil	0.03168362379074097
+2	subtype	neighborhood	patient	Pericyte	0.0063963402062654495
+2	subtype	neighborhood	patient	Plasma	0.007563136518001556
+2	subtype	neighborhood	patient	SMC	0.009603003971278667
+2	subtype	neighborhood	patient	SPP1 TAM	0.012466560117900372
+2	subtype	neighborhood	patient	Tfh/CXCL13-like	0.01154080405831337
+2	subtype	neighborhood	patient	Treg	0.013935291208326817
+2	subtype	neighborhood	patient	Venous EC	0.0066703492775559425
+2	subtype	neighborhood	patient	cDC1	0.011438773013651371
+2	subtype	neighborhood	patient	cDC2	0.006888143252581358
+2	subtype	neighborhood	patient	iCAF	0.003953263629227877
+2	subtype	neighborhood	patient	pDC	0.018021482974290848
+2	subtype	neighborhood	patient	rCAF	0.004235767759382725
+2	subtype	neighborhood	patient	vCAF	0.011483540758490562
+3	subtype	neighborhood	patient	Arterial EC	0.004466817248612642
+3	subtype	neighborhood	patient	C1QC TAM	0.011214980855584145
+3	subtype	neighborhood	patient	CD4 Helper/Conventional	0.010892259888350964
+3	subtype	neighborhood	patient	CD4 Naive/Memory-like	0.021048320457339287
+3	subtype	neighborhood	patient	CD8 Exhausted	0.011645307764410973
+3	subtype	neighborhood	patient	CD8 GZMK/Effector-memory-like	0.013195826672017574
+3	subtype	neighborhood	patient	Capillary EC	0.003873351961374283
+3	subtype	neighborhood	patient	Classical Mono	0.0191135685890913
+3	subtype	neighborhood	patient	Epithelial	0.48943430185317993
+3	subtype	neighborhood	patient	GC B	0.07294146716594696
+3	subtype	neighborhood	patient	LAMP3 DC	0.010365118272602558
+3	subtype	neighborhood	patient	Lymphatic EC	0.011543205939233303
+3	subtype	neighborhood	patient	Mast	0.013190379366278648
+3	subtype	neighborhood	patient	Matrix_CAF	0.005514601711183786
+3	subtype	neighborhood	patient	NK	0.013751738704741001
+3	subtype	neighborhood	patient	Naive/Memory B	0.06935690343379974
+3	subtype	neighborhood	patient	Neutrophil	0.086858369410038
+3	subtype	neighborhood	patient	Pericyte	0.0023222509771585464
+3	subtype	neighborhood	patient	Plasma	0.012871642597019672
+3	subtype	neighborhood	patient	SMC	0.005009765736758709
+3	subtype	neighborhood	patient	SPP1 TAM	0.026635337620973587
+3	subtype	neighborhood	patient	Tfh/CXCL13-like	0.011003365740180016
+3	subtype	neighborhood	patient	Treg	0.01763596199452877
+3	subtype	neighborhood	patient	Venous EC	0.006634332239627838
+3	subtype	neighborhood	patient	cDC1	0.009231893345713615
+3	subtype	neighborhood	patient	cDC2	0.006946322042495012
+3	subtype	neighborhood	patient	iCAF	0.004332640673965216
+3	subtype	neighborhood	patient	pDC	0.015590348280966282
+3	subtype	neighborhood	patient	rCAF	0.004151781555265188
+3	subtype	neighborhood	patient	vCAF	0.009227833710610867
+4	subtype	neighborhood	patient	Arterial EC	0.01004303153604269
+4	subtype	neighborhood	patient	C1QC TAM	0.027665449306368828
+4	subtype	neighborhood	patient	CD4 Helper/Conventional	0.02441268041729927
+4	subtype	neighborhood	patient	CD4 Naive/Memory-like	0.024570493027567863
+4	subtype	neighborhood	patient	CD8 Exhausted	0.02988102100789547
+4	subtype	neighborhood	patient	CD8 GZMK/Effector-memory-like	0.02484401874244213
+4	subtype	neighborhood	patient	Capillary EC	0.019189877435564995
+4	subtype	neighborhood	patient	Classical Mono	0.018207402899861336
+4	subtype	neighborhood	patient	Epithelial	0.3204863965511322
+4	subtype	neighborhood	patient	GC B	0.03905549272894859
+4	subtype	neighborhood	patient	LAMP3 DC	0.015262489207088947
+4	subtype	neighborhood	patient	Lymphatic EC	0.020177897065877914
+4	subtype	neighborhood	patient	Mast	0.017852619290351868
+4	subtype	neighborhood	patient	Matrix_CAF	0.04057082161307335
+4	subtype	neighborhood	patient	NK	0.0230200607329607
+4	subtype	neighborhood	patient	Naive/Memory B	0.04414662718772888
+4	subtype	neighborhood	patient	Neutrophil	0.04557085037231445
+4	subtype	neighborhood	patient	Pericyte	0.012269048020243645
+4	subtype	neighborhood	patient	Plasma	0.026485146954655647
+4	subtype	neighborhood	patient	SMC	0.023325923830270767
+4	subtype	neighborhood	patient	SPP1 TAM	0.02074427530169487
+4	subtype	neighborhood	patient	Tfh/CXCL13-like	0.021537305787205696
+4	subtype	neighborhood	patient	Treg	0.02754313312470913
+4	subtype	neighborhood	patient	Venous EC	0.0192071795463562
+4	subtype	neighborhood	patient	cDC1	0.013211454264819622
+4	subtype	neighborhood	patient	cDC2	0.012565909884870052
+4	subtype	neighborhood	patient	iCAF	0.0139313330873847
+4	subtype	neighborhood	patient	pDC	0.017532631754875183
+4	subtype	neighborhood	patient	rCAF	0.009542172774672508
+4	subtype	neighborhood	patient	vCAF	0.03714725002646446
+5	subtype	neighborhood	patient	Arterial EC	0.00497609656304121
+5	subtype	neighborhood	patient	C1QC TAM	0.023033512756228447
+5	subtype	neighborhood	patient	CD4 Helper/Conventional	0.02159011922776699
+5	subtype	neighborhood	patient	CD4 Naive/Memory-like	0.02263125590980053
+5	subtype	neighborhood	patient	CD8 Exhausted	0.02257610857486725
+5	subtype	neighborhood	patient	CD8 GZMK/Effector-memory-like	0.025618823245167732
+5	subtype	neighborhood	patient	Capillary EC	0.009204304777085781
+5	subtype	neighborhood	patient	Classical Mono	0.05244136229157448
+5	subtype	neighborhood	patient	Epithelial	0.06313489377498627
+5	subtype	neighborhood	patient	GC B	0.016754645854234695
+5	subtype	neighborhood	patient	LAMP3 DC	0.008446868509054184
+5	subtype	neighborhood	patient	Lymphatic EC	0.008277744986116886
+5	subtype	neighborhood	patient	Mast	0.017323052510619164
+5	subtype	neighborhood	patient	Matrix_CAF	0.015218271873891354
+5	subtype	neighborhood	patient	NK	0.02092212252318859
+5	subtype	neighborhood	patient	Naive/Memory B	0.045805539935827255
+5	subtype	neighborhood	patient	Neutrophil	0.3203164041042328
+5	subtype	neighborhood	patient	Pericyte	0.0055876728147268295
+5	subtype	neighborhood	patient	Plasma	0.006664670538157225
+5	subtype	neighborhood	patient	SMC	0.009469692595303059
+5	subtype	neighborhood	patient	SPP1 TAM	0.176474466919899
+5	subtype	neighborhood	patient	Tfh/CXCL13-like	0.01607642136514187
+5	subtype	neighborhood	patient	Treg	0.020112672820687294
+5	subtype	neighborhood	patient	Venous EC	0.007863916456699371
+5	subtype	neighborhood	patient	cDC1	0.009677677415311337
+5	subtype	neighborhood	patient	cDC2	0.01598677970468998
+5	subtype	neighborhood	patient	iCAF	0.006275733932852745
+5	subtype	neighborhood	patient	pDC	0.010360369458794594
+5	subtype	neighborhood	patient	rCAF	0.00655712652951479
+5	subtype	neighborhood	patient	vCAF	0.010621673427522182
+6	subtype	neighborhood	patient	Arterial EC	0.013592960312962532
+6	subtype	neighborhood	patient	C1QC TAM	0.014591702260077
+6	subtype	neighborhood	patient	CD4 Helper/Conventional	0.013212507590651512
+6	subtype	neighborhood	patient	CD4 Naive/Memory-like	0.015588663518428802
+6	subtype	neighborhood	patient	CD8 Exhausted	0.015763867646455765
+6	subtype	neighborhood	patient	CD8 GZMK/Effector-memory-like	0.014103354886174202
+6	subtype	neighborhood	patient	Capillary EC	0.030360853299498558
+6	subtype	neighborhood	patient	Classical Mono	0.012045266106724739
+6	subtype	neighborhood	patient	Epithelial	0.4388086795806885
+6	subtype	neighborhood	patient	GC B	0.039184145629405975
+6	subtype	neighborhood	patient	LAMP3 DC	0.015440751798450947
+6	subtype	neighborhood	patient	Lymphatic EC	0.03140503168106079
+6	subtype	neighborhood	patient	Mast	0.01557444129139185
+6	subtype	neighborhood	patient	Matrix_CAF	0.034882042557001114
+6	subtype	neighborhood	patient	NK	0.01334533654153347
+6	subtype	neighborhood	patient	Naive/Memory B	0.017840268090367317
+6	subtype	neighborhood	patient	Neutrophil	0.02808162197470665
+6	subtype	neighborhood	patient	Pericyte	0.016883963719010353
+6	subtype	neighborhood	patient	Plasma	0.011927921324968338
+6	subtype	neighborhood	patient	SMC	0.025314463302493095
+6	subtype	neighborhood	patient	SPP1 TAM	0.020795788615942
+6	subtype	neighborhood	patient	Tfh/CXCL13-like	0.013705507852137089
+6	subtype	neighborhood	patient	Treg	0.01588599383831024
+6	subtype	neighborhood	patient	Venous EC	0.025040678679943085
+6	subtype	neighborhood	patient	cDC1	0.01305023580789566
+6	subtype	neighborhood	patient	cDC2	0.00997601542621851
+6	subtype	neighborhood	patient	iCAF	0.017258936539292336
+6	subtype	neighborhood	patient	pDC	0.016314847394824028
+6	subtype	neighborhood	patient	rCAF	0.008849839679896832
+6	subtype	neighborhood	patient	vCAF	0.04117432236671448
+7	subtype	neighborhood	patient	Arterial EC	0.013122794218361378
+7	subtype	neighborhood	patient	C1QC TAM	0.014620536006987095
+7	subtype	neighborhood	patient	CD4 Helper/Conventional	0.011376961134374142
+7	subtype	neighborhood	patient	CD4 Naive/Memory-like	0.014490678906440735
+7	subtype	neighborhood	patient	CD8 Exhausted	0.009614660404622555
+7	subtype	neighborhood	patient	CD8 GZMK/Effector-memory-like	0.012842805124819279
+7	subtype	neighborhood	patient	Capillary EC	0.018616091459989548
+7	subtype	neighborhood	patient	Classical Mono	0.004642982967197895
+7	subtype	neighborhood	patient	Epithelial	0.00838551763445139
+7	subtype	neighborhood	patient	GC B	0.004605612717568874
+7	subtype	neighborhood	patient	LAMP3 DC	0.004248882178217173
+7	subtype	neighborhood	patient	Lymphatic EC	0.009666336700320244
+7	subtype	neighborhood	patient	Mast	0.014617180451750755
+7	subtype	neighborhood	patient	Matrix_CAF	0.019494174048304558
+7	subtype	neighborhood	patient	NK	0.010519242845475674
+7	subtype	neighborhood	patient	Naive/Memory B	0.031163297593593597
+7	subtype	neighborhood	patient	Neutrophil	0.013154149055480957
+7	subtype	neighborhood	patient	Pericyte	0.004095320124179125
+7	subtype	neighborhood	patient	Plasma	0.015142383985221386
+7	subtype	neighborhood	patient	SMC	0.6211204528808594
+7	subtype	neighborhood	patient	SPP1 TAM	0.002851045923307538
+7	subtype	neighborhood	patient	Tfh/CXCL13-like	0.010428114794194698
+7	subtype	neighborhood	patient	Treg	0.007943208329379559
+7	subtype	neighborhood	patient	Venous EC	0.01626088097691536
+7	subtype	neighborhood	patient	cDC1	0.00507395388558507
+7	subtype	neighborhood	patient	cDC2	0.005712771322578192
+7	subtype	neighborhood	patient	iCAF	0.05350529029965401
+7	subtype	neighborhood	patient	pDC	0.004269683733582497
+7	subtype	neighborhood	patient	rCAF	0.018878111615777016
+7	subtype	neighborhood	patient	vCAF	0.019536886364221573
+8	subtype	neighborhood	patient	Arterial EC	0.005420815199613571
+8	subtype	neighborhood	patient	C1QC TAM	0.03570576012134552
+8	subtype	neighborhood	patient	CD4 Helper/Conventional	0.029445499181747437
+8	subtype	neighborhood	patient	CD4 Naive/Memory-like	0.021564573049545288
+8	subtype	neighborhood	patient	CD8 Exhausted	0.025498241186141968
+8	subtype	neighborhood	patient	CD8 GZMK/Effector-memory-like	0.023915547877550125
+8	subtype	neighborhood	patient	Capillary EC	0.027508318424224854
+8	subtype	neighborhood	patient	Classical Mono	0.02530507929623127
+8	subtype	neighborhood	patient	Epithelial	0.24954843521118164
+8	subtype	neighborhood	patient	GC B	0.10787078738212585
+8	subtype	neighborhood	patient	LAMP3 DC	0.009595158509910107
+8	subtype	neighborhood	patient	Lymphatic EC	0.01756124198436737
+8	subtype	neighborhood	patient	Mast	0.015880104154348373
+8	subtype	neighborhood	patient	Matrix_CAF	0.021951783448457718
+8	subtype	neighborhood	patient	NK	0.019689064472913742
+8	subtype	neighborhood	patient	Naive/Memory B	0.14942985773086548
+8	subtype	neighborhood	patient	Neutrophil	0.034046471118927
+8	subtype	neighborhood	patient	Pericyte	0.011180904693901539
+8	subtype	neighborhood	patient	Plasma	0.010264990851283073
+8	subtype	neighborhood	patient	SMC	0.013147898949682713
+8	subtype	neighborhood	patient	SPP1 TAM	0.027311882004141808
+8	subtype	neighborhood	patient	Tfh/CXCL13-like	0.017694612964987755
+8	subtype	neighborhood	patient	Treg	0.027982810512185097
+8	subtype	neighborhood	patient	Venous EC	0.012047231197357178
+8	subtype	neighborhood	patient	cDC1	0.008427397347986698
+8	subtype	neighborhood	patient	cDC2	0.01028996892273426
+8	subtype	neighborhood	patient	iCAF	0.003942534793168306
+8	subtype	neighborhood	patient	pDC	0.015957066789269447
+8	subtype	neighborhood	patient	rCAF	0.0066591957584023476
+8	subtype	neighborhood	patient	vCAF	0.015156750567257404

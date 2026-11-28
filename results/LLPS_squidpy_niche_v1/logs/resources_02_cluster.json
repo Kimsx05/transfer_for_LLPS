@@ -1,0 +1,15 @@
+{
+  "script": "results/LLPS_squidpy_niche_v1/scripts/02_cluster.py",
+  "elapsed_seconds": 815.069855928421,
+  "max_rss_kb": 4010040,
+  "user_cpu_seconds": 1497.265735,
+  "system_cpu_seconds": 36.994401,
+  "cpu_affinity": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "threads": 4,
+  "memory_limit_bytes": 100000000000
+}

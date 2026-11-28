@@ -1,0 +1,1 @@
+PASS: 508 frozen-main section coefficients independently reproduced within1e-10, including NA patterns. Same support and regression design applied to all four continuous control models; no labels changed.

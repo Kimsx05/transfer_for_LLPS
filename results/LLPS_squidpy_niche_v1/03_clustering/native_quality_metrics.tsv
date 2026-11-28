@@ -1,0 +1,4 @@
+radius	n_niches_full	n_niches_pilot	silhouette	calinski_harabasz	davies_bouldin	scope
+1	353	329	0.3931679129600525	1532.472412109375	0.9851123815251934	full pooled native labels evaluated on balanced pilot
+2	532	493	0.5414426326751709	352.9167785644531	1.0032483520622144	full pooled native labels evaluated on balanced pilot
+3	531	464	0.314758837223053	196.2850341796875	1.0244798818149683	full pooled native labels evaluated on balanced pilot

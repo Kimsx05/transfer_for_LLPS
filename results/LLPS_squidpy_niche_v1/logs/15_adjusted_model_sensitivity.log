@@ -1,0 +1,50 @@
+results/LLPS_squidpy_niche_v1/scripts/15_adjusted_model_sensitivity.py:12: RuntimeWarning: Mean of empty slice.
+  lo=max(np.quantile(fib[a],.05),np.quantile(fib[~a],.05));hi=min(np.quantile(fib[a],.95),np.quantile(fib[~a],.95));keep=(fib>=lo)&(fib<=hi);support=min(np.mean(keep[a]),np.mean(keep[~a]));v=np.column_stack([np.log1p(fib[keep]),frac[keep]]);v=(v-v.mean(0))/np.maximum(v.std(0),1e-8);X=np.column_stack([np.ones(keep.sum()),a[keep].astype(float),v,v*v]);cond=np.linalg.cond(X) if len(X) else np.inf;valid=support>=.2 and (a&keep).sum()>=20 and (~a&keep).sum()>=20 and cond<1e6
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:137: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:223: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:181: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:212: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+results/LLPS_squidpy_niche_v1/scripts/15_adjusted_model_sensitivity.py:12: RuntimeWarning: Mean of empty slice.
+  lo=max(np.quantile(fib[a],.05),np.quantile(fib[~a],.05));hi=min(np.quantile(fib[a],.95),np.quantile(fib[~a],.95));keep=(fib>=lo)&(fib<=hi);support=min(np.mean(keep[a]),np.mean(keep[~a]));v=np.column_stack([np.log1p(fib[keep]),frac[keep]]);v=(v-v.mean(0))/np.maximum(v.std(0),1e-8);X=np.column_stack([np.ones(keep.sum()),a[keep].astype(float),v,v*v]);cond=np.linalg.cond(X) if len(X) else np.inf;valid=support>=.2 and (a&keep).sum()>=20 and (~a&keep).sum()>=20 and cond<1e6
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:137: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:223: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:181: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:212: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+results/LLPS_squidpy_niche_v1/scripts/15_adjusted_model_sensitivity.py:12: RuntimeWarning: Mean of empty slice.
+  lo=max(np.quantile(fib[a],.05),np.quantile(fib[~a],.05));hi=min(np.quantile(fib[a],.95),np.quantile(fib[~a],.95));keep=(fib>=lo)&(fib<=hi);support=min(np.mean(keep[a]),np.mean(keep[~a]));v=np.column_stack([np.log1p(fib[keep]),frac[keep]]);v=(v-v.mean(0))/np.maximum(v.std(0),1e-8);X=np.column_stack([np.ones(keep.sum()),a[keep].astype(float),v,v*v]);cond=np.linalg.cond(X) if len(X) else np.inf;valid=support>=.2 and (a&keep).sum()>=20 and (~a&keep).sum()>=20 and cond<1e6
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:137: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:223: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:181: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:212: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+results/LLPS_squidpy_niche_v1/scripts/15_adjusted_model_sensitivity.py:12: RuntimeWarning: Mean of empty slice.
+  lo=max(np.quantile(fib[a],.05),np.quantile(fib[~a],.05));hi=min(np.quantile(fib[a],.95),np.quantile(fib[~a],.95));keep=(fib>=lo)&(fib<=hi);support=min(np.mean(keep[a]),np.mean(keep[~a]));v=np.column_stack([np.log1p(fib[keep]),frac[keep]]);v=(v-v.mean(0))/np.maximum(v.std(0),1e-8);X=np.column_stack([np.ones(keep.sum()),a[keep].astype(float),v,v*v]);cond=np.linalg.cond(X) if len(X) else np.inf;valid=support>=.2 and (a&keep).sum()>=20 and (~a&keep).sum()>=20 and cond<1e6
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:137: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:223: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:181: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:212: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+results/LLPS_squidpy_niche_v1/scripts/15_adjusted_model_sensitivity.py:12: RuntimeWarning: Mean of empty slice.
+  lo=max(np.quantile(fib[a],.05),np.quantile(fib[~a],.05));hi=min(np.quantile(fib[a],.95),np.quantile(fib[~a],.95));keep=(fib>=lo)&(fib<=hi);support=min(np.mean(keep[a]),np.mean(keep[~a]));v=np.column_stack([np.log1p(fib[keep]),frac[keep]]);v=(v-v.mean(0))/np.maximum(v.std(0),1e-8);X=np.column_stack([np.ones(keep.sum()),a[keep].astype(float),v,v*v]);cond=np.linalg.cond(X) if len(X) else np.inf;valid=support>=.2 and (a&keep).sum()>=20 and (~a&keep).sum()>=20 and cond<1e6
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:137: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:223: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:181: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:212: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(

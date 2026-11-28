@@ -1,0 +1,16 @@
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/dask/dataframe/__init__.py:31: FutureWarning: The legacy Dask DataFrame implementation is deprecated and will be removed in a future version. Set the configuration option `dataframe.query-planning` to `True` or None to enable the new Dask Dataframe implementation and silence this warning.
+  warnings.warn(
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/anndata/utils.py:434: FutureWarning: Importing read_text from `anndata` is deprecated. Import anndata.io.read_text instead.
+  warnings.warn(msg, FutureWarning)
+WARNING  Parameters random_state are not used for flavor 'neighborhood'.        
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/anndata/_core/aligned_df.py:68: ImplicitModificationWarning: Transforming to str index.
+  warnings.warn("Transforming to str index.", ImplicitModificationWarning)
+native 1
+WARNING  Parameters random_state are not used for flavor 'neighborhood'.        
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/anndata/_core/aligned_df.py:68: ImplicitModificationWarning: Transforming to str index.
+  warnings.warn("Transforming to str index.", ImplicitModificationWarning)
+native 2
+WARNING  Parameters random_state are not used for flavor 'neighborhood'.        
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/anndata/_core/aligned_df.py:68: ImplicitModificationWarning: Transforming to str index.
+  warnings.warn("Transforming to str index.", ImplicitModificationWarning)
+native 3

@@ -1,0 +1,15 @@
+{
+  "script": "/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/04_inference.py",
+  "elapsed_seconds": 29.665589094161987,
+  "max_rss_kb": 1165124,
+  "user_cpu_seconds": 39.107169,
+  "system_cpu_seconds": 1.260005,
+  "cpu_affinity": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "threads": 4,
+  "memory_limit_bytes": 100000000000
+}

@@ -1,0 +1,31 @@
+subtype	major_lineage	rctd_comparison_major	annotation_version
+Arterial EC	Endothelial	Endothelial	v2_30type
+C1QC TAM	Myeloid	Myeloid	v2_30type
+CD4 Helper/Conventional	T_NK	T_NK	v2_30type
+CD4 Naive/Memory-like	T_NK	T_NK	v2_30type
+CD8 Exhausted	T_NK	T_NK	v2_30type
+CD8 GZMK/Effector-memory-like	T_NK	T_NK	v2_30type
+Capillary EC	Endothelial	Endothelial	v2_30type
+Classical Mono	Myeloid	Myeloid	v2_30type
+Epithelial	Epithelial	Epithelial	v2_30type
+GC B	B	B	v2_30type
+LAMP3 DC	Myeloid	Myeloid	v2_30type
+Lymphatic EC	Endothelial	Endothelial	v2_30type
+Mast	Mast	Mast	v2_30type
+Matrix_CAF	Fibroblast	Fibroblast	v2_30type
+NK	T_NK	T_NK	v2_30type
+Naive/Memory B	B	B	v2_30type
+Neutrophil	Myeloid	Myeloid	v2_30type
+Pericyte	Mural	Fibroblast	v2_30type
+Plasma	Plasma	Plasma	v2_30type
+SMC	Mural	Fibroblast	v2_30type
+SPP1 TAM	Myeloid	Myeloid	v2_30type
+Tfh/CXCL13-like	T_NK	T_NK	v2_30type
+Treg	T_NK	T_NK	v2_30type
+Venous EC	Endothelial	Endothelial	v2_30type
+cDC1	Myeloid	Myeloid	v2_30type
+cDC2	Myeloid	Myeloid	v2_30type
+iCAF	Fibroblast	Fibroblast	v2_30type
+pDC	Myeloid	Myeloid	v2_30type
+rCAF	Fibroblast	Fibroblast	v2_30type
+vCAF	Fibroblast	Fibroblast	v2_30type

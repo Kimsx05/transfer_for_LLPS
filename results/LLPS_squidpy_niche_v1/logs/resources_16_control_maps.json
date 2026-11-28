@@ -1,0 +1,15 @@
+{
+  "script": "results/LLPS_squidpy_niche_v1/scripts/16_control_maps.py",
+  "elapsed_seconds": 46.15625190734863,
+  "max_rss_kb": 751232,
+  "user_cpu_seconds": 46.499134,
+  "system_cpu_seconds": 0.501001,
+  "cpu_affinity": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "threads": 4,
+  "memory_limit_bytes": 100000000000
+}

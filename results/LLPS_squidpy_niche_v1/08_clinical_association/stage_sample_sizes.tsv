@@ -1,0 +1,5 @@
+dataset	T_stage	n_sections	n_verified_patients
+GSE171351	T2	3	3
+GSE171351	T3	1	1
+GSE285715	T3	2	0
+GSE285715	T4	1	0

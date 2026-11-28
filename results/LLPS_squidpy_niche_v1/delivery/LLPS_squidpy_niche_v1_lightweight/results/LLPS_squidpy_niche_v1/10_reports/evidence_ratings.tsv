@@ -1,0 +1,6 @@
+domain	rating	reason
+Niche typing reliability	CONDITIONAL GO	Seed stability and balanced/pooled agreement; representation/scale uncertainty remains explicit.
+C5-associated enrichment	CONDITIONAL GO	Unadjusted positives depend on partition (4 continuous models); positive adjusted patient contrasts: 0. No supported fibroblast-independent enrichment when this count is0.
+LLPS-associated enrichment	GO	Positive fibroblast-adjusted transcriptional contrasts recur across 5 continuous models; this is not proof of physical phase separation or independent replication across methods.
+C5–Endothelial common enrichment	CONDITIONAL GO	Unadjusted pair-only pattern appears in R3_representative_niche; no robust fibroblast-independent joint evidence.
+Triple C5–LLPS–Endothelial enrichment	NO-GO	No tested fixed model passes the triple-positive verified-patient screen when all IDs are empty; not a proof of biological absence.

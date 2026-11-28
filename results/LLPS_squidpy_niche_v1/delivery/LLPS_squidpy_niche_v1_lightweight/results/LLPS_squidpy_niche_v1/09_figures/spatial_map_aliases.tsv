@@ -1,0 +1,4 @@
+model	spatial_folder	identical_to
+recommended_niche	recommended_niche	
+major_best_niche	recommended_niche	recommended_niche
+subtype_best_niche	subtype_best_niche	

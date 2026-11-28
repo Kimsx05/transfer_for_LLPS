@@ -1,0 +1,9 @@
+label_column	n_niches	scope	composition	role
+recommended_niche	9	all 265002 spots	continuous	fixed primary
+subtype_best_niche	16	all 265002 spots	continuous	sensitivity/control
+R2_representative_niche	11	all 265002 spots	continuous	sensitivity/control
+R3_representative_niche	13	all 265002 spots	continuous	sensitivity/control
+kmeans_niche	5	all 265002 spots	continuous	sensitivity/control
+native_R1	353	all 265002 spots	dominant_cell_type	sensitivity/control
+native_R2	532	all 265002 spots	dominant_cell_type	sensitivity/control
+native_R3	531	all 265002 spots	dominant_cell_type	sensitivity/control

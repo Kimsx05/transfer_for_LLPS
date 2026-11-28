@@ -1,0 +1,6 @@
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/dask/dataframe/__init__.py:31: FutureWarning: The legacy Dask DataFrame implementation is deprecated and will be removed in a future version. Set the configuration option `dataframe.query-planning` to `True` or None to enable the new Dask Dataframe implementation and silence this warning.
+  warnings.warn(
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/anndata/utils.py:434: FutureWarning: Importing read_text from `anndata` is deprecated. Import anndata.io.read_text instead.
+  warnings.warn(msg, FutureWarning)
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/10_supplement.py:10: DtypeWarning: Columns (2) have mixed types. Specify dtype option on import or set low_memory=False.
+  c=pd.read_csv(O/'05_C5_LLPS_enrichment/section_level_contrasts.tsv',sep='\t');keys=['dataset','niche','feature','model','threshold','min_spots'];c.groupby(keys,dropna=False).agg(mean_effect=('effect','mean'),median_effect=('effect','median'),n_sections=('effect','count'),positive_fraction=('effect',lambda x:np.mean(x.dropna()>0) if x.notna().any() else np.nan)).reset_index().to_csv(O/'05_C5_LLPS_enrichment/dataset_enrichment_direction.tsv',sep='\t',index=False)

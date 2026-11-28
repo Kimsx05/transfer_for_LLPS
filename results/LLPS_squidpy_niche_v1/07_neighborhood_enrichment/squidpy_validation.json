@@ -1,0 +1,9 @@
+{
+  "section_id": "CanDis_2026_Sample1",
+  "observed_counts_exact_match": true,
+  "n_perms": 1000,
+  "seed": 123,
+  "n_jobs": 1,
+  "zero_variance_z": "NA downstream",
+  "permutation_rng": "Our moments use numpy default_rng; Squidpy uses version-specific RNG; observed counts must match exactly, null moments are Monte Carlo estimates."
+}

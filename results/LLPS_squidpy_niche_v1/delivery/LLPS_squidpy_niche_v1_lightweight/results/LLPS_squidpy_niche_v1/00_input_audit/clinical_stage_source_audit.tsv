@@ -1,0 +1,21 @@
+section_id	source_sample_id	workbook_row	T_stage_raw	T_stage	source	sha256
+GSE171351_A1	GSM5224027	2.0	T2(High Grade)	T2	/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B10	GSM8171242	15.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE285715_N1	GSM8707237	9.0	MIBC-Normal		/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE171351_B1	GSM5224028	3.0	T2(High Grade)	T2	/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE171351_C1	GSM5224029	4.0	T2(High Grade)	T2	/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE171351_D1	GSM5224030	5.0	T3(High Grade)	T3	/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B11	GSM8171243	16.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B13	GSM8171244	17.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B14	GSM8171245	18.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B15	GSM8171246	19.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B16	GSM8171247	20.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B17	GSM8171248	21.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B18	GSM8171248	21.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B5	GSM7659431	13.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE238145_B9	GSM8171241	14.0			/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE285715_N2	GSM8707238	10.0	MIBC-Normal		/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE285715_N3	GSM8707239	11.0	MIBC-Normal		/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE285715_T1	GSM8707234	6.0	T4N1M0	T4	/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE285715_T2	GSM8707235	7.0	T3N0M0	T3	/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3
+GSE285715_T3	GSM8707236	8.0	T3N0M0	T3	/home/jinshengxi/.codex/attachments/19277c12-ece4-490f-8edc-66128af8c412/空转+ScRNA样本汇总.xlsx	3529fdc7463b2096fab1e04dac53d0c3970160d19eda0e9667dd897937908ca3

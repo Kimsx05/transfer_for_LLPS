@@ -1,0 +1,1681 @@
+dataset	niche	scale	feature_a	feature_b	method	adjustment	mean_r	n_sections	positive_fraction
+CanDis__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.035117584665341456	11	0.45454545454545453
+CanDis__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.04726989431814714	11	0.5454545454545454
+CanDis__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.0306551659763683	11	0.2727272727272727
+CanDis__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.051290524749501826	11	0.6363636363636364
+CanDis__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.08464037699229494	11	0.2727272727272727
+CanDis__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	pearson	raw	0.02440615997395732	11	0.5454545454545454
+CanDis__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08233041331146321	11	0.18181818181818182
+CanDis__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	spearman	raw	0.02345194864391797	11	0.5454545454545454
+CanDis__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.04108138241572379	11	0.45454545454545453
+CanDis__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	pearson	raw	0.25258655371991073	11	0.7272727272727273
+CanDis__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.03925631651738912	11	0.5454545454545454
+CanDis__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	spearman	raw	0.2500435784025075	11	0.7272727272727273
+CanDis__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.11361341145182537	11	0.18181818181818182
+CanDis__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.07240801914171739	11	0.6363636363636364
+CanDis__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.12449329248061866	11	0.18181818181818182
+CanDis__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.06412646083972907	11	0.6363636363636364
+CanDis__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.26428401612753605	11	0.18181818181818182
+CanDis__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.06888127174567092	11	0.7272727272727273
+CanDis__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.15060660266438564	11	0.18181818181818182
+CanDis__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.0924290117618706	11	0.8181818181818182
+CanDis__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.14023971703878646	11	0.45454545454545453
+CanDis__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.382137135009874	11	0.7272727272727273
+CanDis__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.08178912647224566	11	0.5454545454545454
+CanDis__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.37466488366448375	11	0.8181818181818182
+CanDis__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1930726295803615	10	0.3
+CanDis__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.08053581267595292	10	0.5
+CanDis__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.17366356001923758	10	0.4
+CanDis__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.04323297479276913	10	0.5
+CanDis__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.03697929474959192	10	0.5
+CanDis__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	pearson	raw	0.11336885988712311	10	0.7
+CanDis__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.03153573064405808	10	0.6
+CanDis__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	spearman	raw	0.12590897721192043	10	0.9
+CanDis__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.1229020394815088	10	0.8
+CanDis__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	pearson	raw	0.21387647408992053	10	1.0
+CanDis__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.11602911635822344	10	1.0
+CanDis__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	spearman	raw	0.19306554505332824	10	1.0
+CanDis__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3048164804945811	10	0.2
+CanDis__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.09012398421764374	10	0.5
+CanDis__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.26882653812591994	10	0.3
+CanDis__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.04395405397424322	10	0.5
+CanDis__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.0281303043171112	10	0.5
+CanDis__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.24073896892368793	10	0.7
+CanDis__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08440714661479254	10	0.4
+CanDis__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.18813299628429292	10	0.7
+CanDis__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.11029716143819712	10	0.6
+CanDis__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.3193920269608498	10	0.8
+CanDis__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.13013667900381584	10	0.8
+CanDis__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.31967324500566513	10	1.0
+CanDis__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.12867245224878693	8	0.375
+CanDis__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.24497102992609143	8	0.875
+CanDis__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.061078042436117135	8	0.25
+CanDis__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.27358715630464325	8	0.875
+CanDis__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1238325579241441	8	0.125
+CanDis__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	pearson	raw	0.20163223054260015	8	0.625
+CanDis__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.07933891454768884	8	0.25
+CanDis__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	spearman	raw	0.18076592330957197	8	0.75
+CanDis__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.1705471237691998	8	1.0
+CanDis__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	pearson	raw	0.3849675878882408	8	1.0
+CanDis__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.16300850900424158	8	0.75
+CanDis__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	spearman	raw	0.3417080208820339	8	0.875
+CanDis__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2265310509755068	8	0.375
+CanDis__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.34481722116470337	8	0.875
+CanDis__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.15167734178600872	8	0.375
+CanDis__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.3574269839066294	8	0.875
+CanDis__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2523418797564239	8	0.125
+CanDis__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.33596672024577856	8	0.75
+CanDis__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1900924000766789	8	0.125
+CanDis__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.3160720789517948	8	0.875
+CanDis__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.30559672721772	8	0.875
+CanDis__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.5943899005651474	8	1.0
+CanDis__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.298076798858309	8	0.875
+CanDis__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.5915921022971655	8	1.0
+CanDis__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.4111852302451522	1	0.0
+CanDis__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.1958288848400116	1	0.0
+CanDis__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.5878516520118239	1	0.0
+CanDis__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.17375003995973243	1	0.0
+CanDis__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3451644068754956	1	0.0
+CanDis__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	pearson	raw	-0.1588740348815918	1	0.0
+CanDis__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.38295933185759756	1	0.0
+CanDis__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	spearman	raw	-0.17471099164684378	1	0.0
+CanDis__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.463398578345346	1	1.0
+CanDis__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	pearson	raw	0.7405620813369751	1	1.0
+CanDis__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.40831956735570873	1	1.0
+CanDis__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	spearman	raw	0.6866920107528203	1	1.0
+CanDis__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.56609527912448	1	0.0
+CanDis__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.2500303387641907	1	0.0
+CanDis__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.7758058357531384	1	0.0
+CanDis__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.22616205390788113	1	0.0
+CanDis__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.47015407529991377	1	0.0
+CanDis__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.17925119400024414	1	0.0
+CanDis__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.5708856013538532	1	0.0
+CanDis__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.20858169734292975	1	0.0
+CanDis__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.5522639872809343	1	1.0
+CanDis__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.8169175982475281	1	1.0
+CanDis__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.5730604156949404	1	1.0
+CanDis__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.8545496876776435	1	1.0
+CanDis__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2421014616344639	12	0.16666666666666666
+CanDis__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.013173678734650215	12	0.5
+CanDis__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.25056589611717844	12	0.16666666666666666
+CanDis__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.02450118228882357	12	0.5833333333333334
+CanDis__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.20683857735299982	12	0.25
+CanDis__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	pearson	raw	0.10046057340999444	12	0.6666666666666666
+CanDis__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1919177776128037	12	0.16666666666666666
+CanDis__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	spearman	raw	0.12313053852354151	12	0.6666666666666666
+CanDis__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.26759374094599825	12	0.9166666666666666
+CanDis__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	pearson	raw	0.42773163070281345	12	1.0
+CanDis__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.2570162626006052	12	0.9166666666666666
+CanDis__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	spearman	raw	0.42633568492146495	12	1.0
+CanDis__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.4079500278079374	12	0.0
+CanDis__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.003636737664540609	12	0.5
+CanDis__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.41985710012395283	12	0.0
+CanDis__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.018772327674697473	12	0.5833333333333334
+CanDis__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.32038205827325117	12	0.25
+CanDis__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.14554483319322267	12	0.6666666666666666
+CanDis__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.28360394222982493	12	0.16666666666666666
+CanDis__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.15421597611843393	12	0.6666666666666666
+CanDis__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.41114607004809994	12	0.9166666666666666
+CanDis__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6072462946176529	12	1.0
+CanDis__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.41833562082178605	12	0.9166666666666666
+CanDis__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.6090190218333097	12	1.0
+CanDis__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+CanDis__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+CanDis__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+CanDis__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+CanDis__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+CanDis__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+CanDis__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+CanDis__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+CanDis__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+CanDis__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+CanDis__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+CanDis__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+CanDis__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.26792599165265335	4	0.25
+CanDis__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.0025161560624837875	4	0.25
+CanDis__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.27903953319244973	4	0.25
+CanDis__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.010891890393730775	4	0.25
+CanDis__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.10576763750847201	4	0.25
+CanDis__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	pearson	raw	0.19997568428516388	4	0.75
+CanDis__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.12794898548904696	4	0.25
+CanDis__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	spearman	raw	0.17178324884264337	4	0.75
+CanDis__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.10454222472270945	4	0.75
+CanDis__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	pearson	raw	0.3286637105047703	4	0.75
+CanDis__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.13592972565336497	4	0.75
+CanDis__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	spearman	raw	0.3638688664416304	4	0.75
+CanDis__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.45817091318172154	4	0.0
+CanDis__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.00196162611246109	4	0.5
+CanDis__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.4271623697256185	4	0.0
+CanDis__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.003766204447481089	4	0.5
+CanDis__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.16305790835457107	4	0.25
+CanDis__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.3258436918258667	4	0.75
+CanDis__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.19402813491042248	4	0.25
+CanDis__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.2846460879539056	4	0.75
+CanDis__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.20032558197632025	4	0.5
+CanDis__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.46928301081061363	4	0.75
+CanDis__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.29187692769547113	4	0.75
+CanDis__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.48033644311902735	4	0.75
+CanDis__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+CanDis__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+CanDis__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+CanDis__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+CanDis__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+CanDis__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+CanDis__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+CanDis__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+CanDis__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+CanDis__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+CanDis__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+CanDis__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+CanDis__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+CanDis__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.45645538598883584	2	0.0
+CanDis__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.4535769820213318	2	0.0
+CanDis__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.4102382460585151	2	0.0
+CanDis__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.4310236547017581	2	0.0
+CanDis__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3335031696526179	2	0.0
+CanDis__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	pearson	raw	-0.27762746810913086	2	0.0
+CanDis__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.39006107019845404	2	0.0
+CanDis__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	spearman	raw	-0.37392258583488713	2	0.0
+CanDis__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.5135124973262698	2	1.0
+CanDis__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	pearson	raw	0.5095477551221848	2	1.0
+CanDis__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.4424708889811832	2	1.0
+CanDis__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	spearman	raw	0.4493987414240038	2	1.0
+CanDis__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.5118089802608414	2	0.0
+CanDis__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.5013660192489624	2	0.0
+CanDis__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.47200580143023485	2	0.0
+CanDis__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.5095438497952038	2	0.0
+CanDis__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.578146682934259	2	0.0
+CanDis__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.46896469593048096	2	0.0
+CanDis__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.4926196278341354	2	0.0
+CanDis__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.49008190004548957	2	0.0
+CanDis__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.662179941550088	2	1.0
+CanDis__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6704437434673309	2	1.0
+CanDis__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.6609869421963279	2	1.0
+CanDis__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.6782261936520841	2	1.0
+CanDis__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.27122060242750207	13	0.15384615384615385
+CanDis__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.04672642854543833	13	0.38461538461538464
+CanDis__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.3228692038161707	13	0.15384615384615385
+CanDis__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.053024260480366604	13	0.38461538461538464
+CanDis__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2915136974191564	13	0.07692307692307693
+CanDis__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	pearson	raw	0.0429252225619096	13	0.38461538461538464
+CanDis__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2759373962710504	13	0.15384615384615385
+CanDis__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	spearman	raw	0.05279406131842587	13	0.38461538461538464
+CanDis__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.35178593156435656	13	0.9230769230769231
+CanDis__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	pearson	raw	0.5267091748806146	13	1.0
+CanDis__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3744429283922634	13	0.9230769230769231
+CanDis__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	spearman	raw	0.532194949315038	13	1.0
+CanDis__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3446831135087106	13	0.15384615384615385
+CanDis__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.059365696631945096	13	0.38461538461538464
+CanDis__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.42898842179127794	13	0.15384615384615385
+CanDis__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.08325835512871602	13	0.38461538461538464
+CanDis__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.4115121212597348	13	0.07692307692307693
+CanDis__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.06781094922469212	13	0.38461538461538464
+CanDis__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.39345625293770603	13	0.07692307692307693
+CanDis__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.07134837637521703	13	0.5384615384615384
+CanDis__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.47487835599540673	13	0.9230769230769231
+CanDis__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6614161563607363	13	1.0
+CanDis__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.5253888687063204	13	0.9230769230769231
+CanDis__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.7058729065039351	13	1.0
+GSE171351	0	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	0	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	0	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	0	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	0	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	0	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	0	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	0	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	0	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	0	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	0	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	0	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	0	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	0	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	0	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	0	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	0	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	0	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	0	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	0	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	1	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.009811964793507863	2	0.5
+GSE171351	1	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.12285116314888	2	1.0
+GSE171351	1	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.06101684803469975	2	0.5
+GSE171351	1	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.18034564582259613	2	1.0
+GSE171351	1	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.1201681367288055	2	0.5
+GSE171351	1	center	five_UCell	Endothelial_abundance	pearson	raw	0.17343026958405972	2	0.5
+GSE171351	1	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.06468689762897804	2	1.0
+GSE171351	1	center	five_UCell	Endothelial_abundance	spearman	raw	0.11425305646834849	2	0.5
+GSE171351	1	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.09230628208434846	2	0.5
+GSE171351	1	center	five_UCell	LLPS77_UCell	pearson	raw	-0.08715468645095825	2	0.5
+GSE171351	1	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.08943716315381377	2	0.5
+GSE171351	1	center	five_UCell	LLPS77_UCell	spearman	raw	-0.08485261230230903	2	0.5
+GSE171351	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.10921404723631109	2	1.0
+GSE171351	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.23058524914085865	2	0.5
+GSE171351	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.17833561686184898	2	1.0
+GSE171351	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.2946205757770237	2	1.0
+GSE171351	1	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.19470043789115585	2	0.5
+GSE171351	1	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.27472716197371483	2	0.5
+GSE171351	1	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.02931717524277487	2	0.5
+GSE171351	1	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.14145870167496535	2	0.5
+GSE171351	1	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.19012059972396272	2	0.5
+GSE171351	1	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	-0.20005772076547146	2	0.5
+GSE171351	1	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.2079518378122062	2	0.5
+GSE171351	1	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	-0.21817091052621007	2	0.5
+GSE171351	2	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	2	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	2	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	2	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	2	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	2	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	2	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	2	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	2	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	2	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	2	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	2	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	2	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	2	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	2	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	2	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	2	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	2	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	2	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	2	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	3	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	3	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	3	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	3	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	3	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	3	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	3	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	3	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	3	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	3	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	3	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	3	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	3	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	3	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	3	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	3	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	3	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	3	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	3	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	3	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	4	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.020023899356896274	2	1.0
+GSE171351	4	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.1790698952972889	2	1.0
+GSE171351	4	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.020764635303071363	2	0.5
+GSE171351	4	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.16813708267797078	2	1.0
+GSE171351	4	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.10292226902026294	2	0.5
+GSE171351	4	center	five_UCell	Endothelial_abundance	pearson	raw	0.11614831537008286	2	0.5
+GSE171351	4	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.10917080852772994	2	0.5
+GSE171351	4	center	five_UCell	Endothelial_abundance	spearman	raw	0.07205509625275275	2	0.5
+GSE171351	4	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.005720098986961367	2	0.5
+GSE171351	4	center	five_UCell	LLPS77_UCell	pearson	raw	0.14861611276865005	2	0.5
+GSE171351	4	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.004788340333771693	2	0.5
+GSE171351	4	center	five_UCell	LLPS77_UCell	spearman	raw	0.10693873036395987	2	0.5
+GSE171351	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1098452448789035	2	0.5
+GSE171351	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.13634189032018185	2	1.0
+GSE171351	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.07993268267982699	2	0.0
+GSE171351	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.08911932224198034	2	1.0
+GSE171351	4	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1748016978906812	2	0.5
+GSE171351	4	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.2638206426054239	2	0.5
+GSE171351	4	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.17670638231602176	2	0.5
+GSE171351	4	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.23318411499653072	2	0.5
+GSE171351	4	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.0908143468070675	2	1.0
+GSE171351	4	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.31054186820983887	2	1.0
+GSE171351	4	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.0895240638971829	2	0.5
+GSE171351	4	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.286319883307062	2	1.0
+GSE171351	5	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	5	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	5	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	5	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	5	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	5	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	5	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	5	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	5	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	5	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	5	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	5	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	5	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	5	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	5	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	5	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	5	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	5	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	5	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	5	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	6	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.23461068602400903	3	0.3333333333333333
+GSE171351	6	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.11736951271692912	3	0.3333333333333333
+GSE171351	6	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.21869614180926233	3	0.3333333333333333
+GSE171351	6	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.11440447378908912	3	0.3333333333333333
+GSE171351	6	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.05317644231688901	3	0.3333333333333333
+GSE171351	6	center	five_UCell	Endothelial_abundance	pearson	raw	0.04296778577069441	3	0.6666666666666666
+GSE171351	6	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.02445542313024591	3	0.3333333333333333
+GSE171351	6	center	five_UCell	Endothelial_abundance	spearman	raw	0.04253758311349946	3	0.6666666666666666
+GSE171351	6	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.04324765824083387	3	0.6666666666666666
+GSE171351	6	center	five_UCell	LLPS77_UCell	pearson	raw	0.061926230788230896	3	0.6666666666666666
+GSE171351	6	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.04635222782241067	3	0.6666666666666666
+GSE171351	6	center	five_UCell	LLPS77_UCell	spearman	raw	0.06481265027939408	3	0.6666666666666666
+GSE171351	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.31565009761761964	3	0.0
+GSE171351	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.11096013089021046	3	0.3333333333333333
+GSE171351	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2913848316243171	3	0.0
+GSE171351	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.11276419614863283	3	0.3333333333333333
+GSE171351	6	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.08664648781399358	3	0.3333333333333333
+GSE171351	6	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.09375004408260186	3	1.0
+GSE171351	6	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.04894731154536603	3	0.3333333333333333
+GSE171351	6	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.0875242533941709	3	1.0
+GSE171351	6	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.13596605356690397	3	0.6666666666666666
+GSE171351	6	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.17646836241086325	3	0.6666666666666666
+GSE171351	6	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.055235758248469304	3	0.6666666666666666
+GSE171351	6	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.09896227167347033	3	0.6666666666666666
+GSE171351	7	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	7	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	7	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	7	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	7	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	7	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	7	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	7	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	7	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	7	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	7	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	7	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	7	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	7	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	7	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	7	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	7	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	7	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	7	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	7	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	8	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	8	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	8	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	8	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	8	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	8	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	8	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	8	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	8	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	8	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	8	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	8	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	8	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE171351	8	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE171351	8	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE171351	8	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE171351	8	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE171351	8	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE171351	8	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE171351	8	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE171351	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.13464929841239912	4	0.0
+GSE171351	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.009816056117415428	4	0.5
+GSE171351	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.07955102655628102	4	0.0
+GSE171351	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.04926287948513136	4	0.5
+GSE171351	ALL	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.08914227239006667	4	0.25
+GSE171351	ALL	center	five_UCell	Endothelial_abundance	pearson	raw	0.02182612055912614	4	0.25
+GSE171351	ALL	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.05600384346108507	4	0.5
+GSE171351	ALL	center	five_UCell	Endothelial_abundance	spearman	raw	0.026164759449523407	4	0.25
+GSE171351	ALL	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.03235568740166201	4	0.75
+GSE171351	ALL	center	five_UCell	LLPS77_UCell	pearson	raw	0.06948502687737346	4	0.75
+GSE171351	ALL	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.021609226273536928	4	0.75
+GSE171351	ALL	center	five_UCell	LLPS77_UCell	spearman	raw	0.04436427041261048	4	0.75
+GSE171351	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1372197009168113	4	0.25
+GSE171351	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.035354092717170715	4	0.5
+GSE171351	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08157819547498563	4	0.25
+GSE171351	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.09312070640010014	4	0.5
+GSE171351	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.14464660157761472	4	0.25
+GSE171351	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.04829508368857205	4	0.5
+GSE171351	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.12249681631382014	4	0.25
+GSE171351	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.03442753819521695	4	0.5
+GSE171351	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.05735677972031732	4	0.75
+GSE171351	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.12119975592941046	4	0.75
+GSE171351	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.0385879065119059	4	0.75
+GSE171351	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.0757253780402756	4	0.75
+GSE238145	0	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.05669188064452541	9	0.5555555555555556
+GSE238145	0	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.09648999985721377	9	0.6666666666666666
+GSE238145	0	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08911870358453258	9	0.3333333333333333
+GSE238145	0	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.12015586869538843	9	0.7777777777777778
+GSE238145	0	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.17911738154508383	9	0.2222222222222222
+GSE238145	0	center	five_UCell	Endothelial_abundance	pearson	raw	0.13075856719579962	9	0.6666666666666666
+GSE238145	0	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1902318764879004	9	0.2222222222222222
+GSE238145	0	center	five_UCell	Endothelial_abundance	spearman	raw	0.18240513780178813	9	0.7777777777777778
+GSE238145	0	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.1819361323438951	9	0.7777777777777778
+GSE238145	0	center	five_UCell	LLPS77_UCell	pearson	raw	0.2936621382832527	9	0.8888888888888888
+GSE238145	0	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.18373513801864425	9	0.7777777777777778
+GSE238145	0	center	five_UCell	LLPS77_UCell	spearman	raw	0.2993456237036467	9	0.8888888888888888
+GSE238145	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.07861800691365203	9	0.5555555555555556
+GSE238145	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.16213288199570444	9	0.7777777777777778
+GSE238145	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.10684311195752216	9	0.4444444444444444
+GSE238145	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.17697984384481927	9	0.7777777777777778
+GSE238145	0	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2673312909321768	9	0.2222222222222222
+GSE238145	0	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.21424030605703592	9	0.7777777777777778
+GSE238145	0	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.27651233338384335	9	0.1111111111111111
+GSE238145	0	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.25726048317784417	9	0.7777777777777778
+GSE238145	0	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.2659041552699922	9	0.7777777777777778
+GSE238145	0	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.4029895042379697	9	0.8888888888888888
+GSE238145	0	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.27266808527787867	9	0.6666666666666666
+GSE238145	0	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.39592238738296454	9	0.8888888888888888
+GSE238145	1	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.14925030698352856	8	0.0
+GSE238145	1	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.11032408056780696	8	0.375
+GSE238145	1	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.13938016437390796	8	0.0
+GSE238145	1	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.12517698954808842	8	0.25
+GSE238145	1	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.003819397760705507	8	0.625
+GSE238145	1	center	five_UCell	Endothelial_abundance	pearson	raw	0.2676969524472952	8	1.0
+GSE238145	1	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.03136692854946951	8	0.75
+GSE238145	1	center	five_UCell	Endothelial_abundance	spearman	raw	0.23835216415580507	8	1.0
+GSE238145	1	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.10617047399052387	8	0.625
+GSE238145	1	center	five_UCell	LLPS77_UCell	pearson	raw	-0.10836250707507133	8	0.25
+GSE238145	1	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.09229177102146918	8	0.5
+GSE238145	1	center	five_UCell	LLPS77_UCell	spearman	raw	-0.11814343341615596	8	0.25
+GSE238145	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.17675991731722107	8	0.0
+GSE238145	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.14887950522825122	8	0.375
+GSE238145	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.13882641308182614	8	0.0
+GSE238145	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.13573293602958736	8	0.25
+GSE238145	1	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.01603784083568329	8	0.375
+GSE238145	1	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.4028858933597803	8	1.0
+GSE238145	1	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.019179598818207355	8	0.75
+GSE238145	1	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.28091842037946246	8	0.875
+GSE238145	1	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.26379610858971664	8	0.125
+GSE238145	1	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	-0.25569091457873583	8	0.25
+GSE238145	1	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.23775421013294296	8	0.25
+GSE238145	1	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	-0.27113721183547573	8	0.125
+GSE238145	2	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.24052371081836701	3	0.3333333333333333
+GSE238145	2	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.09815787523984909	3	0.3333333333333333
+GSE238145	2	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.25367745586398643	3	0.3333333333333333
+GSE238145	2	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.06561064766967435	3	0.3333333333333333
+GSE238145	2	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2924883694147325	3	0.0
+GSE238145	2	center	five_UCell	Endothelial_abundance	pearson	raw	0.039141759276390076	3	0.6666666666666666
+GSE238145	2	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2733517066717999	3	0.0
+GSE238145	2	center	five_UCell	Endothelial_abundance	spearman	raw	0.026230128615808843	3	0.6666666666666666
+GSE238145	2	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.35490004418284543	3	1.0
+GSE238145	2	center	five_UCell	LLPS77_UCell	pearson	raw	0.42605628569920856	3	1.0
+GSE238145	2	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.324605596480905	3	0.6666666666666666
+GSE238145	2	center	five_UCell	LLPS77_UCell	spearman	raw	0.4055122930939747	3	1.0
+GSE238145	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.37230040975120876	3	0.3333333333333333
+GSE238145	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.1301550418138504	3	0.3333333333333333
+GSE238145	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.3813864599868133	3	0.0
+GSE238145	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.00802875185864882	3	0.3333333333333333
+GSE238145	2	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.5872222043667792	3	0.0
+GSE238145	2	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.05188087125619253	3	0.3333333333333333
+GSE238145	2	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.48217311401511065	3	0.0
+GSE238145	2	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.07870366506016126	3	0.3333333333333333
+GSE238145	2	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.558686951926285	3	1.0
+GSE238145	2	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.47505513827006024	3	1.0
+GSE238145	2	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.46186866967559176	3	1.0
+GSE238145	2	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.5013598653860906	3	1.0
+GSE238145	3	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE238145	3	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE238145	3	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE238145	3	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE238145	3	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE238145	3	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE238145	3	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE238145	3	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE238145	3	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE238145	3	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE238145	3	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE238145	3	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE238145	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE238145	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE238145	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE238145	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE238145	3	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE238145	3	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE238145	3	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE238145	3	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE238145	3	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE238145	3	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE238145	3	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE238145	3	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE238145	4	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3156162744483409	8	0.0
+GSE238145	4	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.015881785890087485	8	0.25
+GSE238145	4	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.34070412438460024	8	0.0
+GSE238145	4	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.010364509644706171	8	0.5
+GSE238145	4	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.27406829202061156	8	0.0
+GSE238145	4	center	five_UCell	Endothelial_abundance	pearson	raw	0.1737369946204126	8	0.625
+GSE238145	4	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.3037157012253887	8	0.125
+GSE238145	4	center	five_UCell	Endothelial_abundance	spearman	raw	0.2591651228694598	8	0.625
+GSE238145	4	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.34694123027165036	8	1.0
+GSE238145	4	center	five_UCell	LLPS77_UCell	pearson	raw	0.4310618005692959	8	1.0
+GSE238145	4	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3642469138320563	8	1.0
+GSE238145	4	center	five_UCell	LLPS77_UCell	spearman	raw	0.44957999050545183	8	1.0
+GSE238145	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.41624210977132925	8	0.125
+GSE238145	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.022779841907322407	8	0.5
+GSE238145	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.4236308059836329	8	0.125
+GSE238145	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.005746910150491388	8	0.5
+GSE238145	4	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3871696658784833	8	0.0
+GSE238145	4	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.2637773612514138	8	0.75
+GSE238145	4	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.4242431032954097	8	0.0
+GSE238145	4	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.33583729413047503	8	0.625
+GSE238145	4	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.44738947810108187	8	0.875
+GSE238145	4	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.5405113145243376	8	0.875
+GSE238145	4	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.4828621425300842	8	0.875
+GSE238145	4	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.5596728660263672	8	0.875
+GSE238145	5	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.0857442049697897	7	0.42857142857142855
+GSE238145	5	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.07549090523804937	7	0.8571428571428571
+GSE238145	5	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08058815895659781	7	0.5714285714285714
+GSE238145	5	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.042140930995485514	7	0.5714285714285714
+GSE238145	5	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.023188001032853463	7	0.5714285714285714
+GSE238145	5	center	five_UCell	Endothelial_abundance	pearson	raw	0.34488196458135334	7	0.8571428571428571
+GSE238145	5	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.029634915257309054	7	0.8571428571428571
+GSE238145	5	center	five_UCell	Endothelial_abundance	spearman	raw	0.2148419341582988	7	0.8571428571428571
+GSE238145	5	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.05123133539274075	7	0.5714285714285714
+GSE238145	5	center	five_UCell	LLPS77_UCell	pearson	raw	0.13819313208971704	7	0.8571428571428571
+GSE238145	5	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.038323737637538886	7	0.5714285714285714
+GSE238145	5	center	five_UCell	LLPS77_UCell	spearman	raw	0.11777149878942997	7	0.7142857142857143
+GSE238145	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.10492140920277492	7	0.2857142857142857
+GSE238145	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.20131841621228627	7	0.8571428571428571
+GSE238145	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.13871637509102488	7	0.2857142857142857
+GSE238145	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.15732350335859593	7	0.5714285714285714
+GSE238145	5	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.04613966742005631	7	0.8571428571428571
+GSE238145	5	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.5969082425747599	7	0.8571428571428571
+GSE238145	5	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.04810020886061555	7	0.7142857142857143
+GSE238145	5	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.463392934136966	7	0.8571428571428571
+GSE238145	5	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.17681001913819724	7	0.7142857142857143
+GSE238145	5	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.3617942950555256	7	1.0
+GSE238145	5	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.11899111664829111	7	0.5714285714285714
+GSE238145	5	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.30677813727171327	7	0.8571428571428571
+GSE238145	6	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.13234346743897735	3	0.0
+GSE238145	6	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.20299293597539267	3	0.3333333333333333
+GSE238145	6	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.16161701705387807	3	0.0
+GSE238145	6	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.22455526653351895	3	0.3333333333333333
+GSE238145	6	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.29831021740207303	3	0.0
+GSE238145	6	center	five_UCell	Endothelial_abundance	pearson	raw	-0.08026245733102162	3	0.6666666666666666
+GSE238145	6	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.31565925294878144	3	0.0
+GSE238145	6	center	five_UCell	Endothelial_abundance	spearman	raw	-0.05405568043110814	3	0.6666666666666666
+GSE238145	6	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.2377836092573491	3	1.0
+GSE238145	6	center	five_UCell	LLPS77_UCell	pearson	raw	0.2977977643410365	3	1.0
+GSE238145	6	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.24533203977595605	3	1.0
+GSE238145	6	center	five_UCell	LLPS77_UCell	spearman	raw	0.29190656761782624	3	1.0
+GSE238145	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1332471406315406	3	0.0
+GSE238145	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.22512105107307434	3	0.3333333333333333
+GSE238145	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.15677593584080815	3	0.0
+GSE238145	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.24873038599731023	3	0.3333333333333333
+GSE238145	6	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.4106024240086279	3	0.0
+GSE238145	6	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.06213667243719101	3	0.6666666666666666
+GSE238145	6	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.4199649528544184	3	0.0
+GSE238145	6	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.03585905607162854	3	0.6666666666666666
+GSE238145	6	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.33069807236784254	3	1.0
+GSE238145	6	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.38147927292933065	3	0.6666666666666666
+GSE238145	6	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.34621195724673853	3	1.0
+GSE238145	6	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.3817524775280274	3	1.0
+GSE238145	7	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1352885717182192	3	0.0
+GSE238145	7	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.05960746854543686	3	0.3333333333333333
+GSE238145	7	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.16412386502197887	3	0.0
+GSE238145	7	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.09349543545222816	3	0.3333333333333333
+GSE238145	7	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2318471573391527	3	0.0
+GSE238145	7	center	five_UCell	Endothelial_abundance	pearson	raw	-0.18244386712710062	3	0.0
+GSE238145	7	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.23466764328454168	3	0.0
+GSE238145	7	center	five_UCell	Endothelial_abundance	spearman	raw	-0.13599534183662645	3	0.0
+GSE238145	7	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.05242811307925196	3	0.3333333333333333
+GSE238145	7	center	five_UCell	LLPS77_UCell	pearson	raw	-0.03534517871836821	3	0.3333333333333333
+GSE238145	7	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.04563295145899924	3	0.3333333333333333
+GSE238145	7	center	five_UCell	LLPS77_UCell	spearman	raw	-0.02906109759625238	3	0.3333333333333333
+GSE238145	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2277182263535749	3	0.3333333333333333
+GSE238145	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.08684628705183665	3	0.3333333333333333
+GSE238145	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.19592436688390213	3	0.3333333333333333
+GSE238145	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.005648778206864695	3	0.3333333333333333
+GSE238145	7	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.31699516686588963	3	0.0
+GSE238145	7	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.35246747732162476	3	0.0
+GSE238145	7	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2885043826074837	3	0.0
+GSE238145	7	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.3082216808781973	3	0.0
+GSE238145	7	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.0011650061777052148	3	0.3333333333333333
+GSE238145	7	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	-0.014452245086431503	3	0.6666666666666666
+GSE238145	7	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.026098371222634364	3	0.3333333333333333
+GSE238145	7	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	-0.015561751119644604	3	0.6666666666666666
+GSE238145	8	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE238145	8	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE238145	8	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE238145	8	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE238145	8	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE238145	8	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE238145	8	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE238145	8	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE238145	8	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE238145	8	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE238145	8	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE238145	8	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE238145	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE238145	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE238145	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE238145	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE238145	8	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE238145	8	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE238145	8	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE238145	8	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE238145	8	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE238145	8	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE238145	8	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE238145	8	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE238145	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.19433669765201178	10	0.0
+GSE238145	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.09966344758868217	10	0.5
+GSE238145	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.22399500931189315	10	0.0
+GSE238145	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.08330123372854871	10	0.6
+GSE238145	ALL	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.21874098122911018	10	0.1
+GSE238145	ALL	center	five_UCell	Endothelial_abundance	pearson	raw	0.14600997939705848	10	0.7
+GSE238145	ALL	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2288642146626211	10	0.1
+GSE238145	ALL	center	five_UCell	Endothelial_abundance	spearman	raw	0.2537912071934448	10	0.7
+GSE238145	ALL	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.08836260337908367	10	0.7
+GSE238145	ALL	center	five_UCell	LLPS77_UCell	pearson	raw	0.1675196446478367	10	0.8
+GSE238145	ALL	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.15554098162175634	10	0.8
+GSE238145	ALL	center	five_UCell	LLPS77_UCell	spearman	raw	0.21118637449348202	10	0.8
+GSE238145	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.23447573195294186	10	0.1
+GSE238145	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.09818279519677162	10	0.6
+GSE238145	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.26270597641161786	10	0.1
+GSE238145	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.08428700012735987	10	0.5
+GSE238145	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2714910510767358	10	0.1
+GSE238145	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.212687748670578	10	0.7
+GSE238145	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2790971904112867	10	0.1
+GSE238145	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.3182340711105641	10	0.7
+GSE238145	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.12584234375420264	10	0.7
+GSE238145	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.2242032766342163	10	0.8
+GSE238145	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.22297815583867733	10	0.7
+GSE238145	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.2810855348934193	10	0.8
+GSE285715	0	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.013733163543313633	4	0.75
+GSE285715	0	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.23116954416036606	4	0.75
+GSE285715	0	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08300764559749041	4	0.5
+GSE285715	0	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.2608853600108185	4	0.75
+GSE285715	0	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.10965521291934459	4	0.25
+GSE285715	0	center	five_UCell	Endothelial_abundance	pearson	raw	0.400817072018981	4	1.0
+GSE285715	0	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.09961557053025362	4	0.5
+GSE285715	0	center	five_UCell	Endothelial_abundance	spearman	raw	0.3155106124078966	4	1.0
+GSE285715	0	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.3312795587531195	4	0.75
+GSE285715	0	center	five_UCell	LLPS77_UCell	pearson	raw	0.5549428947269917	4	0.75
+GSE285715	0	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.22622098915070965	4	0.75
+GSE285715	0	center	five_UCell	LLPS77_UCell	spearman	raw	0.5260161527866142	4	0.75
+GSE285715	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.003108796016286261	4	0.75
+GSE285715	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.31390945613384247	4	0.75
+GSE285715	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08606435910667593	4	0.75
+GSE285715	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.31180568939158426	4	0.75
+GSE285715	0	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.1048884301054657	4	0.75
+GSE285715	0	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.33217218494974077	4	0.75
+GSE285715	0	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.04793744900539074	4	0.5
+GSE285715	0	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.34996722395443813	4	0.75
+GSE285715	0	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.37578473068590434	4	0.75
+GSE285715	0	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.5235190242528915	4	0.75
+GSE285715	0	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.21123227568291267	4	0.5
+GSE285715	0	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.5029852580020571	4	0.75
+GSE285715	1	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3849280561098917	3	0.0
+GSE285715	1	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.14472931173319617	3	0.6666666666666666
+GSE285715	1	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.14201886615218215	3	0.3333333333333333
+GSE285715	1	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.037292379991865986	3	0.6666666666666666
+GSE285715	1	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.308663900398028	3	0.0
+GSE285715	1	center	five_UCell	Endothelial_abundance	pearson	raw	0.1142776608467102	3	0.3333333333333333
+GSE285715	1	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.16394163299750744	3	0.3333333333333333
+GSE285715	1	center	five_UCell	Endothelial_abundance	spearman	raw	0.24057027892446015	3	0.6666666666666666
+GSE285715	1	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.44354151740591635	3	1.0
+GSE285715	1	center	five_UCell	LLPS77_UCell	pearson	raw	0.3174719661474228	3	1.0
+GSE285715	1	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.4309246606365771	3	1.0
+GSE285715	1	center	five_UCell	LLPS77_UCell	spearman	raw	0.3681726765556455	3	1.0
+GSE285715	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3679549529691373	3	0.0
+GSE285715	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.05695010224978129	3	0.6666666666666666
+GSE285715	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.14238959219740113	3	0.3333333333333333
+GSE285715	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.10667157233830543	3	0.6666666666666666
+GSE285715	1	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.34047731660333946	3	0.0
+GSE285715	1	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.22029876212279	3	0.3333333333333333
+GSE285715	1	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2019421429333513	3	0.3333333333333333
+GSE285715	1	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.3176103004094608	3	1.0
+GSE285715	1	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.5810479457156207	3	1.0
+GSE285715	1	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.3777724007765452	3	1.0
+GSE285715	1	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.43570797052667837	3	1.0
+GSE285715	1	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.4160904071142008	3	1.0
+GSE285715	2	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.014611194295845226	5	0.6
+GSE285715	2	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.44992756843566895	5	1.0
+GSE285715	2	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.0972974314206617	5	0.4
+GSE285715	2	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.5945851677566427	5	1.0
+GSE285715	2	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.056059103751575655	5	0.4
+GSE285715	2	center	five_UCell	Endothelial_abundance	pearson	raw	0.38928005993366244	5	1.0
+GSE285715	2	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.15048039543639216	5	0.4
+GSE285715	2	center	five_UCell	Endothelial_abundance	spearman	raw	0.4567910686747304	5	1.0
+GSE285715	2	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.30266067734971797	5	0.8
+GSE285715	2	center	five_UCell	LLPS77_UCell	pearson	raw	0.5564575374126435	5	1.0
+GSE285715	2	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.2077666399438936	5	0.8
+GSE285715	2	center	five_UCell	LLPS77_UCell	spearman	raw	0.5571848172374192	5	1.0
+GSE285715	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.0629933376049859	5	0.4
+GSE285715	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.42102834582328796	5	1.0
+GSE285715	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.11110075748286308	5	0.6
+GSE285715	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.6007633762682774	5	1.0
+GSE285715	2	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1070187352718297	5	0.4
+GSE285715	2	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.400893497467041	5	1.0
+GSE285715	2	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.11124039291708387	5	0.4
+GSE285715	2	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.5458690516959936	5	1.0
+GSE285715	2	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.3528332355989483	5	1.0
+GSE285715	2	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6437471151351929	5	1.0
+GSE285715	2	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3003208635416114	5	0.8
+GSE285715	2	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.7123745665936875	5	1.0
+GSE285715	3	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.1972155847469795	3	1.0
+GSE285715	3	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.6294462482134501	3	1.0
+GSE285715	3	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.15482074106352636	3	1.0
+GSE285715	3	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.6156093135366879	3	1.0
+GSE285715	3	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.10873092767873789	3	0.6666666666666666
+GSE285715	3	center	five_UCell	Endothelial_abundance	pearson	raw	0.47868555784225464	3	1.0
+GSE285715	3	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.07498408889962173	3	1.0
+GSE285715	3	center	five_UCell	Endothelial_abundance	spearman	raw	0.29424421183571886	3	1.0
+GSE285715	3	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.06849661680669904	3	0.6666666666666666
+GSE285715	3	center	five_UCell	LLPS77_UCell	pearson	raw	0.44841210047403973	3	1.0
+GSE285715	3	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.23659309197236192	3	1.0
+GSE285715	3	center	five_UCell	LLPS77_UCell	spearman	raw	0.3742427412305347	3	1.0
+GSE285715	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.18360615214809348	3	1.0
+GSE285715	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.641153872013092	3	1.0
+GSE285715	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.15165866000087638	3	1.0
+GSE285715	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.672304562270186	3	1.0
+GSE285715	3	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.22702415291833433	3	0.6666666666666666
+GSE285715	3	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.555522084236145	3	1.0
+GSE285715	3	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.1556590355181471	3	1.0
+GSE285715	3	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.4997380740831616	3	1.0
+GSE285715	3	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.3308617609763023	3	1.0
+GSE285715	3	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6182067394256592	3	1.0
+GSE285715	3	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3108080880367648	3	1.0
+GSE285715	3	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.5827702267609804	3	1.0
+GSE285715	4	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.004491355025014632	5	0.4
+GSE285715	4	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.4234063982963562	5	0.8
+GSE285715	4	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.0007638560429151786	5	0.4
+GSE285715	4	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.4464466758302166	5	0.8
+GSE285715	4	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.05823596836327179	5	0.4
+GSE285715	4	center	five_UCell	Endothelial_abundance	pearson	raw	0.33040975630283353	5	0.8
+GSE285715	4	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08039153754086438	5	0.4
+GSE285715	4	center	five_UCell	Endothelial_abundance	spearman	raw	0.3476978849486155	5	0.8
+GSE285715	4	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.3606824852766056	5	1.0
+GSE285715	4	center	five_UCell	LLPS77_UCell	pearson	raw	0.5952027291059494	5	1.0
+GSE285715	4	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.2443644700601954	5	0.8
+GSE285715	4	center	five_UCell	LLPS77_UCell	spearman	raw	0.5378761195022503	5	0.8
+GSE285715	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.01815969567557262	5	0.6
+GSE285715	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.4119808435440063	5	1.0
+GSE285715	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.036403400177192916	5	0.6
+GSE285715	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.4503402682817339	5	1.0
+GSE285715	4	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.14091655008454484	5	0.0
+GSE285715	4	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.26384052634239197	5	0.8
+GSE285715	4	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.13683788217940804	5	0.4
+GSE285715	4	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.3262582070070059	5	0.8
+GSE285715	4	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.4128801963396535	5	0.8
+GSE285715	4	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.5861591279506684	5	0.8
+GSE285715	4	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3323291867217595	5	0.8
+GSE285715	4	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.5448110885203488	5	0.8
+GSE285715	5	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE285715	5	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE285715	5	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE285715	5	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE285715	5	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE285715	5	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE285715	5	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE285715	5	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE285715	5	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE285715	5	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE285715	5	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE285715	5	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE285715	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE285715	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE285715	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE285715	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE285715	5	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE285715	5	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE285715	5	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE285715	5	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE285715	5	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE285715	5	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE285715	5	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE285715	5	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE285715	6	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.060438707367945155	3	0.6666666666666666
+GSE285715	6	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.42218582332134247	3	1.0
+GSE285715	6	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.013726836263626807	3	0.6666666666666666
+GSE285715	6	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.4200090634772305	3	1.0
+GSE285715	6	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.06530642481570692	3	0.6666666666666666
+GSE285715	6	center	five_UCell	Endothelial_abundance	pearson	raw	0.34341734647750854	3	0.6666666666666666
+GSE285715	6	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08723466984852198	3	0.6666666666666666
+GSE285715	6	center	five_UCell	Endothelial_abundance	spearman	raw	0.2665487434797307	3	0.6666666666666666
+GSE285715	6	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.449588617370595	3	1.0
+GSE285715	6	center	five_UCell	LLPS77_UCell	pearson	raw	0.6181377172470093	3	1.0
+GSE285715	6	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3791707522759707	3	1.0
+GSE285715	6	center	five_UCell	LLPS77_UCell	spearman	raw	0.5708057918762969	3	1.0
+GSE285715	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.08894899441294156	3	0.3333333333333333
+GSE285715	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.26959176858266193	3	1.0
+GSE285715	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.13216402978251945	3	0.3333333333333333
+GSE285715	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.31707445922292526	3	1.0
+GSE285715	6	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.07110015970937004	3	0.3333333333333333
+GSE285715	6	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.23763441046079	3	1.0
+GSE285715	6	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08553270847326977	3	0.3333333333333333
+GSE285715	6	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.3182910457543433	3	1.0
+GSE285715	6	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.5428009538672427	3	1.0
+GSE285715	6	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.7022660772005717	3	1.0
+GSE285715	6	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.5087800925808817	3	1.0
+GSE285715	6	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.7100781083865119	3	1.0
+GSE285715	7	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.09416854112950071	2	0.0
+GSE285715	7	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.13670344650745392	2	1.0
+GSE285715	7	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.02495488591156467	2	0.5
+GSE285715	7	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.300903018614029	2	1.0
+GSE285715	7	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.16195832566469753	2	0.0
+GSE285715	7	center	five_UCell	Endothelial_abundance	pearson	raw	-0.13064782228320837	2	0.0
+GSE285715	7	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2241598495818135	2	0.0
+GSE285715	7	center	five_UCell	Endothelial_abundance	spearman	raw	-0.11401687720509548	2	0.5
+GSE285715	7	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.04929035977576643	2	0.5
+GSE285715	7	center	five_UCell	LLPS77_UCell	pearson	raw	-0.007666651159524918	2	0.5
+GSE285715	7	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.04782871666361534	2	0.5
+GSE285715	7	center	five_UCell	LLPS77_UCell	spearman	raw	0.04350532398925801	2	1.0
+GSE285715	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.06462204347828356	2	0.0
+GSE285715	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.17032673954963684	2	1.0
+GSE285715	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.07804519961084429	2	0.5
+GSE285715	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.3277127280416575	2	1.0
+GSE285715	7	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.22544851190987386	2	0.0
+GSE285715	7	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.23635946959257126	2	0.0
+GSE285715	7	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.27278035930698985	2	0.0
+GSE285715	7	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.19633019046468114	2	0.0
+GSE285715	7	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.16721282740480636	2	0.5
+GSE285715	7	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	-0.1345725655555725	2	0.5
+GSE285715	7	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.12242484966758312	2	0.5
+GSE285715	7	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	-0.06728453901374473	2	0.0
+GSE285715	8	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE285715	8	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE285715	8	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE285715	8	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE285715	8	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE285715	8	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE285715	8	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE285715	8	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE285715	8	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE285715	8	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE285715	8	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE285715	8	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE285715	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE285715	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+GSE285715	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE285715	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+GSE285715	8	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+GSE285715	8	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+GSE285715	8	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+GSE285715	8	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+GSE285715	8	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+GSE285715	8	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+GSE285715	8	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+GSE285715	8	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+GSE285715	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.06375892061141418	6	0.5
+GSE285715	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.297208733856678	6	0.8333333333333334
+GSE285715	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.07098153006272934	6	0.6666666666666666
+GSE285715	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.4310454427539983	6	0.8333333333333334
+GSE285715	ALL	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.11278160555684313	6	0.3333333333333333
+GSE285715	ALL	center	five_UCell	Endothelial_abundance	pearson	raw	0.23461396619677544	6	0.6666666666666666
+GSE285715	ALL	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.16146513139505125	6	0.5
+GSE285715	ALL	center	five_UCell	Endothelial_abundance	spearman	raw	0.19283787087342408	6	0.6666666666666666
+GSE285715	ALL	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.4121706216999576	6	1.0
+GSE285715	ALL	center	five_UCell	LLPS77_UCell	pearson	raw	0.5711628645658493	6	1.0
+GSE285715	ALL	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.33475729646246905	6	1.0
+GSE285715	ALL	center	five_UCell	LLPS77_UCell	spearman	raw	0.41685674903132636	6	0.8333333333333334
+GSE285715	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.10482462584809334	6	0.5
+GSE285715	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.3144518956542015	6	0.8333333333333334
+GSE285715	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.056283763041094274	6	0.6666666666666666
+GSE285715	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.47217312301785386	6	0.8333333333333334
+GSE285715	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.17040856279097683	6	0.16666666666666666
+GSE285715	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.23305832346280417	6	0.6666666666666666
+GSE285715	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.16352023873518973	6	0.5
+GSE285715	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.24139581102299132	6	0.6666666666666666
+GSE285715	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.522561291361349	6	1.0
+GSE285715	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6623883359134197	6	1.0
+GSE285715	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.4165949070779547	6	1.0
+GSE285715	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.536514783533856	6	0.8333333333333334
+GSE319536	0	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.08601344864888305	15	0.3333333333333333
+GSE319536	0	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.12433231547474861	15	0.7333333333333333
+GSE319536	0	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.06948300802941351	15	0.3333333333333333
+GSE319536	0	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.18463598253838656	15	0.8
+GSE319536	0	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.12131587002943718	15	0.2
+GSE319536	0	center	five_UCell	Endothelial_abundance	pearson	raw	0.16150368812183538	15	0.7333333333333333
+GSE319536	0	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1286462754472392	15	0.13333333333333333
+GSE319536	0	center	five_UCell	Endothelial_abundance	spearman	raw	0.15330530677878104	15	0.6666666666666666
+GSE319536	0	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.18128471132207852	15	0.9333333333333333
+GSE319536	0	center	five_UCell	LLPS77_UCell	pearson	raw	0.317819976930817	15	1.0
+GSE319536	0	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.15603833487304	15	1.0
+GSE319536	0	center	five_UCell	LLPS77_UCell	spearman	raw	0.32108841958513284	15	1.0
+GSE319536	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.17578177109685875	15	0.26666666666666666
+GSE319536	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.17712260832389196	15	0.7333333333333333
+GSE319536	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.16841817298193598	15	0.2
+GSE319536	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.26397729449828256	15	0.7333333333333333
+GSE319536	0	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.254609592612817	15	0.13333333333333333
+GSE319536	0	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.22324711481730145	15	0.7333333333333333
+GSE319536	0	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.22655885010017185	15	0.2
+GSE319536	0	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.21540742491033119	15	0.7333333333333333
+GSE319536	0	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.3095673468783693	15	0.8666666666666667
+GSE319536	0	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.5212996045748393	15	1.0
+GSE319536	0	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3022335296847167	15	1.0
+GSE319536	0	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.500456002350324	15	0.9333333333333333
+GSE319536	1	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.12902487711789593	11	0.18181818181818182
+GSE319536	1	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.17944858358664947	11	0.6363636363636364
+GSE319536	1	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.12537770334151857	11	0.2727272727272727
+GSE319536	1	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.2811442862151223	11	0.8181818181818182
+GSE319536	1	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.10493015157397245	11	0.09090909090909091
+GSE319536	1	center	five_UCell	Endothelial_abundance	pearson	raw	0.22570997950705615	11	0.8181818181818182
+GSE319536	1	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.05575530279328155	11	0.18181818181818182
+GSE319536	1	center	five_UCell	Endothelial_abundance	spearman	raw	0.28060154690735756	11	0.8181818181818182
+GSE319536	1	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.023930559905477707	11	0.36363636363636365
+GSE319536	1	center	five_UCell	LLPS77_UCell	pearson	raw	0.23910314369608054	11	0.8181818181818182
+GSE319536	1	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.02956110412120522	11	0.2727272727272727
+GSE319536	1	center	five_UCell	LLPS77_UCell	spearman	raw	0.22827886910426007	11	0.8181818181818182
+GSE319536	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2979384341503313	11	0.18181818181818182
+GSE319536	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.1731275421651927	11	0.6363636363636364
+GSE319536	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.21183358896585344	11	0.36363636363636365
+GSE319536	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.3390915750740028	11	0.8181818181818182
+GSE319536	1	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.26631986808084834	11	0.09090909090909091
+GSE319536	1	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.27127408303997735	11	0.7272727272727273
+GSE319536	1	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.13840055823337347	11	0.09090909090909091
+GSE319536	1	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.32728341817625695	11	0.7272727272727273
+GSE319536	1	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.02466072224688337	11	0.2727272727272727
+GSE319536	1	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.27772097052498296	11	0.6363636363636364
+GSE319536	1	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.03374408644331773	11	0.2727272727272727
+GSE319536	1	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.3149733383307671	11	0.8181818181818182
+GSE319536	2	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3191012418885586	11	0.0
+GSE319536	2	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.03401446748863567	11	0.45454545454545453
+GSE319536	2	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.4571747932532028	11	0.0
+GSE319536	2	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.12436222329343204	11	0.36363636363636365
+GSE319536	2	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2908220610571627	11	0.0
+GSE319536	2	center	five_UCell	Endothelial_abundance	pearson	raw	0.1150558220053261	11	0.6363636363636364
+GSE319536	2	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.3298970816052933	11	0.0
+GSE319536	2	center	five_UCell	Endothelial_abundance	spearman	raw	0.05056189542209093	11	0.45454545454545453
+GSE319536	2	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.32515883672243107	11	1.0
+GSE319536	2	center	five_UCell	LLPS77_UCell	pearson	raw	0.45877189527858386	11	1.0
+GSE319536	2	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3885507773194688	11	1.0
+GSE319536	2	center	five_UCell	LLPS77_UCell	spearman	raw	0.46639541280490615	11	1.0
+GSE319536	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.49424609880351017	11	0.0
+GSE319536	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.1054894050413912	11	0.45454545454545453
+GSE319536	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.5859763557216298	11	0.0
+GSE319536	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.20544680934896398	11	0.36363636363636365
+GSE319536	2	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.504556774443354	11	0.0
+GSE319536	2	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.11300943791866302	11	0.5454545454545454
+GSE319536	2	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.5249785850329957	11	0.0
+GSE319536	2	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.025844991965242512	11	0.36363636363636365
+GSE319536	2	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.523135516236798	11	0.9090909090909091
+GSE319536	2	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6307069903070276	11	1.0
+GSE319536	2	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.6223531968115905	11	0.9090909090909091
+GSE319536	2	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.6908810185080406	11	1.0
+GSE319536	3	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.19799781461142743	4	0.25
+GSE319536	3	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.18336088210344315	4	0.5
+GSE319536	3	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2956832361300441	4	0.0
+GSE319536	3	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.15109495900364062	4	0.5
+GSE319536	3	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.27306872225870715	4	0.0
+GSE319536	3	center	five_UCell	Endothelial_abundance	pearson	raw	0.18979295250028372	4	0.75
+GSE319536	3	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1557684741488499	4	0.25
+GSE319536	3	center	five_UCell	Endothelial_abundance	spearman	raw	0.1521069320706032	4	1.0
+GSE319536	3	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.0445519105387862	4	0.75
+GSE319536	3	center	five_UCell	LLPS77_UCell	pearson	raw	0.23684366419911385	4	0.75
+GSE319536	3	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.07013507542313908	4	0.75
+GSE319536	3	center	five_UCell	LLPS77_UCell	spearman	raw	0.21319861664481995	4	0.75
+GSE319536	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2873270769801273	4	0.25
+GSE319536	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.3475641096010804	4	1.0
+GSE319536	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2917195856119676	4	0.25
+GSE319536	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.29395029631805913	4	1.0
+GSE319536	3	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1724265680069165	4	0.25
+GSE319536	3	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.43190217204391956	4	1.0
+GSE319536	3	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.20494540467641617	4	0.5
+GSE319536	3	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.30391706224119003	4	1.0
+GSE319536	3	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.11156434711406858	4	0.5
+GSE319536	3	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.4751599580049515	4	1.0
+GSE319536	3	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.21063189468491972	4	1.0
+GSE319536	3	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.4452132518134192	4	1.0
+GSE319536	4	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1546171792911687	16	0.125
+GSE319536	4	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.06776812602765858	16	0.6875
+GSE319536	4	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.18807058128571313	16	0.125
+GSE319536	4	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.060573347575037	16	0.625
+GSE319536	4	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.11644337658299178	16	0.125
+GSE319536	4	center	five_UCell	Endothelial_abundance	pearson	raw	0.2411335026845336	16	0.875
+GSE319536	4	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.12969454837323124	16	0.125
+GSE319536	4	center	five_UCell	Endothelial_abundance	spearman	raw	0.2379976900666974	16	0.875
+GSE319536	4	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.17944653872245384	16	0.875
+GSE319536	4	center	five_UCell	LLPS77_UCell	pearson	raw	0.2981322519481182	16	0.9375
+GSE319536	4	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.1655081778041106	16	0.875
+GSE319536	4	center	five_UCell	LLPS77_UCell	spearman	raw	0.27411075209222646	16	0.9375
+GSE319536	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.31081451021269557	16	0.0
+GSE319536	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.05900247138924897	16	0.625
+GSE319536	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.32610262482832914	16	0.0625
+GSE319536	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.057169865544922364	16	0.5
+GSE319536	4	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2232210812205518	16	0.125
+GSE319536	4	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.28336825559381396	16	0.875
+GSE319536	4	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.24802171800495312	16	0.0625
+GSE319536	4	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.24957853362317467	16	0.6875
+GSE319536	4	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.3421732521656307	16	0.875
+GSE319536	4	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.47018374074832536	16	0.9375
+GSE319536	4	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.32650728101402526	16	0.9375
+GSE319536	4	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.4475181812483948	16	1.0
+GSE319536	5	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.05091014680675363	8	0.5
+GSE319536	5	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.05448728892952204	8	0.5
+GSE319536	5	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.021032785578672712	8	0.5
+GSE319536	5	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.05613127854332409	8	0.5
+GSE319536	5	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.009913133255310527	8	0.5
+GSE319536	5	center	five_UCell	Endothelial_abundance	pearson	raw	0.17778055591043085	8	0.75
+GSE319536	5	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.02878854738314574	8	0.375
+GSE319536	5	center	five_UCell	Endothelial_abundance	spearman	raw	0.11706351058255535	8	0.5
+GSE319536	5	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.0540243449521489	8	0.875
+GSE319536	5	center	five_UCell	LLPS77_UCell	pearson	raw	0.1671606730669737	8	0.875
+GSE319536	5	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.07247786538590678	8	0.875
+GSE319536	5	center	five_UCell	LLPS77_UCell	spearman	raw	0.1738023248521423	8	0.875
+GSE319536	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.11212733095765295	8	0.375
+GSE319536	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.060985333810094744	8	0.5
+GSE319536	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1018234972469325	8	0.25
+GSE319536	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.028431374673304394	8	0.375
+GSE319536	5	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.0129648731688322	8	0.5
+GSE319536	5	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.2530842658597976	8	0.625
+GSE319536	5	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1171239709249438	8	0.25
+GSE319536	5	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.11610673633038669	8	0.5
+GSE319536	5	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.11977508963113341	8	0.75
+GSE319536	5	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.3193609043955803	8	0.75
+GSE319536	5	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.17317077879339224	8	0.75
+GSE319536	5	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.26923233470214586	8	0.75
+GSE319536	6	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.17229788421310435	3	0.3333333333333333
+GSE319536	6	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.17197761995097002	3	0.6666666666666666
+GSE319536	6	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.16494691520856183	3	0.3333333333333333
+GSE319536	6	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.14288157368761872	3	0.6666666666666666
+GSE319536	6	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2448095848254148	3	0.0
+GSE319536	6	center	five_UCell	Endothelial_abundance	pearson	raw	0.22454674417773882	3	0.6666666666666666
+GSE319536	6	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.07175960587487876	3	0.3333333333333333
+GSE319536	6	center	five_UCell	Endothelial_abundance	spearman	raw	0.23312472204694878	3	0.6666666666666666
+GSE319536	6	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.34798367414545756	3	1.0
+GSE319536	6	center	five_UCell	LLPS77_UCell	pearson	raw	0.541430706779162	3	1.0
+GSE319536	6	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.4434648543398907	3	1.0
+GSE319536	6	center	five_UCell	LLPS77_UCell	spearman	raw	0.5975825187564998	3	1.0
+GSE319536	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3918228041475636	3	0.0
+GSE319536	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.01679511119922002	3	0.3333333333333333
+GSE319536	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.40216433862197903	3	0.0
+GSE319536	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.04476580583183193	3	0.3333333333333333
+GSE319536	6	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.4419276730698476	3	0.0
+GSE319536	6	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.0760558017839988	3	0.6666666666666666
+GSE319536	6	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.34256432172015067	3	0.0
+GSE319536	6	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.08209576033706271	3	0.6666666666666666
+GSE319536	6	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.4293540238746689	3	1.0
+GSE319536	6	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.661559263865153	3	1.0
+GSE319536	6	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.47948051264346986	3	1.0
+GSE319536	6	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.6737579002586971	3	1.0
+GSE319536	7	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.12867882018176438	1	1.0
+GSE319536	7	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.5686349868774414	1	1.0
+GSE319536	7	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.0714499603171847	1	1.0
+GSE319536	7	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.5457785778577859	1	1.0
+GSE319536	7	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.10635641760073611	1	0.0
+GSE319536	7	center	five_UCell	Endothelial_abundance	pearson	raw	0.16459430754184723	1	1.0
+GSE319536	7	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.03874203963157454	1	0.0
+GSE319536	7	center	five_UCell	Endothelial_abundance	spearman	raw	0.1848043892514717	1	1.0
+GSE319536	7	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.152765897512515	1	0.0
+GSE319536	7	center	five_UCell	LLPS77_UCell	pearson	raw	-0.015109304338693619	1	0.0
+GSE319536	7	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.12238889508184715	1	0.0
+GSE319536	7	center	five_UCell	LLPS77_UCell	spearman	raw	0.00927549612263525	1	1.0
+GSE319536	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.17984799132124848	1	1.0
+GSE319536	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.7827758193016052	1	1.0
+GSE319536	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.010969184810112857	1	0.0
+GSE319536	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.7729972997299729	1	1.0
+GSE319536	7	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.29277287858830703	1	0.0
+GSE319536	7	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.3936108350753784	1	1.0
+GSE319536	7	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.35627247496176584	1	0.0
+GSE319536	7	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.4452065483791125	1	1.0
+GSE319536	7	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.2485378884556307	1	0.0
+GSE319536	7	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.20161551237106323	1	1.0
+GSE319536	7	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.06501039700143828	1	0.0
+GSE319536	7	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.3555183507261059	1	1.0
+GSE319536	8	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.5089575190137893	1	0.0
+GSE319536	8	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.011261122301220894	1	0.0
+GSE319536	8	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.6236093081983225	1	0.0
+GSE319536	8	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.05233543729485242	1	0.0
+GSE319536	8	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3580826525913515	1	0.0
+GSE319536	8	center	five_UCell	Endothelial_abundance	pearson	raw	0.34805870056152344	1	1.0
+GSE319536	8	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.4342683352564942	1	0.0
+GSE319536	8	center	five_UCell	Endothelial_abundance	spearman	raw	0.36588585967239196	1	1.0
+GSE319536	8	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.5638921012378832	1	1.0
+GSE319536	8	center	five_UCell	LLPS77_UCell	pearson	raw	0.6166194677352905	1	1.0
+GSE319536	8	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.5564386710403944	1	1.0
+GSE319536	8	center	five_UCell	LLPS77_UCell	spearman	raw	0.5926197767916371	1	1.0
+GSE319536	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.6248509475011479	1	0.0
+GSE319536	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.029049471020698547	1	1.0
+GSE319536	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.741961887588407	1	0.0
+GSE319536	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.06393508410966231	1	0.0
+GSE319536	8	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.4486127083653805	1	0.0
+GSE319536	8	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.4838326573371887	1	1.0
+GSE319536	8	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.5512197692901883	1	0.0
+GSE319536	8	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.46352639517810656	1	1.0
+GSE319536	8	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.759467268732069	1	1.0
+GSE319536	8	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.7456109523773193	1	1.0
+GSE319536	8	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.7645910801705271	1	1.0
+GSE319536	8	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.7081506295628108	1	1.0
+GSE319536	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.30985508628474945	16	0.0625
+GSE319536	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.0701071695657447	16	0.625
+GSE319536	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.35859527432291927	16	0.0625
+GSE319536	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.04017725003395306	16	0.4375
+GSE319536	ALL	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2359300054013222	16	0.0625
+GSE319536	ALL	center	five_UCell	Endothelial_abundance	pearson	raw	0.20915744360536337	16	0.875
+GSE319536	ALL	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2504110824102852	16	0.0625
+GSE319536	ALL	center	five_UCell	Endothelial_abundance	spearman	raw	0.2152927120887871	16	0.8125
+GSE319536	ALL	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.3186824678044306	16	1.0
+GSE319536	ALL	center	five_UCell	LLPS77_UCell	pearson	raw	0.46105240285396576	16	1.0
+GSE319536	ALL	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.34222005054011423	16	1.0
+GSE319536	ALL	center	five_UCell	LLPS77_UCell	spearman	raw	0.44765569281408313	16	1.0
+GSE319536	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.444105083464316	16	0.0
+GSE319536	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.07481677760370076	16	0.5625
+GSE319536	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.5042068445760755	16	0.0625
+GSE319536	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.013246531495979172	16	0.4375
+GSE319536	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.36354094167291057	16	0.0
+GSE319536	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.2537536977470154	16	0.8125
+GSE319536	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.3965858158746126	16	0.0625
+GSE319536	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.21530400210366887	16	0.75
+GSE319536	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.4680931398228322	16	1.0
+GSE319536	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.605209294706583	16	1.0
+GSE319536	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.5462137713656208	16	1.0
+GSE319536	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.6281485410771177	16	1.0
+Inhousedata__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.04091289618401723	7	0.7142857142857143
+Inhousedata__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.23661315654005324	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.013117143041119212	7	0.5714285714285714
+Inhousedata__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.33049718524197047	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.06929855183147189	7	0.2857142857142857
+Inhousedata__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	pearson	raw	0.15600997927997792	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.12073768245609075	7	0.14285714285714285
+Inhousedata__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	spearman	raw	0.21234136496340555	7	0.7142857142857143
+Inhousedata__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.15343210088279155	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	pearson	raw	0.34087072419268744	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.114137460029048	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	spearman	raw	0.32484747656550816	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.053571207093867354	7	0.7142857142857143
+Inhousedata__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.37350277815546307	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.009401295099633972	7	0.5714285714285714
+Inhousedata__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.4738997026913641	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.10755154685021708	7	0.2857142857142857
+Inhousedata__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.26735347722257885	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.22255547548075752	7	0.14285714285714285
+Inhousedata__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.3391308097020503	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.23783941044927323	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.4694183649761336	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.195395007532487	7	0.8571428571428571
+Inhousedata__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.4831524535007995	7	0.8571428571428571
+Inhousedata__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.011568013966283519	5	0.6
+Inhousedata__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.1226851373910904	5	0.6
+Inhousedata__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.02763830749033585	5	0.6
+Inhousedata__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.14834965764703945	5	0.6
+Inhousedata__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.012235884372072426	5	0.6
+Inhousedata__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	pearson	raw	0.06556524932384492	5	0.6
+Inhousedata__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.02526340139427453	5	0.4
+Inhousedata__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	spearman	raw	0.056738543173767274	5	0.6
+Inhousedata__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.038998411950531074	5	0.6
+Inhousedata__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	pearson	raw	0.22546787858009337	5	1.0
+Inhousedata__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.02378635231636475	5	0.4
+Inhousedata__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	spearman	raw	0.2266806398446189	5	1.0
+Inhousedata__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.021350331291265946	5	0.6
+Inhousedata__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.21724110543727876	5	0.8
+Inhousedata__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.014084173712318682	5	0.6
+Inhousedata__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.2403659987451842	5	0.8
+Inhousedata__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.02459069739639461	5	0.6
+Inhousedata__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.18777292370796203	5	0.8
+Inhousedata__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.020426771632213618	5	0.6
+Inhousedata__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.21913218187351974	5	0.8
+Inhousedata__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.0010995206468602525	5	0.6
+Inhousedata__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.3607657551765442	5	1.0
+Inhousedata__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.023252227299376402	5	0.4
+Inhousedata__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.37964411942763526	5	1.0
+Inhousedata__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.06299175151237657	4	0.75
+Inhousedata__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.163454320281744	4	0.75
+Inhousedata__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.004352834510029734	4	0.5
+Inhousedata__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.11556387729417343	4	0.5
+Inhousedata__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.01975813532546112	4	0.5
+Inhousedata__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	pearson	raw	0.07443670555949211	4	0.75
+Inhousedata__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.005133496075891284	4	0.5
+Inhousedata__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	spearman	raw	0.09681058562004717	4	0.75
+Inhousedata__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.5644610842048173	4	1.0
+Inhousedata__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	pearson	raw	0.5946383960545063	4	1.0
+Inhousedata__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.5788375812414179	4	1.0
+Inhousedata__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	spearman	raw	0.6254165123449661	4	1.0
+Inhousedata__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.01314427197596622	4	0.5
+Inhousedata__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.12669334723614156	4	0.75
+Inhousedata__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08086843549964062	4	0.25
+Inhousedata__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.07049355522812069	4	0.5
+Inhousedata__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.02611139704742914	4	0.5
+Inhousedata__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.05970779061317444	4	0.5
+Inhousedata__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.04787230457212101	4	0.5
+Inhousedata__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.07204993332320864	4	0.75
+Inhousedata__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.6355189274380796	4	1.0
+Inhousedata__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6655484288930893	4	1.0
+Inhousedata__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.6720507025412574	4	1.0
+Inhousedata__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.705340608494752	4	1.0
+Inhousedata__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.083714810251463	1	1.0
+Inhousedata__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.4350540041923523	1	1.0
+Inhousedata__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.30735980361631876	1	1.0
+Inhousedata__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.6951503214560215	1	1.0
+Inhousedata__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.32863613274061093	1	1.0
+Inhousedata__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	pearson	raw	0.5607726573944092	1	1.0
+Inhousedata__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.13396239651576247	1	1.0
+Inhousedata__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	spearman	raw	0.5141027709759874	1	1.0
+Inhousedata__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.0065955589379712055	1	0.0
+Inhousedata__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	pearson	raw	0.4150405526161194	1	1.0
+Inhousedata__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.04808206963066013	1	1.0
+Inhousedata__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	spearman	raw	0.5032005783772678	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.14883843596301352	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.501809298992157	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.32055557851186334	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.5453846153846154	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.2942572794021935	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.6563836932182312	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.34074520311876955	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.552965261383476	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.17046443808824588	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6346607804298401	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.44861079385675423	1	1.0
+Inhousedata__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.6853981181013674	1	1.0
+Inhousedata__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.009308626761518168	7	0.5714285714285714
+Inhousedata__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.13072816768128956	7	0.5714285714285714
+Inhousedata__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.051756190964644164	7	0.5714285714285714
+Inhousedata__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.12359486037971538	7	0.7142857142857143
+Inhousedata__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.0022811169864532005	7	0.5714285714285714
+Inhousedata__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	pearson	raw	0.12335897875683648	7	0.7142857142857143
+Inhousedata__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.10678754546849246	7	0.14285714285714285
+Inhousedata__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	spearman	raw	0.08637643848866779	7	0.8571428571428571
+Inhousedata__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.17871598534179972	7	0.8571428571428571
+Inhousedata__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	pearson	raw	0.3515561159167971	7	1.0
+Inhousedata__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.1799509767501272	7	0.8571428571428571
+Inhousedata__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	spearman	raw	0.35153802639805437	7	1.0
+Inhousedata__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.09487406464101615	7	0.2857142857142857
+Inhousedata__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.1929833431329046	7	0.5714285714285714
+Inhousedata__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1524513146215298	7	0.2857142857142857
+Inhousedata__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.15495695379256436	7	0.5714285714285714
+Inhousedata__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.002775370849591769	7	0.5714285714285714
+Inhousedata__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.21208251586982182	7	1.0
+Inhousedata__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.17301668261594472	7	0.14285714285714285
+Inhousedata__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.16089559497892195	7	1.0
+Inhousedata__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.20528186882988772	7	0.8571428571428571
+Inhousedata__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.4609652076448713	7	1.0
+Inhousedata__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.18261587085044775	7	0.7142857142857143
+Inhousedata__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.4260400071828931	7	1.0
+Inhousedata__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.04106950897439893	2	0.5
+Inhousedata__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.14047162234783173	2	1.0
+Inhousedata__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.008837084709388494	2	0.5
+Inhousedata__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.11527418429143739	2	1.0
+Inhousedata__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.07366533384624019	2	0.5
+Inhousedata__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	pearson	raw	0.17758753150701523	2	1.0
+Inhousedata__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.06956048926373867	2	0.0
+Inhousedata__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	spearman	raw	0.14649257866425425	2	1.0
+Inhousedata__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.0863145790460155	2	0.5
+Inhousedata__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	pearson	raw	0.12478043138980865	2	1.0
+Inhousedata__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.1279631426346319	2	0.0
+Inhousedata__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	spearman	raw	0.0685868120286574	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.09974414463183057	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.5334144234657288	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.07791207638588325	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.5366778685317569	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1804027991526311	2	0.0
+Inhousedata__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.4777461588382721	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.21304356440617433	2	0.0
+Inhousedata__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.47598623189704425	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.13406036771759655	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.587433934211731	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.028679812967150067	2	1.0
+Inhousedata__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.551530460471225	2	1.0
+Inhousedata__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+Inhousedata__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+Inhousedata__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+Inhousedata__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+Inhousedata__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+Inhousedata__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+Inhousedata__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+Inhousedata__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+Inhousedata__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+Inhousedata__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+Inhousedata__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+Inhousedata__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+Inhousedata__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+Inhousedata__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2550945705869207	4	0.0
+Inhousedata__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.06797592481598258	4	0.75
+Inhousedata__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.24533515267703923	4	0.0
+Inhousedata__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.00014315732271727444	4	0.75
+Inhousedata__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.10246314596460998	4	0.75
+Inhousedata__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	pearson	raw	0.2670259326696396	4	1.0
+Inhousedata__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.1282774034367347	4	0.75
+Inhousedata__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	spearman	raw	0.28818688161201655	4	1.0
+Inhousedata__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.10958775649698661	4	0.0
+Inhousedata__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	pearson	raw	-0.003311503678560257	4	0.5
+Inhousedata__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.10723957682500171	4	0.0
+Inhousedata__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	spearman	raw	-0.022482322009138012	4	0.5
+Inhousedata__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.19384255747288182	4	0.25
+Inhousedata__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.17465699091553688	4	0.75
+Inhousedata__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.21813811290973228	4	0.25
+Inhousedata__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.17757041557772202	4	0.75
+Inhousedata__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.2014488554245687	4	0.75
+Inhousedata__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.5140454173088074	4	1.0
+Inhousedata__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.2146298344508905	4	0.75
+Inhousedata__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.5912650545789071	4	1.0
+Inhousedata__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	-0.236357028336588	4	0.25
+Inhousedata__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.07058067992329597	4	0.5
+Inhousedata__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	-0.19306149442451048	4	0.25
+Inhousedata__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.06357856596526107	4	0.5
+Inhousedata__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.0737388552101291	2	0.5
+Inhousedata__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.09095588326454163	2	0.5
+Inhousedata__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.133203929461736	2	0.5
+Inhousedata__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.08846976362354997	2	0.5
+Inhousedata__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.25208210074764825	2	0.0
+Inhousedata__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	pearson	raw	-0.2444821372628212	2	0.5
+Inhousedata__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.2484691576916191	2	0.0
+Inhousedata__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	spearman	raw	-0.25570490968838744	2	0.5
+Inhousedata__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.24247172268517847	2	0.5
+Inhousedata__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	pearson	raw	0.4134630560874939	2	1.0
+Inhousedata__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.2942987264571171	2	0.5
+Inhousedata__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	spearman	raw	0.41268946527892203	2	1.0
+Inhousedata__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.05365766319989285	2	0.5
+Inhousedata__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.10589265823364258	2	0.5
+Inhousedata__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.04980852506644892	2	0.5
+Inhousedata__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.10978441215159887	2	0.5
+Inhousedata__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3157867728589428	2	0.0
+Inhousedata__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.26067958399653435	2	0.5
+Inhousedata__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.22836197943203626	2	0.0
+Inhousedata__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.20393404002392268	2	0.5
+Inhousedata__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.39259781418721035	2	1.0
+Inhousedata__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.5490792244672775	2	1.0
+Inhousedata__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.43786034637462307	2	1.0
+Inhousedata__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.5944833151852231	2	1.0
+Inhousedata__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1490566515445004	7	0.14285714285714285
+Inhousedata__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.029441905340978076	7	0.42857142857142855
+Inhousedata__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.18581633796686509	7	0.14285714285714285
+Inhousedata__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.07508140813481172	7	0.5714285714285714
+Inhousedata__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.18106786467527117	7	0.0
+Inhousedata__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	pearson	raw	0.04914439309920583	7	0.7142857142857143
+Inhousedata__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1786400951687521	7	0.0
+Inhousedata__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	spearman	raw	0.15698617654248095	7	0.7142857142857143
+Inhousedata__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.3196943084693877	7	1.0
+Inhousedata__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	pearson	raw	0.42526213292564663	7	1.0
+Inhousedata__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.345613500216388	7	0.8571428571428571
+Inhousedata__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	spearman	raw	0.4695091150457808	7	1.0
+Inhousedata__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.2106502383021154	7	0.14285714285714285
+Inhousedata__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.04985768347978592	7	0.42857142857142855
+Inhousedata__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.25604502036208093	7	0.14285714285714285
+Inhousedata__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.07961520624202453	7	0.5714285714285714
+Inhousedata__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.268855678970493	7	0.0
+Inhousedata__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.09701388435704368	7	0.7142857142857143
+Inhousedata__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.23619294312563072	7	0.0
+Inhousedata__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.23002597372702258	7	0.7142857142857143
+Inhousedata__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.3693543181994419	7	1.0
+Inhousedata__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.5083448141813278	7	1.0
+Inhousedata__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.40560265984996346	7	0.8571428571428571
+Inhousedata__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.5611718297141896	7	1.0
+NPJ__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.07090160804462141	7	0.7142857142857143
+NPJ__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.06862056854047946	7	0.7142857142857143
+NPJ__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.06003402869086378	7	0.8571428571428571
+NPJ__UNVERIFIED	0	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.10530313769496384	7	0.5714285714285714
+NPJ__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.002243468043321928	7	0.42857142857142855
+NPJ__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	pearson	raw	0.006114523458693709	7	0.42857142857142855
+NPJ__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.02915419521259319	7	0.2857142857142857
+NPJ__UNVERIFIED	0	center	five_UCell	Endothelial_abundance	spearman	raw	0.009571118395715015	7	0.5714285714285714
+NPJ__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.19441682069342706	7	1.0
+NPJ__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	pearson	raw	0.37254254307065693	7	1.0
+NPJ__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.1490475396051277	7	1.0
+NPJ__UNVERIFIED	0	center	five_UCell	LLPS77_UCell	spearman	raw	0.3781971643430109	7	1.0
+NPJ__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.12546913294480583	7	0.7142857142857143
+NPJ__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.16449065266975335	7	0.8571428571428571
+NPJ__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.09402717256098447	7	0.7142857142857143
+NPJ__UNVERIFIED	0	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.19385169250317255	7	0.7142857142857143
+NPJ__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.011352000479268558	7	0.42857142857142855
+NPJ__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.080110405970897	7	0.7142857142857143
+NPJ__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.02890954279312586	7	0.2857142857142857
+NPJ__UNVERIFIED	0	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.10088915257930953	7	0.7142857142857143
+NPJ__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.33975720700584183	7	1.0
+NPJ__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.5604326341833387	7	1.0
+NPJ__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.2799294473255047	7	0.8571428571428571
+NPJ__UNVERIFIED	0	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.562801343781976	7	1.0
+NPJ__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.10681838525168287	7	0.2857142857142857
+NPJ__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.13104423295174325	7	0.2857142857142857
+NPJ__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.14297836565242844	7	0.14285714285714285
+NPJ__UNVERIFIED	1	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.16353356977650396	7	0.14285714285714285
+NPJ__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.019945759310601364	7	0.42857142857142855
+NPJ__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	pearson	raw	-0.011369782366922923	7	0.2857142857142857
+NPJ__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.013208238861669901	7	0.2857142857142857
+NPJ__UNVERIFIED	1	center	five_UCell	Endothelial_abundance	spearman	raw	0.0071249217807732145	7	0.5714285714285714
+NPJ__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.0999517874389116	7	0.8571428571428571
+NPJ__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	pearson	raw	0.15005420660600066	7	0.8571428571428571
+NPJ__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.09835188894690602	7	0.7142857142857143
+NPJ__UNVERIFIED	1	center	five_UCell	LLPS77_UCell	spearman	raw	0.13492906536969487	7	0.8571428571428571
+NPJ__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.13306361509525036	7	0.42857142857142855
+NPJ__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.1445037222334317	7	0.2857142857142857
+NPJ__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.15235703700073672	7	0.2857142857142857
+NPJ__UNVERIFIED	1	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.14836785730933538	7	0.2857142857142857
+NPJ__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.017981895388492125	7	0.42857142857142855
+NPJ__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.05811867011444909	7	0.5714285714285714
+NPJ__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.014154664927508437	7	0.2857142857142857
+NPJ__UNVERIFIED	1	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.0711876458830104	7	0.5714285714285714
+NPJ__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.1801549400996259	7	0.7142857142857143
+NPJ__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.2466722343649183	7	0.7142857142857143
+NPJ__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.17968770291566935	7	0.7142857142857143
+NPJ__UNVERIFIED	1	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.2452166958430317	7	0.7142857142857143
+NPJ__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.011635974472857727	5	0.6
+NPJ__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.009201084077358247	5	0.4
+NPJ__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.0749644186580514	5	0.6
+NPJ__UNVERIFIED	2	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.011607629310671708	5	0.4
+NPJ__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.05380336636466505	5	0.6
+NPJ__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	pearson	raw	0.08997513800859451	5	0.8
+NPJ__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.011012292344720115	5	0.4
+NPJ__UNVERIFIED	2	center	five_UCell	Endothelial_abundance	spearman	raw	0.1040573522698209	5	0.6
+NPJ__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.4217489263676229	5	1.0
+NPJ__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	pearson	raw	0.504027909040451	5	1.0
+NPJ__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3906894662888559	5	1.0
+NPJ__UNVERIFIED	2	center	five_UCell	LLPS77_UCell	spearman	raw	0.4976623940199253	5	1.0
+NPJ__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3236332885119465	5	0.0
+NPJ__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.21358317732810975	5	0.2
+NPJ__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.37884901159867823	5	0.0
+NPJ__UNVERIFIED	2	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.24244444623960676	5	0.2
+NPJ__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.21984613741082773	5	0.0
+NPJ__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.03200298845767975	5	0.4
+NPJ__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.26088683743913504	5	0.0
+NPJ__UNVERIFIED	2	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.03331339592366471	5	0.4
+NPJ__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.5845404618535014	5	1.0
+NPJ__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6431625604629516	5	1.0
+NPJ__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.6132001354800865	5	1.0
+NPJ__UNVERIFIED	2	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.6802792819000902	5	1.0
+NPJ__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.07179792263618087	4	0.25
+NPJ__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.007680356502532959	4	0.5
+NPJ__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.08063315034981548	4	0.5
+NPJ__UNVERIFIED	3	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.036654191458671666	4	0.5
+NPJ__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.10860954610598973	4	0.25
+NPJ__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	pearson	raw	-0.05758017674088478	4	0.25
+NPJ__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.1465873293887429	4	0.0
+NPJ__UNVERIFIED	3	center	five_UCell	Endothelial_abundance	spearman	raw	-0.05543598217684459	4	0.25
+NPJ__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.4322323889841986	4	1.0
+NPJ__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	pearson	raw	0.4840140640735626	4	1.0
+NPJ__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.3762502460598737	4	1.0
+NPJ__UNVERIFIED	3	center	five_UCell	LLPS77_UCell	spearman	raw	0.4477497125895133	4	1.0
+NPJ__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.21669671562312193	4	0.0
+NPJ__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.09344243258237839	4	0.5
+NPJ__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.16449418747493585	4	0.5
+NPJ__UNVERIFIED	3	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	4.533979680013123e-05	4	0.5
+NPJ__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.24670230391084252	4	0.0
+NPJ__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.16529341787099838	4	0.25
+NPJ__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.26926768359228	4	0.25
+NPJ__UNVERIFIED	3	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.15700816686456467	4	0.25
+NPJ__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.596430106332135	4	1.0
+NPJ__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6392580047249794	4	1.0
+NPJ__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.5636951826988025	4	1.0
+NPJ__UNVERIFIED	3	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.6252662768819791	4	1.0
+NPJ__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.11391394011473424	7	0.2857142857142857
+NPJ__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.10026542855692762	7	0.2857142857142857
+NPJ__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.15485667663489558	7	0.2857142857142857
+NPJ__UNVERIFIED	4	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.07239412446368428	7	0.2857142857142857
+NPJ__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.03749615445242245	7	0.42857142857142855
+NPJ__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	pearson	raw	0.001986465682940824	7	0.7142857142857143
+NPJ__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.07341415271857957	7	0.42857142857142855
+NPJ__UNVERIFIED	4	center	five_UCell	Endothelial_abundance	spearman	raw	0.012938918496190515	7	0.5714285714285714
+NPJ__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.1942760029469141	7	1.0
+NPJ__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	pearson	raw	0.36114664216126713	7	1.0
+NPJ__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.22646451074572196	7	1.0
+NPJ__UNVERIFIED	4	center	five_UCell	LLPS77_UCell	spearman	raw	0.38533577931486424	7	1.0
+NPJ__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.21258749085746187	7	0.2857142857142857
+NPJ__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.16351676173508167	7	0.2857142857142857
+NPJ__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.24303398979010638	7	0.2857142857142857
+NPJ__UNVERIFIED	4	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.11007377155404936	7	0.42857142857142855
+NPJ__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1093769466013813	7	0.14285714285714285
+NPJ__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.02895318184580122	7	0.42857142857142855
+NPJ__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.17405436654871334	7	0.2857142857142857
+NPJ__UNVERIFIED	4	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.015563411156444372	7	0.7142857142857143
+NPJ__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.25858854413314475	7	0.8571428571428571
+NPJ__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.4822705654161317	7	1.0
+NPJ__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.33540207236763314	7	1.0
+NPJ__UNVERIFIED	4	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.5386880078544417	7	1.0
+NPJ__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.1437727133112189	1	1.0
+NPJ__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.26388096809387207	1	1.0
+NPJ__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.15269026997526092	1	1.0
+NPJ__UNVERIFIED	5	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.238308696063934	1	1.0
+NPJ__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.34009849892695304	1	1.0
+NPJ__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	pearson	raw	0.42969170212745667	1	1.0
+NPJ__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.19414389240027977	1	1.0
+NPJ__UNVERIFIED	5	center	five_UCell	Endothelial_abundance	spearman	raw	0.3014346065377707	1	1.0
+NPJ__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.28097402056012033	1	1.0
+NPJ__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	pearson	raw	0.34483104944229126	1	1.0
+NPJ__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.19188848573920284	1	1.0
+NPJ__UNVERIFIED	5	center	five_UCell	LLPS77_UCell	spearman	raw	0.2579193385237062	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.41522745553934	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.5594411492347717	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.5079364862199763	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.5823396835051958	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.5442770296868952	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.7433372735977173	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.4600434878205141	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.632657950183177	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.5832990736470849	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6725556254386902	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.641883373229732	1	1.0
+NPJ__UNVERIFIED	5	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.6920035314911928	1	1.0
+NPJ__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.10501838830206862	1	1.0
+NPJ__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.22362542152404785	1	1.0
+NPJ__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.06386794477395168	1	0.0
+NPJ__UNVERIFIED	6	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.20857771260997068	1	1.0
+NPJ__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.031969102986635876	1	1.0
+NPJ__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	pearson	raw	0.1874333918094635	1	1.0
+NPJ__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.021508043075515536	1	0.0
+NPJ__UNVERIFIED	6	center	five_UCell	Endothelial_abundance	spearman	raw	0.3080308237909672	1	1.0
+NPJ__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.7273533322482608	1	1.0
+NPJ__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	pearson	raw	0.8086509704589844	1	1.0
+NPJ__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.706315224616429	1	1.0
+NPJ__UNVERIFIED	6	center	five_UCell	LLPS77_UCell	spearman	raw	0.8005134384948586	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.16403912942318694	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	0.41797059774398804	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.007083297134387712	1	0.0
+NPJ__UNVERIFIED	6	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	0.3848973607038123	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.2157741350319456	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.5036724209785461	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.02061660352646552	1	0.0
+NPJ__UNVERIFIED	6	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.49926686217008787	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.6643529995934525	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.8178253769874573	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.7416420978063696	1	1.0
+NPJ__UNVERIFIED	6	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.8515395894428153	1	1.0
+NPJ__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.13731491843157606	2	0.0
+NPJ__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.14055778086185455	2	0.0
+NPJ__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.10769540218510008	2	0.5
+NPJ__UNVERIFIED	7	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.07288559469491734	2	0.5
+NPJ__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.1745020167025765	2	1.0
+NPJ__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	pearson	raw	0.2108037769794464	2	1.0
+NPJ__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.13708355039276376	2	0.5
+NPJ__UNVERIFIED	7	center	five_UCell	Endothelial_abundance	spearman	raw	0.19110531522306973	2	1.0
+NPJ__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.06094347135542422	2	0.5
+NPJ__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	pearson	raw	0.05812232941389084	2	0.5
+NPJ__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.003502219884973845	2	0.5
+NPJ__UNVERIFIED	7	center	five_UCell	LLPS77_UCell	spearman	raw	0.04767588180270625	2	0.5
+NPJ__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.1954765256689039	2	0.0
+NPJ__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.17802034318447113	2	0.0
+NPJ__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.17152376785952542	2	0.0
+NPJ__UNVERIFIED	7	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.15437954764272535	2	0.0
+NPJ__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	0.163948849876221	2	0.5
+NPJ__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	0.24528463929891586	2	1.0
+NPJ__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	0.1972205219511208	2	0.5
+NPJ__UNVERIFIED	7	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	0.27251670822105256	2	1.0
+NPJ__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.22012526843532706	2	0.5
+NPJ__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.202425267547369	2	0.5
+NPJ__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.21143532672726792	2	0.5
+NPJ__UNVERIFIED	7	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.20204104498686337	2	0.5
+NPJ__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+NPJ__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	center	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+NPJ__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	pearson	raw		0	
+NPJ__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	center	five_UCell	Endothelial_abundance	spearman	raw		0	
+NPJ__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	pearson	raw		0	
+NPJ__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	center	five_UCell	LLPS77_UCell	spearman	raw		0	
+NPJ__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw		0	
+NPJ__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw		0	
+NPJ__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	pearson	raw		0	
+NPJ__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	neighborhood	five_UCell	Endothelial_abundance	spearman	raw		0	
+NPJ__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	pearson	raw		0	
+NPJ__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted		0	
+NPJ__UNVERIFIED	8	neighborhood	five_UCell	LLPS77_UCell	spearman	raw		0	
+NPJ__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3017090757366128	7	0.0
+NPJ__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.2587545301233019	7	0.14285714285714285
+NPJ__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.36556276578819397	7	0.14285714285714285
+NPJ__UNVERIFIED	ALL	center	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.23292454263906853	7	0.2857142857142857
+NPJ__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.22374182394382244	7	0.14285714285714285
+NPJ__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	pearson	raw	-0.16186872550419398	7	0.14285714285714285
+NPJ__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.28421309052054583	7	0.0
+NPJ__UNVERIFIED	ALL	center	five_UCell	Endothelial_abundance	spearman	raw	-0.15020266419638428	7	0.2857142857142857
+NPJ__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.4159346034936729	7	1.0
+NPJ__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	pearson	raw	0.5468918766294207	7	1.0
+NPJ__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.4985776530908797	7	1.0
+NPJ__UNVERIFIED	ALL	center	five_UCell	LLPS77_UCell	spearman	raw	0.6197392792298974	7	1.0
+NPJ__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.3946631382873309	7	0.0
+NPJ__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	pearson	raw	-0.3384210935660771	7	0.14285714285714285
+NPJ__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.4580431695748501	7	0.0
+NPJ__UNVERIFIED	ALL	neighborhood	LLPS77_UCell	Endothelial_abundance	spearman	raw	-0.30945932096742057	7	0.14285714285714285
+NPJ__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	fibroblast_adjusted	-0.37265729021339183	7	0.0
+NPJ__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	pearson	raw	-0.2772666939667293	7	0.14285714285714285
+NPJ__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	fibroblast_adjusted	-0.44275561311813394	7	0.0
+NPJ__UNVERIFIED	ALL	neighborhood	five_UCell	Endothelial_abundance	spearman	raw	-0.2752524024899793	7	0.14285714285714285
+NPJ__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	fibroblast_adjusted	0.5420838399407885	7	1.0
+NPJ__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	pearson	raw	0.6871627228600639	7	1.0
+NPJ__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	fibroblast_adjusted	0.667567921360227	7	1.0
+NPJ__UNVERIFIED	ALL	neighborhood	five_UCell	LLPS77_UCell	spearman	raw	0.7812255200887173	7	1.0

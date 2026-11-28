@@ -1,0 +1,10 @@
+{
+  "project": "LLPS", "seed": 123, "cpu_threads": 4, "memory_limit_bytes": 100000000000,
+  "resource_override": "User updated original 8 threads / 64 GB to 4 threads / 100 GB",
+  "abundance": "posterior_mean", "spatial_radii": [1,2,3], "include_center": true,
+  "transformations": ["raw", "hellinger"], "knn": [15,30,50],
+  "leiden_resolution": [0.2,0.4,0.6,0.8,1.0], "kmeans_k": [4,5,6,7,8,9,10,11,12],
+  "n_perms": 1000, "min_spots": [10,20,30], "pilot_spots_per_section": 200,
+  "selection_forbidden": ["five_UCell","A26_UCell","LLPS77_UCell","tissue","stage","CellChat","NicheNet"],
+  "source_root": "/home/jinshengxi/LLPS/spatial_data/LLPS_spatial_transfer_manual"
+}

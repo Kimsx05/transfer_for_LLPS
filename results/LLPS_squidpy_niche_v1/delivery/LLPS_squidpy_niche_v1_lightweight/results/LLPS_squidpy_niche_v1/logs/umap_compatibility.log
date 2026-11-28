@@ -1,0 +1,5 @@
+Collecting umap-learn==0.5.9.post2
+  Downloading umap_learn-0.5.9.post2-py3-none-any.whl (90 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 90.1/90.1 KB 486.9 kB/s eta 0:00:00
+Installing collected packages: umap-learn
+Successfully installed umap-learn-0.5.9.post2

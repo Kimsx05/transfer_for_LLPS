@@ -1,0 +1,6 @@
+result	path	exists	reports	usage
+C5_spatial_identifiability_v1	/home/jinshengxi/bladder_metabolism/results/C5_spatial_identifiability_v1	True	README.md;COMPREHENSIVE_REPORT.md	provenance/context only; no communication or score enters clustering
+C5_fivegene_LLPS77_spatial_v1	/home/jinshengxi/bladder_metabolism/results/C5_fivegene_LLPS77_spatial_v1	True	README.md;COMPREHENSIVE_REPORT.md	provenance/context only; no communication or score enters clustering
+C5_spatial_colocalization_esda_v1	/home/jinshengxi/bladder_metabolism/results/C5_spatial_colocalization_esda_v1	True	README.md;COMPREHENSIVE_REPORT.md	provenance/context only; no communication or score enters clustering
+C5_Endothelial_NicheNet_spatial_v1	/home/jinshengxi/bladder_metabolism/results/C5_Endothelial_NicheNet_spatial_v1	True	README.md;COMPREHENSIVE_REPORT.md	provenance/context only; no communication or score enters clustering
+C5_Endothelial_GSEA_nominalNicheNet_v1	/home/jinshengxi/bladder_metabolism/results/C5_Endothelial_GSEA_nominalNicheNet_v1	True	README.md;COMPREHENSIVE_REPORT.md	provenance/context only; no communication or score enters clustering

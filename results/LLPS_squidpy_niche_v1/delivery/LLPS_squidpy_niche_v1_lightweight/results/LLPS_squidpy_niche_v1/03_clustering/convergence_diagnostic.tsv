@@ -1,0 +1,13 @@
+model	diagnostic	seed	n_niches	ARI_vs_two_iterations_seed123	ARI_vs_converged_seed123	NMI_vs_converged_seed123
+major_R1_raw_k30_res0.2	Leiden_until_convergence	123	9	0.9507580098283755	1.0	1.0
+major_R1_raw_k30_res0.2	Leiden_until_convergence	17	10	0.5740308979717625	0.6016397343626686	0.7666117319884839
+major_R1_raw_k30_res0.2	Leiden_until_convergence	321	11	0.8238502985737861	0.864314784838124	0.8741647480534609
+major_R1_raw_k30_res0.2	Leiden_until_convergence	2026	11	0.6501817957077506	0.6836546930684657	0.8011923941699806
+major_R1_raw_k30_res0.2	Kmeans_seed_sensitivity	123	5		1.0	1.0
+major_R1_raw_k30_res0.2	Kmeans_seed_sensitivity	17	5		0.9918066378868633	0.986136933858478
+major_R1_raw_k30_res0.2	Kmeans_seed_sensitivity	321	5		0.9990151639441269	0.9974232442195818
+major_R1_raw_k30_res0.2	Kmeans_seed_sensitivity	2026	5		0.9970204566409187	0.9940936559035524
+subtype_R1_raw_k30_res0.2	Leiden_until_convergence	123	17	0.8983266801874179	1.0	1.0
+subtype_R1_raw_k30_res0.2	Leiden_until_convergence	17	15	0.5384176697503484	0.5310087122478702	0.7640825694776452
+subtype_R1_raw_k30_res0.2	Leiden_until_convergence	321	15	0.6926271317863142	0.7297097053817615	0.8552617435503201
+subtype_R1_raw_k30_res0.2	Leiden_until_convergence	2026	17	0.6866287010230291	0.6993903847474853	0.8466718126855047

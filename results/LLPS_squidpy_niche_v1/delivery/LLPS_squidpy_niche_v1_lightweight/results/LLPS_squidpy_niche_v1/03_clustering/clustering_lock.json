@@ -1,0 +1,23 @@
+{
+  "locked_at_UTC": "2026-11-27T16:15:35.160723+00:00",
+  "before_signature_enrichment": false,
+  "selection_inputs": [
+    "continuous_cell_composition",
+    "section_balancing"
+  ],
+  "forbidden_variables_used": false,
+  "files": {
+    "03_clustering/recommended_models.tsv": "c002ca6b3b799036aa2dbf3c8ae761fd0b6ed5bf83c56a5accd44602ec1b317e",
+    "03_clustering/spot_labels.parquet": "72638b73849b616469fe940322419574457868196bd508864ac5bee848b8491f",
+    "03_clustering/clustering_parameter_grid.tsv": "97d22d496ca8d8a4abe922daf46b81e2d38d88bf96857c089ce9de13f0c673be",
+    "03_clustering/pilot_labels.npz": "540f9e5a7b69cd4f010637db04fefcfa9470803d332ebd36faa44fa46f0c134e"
+  },
+  "note": "Checksum snapshot written after inference launch; model files were finalized before launch. Selection script never reads signature or clinical columns. No model files changed after biological analysis.",
+  "model_file_mtime_UTC_epoch": {
+    "03_clustering/recommended_models.tsv": 1795795168.9725041,
+    "03_clustering/spot_labels.parquet": 1795795883.540871,
+    "03_clustering/clustering_parameter_grid.tsv": 1795795168.9645042,
+    "03_clustering/pilot_labels.npz": 1795795883.8148525
+  },
+  "inference_log_mtime_UTC_epoch": 1795796101.5187335
+}

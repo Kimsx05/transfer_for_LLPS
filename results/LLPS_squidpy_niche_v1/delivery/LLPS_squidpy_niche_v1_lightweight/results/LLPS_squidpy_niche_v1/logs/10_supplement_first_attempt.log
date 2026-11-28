@@ -1,0 +1,36 @@
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/dask/dataframe/__init__.py:31: FutureWarning: The legacy Dask DataFrame implementation is deprecated and will be removed in a future version. Set the configuration option `dataframe.query-planning` to `True` or None to enable the new Dask Dataframe implementation and silence this warning.
+  warnings.warn(
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/anndata/utils.py:434: FutureWarning: Importing read_text from `anndata` is deprecated. Import anndata.io.read_text instead.
+  warnings.warn(msg, FutureWarning)
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/10_supplement.py:10: DtypeWarning: Columns (2) have mixed types. Specify dtype option on import or set low_memory=False.
+  c=pd.read_csv(O/'05_C5_LLPS_enrichment/section_level_contrasts.tsv',sep='\t');keys=['dataset','niche','feature','model','threshold','min_spots'];c.groupby(keys,dropna=False).agg(mean_effect=('effect','mean'),median_effect=('effect','median'),n_sections=('effect','count'),positive_fraction=('effect',lambda x:np.mean(x.dropna()>0) if x.notna().any() else np.nan)).reset_index().to_csv(O/'05_C5_LLPS_enrichment/dataset_enrichment_direction.tsv',sep='\t',index=False)
+Traceback (most recent call last):
+  File "/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/limited_exec.py", line 6, in <module>
+    try:runpy.run_path(p,run_name='__main__')
+  File "/usr/lib/python3.10/runpy.py", line 289, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/usr/lib/python3.10/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/12_convergence_diagnostic.py", line 13, in <module>
+    out.append(dict(model=p.model,diagnostic='Leiden_until_convergence',seed=seed,n_niches=len(set(y)),ARI_vs_two_iterations_seed123=adjusted_rand_score(original[p.model],y),ARI_vs_converged_seed123=adjusted_rand_score(base,y),NMI_vs_converged_seed123=normalized_mutual_info_score(base,y)))
+  File "/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/lib/_npyio_impl.py", line 254, in __getitem__
+    return format.read_array(bytes,
+  File "/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/lib/format.py", line 815, in read_array
+    raise ValueError("Object arrays cannot be loaded when "
+ValueError: Object arrays cannot be loaded when allow_pickle=False
+Traceback (most recent call last):
+  File "/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/limited_exec.py", line 6, in <module>
+    try:runpy.run_path(p,run_name='__main__')
+  File "/usr/lib/python3.10/runpy.py", line 289, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/usr/lib/python3.10/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/10_supplement.py", line 29, in <module>
+    subprocess.run([str(O/'scripts/run_python.sh'),str(O/'scripts/12_convergence_diagnostic.py')],check=True)
+  File "/usr/lib/python3.10/subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/run_python.sh', '/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/12_convergence_diagnostic.py']' returned non-zero exit status 1.

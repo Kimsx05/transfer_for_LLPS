@@ -1,0 +1,8 @@
+{
+  "status": "PASS_COMPUTATIONAL_TABLE_CHECKS",
+  "n_sections": 63,
+  "n_spots": 265002,
+  "n_checks": 1227,
+  "figure_visual_review": "representative_layouts_checked; independent_histological_review_still_required",
+  "clinical_inference": "limited"
+}

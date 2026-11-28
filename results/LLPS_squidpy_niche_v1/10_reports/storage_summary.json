@@ -1,0 +1,10 @@
+{
+  "new_disk_bytes": 2679914010,
+  "delivery_zip_bytes": 280815943,
+  "input_expression_copied_bytes": 0,
+  "HE_source_copied_bytes": 0,
+  "environment_included_in_total": true,
+  "archive_files": 1227,
+  "all_local_pngs": 573,
+  "note": "Storage summary and this packaging process own logs excluded from archive to avoid self-referential changing checksums."
+}

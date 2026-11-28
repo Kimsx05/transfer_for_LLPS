@@ -1,0 +1,15 @@
+{
+  "script": "results/LLPS_squidpy_niche_v1/scripts/11_package.py",
+  "elapsed_seconds": 14.027564525604248,
+  "max_rss_kb": 389748,
+  "user_cpu_seconds": 12.919003,
+  "system_cpu_seconds": 0.8260639999999999,
+  "cpu_affinity": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "threads": 4,
+  "memory_limit_bytes": 100000000000
+}

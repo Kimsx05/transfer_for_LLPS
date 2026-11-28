@@ -1,0 +1,37 @@
+celltype	color
+Arterial EC	#A6CEE3
+B	#7BB2D4
+C1QC TAM	#5197C5
+Capillary EC	#267CB6
+CD4 Helper/Conventional	#4492A9
+CD4 Naive/Memory-like	#72B29C
+CD8 Exhausted	#A1D38E
+CD8 GZMK/Effector-memory-like	#98D277
+cDC1	#70BE59
+cDC2	#48AA3C
+Classical Mono	#4FA435
+Endothelial	#637BA8
+Epithelial	#E59662
+Fibroblast	#FDB965
+GC B	#FDA542
+iCAF	#FE911F
+LAMP3 DC	#FE7F04
+Lymphatic EC	#FD8834
+Mast	#FC9064
+Matrix_CAF	#FB9994
+Mural	#F47575
+Myeloid	#B86F83
+Naive/Memory B	#E52426
+Neutrophil	#DD3C46
+NK	#D56C80
+pDC	#CD9CBB
+Pericyte	#B99DCB
+Plasma	#9B79B8
+rCAF	#7D54A6
+SMC	#7B5399
+SPP1 TAM	#A99099
+T_NK	#805B9B
+Tfh/CXCL13-like	#FAF592
+Treg	#E2C16F
+vCAF	#C98D4B
+Venous EC	#B15928

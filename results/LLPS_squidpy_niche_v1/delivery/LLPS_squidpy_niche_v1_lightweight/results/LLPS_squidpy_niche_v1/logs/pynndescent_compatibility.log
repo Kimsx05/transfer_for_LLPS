@@ -1,0 +1,5 @@
+Collecting pynndescent==0.5.13
+  Downloading pynndescent-0.5.13-py3-none-any.whl (56 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 56.9/56.9 KB 331.0 kB/s eta 0:00:00
+Installing collected packages: pynndescent
+Successfully installed pynndescent-0.5.13

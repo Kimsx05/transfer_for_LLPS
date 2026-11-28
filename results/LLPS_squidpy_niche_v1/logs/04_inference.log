@@ -1,0 +1,73 @@
+inference CanDis_2026_Sample1
+inference CanDis_2026_Sample10
+inference CanDis_2026_Sample11
+inference CanDis_2026_Sample12
+inference CanDis_2026_Sample13
+inference CanDis_2026_Sample2
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/04_inference.py:34: RuntimeWarning: Mean of empty slice.
+  lo=max(np.quantile(fib[a],.05),np.quantile(fib[~a],.05));hi=min(np.quantile(fib[a],.95),np.quantile(fib[~a],.95));keep=(fib>=lo)&(fib<=hi);support=min(np.mean(keep[a]),np.mean(keep[~a]));v=np.column_stack([np.log1p(fib[keep]),frac[keep]]);v=(v-v.mean(0))/np.maximum(v.std(0),1e-8);X=np.column_stack([np.ones(keep.sum()),a[keep].astype(float),v,v*v]);cond=np.linalg.cond(X) if len(X) else np.inf
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:137: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:223: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:181: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/.pydeps/numpy/_core/_methods.py:212: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+inference CanDis_2026_Sample3
+inference CanDis_2026_Sample4
+inference CanDis_2026_Sample5
+inference CanDis_2026_Sample6
+inference CanDis_2026_Sample7
+inference CanDis_2026_Sample8
+inference CanDis_2026_Sample9
+inference GSE171351_A1
+inference GSE171351_B1
+inference GSE171351_C1
+inference GSE171351_D1
+inference GSE238145_B10
+inference GSE238145_B11
+inference GSE238145_B13
+inference GSE238145_B14
+inference GSE238145_B15
+inference GSE238145_B16
+inference GSE238145_B17
+inference GSE238145_B18
+inference GSE238145_B5
+inference GSE238145_B9
+inference GSE285715_N1
+inference GSE285715_N2
+inference GSE285715_N3
+inference GSE285715_T1
+inference GSE285715_T2
+inference GSE285715_T3
+inference GSE319536_BC01
+inference GSE319536_BC02
+inference GSE319536_BC04
+inference GSE319536_BC05
+inference GSE319536_BC08
+inference GSE319536_BC10
+inference GSE319536_BC11
+inference GSE319536_BC12
+inference GSE319536_BC13
+inference GSE319536_BC14
+inference GSE319536_BC15
+inference GSE319536_BC16
+inference GSE319536_BC17
+inference GSE319536_BC18
+inference GSE319536_BC19
+inference GSE319536_BC21
+inference Inhousedata_T4384654
+inference Inhousedata_T4398343
+inference Inhousedata_T4413900
+inference Inhousedata_T4463209
+inference Inhousedata_T4465935
+inference Inhousedata_T4469479
+inference Inhousedata_T4471438
+inference NPJ_sample1
+inference NPJ_sample2
+inference NPJ_sample3
+inference NPJ_sample4
+inference NPJ_sample5
+inference NPJ_sample6
+inference NPJ_sample7

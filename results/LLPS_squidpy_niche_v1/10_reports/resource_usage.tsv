@@ -1,0 +1,16 @@
+script	elapsed_seconds	max_rss_kb	user_cpu_seconds	system_cpu_seconds	cpu_affinity	threads	memory_limit_bytes	stage
+results/LLPS_squidpy_niche_v1/scripts/02_cluster.py	815.069855928421	4010040	1497.265735	36.994401	[0, 1, 2, 3]	4	100000000000	02_cluster
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/03_native.py	174.05363941192627	4443132	254.644793	34.288893	[0, 1, 2, 3]	4	100000000000	03_native
+results/LLPS_squidpy_niche_v1/scripts/15_adjusted_model_sensitivity.py	6.367422819137573	1077060	11.212063	0.601949	[0, 1, 2, 3]	4	100000000000	15_adjusted_model_sensitivity
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/14_stage_audit.py	5.505850315093994	1012632	5.682932	0.774899	[0, 1, 2, 3]	4	100000000000	14_stage_audit
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/13_model_sensitivity.py	14.19510817527771	1183480	14.671016	0.8697039999999999	[0, 1, 2, 3]	4	100000000000	13_model_sensitivity
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/05_spatial_stats.py	87.93643498420715	1087476	88.31951	1.047006	[0, 1, 2, 3]	4	100000000000	05_spatial_stats
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/10_supplement.py	59.1052041053772	1322476	19.380359	0.9481149999999999	[0, 1, 2, 3]	4	100000000000	10_supplement
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/06_clinical.py	0.7746875286102295	160768	1.444217	0.060924	[0, 1, 2, 3]	4	100000000000	06_clinical
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/07_figures.py	520.8101909160614	1222520	517.176486	3.6877269999999998	[0, 1, 2, 3]	4	100000000000	07_figures
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/12_convergence_diagnostic.py	41.028507471084595	1322476	44.862111	1.415556	[0, 1, 2, 3]	4	100000000000	12_convergence_diagnostic
+results/LLPS_squidpy_niche_v1/scripts/09_report.py	2.9576148986816406	777236	3.652559	0.550536	[0, 1, 2, 3]	4	100000000000	09_report
+results/LLPS_squidpy_niche_v1/scripts/16_control_maps.py	46.15625190734863	751232	46.499134	0.501001	[0, 1, 2, 3]	4	100000000000	16_control_maps
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/11_package.py	11.321249723434448	225752	10.959902	0.738858	[0, 1, 2, 3]	4	100000000000	11_package
+results/LLPS_squidpy_niche_v1/scripts/17_final_audit.py	0.43463945388793945	105428	0.75279	0.064981	[0, 1, 2, 3]	4	100000000000	17_final_audit
+/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/04_inference.py	29.665589094161987	1165124	39.107169	1.260005	[0, 1, 2, 3]	4	100000000000	04_inference

@@ -1,0 +1,15 @@
+{
+  "script": "/home/jinshengxi/bladder_metabolism/results/LLPS_squidpy_niche_v1/scripts/13_model_sensitivity.py",
+  "elapsed_seconds": 14.19510817527771,
+  "max_rss_kb": 1183480,
+  "user_cpu_seconds": 14.671016,
+  "system_cpu_seconds": 0.8697039999999999,
+  "cpu_affinity": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "threads": 4,
+  "memory_limit_bytes": 100000000000
+}

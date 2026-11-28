@@ -1,0 +1,127 @@
+variable	dataset	niche	group_a	group_b	n_sections_a	n_sections_b	n_patients_a	n_patients_b	n_paired_patients	mean_a	mean_b	difference	p	status	FDR
+tissue	CanDis__UNVERIFIED	0	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	CanDis__UNVERIFIED	1	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	CanDis__UNVERIFIED	2	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	CanDis__UNVERIFIED	3	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	CanDis__UNVERIFIED	4	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	CanDis__UNVERIFIED	5	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	CanDis__UNVERIFIED	6	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	CanDis__UNVERIFIED	7	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	CanDis__UNVERIFIED	8	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE171351	0	Normal	Tumor	0	4	0	4	0		0.000325520833333325			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE171351	1	Normal	Tumor	0	4	0	4	0		0.4591944456262763			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE171351	2	Normal	Tumor	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE171351	3	Normal	Tumor	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE171351	4	Normal	Tumor	0	4	0	4	0		0.09060381566258223			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE171351	5	Normal	Tumor	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE171351	6	Normal	Tumor	0	4	0	4	0		0.44987621787780807			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE171351	7	Normal	Tumor	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE171351	8	Normal	Tumor	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE238145	0	Normal	Tumor	0	10	0	9	0		0.39476811676677587			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE238145	1	Normal	Tumor	0	10	0	9	0		0.1986073603529252			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE238145	2	Normal	Tumor	0	10	0	9	0		0.0321050329705913			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE238145	3	Normal	Tumor	0	10	0	9	0		6.392499467291e-05			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE238145	4	Normal	Tumor	0	10	0	9	0		0.19661293864478524			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE238145	5	Normal	Tumor	0	10	0	9	0		0.04151989312492886			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE238145	6	Normal	Tumor	0	10	0	9	0		0.12927088995206243			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE238145	7	Normal	Tumor	0	10	0	9	0		0.007051843193257959			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE238145	8	Normal	Tumor	0	10	0	9	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE285715	0	Normal	Tumor	3	3	0	0	0	0.03122947652199243	0.010007943943058	-0.02122153257893443		descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE285715	1	Normal	Tumor	3	3	0	0	0	0.0682149540097435	0.0014346736641665666	-0.06678028034557694		descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE285715	2	Normal	Tumor	3	3	0	0	0	0.23936409636573822	0.29399160221142767	0.054627505845689456		descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE285715	3	Normal	Tumor	3	3	0	0	0	0.0012053033346725334	0.5854567268306307	0.5842514234959582		descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE285715	4	Normal	Tumor	3	3	0	0	0	0.083361232871843	0.0930319410144322	0.009670708142589204		descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE285715	5	Normal	Tumor	3	3	0	0	0	0.0	0.0	0.0		descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE285715	6	Normal	Tumor	3	3	0	0	0	0.049942002963132094	0.014910251192760765	-0.03503175177037133		descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE285715	7	Normal	Tumor	3	3	0	0	0	0.5266829339328779	0.0	-0.5266829339328779		descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE285715	8	Normal	Tumor	3	3	0	0	0	0.0	0.0011668611435239	0.0011668611435239		descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE319536	0	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE319536	1	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE319536	2	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE319536	3	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE319536	4	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE319536	5	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE319536	6	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE319536	7	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	GSE319536	8	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	Inhousedata__UNVERIFIED	0	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	Inhousedata__UNVERIFIED	1	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	Inhousedata__UNVERIFIED	2	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	Inhousedata__UNVERIFIED	3	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	Inhousedata__UNVERIFIED	4	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	Inhousedata__UNVERIFIED	5	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	Inhousedata__UNVERIFIED	6	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	Inhousedata__UNVERIFIED	7	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	Inhousedata__UNVERIFIED	8	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	NPJ__UNVERIFIED	0	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	NPJ__UNVERIFIED	1	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	NPJ__UNVERIFIED	2	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	NPJ__UNVERIFIED	3	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	NPJ__UNVERIFIED	4	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	NPJ__UNVERIFIED	5	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	NPJ__UNVERIFIED	6	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	NPJ__UNVERIFIED	7	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+tissue	NPJ__UNVERIFIED	8	Normal	Tumor	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	CanDis__UNVERIFIED	0	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	CanDis__UNVERIFIED	1	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	CanDis__UNVERIFIED	2	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	CanDis__UNVERIFIED	3	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	CanDis__UNVERIFIED	4	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	CanDis__UNVERIFIED	5	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	CanDis__UNVERIFIED	6	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	CanDis__UNVERIFIED	7	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	CanDis__UNVERIFIED	8	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE171351	0	NMIBC	MIBC	0	4	0	4	0		0.000325520833333325			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE171351	1	NMIBC	MIBC	0	4	0	4	0		0.4591944456262763			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE171351	2	NMIBC	MIBC	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE171351	3	NMIBC	MIBC	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE171351	4	NMIBC	MIBC	0	4	0	4	0		0.09060381566258223			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE171351	5	NMIBC	MIBC	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE171351	6	NMIBC	MIBC	0	4	0	4	0		0.44987621787780807			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE171351	7	NMIBC	MIBC	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE171351	8	NMIBC	MIBC	0	4	0	4	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE238145	0	NMIBC	MIBC	0	10	0	9	0		0.39476811676677587			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE238145	1	NMIBC	MIBC	0	10	0	9	0		0.1986073603529252			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE238145	2	NMIBC	MIBC	0	10	0	9	0		0.0321050329705913			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE238145	3	NMIBC	MIBC	0	10	0	9	0		6.392499467291e-05			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE238145	4	NMIBC	MIBC	0	10	0	9	0		0.19661293864478524			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE238145	5	NMIBC	MIBC	0	10	0	9	0		0.04151989312492886			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE238145	6	NMIBC	MIBC	0	10	0	9	0		0.12927088995206243			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE238145	7	NMIBC	MIBC	0	10	0	9	0		0.007051843193257959			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE238145	8	NMIBC	MIBC	0	10	0	9	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE285715	0	NMIBC	MIBC	0	3	0	0	0		0.010007943943058			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE285715	1	NMIBC	MIBC	0	3	0	0	0		0.0014346736641665666			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE285715	2	NMIBC	MIBC	0	3	0	0	0		0.29399160221142767			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE285715	3	NMIBC	MIBC	0	3	0	0	0		0.5854567268306307			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE285715	4	NMIBC	MIBC	0	3	0	0	0		0.0930319410144322			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE285715	5	NMIBC	MIBC	0	3	0	0	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE285715	6	NMIBC	MIBC	0	3	0	0	0		0.014910251192760765			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE285715	7	NMIBC	MIBC	0	3	0	0	0		0.0			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE285715	8	NMIBC	MIBC	0	3	0	0	0		0.0011668611435239			descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE319536	0	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE319536	1	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE319536	2	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE319536	3	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE319536	4	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE319536	5	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE319536	6	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE319536	7	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	GSE319536	8	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	Inhousedata__UNVERIFIED	0	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	Inhousedata__UNVERIFIED	1	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	Inhousedata__UNVERIFIED	2	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	Inhousedata__UNVERIFIED	3	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	Inhousedata__UNVERIFIED	4	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	Inhousedata__UNVERIFIED	5	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	Inhousedata__UNVERIFIED	6	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	Inhousedata__UNVERIFIED	7	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	Inhousedata__UNVERIFIED	8	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	NPJ__UNVERIFIED	0	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	NPJ__UNVERIFIED	1	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	NPJ__UNVERIFIED	2	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	NPJ__UNVERIFIED	3	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	NPJ__UNVERIFIED	4	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	NPJ__UNVERIFIED	5	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	NPJ__UNVERIFIED	6	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	NPJ__UNVERIFIED	7	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
+source_sample_type	NPJ__UNVERIFIED	8	NMIBC	MIBC	0	0	0	0	0					descriptive_only_insufficient_verified_independent_groups	
